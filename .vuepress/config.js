@@ -1,8 +1,9 @@
+const conf = require(__dirname+'/conf.json');
 module.exports = {
   title: 'QNext',
   description: '📦 Документация для бота.',
   theme: 'api',
-  base: '/docs/',
+  base: conf.basePath,
   locales: {
     '/': {
       lang: 'ru-RU',
