@@ -27,10 +27,12 @@ module.exports = {
     // editLinkText: 'Help us improve this page',
     // lastUpdated: 'Last Updated', // string | boolean
     lastUpdated: true, // string | boolean
+    activeHeaderLinks: false,
 
-    // sidebarGroupOrder: [
-    //   'getting-started',
-    //   'configurations',
-    // ],
+    sidebar1: [
+      '/',
+      '/second',
+      '/first',
+    ]
   },
 }

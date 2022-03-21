@@ -6,7 +6,7 @@
 
 - [Тег ссылки](https://nodejs.org/)
 - [Тег ссылки](https://github.com/vuejs/vuepress)
-- [страница](/1-second/)
+- [страница](page1/)
 
 ## Общие настройки
 
