@@ -2,7 +2,7 @@ module.exports = {
   title: 'QNext',
   description: '📦 Документация для бота.',
   theme: 'api',
-  base: '/',
+  base: '/docs/',
   locales: {
     '/': {
       lang: 'ru-RU',
