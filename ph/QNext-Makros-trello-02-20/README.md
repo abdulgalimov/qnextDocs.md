@@ -1,3 +1,8 @@
+---
+sidebar: auto
+---
+
+## QNext. Макрос trello
 
 Макрос доступен в тригере модели Trello, т.е. когда trello сообщает боту о том что на доске произошли какие то изменения. Макрос поможет показать информацию из полученных данных.
 * [type: action](#type:-action)
@@ -21,7 +26,7 @@
 ::: tip
 !{trello| <br>  type: action;<br>  data: ...<br>}<br>
 :::
-#### data: card
+### data: card
 
 Показать информацию о карточке:
 ::: tip
@@ -42,72 +47,72 @@
 ::: tip
 !{trello|<br>  type: action;<br>  data: card;<br>  linkOnly;<br>}<br>
 :::
-#### data: listBefore
+### data: listBefore
 
 Название списка до изменений:
 ::: tip
-!{trello|<br>  type: action; <br>  data: listBefore;<br>}<br>
+!{trello|<br>  type: action; <br>  data: listBefore;<br>}<br>
 :::
-#### data: listAfter
+### data: listAfter
 
 Название списка после изменений:
 ::: tip
-!{trello|<br>  type: action; <br>  data: listAfter;<br>}<br>
+!{trello|<br>  type: action; <br>  data: listAfter;<br>}<br>
 :::
-#### data: list
+### data: list
 
 Название списка:
 ::: tip
-!{trello|<br>  type: action; <br>  data: list;<br>}<br>
+!{trello|<br>  type: action; <br>  data: list;<br>}<br>
 :::
-#### data: board
+### data: board
 
 Название доски:
 ::: tip
-!{trello|<br>  type: action; <br>  data: board;<br>}<br>
+!{trello|<br>  type: action; <br>  data: board;<br>}<br>
 :::
 
 Ссылка на доску:
 ::: tip
-!{trello|<br>  type: action; <br>  data: board;<br>  showLink;<br>}<br>
+!{trello|<br>  type: action; <br>  data: board;<br>  showLink;<br>}<br>
 :::
 
 По умолчанию макрос покажет название доски внутри которой зашита ссылка на доску. Если надо написать любой текст вместо названия доски, воспользуйтесь параметром title:
 ::: tip
-!{trello|<br>  type: action; <br>  data: board;<br>  title: Показать доску;<br>  showLink;<br>}<br>
+!{trello|<br>  type: action; <br>  data: board;<br>  title: Показать доску;<br>  showLink;<br>}<br>
 :::
 
 Если надо показать только ссылку без текста:
 ::: tip
-!{trello|<br>  type: action; <br>  data: board;<br>  linkOnly;<br>}<br>
+!{trello|<br>  type: action; <br>  data: board;<br>  linkOnly;<br>}<br>
 :::
-#### data: memberCreator
+### data: memberCreator
 
 Показать имя автора текущего действия:
 ::: tip
-!{trello|<br>  type: action; <br>  data: memberCreator;<br>}<br>
+!{trello|<br>  type: action; <br>  data: memberCreator;<br>}<br>
 :::
 
 Показать ссылку  на автора:
 ::: tip
-!{trello|<br>  type: action; <br>  data: memberCreator;<br>  showLink;<br>}<br>
+!{trello|<br>  type: action; <br>  data: memberCreator;<br>  showLink;<br>}<br>
 :::
 
 По умолчанию макрос покажет название доски внутри которой зашита ссылка на доску. Если надо написать любой текст вместо названия доски, воспользуйтесь параметром title:
 ::: tip
-!{trello|<br>  type: action; <br>  data: memberCreator;<br>  title: Показать пользователя;<br>  showLink;<br>}<br>
+!{trello|<br>  type: action; <br>  data: memberCreator;<br>  title: Показать пользователя;<br>  showLink;<br>}<br>
 :::
 
 Если надо показать только ссылку без текста:
 ::: tip
-!{trello|<br>  type: action; <br>  data: memberCreator;<br>  linkOnly;<br>}<br>
+!{trello|<br>  type: action; <br>  data: memberCreator;<br>  linkOnly;<br>}<br>
 :::
 
 
 ### type: card
 
 Макрос служит для работы с параметрами карточки. Макрос работает по разному в зависимости от параметра data.
-#### data: labels
+### data: labels
 
 Показать все метки карточки:
 ::: tip

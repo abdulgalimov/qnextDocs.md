@@ -1,3 +1,8 @@
+---
+sidebar: auto
+---
+
+## QNext. Макрос if
 
 [⬅️QNext. Макросы](/docs-test/ph/QNext-Macroses-12-22)
 

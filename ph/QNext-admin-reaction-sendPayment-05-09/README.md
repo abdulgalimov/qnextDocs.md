@@ -1,3 +1,8 @@
+---
+sidebar: auto
+---
+
+## QNext. реакция sendPayment
 
  sendPayment - Отправить платежную форму пользователю. 
 

@@ -1,5 +1,10 @@
+---
+sidebar: auto
+---
 
-**newsletterCancel **- остановка рассылка.
+## QNext. реакция newsletterCancel
+
+**newsletterCancel** - остановка рассылка.
 
 
 

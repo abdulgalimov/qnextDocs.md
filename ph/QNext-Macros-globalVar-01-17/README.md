@@ -1,3 +1,8 @@
+---
+sidebar: auto
+---
+
+## QNext. Макрос globalVar
 
 Макрос `!{globalVar}` покажет значение глобальной переменной:
 ::: tip

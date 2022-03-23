@@ -1,5 +1,11 @@
+---
+sidebar: auto
+---
+
+## QNext. реакция keyboardShow
 
 keyboardShow - отправить клавиатуру в чат.
+
 ![](./1.png)
 
 

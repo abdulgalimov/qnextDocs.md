@@ -1,3 +1,8 @@
+---
+sidebar: auto
+---
+
+## QNext. Макрос pay
 
 [⬅️QNext. Макросы](/docs-test/ph/QNext-Macroses-12-22)
 
@@ -27,7 +32,7 @@
 * [balance](#cryptobot-balance) - получить баланс счета
 * [invoice](#cryptobot-invoice) - получить информацию о выставленном счете по его id
 * [exchangeRates](#cryptobot-exchangerates) - информация о курсах валют
-#### CryptoBot-balance
+### CryptoBot-balance
 
 **Все валюты:**
 
@@ -66,7 +71,7 @@ ton=123, btc=0.001, ...<br>
 :::
 
 
-#### CryptoBot-invoice
+### CryptoBot-invoice
 
 Макрос вернет объект с информацией о выставленном счете:
 ::: tip
@@ -74,8 +79,9 @@ ton=123, btc=0.001, ...<br>
 :::
 
 Вы можете с помощью реакции ⚡️localVarSet создать локальную переменную `invoice` с типом Объект и указать в качестве значения данный макрос. После выполнения в получите объект с информацией о счете:
+
 ![](./1.png)
-#### CryptoBot-exchangeRates
+### CryptoBot-exchangeRates
 
 Макрос вернет информацию по курсам валют. Следующий макрос вернет стоимость 1 TON в долларах:
 ::: tip
@@ -92,4 +98,3 @@ ton=123, btc=0.001, ...<br>
 
 
 [⬅️QNext. Макросы](/docs-test/ph/QNext-Macroses-12-22)
-

@@ -1,3 +1,8 @@
+---
+sidebar: auto
+---
+
+## QNext. реакция takeAdmins
 
 takeAdmins - взять админов бота.
 
@@ -23,7 +28,8 @@ takeAdmins
 
 — localVarAdd тип список, admin = !{user | path: targetUser}
 
-—  log
+—  log
+
 ![](./1.png)
 
 Локальная переменная с полным списком: ${localVar.admin}

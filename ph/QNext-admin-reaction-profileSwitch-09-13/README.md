@@ -1,5 +1,10 @@
+---
+sidebar: auto
+---
 
-**profileSwitch - **смена статуса профиля типа bool в автоматическом режиме.
+## QNext. реакция profileSwitch
+
+**profileSwitch -** смена статуса профиля типа bool в автоматическом режиме.
 
 
 

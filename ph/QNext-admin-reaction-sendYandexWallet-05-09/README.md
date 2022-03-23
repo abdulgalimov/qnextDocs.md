@@ -1,3 +1,8 @@
+---
+sidebar: auto
+---
+
+## QNext. реакция sendYandexWallet
 
 В процессе написания
 

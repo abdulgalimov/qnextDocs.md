@@ -1,3 +1,8 @@
+---
+sidebar: auto
+---
+
+## QNext. Скрипты. Объект qnext
 
 [⬅️QNext. Скрипты](/docs-test/ph/QNextBot-Scripts-10-29)
 
@@ -19,7 +24,7 @@
 ### qnext.date
 
 Здесь собраны функции для работы с датой.
-#### qnext.date.format
+### qnext.date.format
 
 Функция форматирующая вывод даты, например чтобы показать дату регистрации пользователя в вашем боте:
 ::: tip
@@ -27,13 +32,13 @@ var registerDate = qnext.getValue("client.createdAt");<br>out.result = qnext.dat
 :::
 
 Вывод будет таким: `23.09.2020 06:24`. Подробнее про функцию date.format можно почитать в [документации](https://www.npmjs.com/package/dateformat).
-#### qnext.date.toLocal
+### qnext.date.toLocal
 
 Локальное время бота, т.е. время в часовом поясе бота. Если вызвать без аргументов, тогда функция вернет текущее время. Если передать в качестве аргумента дату, тогда эта дата будет конвертирована в часовой пояс бота.
 ::: tip
 var currentDate = qnext.date.toLocal();<br>out.result = qnext.date.format(currentDate, "dd.mm.yyyy hh:MM")<br>
 :::
-#### qnext.date.toUtc
+### qnext.date.toUtc
 
 Дата по Гринвичу `GMT 0`. Если вызвать без аргументов, тогда функция вернет текущее время. Если передать в качестве аргумента дату, тогда эта дата будет конвертирована в часовой пояс `GMT 0`.
 ::: tip
@@ -42,19 +47,19 @@ var utcDate = qnext.date.toUtc();<br>out.result = qnext.date.format(utcDate, "dd
 ### qnext.time
 
 В объекте `qnext.time` собраны функции для работы с временем.
-#### qnext.time.toHMS
+### qnext.time.toHMS
 
 Принимает время в миллисекундах, и выводит в формате `чч:мм:сс`.
 ::: tip
 var msec = 320000 // миллисекунды<br>var text = qnext.time.toHMS(msec); // 00:05:20<br>
 :::
-#### qnext.time.toHM
+### qnext.time.toHM
 
 Выводит время в формате `чч:мм`.
-#### qnext.time.toMS
+### qnext.time.toMS
 
 Выводит время в формате `мм:сс`.
-#### qnext.time.span
+### qnext.time.span
 
 qnext.time.span - это объект со своим набором функций и свойство. У него много различных свойств и функций, все они описаны на странице [QNext. Scripts. Span](/docs-test/ph/QNext-Scripts-Span-01-30)
 ### qnext.html
@@ -93,7 +98,7 @@ var text = qnext.getValue("update.message.text")<br>var entities = qnext.getValu
 `qnext.constants.NewLine` - переход на новую строку
 
 
-#### qnext.telegram
+### qnext.telegram
 
 В скриптах можно вызвать telegram api метод, с помощью функции:
 ::: tip
@@ -114,7 +119,7 @@ var body = {<br>  chat_id: 1234567,<br>  text: "Hello, World!"<br>}<br>qnext.tel
 Полный список методов api и их параметров читайте в документации [telegram bot api](https://core.telegram.org/bots/api).
 
 
-#### qnext.fetch
+### qnext.fetch
 
 qnext.fetch - это функция, которая делает http запрос, под капотом используется nodejs модуль [node-fetch](https://www.npmjs.com/package/node-fetch). Функция принимает 3 параметра:
 * url - ссылка которую необходимо дернуть

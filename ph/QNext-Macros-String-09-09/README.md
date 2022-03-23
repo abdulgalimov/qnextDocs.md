@@ -1,3 +1,8 @@
+---
+sidebar: auto
+---
+
+## QNext. Макрос string
 
 [⬅️QNext. Макросы](/docs-test/ph/QNext-Macroses-12-22)
 
@@ -26,103 +31,103 @@
 * Регулярное выражение
 
 
-#### length
+### length
 
 Возвращает длину строки:
 ::: tip
 !{string|<br>  path: ПутьДоСтроки;<br>  type: length;<br>}<br>
 :::
-#### charAt
+### charAt
 
 Возвращает указанный символ из строки:
 ::: tip
 !{string|<br>  path: ПутьДоСтроки;<br>  type: charAt;<br>  index: номер символа или путь до значения<br>}<br>
 :::
-#### charCodeAt
+### charCodeAt
 
 Возвращает числовое значение Юникода для символа по указанному индексу:
 ::: tip
 !{string|<br>  path: ПутьДоСтроки;<br>  type: charCodeAt;<br>  index: номер символа или путь до значения<br>}<br>
 :::
-#### endsWith
+### endsWith
 
-Позволяет определить, заканчивается ли строка символами указанными в `searchString`, возвращая, соответственно, `true` или `false`:
+Позволяет определить, заканчивается ли строка символами указанными в `searchString`, возвращая, соответственно, `true` или `false`:
 ::: tip
 !{string|<br>  path: ПутьДоСтроки;<br>  type: endsWith;<br>  searchString: Строка или путь до строки<br>  index: номер символа или путь до значения<br>}<br>
 :::
-#### startsWith
+### startsWith
 
-Позволяет определить, начинается ли строка символами указанными в `searchString`, возвращая, соответственно, `true` или `false`:
+Позволяет определить, начинается ли строка символами указанными в `searchString`, возвращая, соответственно, `true` или `false`:
 ::: tip
 !{string|<br>  path: ПутьДоСтроки;<br>  type: startsWith;<br>  searchString: Строка или путь до строки<br>  index: номер символа или путь до значения<br>}<br>
 :::
-#### fromCharCode
+### fromCharCode
 
 Возвращает строку, собранную из кодов указанных в массиве `nums`:
 ::: tip
 !{string|<br>  path: ПутьДоСтроки;<br>  type: fromCharCode;<br>  nums: Путь до массива с кодами;<br>}<br>
 :::
-#### indexOf
+### indexOf
 
 Возвращает позицию строки `searchString` в проверяемой строке:
 ::: tip
 !{string|<br>  path: ПутьДоСтроки;<br>  type: indexOf;<br>  searchString: Строка или путь до строки;<br>  fromIndex: Откуда начинать поиск, необязательный параметр;<br>}<br>
 :::
-#### lastIndexOf
+### lastIndexOf
 
 Возвращает позицию с конца строки `searchString` в проверяемой строке:
 ::: tip
 !{string|<br>  path: ПутьДоСтроки;<br>  type: lastIndexOf;<br>  searchString: Строка или путь до строки;<br>  fromIndex: Откуда начинать поиск, необязательный параметр;<br>}<br>
 :::
-#### replace
+### replace
 
 Ищет первое совпадение по `pattern` и делает замену на `newString`:
 ::: tip
 !{string|<br>  path: ПутьДоСтроки;<br>  type: replace;<br>  pattern: Строка или регулярное выражение;<br>  newString: Строка или путь до строки;<br>}<br>
 :::
-#### replaceAll
+### replaceAll
 
 Ищет ВСЕ совпадение по `pattern` и делает замену на `newString`:
 ::: tip
 !{string|<br>  path: ПутьДоСтроки;<br>  type: replaceAll;<br>  pattern: Строка или регулярное выражение;<br>  newString: Строка или путь до строки;<br>}<br>
 :::
-#### search
+### search
 
 Ищет первое совпадение по `pattern` и возвращает позицию:
 ::: tip
 !{string|<br>  path: ПутьДоСтроки;<br>  type: search;<br>  pattern: Строка или регулярное выражение;<br>}<br>
 :::
-#### slice
+### slice
 
 Возвращает подстроку от `beginIndex` до `endIndex`:
 ::: tip
 !{string|<br>  path: ПутьДоСтроки;<br>  type: slice;<br>  beginIndex: Индекс начала или путь до индекса;<br>  endIndex: Индекс конца или путь до индекса;<br>}<br>
 :::
-#### toLowerCase
+### toLowerCase
 
 Заменяет все заглавные символы строчными:
 ::: tip
 !{string|<br>  path: ПутьДоСтроки;<br>  type: toLowerCase;<br>}<br>
 :::
-#### toUpperCase
+### toUpperCase
 
 Заменяет все строчные символы заглавными:
 ::: tip
 !{string|<br>  path: ПутьДоСтроки;<br>  type: toUpperCase;<br>}<br>
 :::
-#### trim
+### trim
 
 Удаляет все пробелы в начале и в конце строки:
 ::: tip
 !{string|<br>  path: ПутьДоСтроки;<br>  type: trim;<br>}<br>
 :::
-#### trimStart
+### trimStart
 
 Удаляет все пробелы в начале строки:
 ::: tip
 !{string|<br>  path: ПутьДоСтроки;<br>  type: trimStart;<br>}<br>
 :::
-#### trimEnd
+### trimEnd
 
 Удаляет все пробелы в конце строки:
 ::: tip
@@ -130,7 +135,7 @@
 :::
 
 
-#### Регулярное выражение
+### Регулярное выражение
 
 В макросах с типом `replace`, `replaceAll` и `search` используется параметр `pattern`. Этот параметр может содержать как строку, так и регулярное выражение. Чтобы указать регулярное выражение, необходимо обернуть значение в символы `/.../`, например так следующий макрос заменить все русские буквы на символ **X**:
 ::: tip

@@ -1,3 +1,8 @@
+---
+sidebar: auto
+---
+
+## QNext. Макросы encodeURI/decodeURI
 
 [⬅️QNext. Макросы](/docs-test/ph/QNext-Macroses-12-22)
 
@@ -27,7 +32,7 @@
 :::
 
 
-#### defaultValue
+### defaultValue
 
 Если параметр text пустой, вы можете показать значение по умолчанию, передав его в параметре defaultValue:
 ::: tip

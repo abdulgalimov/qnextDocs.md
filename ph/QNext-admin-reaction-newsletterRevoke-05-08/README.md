@@ -1,5 +1,10 @@
+---
+sidebar: auto
+---
 
-**newsletterRevoke **- аннулирование результатов рассылки.
+## QNext. реакция newsletterRevoke
+
+**newsletterRevoke** - аннулирование результатов рассылки.
 
 
 

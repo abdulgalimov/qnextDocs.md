@@ -1,3 +1,8 @@
+---
+sidebar: auto
+---
+
+## QNext. Прием платежей с помощью Robokassa
 
 Скоро здесь будет документация по Robokassa.
 

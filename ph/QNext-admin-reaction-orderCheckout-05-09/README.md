@@ -1,3 +1,8 @@
+---
+sidebar: auto
+---
+
+## QNext. реакция orderCheckout
 
 В процессе написания
 

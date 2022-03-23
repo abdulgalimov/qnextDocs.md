@@ -1,5 +1,11 @@
+---
+sidebar: auto
+---
 
-**banChatSenderChat **- заблокировать канал в чате.
+## QNext реакция banChatSenderChat
+
+**banChatSenderChat** - заблокировать канал в чате.
+
 ![](./1.png)
 
 Целевой чат - путь в котором будет указан id чата где надо заблокировать канал
@@ -11,4 +17,3 @@
 [QNext. Чаты](/docs-test/ph/QNext-admin-chat-about-07-05)
 
 [QNext. Перечень реакции](/docs-test/ph/QNext-admin-reaction-about-05-01)
-

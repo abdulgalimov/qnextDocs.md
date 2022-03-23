@@ -1,3 +1,8 @@
+---
+sidebar: auto
+---
+
+## QNext admin реакция approveChatJoinRequest
 
 **approveChatJoinRequest** - одобрить запрос в чат.
 
@@ -13,4 +18,3 @@
 [QNext. Чаты](/docs-test/ph/QNext-admin-chat-about-07-05)
 
 [QNext. Перечень реакции](/docs-test/ph/QNext-admin-reaction-about-05-01)
-

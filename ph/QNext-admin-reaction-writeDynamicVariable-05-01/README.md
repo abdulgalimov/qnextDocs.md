@@ -1,3 +1,8 @@
+---
+sidebar: auto
+---
+
+## QNext. реакция writeDynamicVar
 
 writeDynamicVar - эта реакция сохранит значение указанной динамической переменной.
 

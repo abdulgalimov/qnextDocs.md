@@ -1,3 +1,8 @@
+---
+sidebar: auto
+---
+
+## QNext. Макрос url
 
 [⬅️QNext. Макросы](/docs-test/ph/QNext-Macroses-12-22)
 
@@ -38,19 +43,19 @@
 :::
 
 Макрос может принимать дополнительный параметр where, который указывает где брать chat_id и message_id для формирования ссылки:
-#### where: reply
+### where: reply
 
 Строится ссылка на пост, на который сделали reply(ответ):
 ::: tip
 !{url|<br>  type: messageLink;<br>  where: reply;<br>}<br>
 :::
-#### where: forward
+### where: forward
 
 Строится ссылка на пост, который был перенаправлен
 ::: tip
 !{url|<br>  type: messageLink;<br>  where: forward;<br>}<br>
 :::
-#### where: reply.forward
+### where: reply.forward
 
 Строится ссылка на оригинальный пост из комментария к посту в канале:
 ::: tip

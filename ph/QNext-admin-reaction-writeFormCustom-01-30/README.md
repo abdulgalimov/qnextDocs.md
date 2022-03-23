@@ -1,10 +1,16 @@
+---
+sidebar: auto
+---
 
-**writeFormCustom **- реакция связанная с полем форме: **custom. **
+## QNext admin reaction writeFormCustom
+
+**writeFormCustom** - реакция связанная с полем форме: **custom.** 
 
 Позволяет принимать совершенно любой текст или файлы/медиа.
+
 ![](./1.png)
 
-По умолчанию, поле не будет принимать какие-либо данные, пока в триггере подготовки поля не указать соответствующую реакцию **writeFormCustom. **
+По умолчанию, поле не будет принимать какие-либо данные, пока в триггере подготовки поля не указать соответствующую реакцию **writeFormCustom.** 
 
 
 
@@ -28,11 +34,11 @@
 
 _string ${forItem.value.type}=mention_
 
-  or
+  or
 
 _string ${forItem.value.type}=url_
 
-— — **writeFormCustom **_${update.message.text}_
+— — **writeFormCustom** _${update.message.text}_
 
 
 
@@ -41,4 +47,3 @@ _string ${forItem.value.type}=url_
 [QNext. Форма](/docs-test/ph/QNext-admin-forms-about-05-09)
 
 [QNext. Перечень реакции](/docs-test/ph/QNext-admin-reaction-about-05-01)
-

@@ -1,3 +1,8 @@
+---
+sidebar: auto
+---
+
+## QNext. реакция openStoreOrders
 
 В процессе написания
 

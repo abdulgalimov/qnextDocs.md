@@ -1,5 +1,11 @@
+---
+sidebar: auto
+---
+
+## QNext. реакция loadProfile
 
 loadProfile - позволяет загрузить один тип профиля для дальнейшей работы и вывода значений профиля.
+
 ![](./1.png)
 
 [QNext. Профили](/docs-test/ph/QNext-admin-profile-about-04-25)

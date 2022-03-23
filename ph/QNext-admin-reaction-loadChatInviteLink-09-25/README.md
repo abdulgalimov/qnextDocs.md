@@ -1,3 +1,8 @@
+---
+sidebar: auto
+---
+
+## QNext. реакция loadChatInviteLink
 
 loadChatInviteLink - в разработке
 

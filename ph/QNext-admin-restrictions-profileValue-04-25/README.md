@@ -1,5 +1,11 @@
+---
+sidebar: auto
+---
+
+## QNext. Ограничение profileValue
 
 profleValue - условие проверяет параметр профиля. Этим можно ограничить возможность пользоваться функциями.
+
 ![](./1.png)
 
 ✔️ — в профиле есть данные (любые)
@@ -19,4 +25,3 @@ profleValue - условие проверяет параметр профиля.
 [QNext. Профили](/docs-test/ph/QNext-admin-profile-about-04-25)
 
 [QNext. Перечень реакции](/docs-test/ph/QNext-admin-reaction-about-05-01)
-

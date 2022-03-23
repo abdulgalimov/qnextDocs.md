@@ -1,3 +1,8 @@
+---
+sidebar: auto
+---
+
+## QNext. реакция loadButton
 
 В процессе написания
 

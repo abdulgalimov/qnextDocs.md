@@ -1,3 +1,8 @@
+---
+sidebar: auto
+---
+
+## QNext реакция bindTrigger
 
 **bindTrigger** - реакция позволяющая привязать определенные группы реакций к  выбранному действию. Работает с общими триггерами.
 
@@ -38,4 +43,3 @@ bool ❌ ${update.message.text}
 [QNext. Перечень реакции](/docs-test/ph/QNext-admin-reaction-about-05-01)
 
 [QNext. Документация](/docs-test/ph/QNext-admin-documentation-05-08)
-

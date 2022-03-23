@@ -1,5 +1,11 @@
+---
+sidebar: auto
+---
 
-**setChatDescription **- изменить описание чата
+## QNext реакция setChatDescription
+
+**setChatDescription** - изменить описание чата
+
 ![](./1.png)
 
 Чаты/Каналы - указываем чат в котором необходимо выполнить действие

@@ -1,5 +1,10 @@
+---
+sidebar: auto
+---
 
-**takeUsers **- взять пользователя(ей) для дальнейшей работы. 
+## QNext. реакция takeUsers
+
+**takeUsers** - взять пользователя(ей) для дальнейшей работы. 
 
 
 
@@ -12,6 +17,7 @@
 — takeUsers (exec.1}
 
 — — log
+
 ![](./1.png)
 
 В логах мы увидим следующее:
@@ -55,4 +61,3 @@
 [QNext. Пользователи](/docs-test/ph/QNext-admin-users-about-05-27)
 
 [QNext. Перечень реакций](/docs-test/ph/QNext-admin-reaction-about-05-01)
-

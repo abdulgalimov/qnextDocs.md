@@ -1,5 +1,11 @@
+---
+sidebar: auto
+---
+
+## QNext. реакция createChatInviteLink
 
 createChatInviteLink - Используйте этот метод, чтобы создать дополнительную ссылку для приглашения в чат.
+
 ![](./1.png)
 
 Интерфейс  дублирует настройки создания ссылок в клиенте.
@@ -17,8 +23,8 @@ createChatInviteLink - Используйте этот метод, чтобы с
 
 
 
-[**bot.api method createChatInviteLink **](https://core.telegram.org/bots/api#createchatinvitelink)
-#### Особенности:
+[**bot.api method createChatInviteLink** ](https://core.telegram.org/bots/api#createchatinvitelink)
+### Особенности:
 
 Можно создать не более 20 ссылок за 60 секунд.
 

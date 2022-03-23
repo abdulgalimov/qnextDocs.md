@@ -1,3 +1,8 @@
+---
+sidebar: auto
+---
+
+## QNext. реакция takeChatMembers
 
 **takeChatMembers** - загружает участников чатов. 
 

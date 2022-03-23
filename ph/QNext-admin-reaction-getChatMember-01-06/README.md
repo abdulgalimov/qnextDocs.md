@@ -1,5 +1,11 @@
+---
+sidebar: auto
+---
 
-**getChatMember **- получить информацию об участнике чата
+## QNext реакция getChatMember
+
+**getChatMember** - получить информацию об участнике чата
+
 ![](./1.png)
 
 Чаты/Каналы - указываем чат в котором необходимо выполнить действие
@@ -9,6 +15,7 @@
 Информация будет доступна в переменной:
 
 _${getchatMemberResult}_
+
 ![](./2.png)
 
 
@@ -21,4 +28,3 @@ _${getchatMemberResult}_
 [QNext. Чаты](/docs-test/ph/QNext-admin-chat-about-07-05)
 
 [QNext. Перечень реакции](/docs-test/ph/QNext-admin-reaction-about-05-01)
-

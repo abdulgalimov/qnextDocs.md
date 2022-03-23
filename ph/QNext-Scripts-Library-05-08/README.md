@@ -1,3 +1,8 @@
+---
+sidebar: auto
+---
+
+## QNext. Библиотека скриптов
 
 [⬅️QNext. Скрипты](/docs-test/ph/QNextBot-Scripts-10-29)
 
@@ -8,13 +13,14 @@
 
 
 Откройте раздел ⚙️Настройки бота - ♒️ Библиотека скриптов:
+
 ![Библиотека скриптов qnext.](./1.png)
 
 И нажмите кнопку Создать♒️, чтобы создать новую библиотеку:
 * На первом шаге бот попросит указать название библиотеки. Указывать можно название состоящее только из символов английского языка, цифр и символа "_", при этом название не может начинаться с цифры. Напишите название, например **weekDaysLib**.
 * На втором шаге напишите javascript-код вашей библиотеки, а затем в конце укажите какие функции и переменные вы хотите экспортировать, записав  их в объект `module.exports`. Например так:
 ::: tip
-const short = ['Вс', 'Пн', 'Вт', 'Ср', 'Чт', 'Пт', 'Сб'];<br>function getShort(dayNum) {<br> return short[dayNum];<br>}<br><br>const normal = [<br> 'Воскресенье',<br> 'Понедельник',<br> 'Вторник',<br> 'Среда',<br> 'Четверг',<br> 'Пятница',<br> 'Суббота'<br>];<br>function getNormal(dayNum) {<br> return normal[dayNum];<br>}<br><br>function testLib(num) {<br>  console.log("test", num);<br>}<br><br>module.exports = {<br> short: getShort,<br> normal: getNormal,<br>}<br>
+const short = ['Вс', 'Пн', 'Вт', 'Ср', 'Чт', 'Пт', 'Сб'];<br>function getShort(dayNum) {<br> return short[dayNum];<br>}<br><br>const normal = [<br> 'Воскресенье',<br> 'Понедельник',<br> 'Вторник',<br> 'Среда',<br> 'Четверг',<br> 'Пятница',<br> 'Суббота'<br>];<br>function getNormal(dayNum) {<br> return normal[dayNum];<br>}<br><br>function testLib(num) {<br>  console.log("test", num);<br>}<br><br>module.exports = {<br> short: getShort,<br> normal: getNormal,<br>}<br>
 :::
 
 Эта функция возвращает сокращенное и обычные названия дней недели по их номеру. Обратите внимание, после импорта этой библиотеки, вы сможете вызывать только те функции, которые вы записали в объект `module.exports`, например функция `testLib` не экспортирована и следовательно вы не сможете её использовать в других скриптах.

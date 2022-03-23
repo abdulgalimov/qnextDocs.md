@@ -1,3 +1,8 @@
+---
+sidebar: auto
+---
+
+## QNext. Payments. Payeer
 
 Скоро здесь будет документация по платежам с помощью Payeer.
 

@@ -1,3 +1,8 @@
+---
+sidebar: auto
+---
+
+## QNext. реакция takeChatDir
 
 takeChatDir - загружает каталог чатов. 
 

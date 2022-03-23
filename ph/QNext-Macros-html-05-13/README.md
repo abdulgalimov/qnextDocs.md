@@ -1,3 +1,8 @@
+---
+sidebar: auto
+---
+
+## QNext. Макрос html
 
 [⬅️QNext. Макросы](/docs-test/ph/QNext-Macroses-12-22)
 
@@ -17,61 +22,61 @@
 * [hiddenSymbol](#hiddensymbol)
 * [br](#br)
 * [space](#space)
-#### italic
+### italic
 ::: tip
 !{html|<br>  text: Наклонный текст;<br>  type: italic;<br>}<br>
 :::
-#### bold
+### bold
 ::: tip
 !{html|<br>  text: Жирный текст;<br>  type: bold;<br>}<br>
 :::
-#### underline
+### underline
 ::: tip
 !{html|<br>  text: Подчеркнутый текст;<br>  type: underline;<br>}<br>
 :::
-#### strike
+### strike
 ::: tip
 !{html|<br>  text: Зачеркнутый текст;<br>  type: strike;<br>}<br>
 :::
-#### code
+### code
 ::: tip
 !{html|<br>  text: Моноширинная строка;<br>  type: code;<br>}<br>
 :::
-#### pre
+### pre
 ::: tip
 !{html|<br>  text: Моноширинный блок;<br>  type: pre;<br>}<br>
 :::
-#### encode
+### encode
 ::: tip
 !{html|<br>  text: Преобразование тегов <>;<br>  type: encode;<br>}<br>
 :::
-#### decode
+### decode
 ::: tip
 !{html|<br>  text: Обратное преобразование тегов &lt; &gt;;<br>  type: decode;<br>}<br>
 :::
-#### link
+### link
 ::: tip
 !{html|<br>  text: Ссылка;<br>  url: https://core.telegram.org/bots/api;<br>  type: link;<br>}<br>
 :::
-#### hiddenLink
+### hiddenLink
 
 Скрытая ссылка:
 ::: tip
 !{html|<br>  url: https://core.telegram.org/bots/api;<br>  type: hiddenLink;<br>}<br>
 :::
-#### hiddenSymbol
+### hiddenSymbol
 
 Скрытый символ:
 ::: tip
 !{html| type: hiddenSymbol}<br>
 :::
-#### br
+### br
 
 Переход на новую строку:
 ::: tip
 !{html| type: br}<br>
 :::
-#### space
+### space
 
 Пробел
 ::: tip
@@ -81,15 +86,3 @@
 
 
 [⬅️QNext. Макросы](/docs-test/ph/QNext-Macroses-12-22)
-
-
-
-
-
-
-
-
-
-
-
-

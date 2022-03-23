@@ -1,5 +1,11 @@
+---
+sidebar: auto
+---
+
+## QNext. реакция kickChatMember
 
 **banChatMember -** Исключает* пользователя из чата. по умолчанию время выставлено = 0 (бесконечно, перезайти сразу нельзя)
+
 ![](./1.png)
 
 
@@ -19,4 +25,3 @@
 [QNext. Чаты](/docs-test/ph/QNext-admin-chat-about-07-05)
 
 [QNext. Перечень реакции](/docs-test/ph/QNext-admin-reaction-about-05-01)
-

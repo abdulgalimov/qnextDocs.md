@@ -1,3 +1,8 @@
+---
+sidebar: auto
+---
+
+## QNext. реакция openStoreProduct
 
 В процессе написания
 

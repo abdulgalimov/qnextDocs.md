@@ -1,5 +1,10 @@
+---
+sidebar: auto
+---
 
-**forwardMessage **— пересылка исходного сообщения в указанный чат.
+## QNext. реакция forwardMessage
+
+**forwardMessage** — пересылка исходного сообщения в указанный чат.
 
 
 

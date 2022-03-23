@@ -1,3 +1,8 @@
+---
+sidebar: auto
+---
+
+## QNext. Макрос menu
 
 [⬅️QNext. Макросы](/docs-test/ph/QNext-Macroses-12-22)
 
@@ -24,4 +29,3 @@
 
 
 [⬅️QNext. Макросы](/docs-test/ph/QNext-Macroses-12-22)
-

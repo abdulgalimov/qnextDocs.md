@@ -1,3 +1,8 @@
+---
+sidebar: auto
+---
+
+## QNext. реакция revokeChatInviteLink
 
 revokeChatInviteLink - в разработке
 

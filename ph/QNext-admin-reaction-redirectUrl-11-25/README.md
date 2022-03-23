@@ -1,3 +1,8 @@
+---
+sidebar: auto
+---
+
+## QNext реакция weblinkRedirect
 
 **weblinkRedirect** - реакция позволяет перенаправить пользователя на другой адрес. Адрес можно указать сразу в реакции, или с помощью переменной, которая будет отдавать ссылку.
 
@@ -5,6 +10,7 @@
 ::: tip
 WEB — web - ссылки — триггер Web-ссылки
 :::
+
 ![](./1.png)
 
 
@@ -12,4 +18,3 @@ WEB — web - ссылки — триггер Web-ссылки
 [QNext. WEB](/docs-test/ph/QNext-admin-web-about-09-11)
 
 [QNext. Перечень реакции](/docs-test/ph/QNext-admin-reaction-about-05-01)
-

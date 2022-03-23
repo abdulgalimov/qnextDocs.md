@@ -1,3 +1,8 @@
+---
+sidebar: auto
+---
+
+## QNext реакция trelloGetCard
 
 Реакция ⚡️trelloGetCard позволит получить подробную информацию о карточке trello. Чтобы загрузить карточку, необходимо при создании реакции указать выражение, которое вернет ID карточки.
 
@@ -15,4 +20,3 @@ ${trelloRequest.action.data.card.id}<br>
 [QNext. Trello](/docs-test/ph/QNext-admin-trello-about-02-16)
 
 [QNext. Перечень реакции](/docs-test/ph/QNext-admin-reaction-about-05-01)
-

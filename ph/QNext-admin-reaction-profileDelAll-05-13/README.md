@@ -1,11 +1,16 @@
+---
+sidebar: auto
+---
 
-**profileDelAll - **удалить все профили пользователя. 
+## QNext. реакция profileDelAll
+
+**profileDelAll -** удалить все профили пользователя. 
 
 
 
 Для удаления выборочно одного профиля, необходимо использовать:
 
-[Реакция: ** profileDell**](/docs-test/ph/QNext-admin-reaction-profileDel-04-28)
+[Реакция:  **profileDell**](/docs-test/ph/QNext-admin-reaction-profileDel-04-28)
 
 
 

@@ -1,3 +1,8 @@
+---
+sidebar: auto
+---
+
+## QNext. реакция sendStore
 
 В процессе написания
 

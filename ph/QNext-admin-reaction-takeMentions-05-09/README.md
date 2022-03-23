@@ -1,5 +1,10 @@
+---
+sidebar: auto
+---
 
-**takeMentions **- взять пользователя(ей) для дальнейшей работы. 
+## QNext. реакция takeMentions
+
+**takeMentions** - взять пользователя(ей) для дальнейшей работы. 
 
 
 
@@ -12,6 +17,7 @@
 — takeMentions 
 
 — — log
+
 ![](./1.png)
 
 Если необходимо исключить пользователя из чата, нам потребуется:
@@ -34,7 +40,7 @@
 
 Если необходимо использовать @username и ID, подойдет:
 
-[** реакция: takeUsers**](/docs-test/ph/QNext-admin-reaction-takeUsers-05-09)
+[ **реакция: takeUsers**](/docs-test/ph/QNext-admin-reaction-takeUsers-05-09)
 
 
 
@@ -43,4 +49,3 @@
 [QNext. Пользователи](/docs-test/ph/QNext-admin-users-about-05-27)
 
 [QNext. Перечень реакций](/docs-test/ph/QNext-admin-reaction-about-05-01)
-
