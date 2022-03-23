@@ -1,4 +1,6 @@
-# Оглавление dev 
+# Оглавление test 7
+
+![An image](./image.jpg)
 
 ## Язык
 
@@ -20,8 +22,27 @@ yarn global  #
 yarn global add vuepress-theme-api # OR npm install -g vuepress-theme-api
 ```
 
-::: v-pre
-{{ This will be displayed as-is }}
+::: tip tip
+This is a tip
 :::
+
+::: warning warning
+This is a warning
+:::
+
+::: danger danger
+This is a dangerous warning
+:::
+
+::: details details
+This is a details block, which does not work in IE / Edge
+:::
+
+``` js
+export default {
+  name: 'MyComponent',
+  // ...
+}
+```
 
 ## Часовой пояс
