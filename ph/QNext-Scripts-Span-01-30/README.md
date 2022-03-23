@@ -1,5 +1,5 @@
 
-[⬅️QNext. Скрипты. Объект qnext](/ph/QNext-Scripts-Object-qnext-01-30).
+[⬅️QNext. Скрипты. Объект qnext](/docs-test/ph/QNext-Scripts-Object-qnext-01-30).
 
 span - это объект позволяющий манипулировать временем. Создать такой объект можно следующими способами:
 ::: tip
@@ -61,4 +61,4 @@ const span = qnext.time.span.new(0);<br>span.addHour(2);<br>span.addMin(30);<br>
 
 
 
-[⬅️QNext. Скрипты. Объект qnext](/ph/QNext-Scripts-Object-qnext-01-30).
+[⬅️QNext. Скрипты. Объект qnext](/docs-test/ph/QNext-Scripts-Object-qnext-01-30).

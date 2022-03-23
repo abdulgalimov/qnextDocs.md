@@ -1,5 +1,5 @@
 
-[⬅️QNext. Скрипты](/ph/QNextBot-Scripts-10-29)
+[⬅️QNext. Скрипты](/docs-test/ph/QNextBot-Scripts-10-29)
 
 
 
@@ -56,7 +56,7 @@ var msec = 320000 // миллисекунды<br>var text = qnext.time.toHMS(mse
 Выводит время в формате `мм:сс`.
 #### qnext.time.span
 
-qnext.time.span - это объект со своим набором функций и свойство. У него много различных свойств и функций, все они описаны на странице [QNext. Scripts. Span](/ph/QNext-Scripts-Span-01-30)
+qnext.time.span - это объект со своим набором функций и свойство. У него много различных свойств и функций, все они описаны на странице [QNext. Scripts. Span](/docs-test/ph/QNext-Scripts-Span-01-30)
 ### qnext.html
 
 Это объект, который содержит в себе различные вспомогательные функция для обработки html-разметки.
@@ -128,4 +128,4 @@ qnext.fetch - это функция, которая делает http запро
 
 
 
-[⬅️QNext. Скрипты](/ph/QNextBot-Scripts-10-29)
+[⬅️QNext. Скрипты](/docs-test/ph/QNextBot-Scripts-10-29)

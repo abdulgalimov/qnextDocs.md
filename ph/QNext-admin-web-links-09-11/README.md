@@ -38,9 +38,9 @@ WEB - ссылки - создание кастомных (Контекстных
 
 Настройки - статистика
 
-[Ограничения](/ph/Ogranicheniya-10-04)
+[Ограничения](/docs-test/ph/Ogranicheniya-10-04)
 
-[Реакции](/ph/QNext-admin-reaction-about-05-01)
+[Реакции](/docs-test/ph/QNext-admin-reaction-about-05-01)
 
 
 
@@ -48,6 +48,6 @@ WEB - ссылки - создание кастомных (Контекстных
 
 
 
-[QNext. WEB](/ph/QNext-admin-web-about-09-11)
+[QNext. WEB](/docs-test/ph/QNext-admin-web-about-09-11)
 
-[QNext. Документация](/ph/QNext-admin-documentation-05-08)
+[QNext. Документация](/docs-test/ph/QNext-admin-documentation-05-08)

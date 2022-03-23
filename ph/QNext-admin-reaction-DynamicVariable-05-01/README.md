@@ -33,10 +33,10 @@ ID значения — Идентификатор значения динами
 Время кеширования — Время в течении которого, динамическая переменная не будет обновлять свое значение при обращении к ней. Значение переменной берется из кэша.
 
 
- * [**DynamicVarDel **](/ph/QNext-admin-reaction-clearDynamicVariable-05-01)- Удалить значение динамической переменной
- * [**loadDynamicVar **](/ph/QNext-admin-reaction-readDynamicVariable-05-01)- Прочитать динамическую переменную
- * [**DynamicVarSet **](/ph/QNext-admin-reaction-writeDynamicVariable-05-01)- Записать динамическую переменную
+ * [**DynamicVarDel **](/docs-test/ph/QNext-admin-reaction-clearDynamicVariable-05-01)- Удалить значение динамической переменной
+ * [**loadDynamicVar **](/docs-test/ph/QNext-admin-reaction-readDynamicVariable-05-01)- Прочитать динамическую переменную
+ * [**DynamicVarSet **](/docs-test/ph/QNext-admin-reaction-writeDynamicVariable-05-01)- Записать динамическую переменную
 
 
 
-[QNext. Перечень реакции](/ph/QNext-admin-reaction-about-05-01)
+[QNext. Перечень реакции](/docs-test/ph/QNext-admin-reaction-about-05-01)

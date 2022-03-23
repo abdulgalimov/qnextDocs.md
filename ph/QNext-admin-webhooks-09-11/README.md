@@ -22,10 +22,10 @@
  В тригере вебхука есть параметр ${request...}, который содержит в себе тип запроса (GET/POST), переданные параметры (query, body) и заголовки (headers). В тригере также можно ответить на запрос, с помощью реакции ⚡️**webhookResponse**.
 
 С этим разделом напрямую связана реакция:
-[**webhookResponse **](/ph/QNext-admin-reaction-webhookResponse-05-09)- Ответ для webhook's
+[**webhookResponse **](/docs-test/ph/QNext-admin-reaction-webhookResponse-05-09)- Ответ для webhook's
 
  
 
-[QNext. WEB](/ph/QNext-admin-web-about-09-11)
+[QNext. WEB](/docs-test/ph/QNext-admin-web-about-09-11)
 
-[QNext. Документация](/ph/QNext-admin-documentation-05-08)
+[QNext. Документация](/docs-test/ph/QNext-admin-documentation-05-08)

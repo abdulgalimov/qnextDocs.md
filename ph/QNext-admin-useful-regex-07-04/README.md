@@ -163,6 +163,6 @@ ${exec.3} = необязательный текст2
 
 Учебник: [Регулярные выражения](https://learn.javascript.ru/regexp-introduction)
 
-[Qnext. Каталог полезное](/ph/QNext-admin-lifehack-06-13)
+[Qnext. Каталог полезное](/docs-test/ph/QNext-admin-lifehack-06-13)
 
-[Qnext. Документация](/ph/QNext-admin-documentation-05-08)
+[Qnext. Документация](/docs-test/ph/QNext-admin-documentation-05-08)

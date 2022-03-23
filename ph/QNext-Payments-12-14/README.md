@@ -11,12 +11,12 @@
 ### Способы оплаты
 
 На текущий момент доступны следующие способы оплаты:
-* [QIWI кошелек](/ph/QNext-Payments-QIWI-12-14)
-* [ЮMoney кошелек](/ph/QNext-Payments-Yoomoney-Api-12-27) (бывшие Яндекс.Деньги)
-* [ЮKassa для юр. лиц](/ph/QNext-Payments-Yookassa-12-27) (бывшая Яндекс.Касса)
-* [Нативные Telegram платежи](/ph/QNext-Payments-Telegram-01-01)
-* [ROBOKASSA](/ph/QNext-Payments-Robokassa-01-01)
-* [PAYEER](/ph/QNext-Payments-Payeer-01-05)
+* [QIWI кошелек](/docs-test/ph/QNext-Payments-QIWI-12-14)
+* [ЮMoney кошелек](/docs-test/ph/QNext-Payments-Yoomoney-Api-12-27) (бывшие Яндекс.Деньги)
+* [ЮKassa для юр. лиц](/docs-test/ph/QNext-Payments-Yookassa-12-27) (бывшая Яндекс.Касса)
+* [Нативные Telegram платежи](/docs-test/ph/QNext-Payments-Telegram-01-01)
+* [ROBOKASSA](/docs-test/ph/QNext-Payments-Robokassa-01-01)
+* [PAYEER](/docs-test/ph/QNext-Payments-Payeer-01-05)
 ### Подключение новых способов оплаты
 
 К сожалению некоторые платежные системы не предоставляют тестовый доступ к API. И создать полноценный аккаунт не всегда получается, по ряду причин, например отсутствие гражданства страны, где находится платёжка. Поэтому если вы хотите чтобы мы реализовали интеграцию с вашей платежной системой, у вас должен быть аккаунт с доступом к API. Если у вас есть аккаунт в платежной системе, интеграцию с которой вы хотели бы получить, заполните анкету по [этой ссылке](https://t.me/QNextSupportBot?start=addpayment), мы с вами свяжемся и попробуем реализовать.
@@ -77,5 +77,5 @@
 
 
 
-[QNext. Документация](/ph/QNext-admin-documentation-05-08)
+[QNext. Документация](/docs-test/ph/QNext-admin-documentation-05-08)
 

@@ -3,6 +3,6 @@
 
 
 
-[QNext. Глобальные переменные](/ph/QNext-admin-GlobalVariables-about-05-08)
+[QNext. Глобальные переменные](/docs-test/ph/QNext-admin-GlobalVariables-about-05-08)
 
-[QNext. Перечень реакции](/ph/QNext-admin-reaction-about-05-01)
+[QNext. Перечень реакции](/docs-test/ph/QNext-admin-reaction-about-05-01)

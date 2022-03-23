@@ -5,6 +5,6 @@
 
 
 
-[QNext. списки пользователей](/ph/QNext-admin-userList-about-05-08)
+[QNext. списки пользователей](/docs-test/ph/QNext-admin-userList-about-05-08)
 
-[QNext. Перечень реакции](/ph/QNext-admin-reaction-about-05-01)
+[QNext. Перечень реакции](/docs-test/ph/QNext-admin-reaction-about-05-01)

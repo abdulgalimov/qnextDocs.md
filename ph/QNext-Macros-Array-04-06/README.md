@@ -1,5 +1,5 @@
 
-[⬅️QNext. Макросы](/ph/QNext-Macroses-12-22)
+[⬅️QNext. Макросы](/docs-test/ph/QNext-Macroses-12-22)
 
 
 
@@ -58,7 +58,7 @@
 test@123@abc<br>
 :::
 
-Если вы хотите использовать в качестве разделителя пробел, или переход строки, воспользуйтесь [спец символами](/ph/QNext-Macroses-12-22#%D0%A1%D0%BF%D0%B5%D1%86-%D1%81%D0%B8%D0%BC%D0%B2%D0%BE%D0%BB%D1%8B).
+Если вы хотите использовать в качестве разделителя пробел, или переход строки, воспользуйтесь [спец символами](/docs-test/ph/QNext-Macroses-12-22#%D0%A1%D0%BF%D0%B5%D1%86-%D1%81%D0%B8%D0%BC%D0%B2%D0%BE%D0%BB%D1%8B).
 
 
 ### type: at
@@ -76,5 +76,5 @@ test@123@abc<br>
 
 
 
-[⬅️QNext. Макросы](/ph/QNext-Macroses-12-22)
+[⬅️QNext. Макросы](/docs-test/ph/QNext-Macroses-12-22)
 

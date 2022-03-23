@@ -25,6 +25,6 @@ takeUserList
 
 
 
-[QNext. Локальные переменные](/ph/QNext-admin-reaction-localVar-04-30)
+[QNext. Локальные переменные](/docs-test/ph/QNext-admin-reaction-localVar-04-30)
 
-[QNext. Перечень реакции](/ph/QNext-admin-reaction-about-05-01)
+[QNext. Перечень реакции](/docs-test/ph/QNext-admin-reaction-about-05-01)

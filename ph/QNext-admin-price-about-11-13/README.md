@@ -35,4 +35,4 @@
 
 _*Стоимость может быть изменена_
 
-[QNext. Документация](/ph/QNext-admin-documentation-05-08)
+[QNext. Документация](/docs-test/ph/QNext-admin-documentation-05-08)

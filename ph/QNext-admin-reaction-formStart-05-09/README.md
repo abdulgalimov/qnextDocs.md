@@ -4,6 +4,6 @@ formStart - начать заполнение формы. Реакция дос
 
 
 
-[QNext. Форма](/ph/QNext-admin-forms-about-05-09)
+[QNext. Форма](/docs-test/ph/QNext-admin-forms-about-05-09)
 
-[QNext. Перечень реакции](/ph/QNext-admin-reaction-about-05-01)
+[QNext. Перечень реакции](/docs-test/ph/QNext-admin-reaction-about-05-01)

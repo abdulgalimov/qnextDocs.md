@@ -1,5 +1,5 @@
 
-[⬅️QNext. Скрипты](/ph/QNextBot-Scripts-10-29)
+[⬅️QNext. Скрипты](/docs-test/ph/QNextBot-Scripts-10-29)
 
 
 
@@ -28,4 +28,4 @@ const short = ['Вс', 'Пн', 'Вт', 'Ср', 'Чт', 'Пт', 'Сб'];<br>funct
 
 
 
-[⬅️QNext. Скрипты](/ph/QNextBot-Scripts-10-29)
+[⬅️QNext. Скрипты](/docs-test/ph/QNextBot-Scripts-10-29)

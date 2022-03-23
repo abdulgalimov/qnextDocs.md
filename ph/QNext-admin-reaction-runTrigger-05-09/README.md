@@ -7,6 +7,6 @@
 
 
 
-[QNext. общий триггер](/ph/QNext-Global-and-Base-Trigger-03-18#%D0%9E%D0%B1%D1%89%D0%B8%D0%B9-%D0%A2%D1%80%D0%B8%D0%B3%D0%B3%D0%B5%D1%80)
+[QNext. общий триггер](/docs-test/ph/QNext-Global-and-Base-Trigger-03-18#%D0%9E%D0%B1%D1%89%D0%B8%D0%B9-%D0%A2%D1%80%D0%B8%D0%B3%D0%B3%D0%B5%D1%80)
 
-[QNext. Перечень реакции](/ph/QNext-admin-reaction-about-05-01)
+[QNext. Перечень реакции](/docs-test/ph/QNext-admin-reaction-about-05-01)

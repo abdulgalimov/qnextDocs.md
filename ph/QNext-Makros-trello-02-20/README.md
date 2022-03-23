@@ -114,7 +114,7 @@
 !{trello|<br>  type: card;<br>  data: labels;<br>  template: $name $color;<br>  splitter: \n<br>}<br>
 :::
 
-Список доступных полей для объекта Member можно посмотреть в [документации Trello](/ph/QNext-admin-trello-about-02-16).
+Список доступных полей для объекта Member можно посмотреть в [документации Trello](/docs-test/ph/QNext-admin-trello-about-02-16).
 
 
-⬅️[QNext. Макросы](/ph/QNext-Macroses-12-22)
+⬅️[QNext. Макросы](/docs-test/ph/QNext-Macroses-12-22)

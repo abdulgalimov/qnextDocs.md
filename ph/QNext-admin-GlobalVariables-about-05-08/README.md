@@ -22,9 +22,9 @@
 * **yaml **— формат данных, концептуально близкий к языкам разметки, но ориентированный на удобство ввода-вывода типичных структур данных многих языков программирования.
 
 
- * [**globalVarDel **](/ph/QNext-admin-reaction-globalVarDel-05-08)- Удалить глобальную переменную
- * [**globalVarSet **](/ph/QNext-admin-reaction-globalVarSet-05-08)- Сохранить глобальную переменную
- * [**loadGlobalVar **](/ph/QNext-admin-reaction-loadGlobalVariable-05-08)- Загрузить глобальные переменные
+ * [**globalVarDel **](/docs-test/ph/QNext-admin-reaction-globalVarDel-05-08)- Удалить глобальную переменную
+ * [**globalVarSet **](/docs-test/ph/QNext-admin-reaction-globalVarSet-05-08)- Сохранить глобальную переменную
+ * [**loadGlobalVar **](/docs-test/ph/QNext-admin-reaction-loadGlobalVariable-05-08)- Загрузить глобальные переменные
 
 
 
@@ -32,4 +32,4 @@
 
 — 15к символов на одну глобальную переменную
 
-[QNext. Каталог реакций](/ph/QNext-admin-reaction-about-05-01)
+[QNext. Каталог реакций](/docs-test/ph/QNext-admin-reaction-about-05-01)

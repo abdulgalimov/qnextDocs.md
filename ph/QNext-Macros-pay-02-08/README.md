@@ -1,5 +1,5 @@
 
-[⬅️QNext. Макросы](/ph/QNext-Macroses-12-22)
+[⬅️QNext. Макросы](/docs-test/ph/QNext-Macroses-12-22)
 
 
 
@@ -91,5 +91,5 @@ ton=123, btc=0.001, ...<br>
 
 
 
-[⬅️QNext. Макросы](/ph/QNext-Macroses-12-22)
+[⬅️QNext. Макросы](/docs-test/ph/QNext-Macroses-12-22)
 

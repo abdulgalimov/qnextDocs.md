@@ -1,5 +1,5 @@
 
-[⬅️QNext. Макросы](/ph/QNext-Macroses-12-22)
+[⬅️QNext. Макросы](/docs-test/ph/QNext-Macroses-12-22)
 
 
 
@@ -23,5 +23,5 @@
 
 
 
-[⬅️QNext. Макросы](/ph/QNext-Macroses-12-22)
+[⬅️QNext. Макросы](/docs-test/ph/QNext-Macroses-12-22)
 

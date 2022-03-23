@@ -11,4 +11,4 @@ alert - Текст во всплывающем окне с подтвержде�
 
 [Попробовать](https://t.me/QNextSupportBot?start=cmd_MDFNTjJ8SUk3NHxDTWJ1bQ)
 
-[QNext. Перечень реакции](/ph/QNext-admin-reaction-about-05-01)
+[QNext. Перечень реакции](/docs-test/ph/QNext-admin-reaction-about-05-01)

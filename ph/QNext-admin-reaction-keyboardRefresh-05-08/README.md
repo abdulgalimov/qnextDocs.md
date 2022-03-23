@@ -3,6 +3,6 @@
 
 
 
-[QNext. Клавиатура](/ph/QNext-admin-keyboard-about-05-08)
+[QNext. Клавиатура](/docs-test/ph/QNext-admin-keyboard-about-05-08)
 
-[QNext. Перечень реакции](/ph/QNext-admin-reaction-about-05-01)
+[QNext. Перечень реакции](/docs-test/ph/QNext-admin-reaction-about-05-01)

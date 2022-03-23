@@ -34,13 +34,13 @@
 
 Если необходимо использовать @username и ID, подойдет:
 
-[** реакция: takeUsers**](/ph/QNext-admin-reaction-takeUsers-05-09)
+[** реакция: takeUsers**](/docs-test/ph/QNext-admin-reaction-takeUsers-05-09)
 
 
 
 
 
-[QNext. Пользователи](/ph/QNext-admin-users-about-05-27)
+[QNext. Пользователи](/docs-test/ph/QNext-admin-users-about-05-27)
 
-[QNext. Перечень реакций](/ph/QNext-admin-reaction-about-05-01)
+[QNext. Перечень реакций](/docs-test/ph/QNext-admin-reaction-about-05-01)
 

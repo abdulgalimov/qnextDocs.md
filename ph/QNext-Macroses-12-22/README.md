@@ -27,30 +27,30 @@
 
 ### Список доступных макросов
 * !{amount}
-* [!{array}](/ph/QNext-Macros-Array-04-06)
-* [!{date}](/ph/QNext-Macros-Date-02-13)
-* [!{crypto}](/ph/QNext-Macros-Crypto-02-12)
-* [!{decodeURI}](/ph/QNext-Macros-encodeURI-08-10)
-* [!{encodeURI}](/ph/QNext-Macros-encodeURI-08-10)
-* [!{file}](/ph/QNext-Macros-file-05-22)
-* [!{globalVar}](/ph/QNext-Macros-globalVar-01-17)
-* [!{html}](/ph/QNext-Macros-html-05-13)
-* [!{if}](/ph/QNext-Macros-if-05-18)
-* [!{json}](/ph/QNext-Macros-JSON-05-13)
+* [!{array}](/docs-test/ph/QNext-Macros-Array-04-06)
+* [!{date}](/docs-test/ph/QNext-Macros-Date-02-13)
+* [!{crypto}](/docs-test/ph/QNext-Macros-Crypto-02-12)
+* [!{decodeURI}](/docs-test/ph/QNext-Macros-encodeURI-08-10)
+* [!{encodeURI}](/docs-test/ph/QNext-Macros-encodeURI-08-10)
+* [!{file}](/docs-test/ph/QNext-Macros-file-05-22)
+* [!{globalVar}](/docs-test/ph/QNext-Macros-globalVar-01-17)
+* [!{html}](/docs-test/ph/QNext-Macros-html-05-13)
+* [!{if}](/docs-test/ph/QNext-Macros-if-05-18)
+* [!{json}](/docs-test/ph/QNext-Macros-JSON-05-13)
 * !{makeLink}
-* [!{menu}](/ph/QNext-Macros-menu-05-13)
-* [!{pay}](/ph/QNext-Macros-pay-02-08)
-* [!{profile}](/ph/QNext-Macros-Profile-01-11)
-* [!{random}](/ph/QNext-Macros-Random-03-20)
-* [!{script}](/ph/QNextBot-Scripts-10-29)
-* [!{string}](/ph/QNext-Macros-String-09-09)
-* [!{switch}](/ph/QNext-Macros-Switch-01-09)
-* [!{trello}](/ph/QNext-Makros-trello-02-20)
-* [!{user}](/ph/QNext-Macros-User-05-13)
-* [!{usersCount}](/ph/QNext-Macros-userCount-07-01)
-* [!{url}](/ph/QNext-Macros-Url-01-23)
-* [!{vote}](/ph/QNext-Macros-Vote-12-23)
-* [!{value}](/ph/QNext-Macros-value-01-10)
+* [!{menu}](/docs-test/ph/QNext-Macros-menu-05-13)
+* [!{pay}](/docs-test/ph/QNext-Macros-pay-02-08)
+* [!{profile}](/docs-test/ph/QNext-Macros-Profile-01-11)
+* [!{random}](/docs-test/ph/QNext-Macros-Random-03-20)
+* [!{script}](/docs-test/ph/QNextBot-Scripts-10-29)
+* [!{string}](/docs-test/ph/QNext-Macros-String-09-09)
+* [!{switch}](/docs-test/ph/QNext-Macros-Switch-01-09)
+* [!{trello}](/docs-test/ph/QNext-Makros-trello-02-20)
+* [!{user}](/docs-test/ph/QNext-Macros-User-05-13)
+* [!{usersCount}](/docs-test/ph/QNext-Macros-userCount-07-01)
+* [!{url}](/docs-test/ph/QNext-Macros-Url-01-23)
+* [!{vote}](/docs-test/ph/QNext-Macros-Vote-12-23)
+* [!{value}](/docs-test/ph/QNext-Macros-value-01-10)
 * !{template}
 
 
@@ -74,9 +74,9 @@
 
 ### Шаблоны макросов
 
-Шаблоны макросов подробно описаны на [странице](/ph/QNext-Macros-Template-10-02).
+Шаблоны макросов подробно описаны на [странице](/docs-test/ph/QNext-Macros-Template-10-02).
 
 
 
-[QNext. Документация](/ph/QNext-admin-documentation-05-08)
+[QNext. Документация](/docs-test/ph/QNext-admin-documentation-05-08)
 

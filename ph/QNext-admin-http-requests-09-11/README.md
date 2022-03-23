@@ -103,6 +103,6 @@ requestFromSupportBot
 
 
 
-[QNext. WEB](/ph/QNext-admin-web-about-09-11)
+[QNext. WEB](/docs-test/ph/QNext-admin-web-about-09-11)
 
-[QNext. Документация](/ph/QNext-admin-documentation-05-08)
+[QNext. Документация](/docs-test/ph/QNext-admin-documentation-05-08)

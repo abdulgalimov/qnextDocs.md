@@ -91,6 +91,6 @@ https://t.me/ИмяБота?start=user_0000000 
 
 
 
-[Qnext. Каталог полезное](/ph/QNext-admin-lifehack-06-13)
+[Qnext. Каталог полезное](/docs-test/ph/QNext-admin-lifehack-06-13)
 
-[Qnext. Документация](/ph/QNext-admin-documentation-05-08)
+[Qnext. Документация](/docs-test/ph/QNext-admin-documentation-05-08)

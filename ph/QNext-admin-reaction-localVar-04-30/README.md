@@ -23,9 +23,9 @@
 — Для того, что бы узнать количество элементов в списке: ${localVar. varName.length} переменная вернет значение 3, на единицу превосходящее ключ списка.
 
 
- * [**localVarAdd **](/ph/QNext-admin-reaction-localVarAdd-04-30)- Добавить значение в локальную переменную
- * [**localVarDel**  ](/ph/QNext-admin-reaction-localVarDel-05-01)- Удалить локальную переменную
- * [**localVarSet **](/ph/QNext-admin-reaction-localVarSet-04-30)- Установить локальную переменную
+ * [**localVarAdd **](/docs-test/ph/QNext-admin-reaction-localVarAdd-04-30)- Добавить значение в локальную переменную
+ * [**localVarDel**  ](/docs-test/ph/QNext-admin-reaction-localVarDel-05-01)- Удалить локальную переменную
+ * [**localVarSet **](/docs-test/ph/QNext-admin-reaction-localVarSet-04-30)- Установить локальную переменную
 
 
 
@@ -45,7 +45,7 @@
 
 
 
-[QNext. Пользователи](/ph/QNext-admin-users-about-05-27)
+[QNext. Пользователи](/docs-test/ph/QNext-admin-users-about-05-27)
 
-[QNext. Перечень реакций](/ph/QNext-admin-reaction-about-05-01)
+[QNext. Перечень реакций](/docs-test/ph/QNext-admin-reaction-about-05-01)
 

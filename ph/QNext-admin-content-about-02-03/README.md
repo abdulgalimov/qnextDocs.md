@@ -194,10 +194,10 @@
 
 
 #### Реакции
- * [**loadContent **](/ph/QNext-admin-reaction-loadContent-05-07)- Загрузить Контент
- * [**loadRandomContent **](/ph/QNext-admin-reaction-loadRandomContent-05-07)- Выбрать случайный контент
- * [**sendContent **](/ph/QNext-admin-reaction-sendContent-05-07)- Отправить Контент
- * [**refreshContent **](/ph/QNext-admin-reaction-refreshContent-02-13)- Обновить контент
+ * [**loadContent **](/docs-test/ph/QNext-admin-reaction-loadContent-05-07)- Загрузить Контент
+ * [**loadRandomContent **](/docs-test/ph/QNext-admin-reaction-loadRandomContent-05-07)- Выбрать случайный контент
+ * [**sendContent **](/docs-test/ph/QNext-admin-reaction-sendContent-05-07)- Отправить Контент
+ * [**refreshContent **](/docs-test/ph/QNext-admin-reaction-refreshContent-02-13)- Обновить контент
 
 
 ::: tip
@@ -208,4 +208,4 @@
 
 
 
-[QNext. Документация](/ph/QNext-admin-documentation-05-08)
+[QNext. Документация](/docs-test/ph/QNext-admin-documentation-05-08)

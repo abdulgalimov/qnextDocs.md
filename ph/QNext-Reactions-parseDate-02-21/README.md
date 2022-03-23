@@ -28,8 +28,8 @@
 !{date|<br>  differenceWith: parseDateResult.date;<br>  view: total;<br>  utc<br>}<br>
 :::
 
-Подробнее про макрос !{date} читайте в [документации](/ph/QNext-Macros-Date-02-13).
+Подробнее про макрос !{date} читайте в [документации](/docs-test/ph/QNext-Macros-Date-02-13).
 
 
 
-[QNext. Перечень реакции](/ph/QNext-admin-reaction-about-05-01)
+[QNext. Перечень реакции](/docs-test/ph/QNext-admin-reaction-about-05-01)

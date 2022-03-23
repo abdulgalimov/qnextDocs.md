@@ -50,7 +50,7 @@ QNext. Прием платежей с помощью ЮMoney кошелька
 
 
 
-[⬅️QNext. Платежи](/ph/QNext-Payments-12-14)
+[⬅️QNext. Платежи](/docs-test/ph/QNext-Payments-12-14)
 
 
 

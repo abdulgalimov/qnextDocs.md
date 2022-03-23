@@ -2,7 +2,7 @@
 • [Подключаем Trello к боту](#подлючаем-trello-к-боту)
 • [Настройка рабочего места](#настройка-рабочего-места-аккаунта-в-браузере) 
 • [Первый update](#первый-update-в-логах)
-• [Макрос trello](/ph/QNext-Makros-trello-02-20)
+• [Макрос trello](/docs-test/ph/QNext-Makros-trello-02-20)
 
 
 Trello — облачная программа для управления проектами небольших групп.
@@ -45,17 +45,17 @@ Trello — 🧰Аккаунты — ➕ Добавить — Укажите ср
 ![](./12.png)
 
 Смотрим логи **
-Что такое логи ?** [Ответ](/ph/QNext-admin-reaction-log-05-09) 
+Что такое логи ?** [Ответ](/docs-test/ph/QNext-admin-reaction-log-05-09) 
 ![](./13.png)
-* [trelloApiRequest](/ph/QNext-admin-reaction-trelloApiRequest-02-13)
-* [trelloAddComment](/ph/QNext-admin-reaction-trelloAddComment-02-13)
-* [trelloCreateCard](/ph/QNext-admin-reaction-trelloCreateCard-02-13)
-* [trelloGetCard](/ph/QNext-admin-reaction-trelloGetCard-02-13)
-* [trelloGetCardAttachment](/ph/QNext-admin-reaction-trelloCreateCardAttachment-02-13)
-* [trelloUpdateCard](/ph/QNext-admin-reaction-trelloUpdateCard-02-13)
+* [trelloApiRequest](/docs-test/ph/QNext-admin-reaction-trelloApiRequest-02-13)
+* [trelloAddComment](/docs-test/ph/QNext-admin-reaction-trelloAddComment-02-13)
+* [trelloCreateCard](/docs-test/ph/QNext-admin-reaction-trelloCreateCard-02-13)
+* [trelloGetCard](/docs-test/ph/QNext-admin-reaction-trelloGetCard-02-13)
+* [trelloGetCardAttachment](/docs-test/ph/QNext-admin-reaction-trelloCreateCardAttachment-02-13)
+* [trelloUpdateCard](/docs-test/ph/QNext-admin-reaction-trelloUpdateCard-02-13)
 
 
 
-[Qnext. Реакции](/ph/QNext-admin-reaction-about-05-01#Trello)
+[Qnext. Реакции](/docs-test/ph/QNext-admin-reaction-about-05-01#Trello)
 
-[QNext. Документация](/ph/QNext-admin-documentation-05-08)
+[QNext. Документация](/docs-test/ph/QNext-admin-documentation-05-08)

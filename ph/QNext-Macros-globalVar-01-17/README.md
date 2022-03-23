@@ -8,6 +8,6 @@
 
 
 
-[QNext. Глобальные переменные](/ph/QNext-admin-GlobalVariables-about-05-08)
+[QNext. Глобальные переменные](/docs-test/ph/QNext-admin-GlobalVariables-about-05-08)
 
-[⬅️QNext. Макросы](/ph/QNext-Macroses-12-22)
+[⬅️QNext. Макросы](/docs-test/ph/QNext-Macroses-12-22)

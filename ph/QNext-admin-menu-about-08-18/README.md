@@ -341,7 +341,7 @@ buttons:<br>  - <br>    - type: callback<br>      dynamicId: 1<br>    
 
 
 
-[QNext. Документация](/ph/QNext-admin-documentation-05-08)
+[QNext. Документация](/docs-test/ph/QNext-admin-documentation-05-08)
 
 
 

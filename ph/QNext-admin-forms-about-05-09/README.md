@@ -15,15 +15,15 @@
 
 
 
-[QNext. Перечень реакции](/ph/QNext-admin-reaction-about-05-01)
+[QNext. Перечень реакции](/docs-test/ph/QNext-admin-reaction-about-05-01)
 
-[QNext. Документация](/ph/QNext-admin-documentation-05-08)
+[QNext. Документация](/docs-test/ph/QNext-admin-documentation-05-08)
 
 
 ### Настройки
 #### Ограничения
 
-— Применяются все предлагаемые платформой [**ограничения**](/ph/Ogranicheniya-10-04).
+— Применяются все предлагаемые платформой [**ограничения**](/docs-test/ph/Ogranicheniya-10-04).
 #### Тех. название 
 
 —  Название формы которое видно только админам.
@@ -73,10 +73,10 @@
 —
 #### Google таблицы
 
-— Подключение и вывод результатов формы в [**Google таблицы.**](/ph/QNext-admin-google-about-01-11)
+— Подключение и вывод результатов формы в [**Google таблицы.**](/docs-test/ph/QNext-admin-google-about-01-11)
 #### Конвертор
 
-— Подключение конвертора для вывода результатов формы в [**Google таблицы**](/ph/QNext-admin-google-about-01-11) или Excel
+— Подключение конвертора для вывода результатов формы в [**Google таблицы**](/docs-test/ph/QNext-admin-google-about-01-11) или Excel
 #### Workflows 
 
 —
@@ -252,7 +252,7 @@ update.message.audio: mp3, wav, flac и т.д.
 #### custom
 
 Поле для приема любого типа данных (в том числе смешанных). Может одновременно принимать и ссылки и цифры, или ссылки и юзернеймы. 
-Работает с связке с реакцией: [**writeFormCustom**](/ph/QNext-admin-reaction-writeFormCustom-01-30)
+Работает с связке с реакцией: [**writeFormCustom**](/docs-test/ph/QNext-admin-reaction-writeFormCustom-01-30)
 #### user
 
 — Поле для выбора пользователя бота.
@@ -308,7 +308,7 @@ update.message.audio: mp3, wav, flac и т.д.
 — Триггер отмены срабатывает после нажатия на кнопку "**Отменить форму**"
 #### Триггер Финиш
 
-— В триггере финиша работает реакция  [**formResult**](/ph/QNext-admin-reaction-formResult-05-09), которая отображает данные пройденной формы.
+— В триггере финиша работает реакция  [**formResult**](/docs-test/ph/QNext-admin-reaction-formResult-05-09), которая отображает данные пройденной формы.
 
 
 
@@ -324,24 +324,24 @@ update.message.audio: mp3, wav, flac и т.д.
 
 ### Реакции
 
- [**formStart **](/ph/QNext-admin-reaction-formStart-05-09)- Запустить форму
+ [**formStart **](/docs-test/ph/QNext-admin-reaction-formStart-05-09)- Запустить форму
 
- [**formCancel **](/ph/QNext-admin-reaction-formCancel-05-09)- Остановить (прервать) форму
+ [**formCancel **](/docs-test/ph/QNext-admin-reaction-formCancel-05-09)- Остановить (прервать) форму
 
- [**formResult **](/ph/QNext-admin-reaction-formResult-05-09)- Показать результат формы
+ [**formResult **](/docs-test/ph/QNext-admin-reaction-formResult-05-09)- Показать результат формы
 
- [**loadFormResult **](/ph/QNext-admin-reaction-loadFormResult-05-09)- Загрузить результаты формы
+ [**loadFormResult **](/docs-test/ph/QNext-admin-reaction-loadFormResult-05-09)- Загрузить результаты формы
 
- [**openFormResult**](/ph/QNext-admin-reaction-openFormResult-05-09)** **- Открыть результаты формы
+ [**openFormResult**](/docs-test/ph/QNext-admin-reaction-openFormResult-05-09)** **- Открыть результаты формы
 
- [**takeFormResults **](/ph/QNext-admin-reaction-takeFormResults-05-09)- Получить последние несколько результатов формы
+ [**takeFormResults **](/docs-test/ph/QNext-admin-reaction-takeFormResults-05-09)- Получить последние несколько результатов формы
 
- [**saveFormVariables **](/ph/QNext-admin-reaction-saveFormVariables-11-25)- сохранить локальную переменную в поле формы
+ [**saveFormVariables **](/docs-test/ph/QNext-admin-reaction-saveFormVariables-11-25)- сохранить локальную переменную в поле формы
 
- [**writeFormCustom **](/ph/QNext-admin-reaction-writeFormCustom-01-30)- записать произвольный параметр поля формы
+ [**writeFormCustom **](/docs-test/ph/QNext-admin-reaction-writeFormCustom-01-30)- записать произвольный параметр поля формы
 
 
 
-[QNext. Перечень реакции](/ph/QNext-admin-reaction-about-05-01)
+[QNext. Перечень реакции](/docs-test/ph/QNext-admin-reaction-about-05-01)
 
-[QNext. Документация](/ph/QNext-admin-documentation-05-08)
+[QNext. Документация](/docs-test/ph/QNext-admin-documentation-05-08)

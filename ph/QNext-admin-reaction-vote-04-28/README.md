@@ -30,6 +30,6 @@ ____________________________
 
 
 
-[QNext. Голосование](/ph/QNext-admin-vote-about-07-05)
+[QNext. Голосование](/docs-test/ph/QNext-admin-vote-about-07-05)
 
-[QNext. Перечень реакции](/ph/QNext-admin-reaction-about-05-01)
+[QNext. Перечень реакции](/docs-test/ph/QNext-admin-reaction-about-05-01)

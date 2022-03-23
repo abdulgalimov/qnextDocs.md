@@ -10,6 +10,6 @@
 
 
 
-Подробнее о платежных системах и их подключении: [**Читать здесь**](/ph/QNext-Payments-12-14)
+Подробнее о платежных системах и их подключении: [**Читать здесь**](/docs-test/ph/QNext-Payments-12-14)
 
-[QNext. Перечень реакций](/ph/QNext-admin-reaction-about-05-01)
+[QNext. Перечень реакций](/docs-test/ph/QNext-admin-reaction-about-05-01)

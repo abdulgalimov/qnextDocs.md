@@ -48,11 +48,11 @@
 
 Если необходимо использовать @username и меншены, подойдет:
 
- [реакция:  **takeMentions**](/ph/QNext-admin-reaction-takeMentions-05-09)
+ [реакция:  **takeMentions**](/docs-test/ph/QNext-admin-reaction-takeMentions-05-09)
 
 
 
-[QNext. Пользователи](/ph/QNext-admin-users-about-05-27)
+[QNext. Пользователи](/docs-test/ph/QNext-admin-users-about-05-27)
 
-[QNext. Перечень реакций](/ph/QNext-admin-reaction-about-05-01)
+[QNext. Перечень реакций](/docs-test/ph/QNext-admin-reaction-about-05-01)
 

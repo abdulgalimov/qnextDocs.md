@@ -11,6 +11,6 @@ writeDynamicVar - эта реакция сохранит значение ука
 
 
 
-[QNext. Динамические переменные](/ph/QNext-admin-reaction-DynamicVariable-05-01)
+[QNext. Динамические переменные](/docs-test/ph/QNext-admin-reaction-DynamicVariable-05-01)
 
-[QNext. Перечень реакции](/ph/QNext-admin-reaction-about-05-01)
+[QNext. Перечень реакции](/docs-test/ph/QNext-admin-reaction-about-05-01)

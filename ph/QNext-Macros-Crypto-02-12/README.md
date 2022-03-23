@@ -29,7 +29,7 @@ var userId = qnext.getValue("user.id", 0);<br>var botId = qnext.getValue("user.i
 !{crypto|<br>  type: md5;<br>  text: ${localVar.valueForMd5};<br>}<br>
 :::
 
-Подробнее про скрипты читайте в [документации](/ph/QNextBot-Scripts-10-29).
+Подробнее про скрипты читайте в [документации](/docs-test/ph/QNextBot-Scripts-10-29).
 ### hmac
 
 Для макроса hmac требуется дополнительный параметр `key`:
@@ -51,4 +51,4 @@ var userId = qnext.getValue("user.id", 0);<br>var botId = qnext.getValue("user.i
 
 
 
-[⬅️QNext. Макросы](/ph/QNext-Macroses-12-22)
+[⬅️QNext. Макросы](/docs-test/ph/QNext-Macroses-12-22)
