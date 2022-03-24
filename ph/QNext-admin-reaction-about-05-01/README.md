@@ -108,7 +108,7 @@ _в разработке_
  * [**profileDelAll** ](/docs-test/ph/QNext-admin-reaction-profileDelAll-05-13)- Удалить все Профили пользователя
  * [**profileSet** ](/docs-test/ph/QNext-admin-reaction-profileSet-04-28)- Установить Профиль пользователя
  * [**profileSwitch** ](/docs-test/ph/QNext-admin-reaction-profileSwitch-09-13)- Изменить статус профиля bool
- * [**findProfileValue** ](/docs-test/ph/QNext-admin-reaction-findProfileValue-09-13)**- **Найти значение профиля
+ * [**findProfileValue** ](/docs-test/ph/QNext-admin-reaction-findProfileValue-09-13)- Найти значение профиля
  * [**profilesCount** ](/docs-test/ph/QNext-admin-reaction-profilesCount-01-05)- посчитать количество профилей
 ### [Рассылки](/docs-test/ph/QNext-admin-Newsletters-about-05-08)
  * [**newsletterCancel** ](/docs-test/ph/QNext-admin-reaction-newsletterCancel-05-08)- Отменить рассылку
