@@ -1,0 +1,17 @@
+---
+sidebar: auto
+---
+
+## QNext. реакция loadProfile
+
+loadProfile - позволяет загрузить один тип профиля для дальнейшей работы и вывода значений профиля.
+
+![](./1.png)
+
+[QNext. Профили](/docs-test/ph/admin/profile-about)
+
+[QNext. Перечень реакции](/docs-test/ph/reactions)
+
+[QNext. Документация](/docs-test/ph)
+
+[Original](https://telegra.ph/QNext-admin-reaction-loadProfile-04-28)
