@@ -14,9 +14,13 @@
 3 текст "abc"
 
 Чтобы ботом вывести например количество элементов этого списка, вы можете воспользоваться макросом:
-::: tip
-!{array|<br>  path: localVar.myArrayList;<br>  type: length;<br>}<br>
-:::
+```js 
+!{array|
+  path: localVar.myArrayList;
+  type: length;
+}
+
+```
 
 Макрос выполняет различные действия, в зависимости от значения параметра `type`:
 * type: length
@@ -29,36 +33,56 @@
 ### type: length
 
 Количество элементов в списке:
-::: tip
-!{array|<br>  path: localVar.myArrayList;<br>  type: length;<br>}<br>
-:::
+```js 
+!{array|
+  path: localVar.myArrayList;
+  type: length;
+}
+
+```
 ### type: indexOf
 
 Найти номер позиции элемента в списке. Например вы хотите найти в какой позиции находит текст `"abc"`:
-::: tip
-!{array|<br>  path: localVar.myArrayList;<br>  type: indexOf;<br>  element: abc;<br>}<br>
-:::
+```js 
+!{array|
+  path: localVar.myArrayList;
+  type: indexOf;
+  element: abc;
+}
+
+```
 
 Макрос вернет значение `2`, потому что позиционирование элементов а массиве начинается не с `1` с номера `0`.
 ### type: lastIndexOf
 
 Тоже самое что и `type: indexOf`, только поиска начинается с конца массива:
-::: tip
-!{array|<br>  path: localVar.myArrayList;<br>  type: lastIndexOf;<br>  element: abc;<br>}<br>
-:::
+```js 
+!{array|
+  path: localVar.myArrayList;
+  type: lastIndexOf;
+  element: abc;
+}
+
+```
 
 
 ### type: join
 
 Преобразовывает массив в строку, разделяя элементы разделителем. 
-::: tip
-!{array|<br>  path: localVar.myArrayList;<br>  type: join;<br>  separator: @;<br>}<br>
-:::
+```js 
+!{array|
+  path: localVar.myArrayList;
+  type: join;
+  separator: @;
+}
+
+```
 
 В этом примере мы использовали в качестве разделителя символ @, значит на выходе мы получим вот такую строку:
-::: tip
-test@123@abc<br>
-:::
+```js 
+test@123@abc
+
+```
 
 Если вы хотите использовать в качестве разделителя пробел, или переход строки, воспользуйтесь [спец символами](/docs-test/ph/macros).
 
@@ -66,9 +90,14 @@ test@123@abc<br>
 ### type: at
 
 Возвращает элемент массив по указанному номеру. Например вы хотите получить из массива элемент с номером `1`:
-::: tip
-!{array|<br>  path: localVar.myArrayList;<br>  type: at;<br>  index: 1;<br>}<br>
-:::
+```js 
+!{array|
+  path: localVar.myArrayList;
+  type: at;
+  index: 1;
+}
+
+```
 
 Макрос вернет значение `123`. Не забывайте что нумерация в массиве начинается не с `1` а с `0`.
 

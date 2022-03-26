@@ -15,9 +15,15 @@
 * sourceType - тип ресурса
 
 Следующие макрос вернет содержимое файла myFile.txt в виде текста:
-::: tip
-!{git| <br>  type: repoContent;<br>  repoId: 123,<br>  filename: myFile.txt;<br>  sourceType: text;<br>}<br>
-:::
+```js 
+!{git| 
+  type: repoContent;
+  repoId: 123,
+  filename: myFile.txt;
+  sourceType: text;
+}
+
+```
 ### sourceType
 
 Параметр `sourceType` указывает на тип загружаемого ресурса, может принимать следующие значения:
@@ -25,14 +31,25 @@
 * object - содержимое файла будет загружено как объект, работает с файлами формата `.json` `.yml` и `.yaml`. Также дополнительно потребуется параметр `key`, чтобы указать какую переменную из этого объекта необходимо вытащить. 
 
 Например если у вас в файле `locales.yaml` лежит файл следующего содержания:
-::: tip
-texts:<br>  hello: Привет<br>  by: Пока<br>
-:::
+```js 
+texts:
+  hello: Привет
+  by: Пока
+
+```
 
 Тогда чтобы показать содержимое переменной texts.hello, воспользуйтесь макросом:
-::: tip
-!{git| <br>  type: repoContent;<br>  repoId: 123,<br>  filename: locales.yaml;<br>  sourceType: object;<br>  key: texts.hello;<br>  defaultValue: Строка не найдена;<br>}<br>
-:::
+```js 
+!{git| 
+  type: repoContent;
+  repoId: 123,
+  filename: locales.yaml;
+  sourceType: object;
+  key: texts.hello;
+  defaultValue: Строка не найдена;
+}
+
+```
 
 
 

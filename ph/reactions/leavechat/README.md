@@ -3,9 +3,8 @@
 **leaveChat -** заставляет бота покинуть чат
 
 
-::: tip
-[**leaveChat**   **method**   **bot.api** ](https://core.telegram.org/bots/api#leavechat)
-:::
+```
+[**leaveChat**   **method**   **bot.api** ](https://core.telegram.org/bots/api#leavechat)```
 
 [QNext. Чаты](/docs-test/ph/admin/chat-about)
 

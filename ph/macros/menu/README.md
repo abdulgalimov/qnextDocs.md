@@ -11,14 +11,26 @@
 ### type: open
 
 Показывает ссылку для открытия меню в боте:
-::: tip
-!{menu| <br>  type: open;<br>  menuId: IdВашегоМеню;<br>  menuItemId: IdРазделаМеню;<br>  text: Открыть меню;<br>}<br>
-:::
+```js 
+!{menu| 
+  type: open;
+  menuId: IdВашегоМеню;
+  menuItemId: IdРазделаМеню;
+  text: Открыть меню;
+}
+
+```
 
 Если вы хотите показать только ссылку, без текста:
-::: tip
-!{menu| <br>  type: open;<br>  menuId: IdВашегоМеню;<br>  menuItemId: IdРазделаМеню;<br>  linkOnly;<br>}<br>
-:::
+```js 
+!{menu| 
+  type: open;
+  menuId: IdВашегоМеню;
+  menuItemId: IdРазделаМеню;
+  linkOnly;
+}
+
+```
 
 
 

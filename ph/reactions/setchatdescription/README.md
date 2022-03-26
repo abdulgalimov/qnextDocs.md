@@ -15,9 +15,8 @@ title - текст, на который необходимо изменить о
 Максимум 255 символов.
 
 
-::: tip
-[**setChatDescription method bot.api**](https://core.telegram.org/bots/api#setchatdescription)
-:::
+```
+[**setChatDescription method bot.api**](https://core.telegram.org/bots/api#setchatdescription)```
 
 
 

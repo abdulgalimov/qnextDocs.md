@@ -30,113 +30,205 @@
 ### length
 
 Возвращает длину строки:
-::: tip
-!{string|<br>  path: ПутьДоСтроки;<br>  type: length;<br>}<br>
-:::
+```js 
+!{string|
+  path: ПутьДоСтроки;
+  type: length;
+}
+
+```
 ### charAt
 
 Возвращает указанный символ из строки:
-::: tip
-!{string|<br>  path: ПутьДоСтроки;<br>  type: charAt;<br>  index: номер символа или путь до значения<br>}<br>
-:::
+```js 
+!{string|
+  path: ПутьДоСтроки;
+  type: charAt;
+  index: номер символа или путь до значения
+}
+
+```
 ### charCodeAt
 
 Возвращает числовое значение Юникода для символа по указанному индексу:
-::: tip
-!{string|<br>  path: ПутьДоСтроки;<br>  type: charCodeAt;<br>  index: номер символа или путь до значения<br>}<br>
-:::
+```js 
+!{string|
+  path: ПутьДоСтроки;
+  type: charCodeAt;
+  index: номер символа или путь до значения
+}
+
+```
 ### endsWith
 
 Позволяет определить, заканчивается ли строка символами указанными в `searchString`, возвращая, соответственно, `true` или `false`:
-::: tip
-!{string|<br>  path: ПутьДоСтроки;<br>  type: endsWith;<br>  searchString: Строка или путь до строки<br>  index: номер символа или путь до значения<br>}<br>
-:::
+```js 
+!{string|
+  path: ПутьДоСтроки;
+  type: endsWith;
+  searchString: Строка или путь до строки
+  index: номер символа или путь до значения
+}
+
+```
 ### startsWith
 
 Позволяет определить, начинается ли строка символами указанными в `searchString`, возвращая, соответственно, `true` или `false`:
-::: tip
-!{string|<br>  path: ПутьДоСтроки;<br>  type: startsWith;<br>  searchString: Строка или путь до строки<br>  index: номер символа или путь до значения<br>}<br>
-:::
+```js 
+!{string|
+  path: ПутьДоСтроки;
+  type: startsWith;
+  searchString: Строка или путь до строки
+  index: номер символа или путь до значения
+}
+
+```
 ### fromCharCode
 
 Возвращает строку, собранную из кодов указанных в массиве `nums`:
-::: tip
-!{string|<br>  path: ПутьДоСтроки;<br>  type: fromCharCode;<br>  nums: Путь до массива с кодами;<br>}<br>
-:::
+```js 
+!{string|
+  path: ПутьДоСтроки;
+  type: fromCharCode;
+  nums: Путь до массива с кодами;
+}
+
+```
 ### indexOf
 
 Возвращает позицию строки `searchString` в проверяемой строке:
-::: tip
-!{string|<br>  path: ПутьДоСтроки;<br>  type: indexOf;<br>  searchString: Строка или путь до строки;<br>  fromIndex: Откуда начинать поиск, необязательный параметр;<br>}<br>
-:::
+```js 
+!{string|
+  path: ПутьДоСтроки;
+  type: indexOf;
+  searchString: Строка или путь до строки;
+  fromIndex: Откуда начинать поиск, необязательный параметр;
+}
+
+```
 ### lastIndexOf
 
 Возвращает позицию с конца строки `searchString` в проверяемой строке:
-::: tip
-!{string|<br>  path: ПутьДоСтроки;<br>  type: lastIndexOf;<br>  searchString: Строка или путь до строки;<br>  fromIndex: Откуда начинать поиск, необязательный параметр;<br>}<br>
-:::
+```js 
+!{string|
+  path: ПутьДоСтроки;
+  type: lastIndexOf;
+  searchString: Строка или путь до строки;
+  fromIndex: Откуда начинать поиск, необязательный параметр;
+}
+
+```
 ### replace
 
 Ищет первое совпадение по `pattern` и делает замену на `newString`:
-::: tip
-!{string|<br>  path: ПутьДоСтроки;<br>  type: replace;<br>  pattern: Строка или регулярное выражение;<br>  newString: Строка или путь до строки;<br>}<br>
-:::
+```js 
+!{string|
+  path: ПутьДоСтроки;
+  type: replace;
+  pattern: Строка или регулярное выражение;
+  newString: Строка или путь до строки;
+}
+
+```
 ### replaceAll
 
 Ищет ВСЕ совпадение по `pattern` и делает замену на `newString`:
-::: tip
-!{string|<br>  path: ПутьДоСтроки;<br>  type: replaceAll;<br>  pattern: Строка или регулярное выражение;<br>  newString: Строка или путь до строки;<br>}<br>
-:::
+```js 
+!{string|
+  path: ПутьДоСтроки;
+  type: replaceAll;
+  pattern: Строка или регулярное выражение;
+  newString: Строка или путь до строки;
+}
+
+```
 ### search
 
 Ищет первое совпадение по `pattern` и возвращает позицию:
-::: tip
-!{string|<br>  path: ПутьДоСтроки;<br>  type: search;<br>  pattern: Строка или регулярное выражение;<br>}<br>
-:::
+```js 
+!{string|
+  path: ПутьДоСтроки;
+  type: search;
+  pattern: Строка или регулярное выражение;
+}
+
+```
 ### slice
 
 Возвращает подстроку от `beginIndex` до `endIndex`:
-::: tip
-!{string|<br>  path: ПутьДоСтроки;<br>  type: slice;<br>  beginIndex: Индекс начала или путь до индекса;<br>  endIndex: Индекс конца или путь до индекса;<br>}<br>
-:::
+```js 
+!{string|
+  path: ПутьДоСтроки;
+  type: slice;
+  beginIndex: Индекс начала или путь до индекса;
+  endIndex: Индекс конца или путь до индекса;
+}
+
+```
 ### toLowerCase
 
 Заменяет все заглавные символы строчными:
-::: tip
-!{string|<br>  path: ПутьДоСтроки;<br>  type: toLowerCase;<br>}<br>
-:::
+```js 
+!{string|
+  path: ПутьДоСтроки;
+  type: toLowerCase;
+}
+
+```
 ### toUpperCase
 
 Заменяет все строчные символы заглавными:
-::: tip
-!{string|<br>  path: ПутьДоСтроки;<br>  type: toUpperCase;<br>}<br>
-:::
+```js 
+!{string|
+  path: ПутьДоСтроки;
+  type: toUpperCase;
+}
+
+```
 ### trim
 
 Удаляет все пробелы в начале и в конце строки:
-::: tip
-!{string|<br>  path: ПутьДоСтроки;<br>  type: trim;<br>}<br>
-:::
+```js 
+!{string|
+  path: ПутьДоСтроки;
+  type: trim;
+}
+
+```
 ### trimStart
 
 Удаляет все пробелы в начале строки:
-::: tip
-!{string|<br>  path: ПутьДоСтроки;<br>  type: trimStart;<br>}<br>
-:::
+```js 
+!{string|
+  path: ПутьДоСтроки;
+  type: trimStart;
+}
+
+```
 ### trimEnd
 
 Удаляет все пробелы в конце строки:
-::: tip
-!{string|<br>  path: ПутьДоСтроки;<br>  type: trimEnd;<br>}<br>
-:::
+```js 
+!{string|
+  path: ПутьДоСтроки;
+  type: trimEnd;
+}
+
+```
 
 
 ### Регулярное выражение
 
 В макросах с типом `replace`, `replaceAll` и `search` используется параметр `pattern`. Этот параметр может содержать как строку, так и регулярное выражение. Чтобы указать регулярное выражение, необходимо обернуть значение в символы `/.../`, например так следующий макрос заменить все русские буквы на символ **X**:
-::: tip
-!{string|<br>  path: ПутьДоСтроки;<br>  type: replace;<br>  pattern: /[а-я]/i;<br>  newString: X;<br>}<br>
-:::
+```js 
+!{string|
+  path: ПутьДоСтроки;
+  type: replace;
+  pattern: /[а-я]/i;
+  newString: X;
+}
+
+```
 
 
 

@@ -59,9 +59,16 @@ out.time = span.decompose();
 ```
 
 Функция decompose вернет объект такого вида:
-::: tip
-{<br>  days: 1,<br>  hours: 2,<br>  minutes: 30,<br>  seconds: 0,<br>  ms: 0,<br>}<br>
-:::
+```js 
+{
+  days: 1,
+  hours: 2,
+  minutes: 30,
+  seconds: 0,
+  ms: 0,
+}
+
+```
 ### span.view
 ```js 
 const span = qnext.time.span.new(0);
@@ -72,9 +79,10 @@ out.time = span.view("hh:mm"); // 02:30
 ```
 
 Конструкция вернет время в указанном формате, можно использовать любой форма, например если написать так: 
-::: tip
-out.time = span.view("Время dd:hh:mm:ss:SS");<br>
-:::
+```js 
+out.time = span.view("Время dd:hh:mm:ss:SS");
+
+```
 
 То будет получен результат:
 

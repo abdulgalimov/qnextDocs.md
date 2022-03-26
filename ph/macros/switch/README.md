@@ -1,9 +1,18 @@
 ## QNext. Макрос switch
-* [Диапазон значений](#диапазон-значений)
+* [Диапазон значений](#диапазон-значении)
 * [Регулярные выражения](#регулярные-выражения)
-::: tip
-!{switch|<br>  type: number;<br>  path: profile.Points.value;<br>  defaultValue: Не известно;<br>  <br>  case: 1; value: Одно очко;<br>  case: 2; value: Два очка;<br>  case: 3; value: Три очка;<br>}<br>
-:::
+```js 
+!{switch|
+  type: number;
+  path: profile.Points.value;
+  defaultValue: Не известно;
+  
+  case: 1; value: Одно очко;
+  case: 2; value: Два очка;
+  case: 3; value: Три очка;
+}
+
+```
 
 Параметр  **type** может принимать значения:
 * bool
@@ -18,32 +27,62 @@
 ### Диапазон значений
 
 Если вы хотите в макросе проверить диапазон **текстовых** значений, используйте макрос:
-::: tip
-!{switch| type: string; path: update.message.text;<br>  case: test1,test2; value: Вы ввели test 1 или 2;<br>  case: test3,test4; value: Вы ввели test 3 или 4;<br>  defaultValue: Не известная команда;<br>}<br>
-:::
+```js 
+!{switch| type: string; path: update.message.text;
+  case: test1,test2; value: Вы ввели test 1 или 2;
+  case: test3,test4; value: Вы ввели test 3 или 4;
+  defaultValue: Не известная команда;
+}
+
+```
 
 В этом макросе если вы указали значения test1 или test2, на выходе вы получите строку `"Вы ввели test 1 или 2"`.  Обратите внимание внутри блока case мы указали несколько проверяемых значений, разделенных символом ",". Если у вас строки включают этот символ, вы можете макросу другой разделитель:
-::: tip
-!{switch| type: string; path: update.message.text;<br>  caseSplitter: @;<br>  case: test1 @ test2; value: Вы ввели test 1 или 2;<br>  case: test3 @ test4; value: Вы ввели test 3 или 4;<br>  defaultValue: Не известная команда;<br>}<br>
-:::
+```js 
+!{switch| type: string; path: update.message.text;
+  caseSplitter: @;
+  case: test1 @ test2; value: Вы ввели test 1 или 2;
+  case: test3 @ test4; value: Вы ввели test 3 или 4;
+  defaultValue: Не известная команда;
+}
+
+```
 
 Если вам необходимо проверить диапазон **числовых** значений,  вы можете использовать аналогичную запись, а можете указать диапазон числовых значений, используя символ дефис "-", например так:
-::: tip
-!{switch| type: number; path: update.message.text;<br>  case: *-0;    value: Вы ввели число 0 или меньше;<br>  case: 1-9;    value: Вы ввели число от 1 до 9;<br>  case: 10-*;   value: Вы ввели число 10 или больше;<br>  defaultValue: Не известное число;<br>}<br>
-:::
+```js 
+!{switch| type: number; path: update.message.text;
+  case: *-0;    value: Вы ввели число 0 или меньше;
+  case: 1-9;    value: Вы ввели число от 1 до 9;
+  case: 10-*;   value: Вы ввели число 10 или больше;
+  defaultValue: Не известное число;
+}
+
+```
 
 
 ### Регулярные выражения
 
 Если вы используете тип **string**, вы можете проверять значения с помощью регулярных выражений, для этого текст регулярки в поле case необходимо записать с помощью конструкции вида `/.../`, например так:
-::: tip
-!{switch| type: string; path: update.message.text;<br>  case: /^0-9$/;   value: Вы ввели число;<br>  case: /^a-z$/i;  value: Вы ввели строку из символов a-z;<br>  case: /(\/.+)/;  value: Вы команду %(exec.1);<br>  defaultValue: Не известная команда;<br>}<br>
-:::
+```js 
+!{switch| type: string; path: update.message.text;
+  case: /^0-9$/;   value: Вы ввели число;
+  case: /^a-z$/i;  value: Вы ввели строку из символов a-z;
+  case: /(\/.+)/;  value: Вы команду %(exec.1);
+  defaultValue: Не известная команда;
+}
+
+```
 
 Обратите внимание на третий case, в нем используется локальная переменная макрос `$(exec.1)` - здесь будет значение из регулярки этого кейса. Вы так можете использовать локальную переменную макроса %(config...) который будет ссылаться на значения, переданные в макрос, например так:
-::: tip
-!{switch| <br>  type: string; <br>  path: update.message.text; TestVar: abc;<br><br>  case: /(\/.+)/;  value: Вы команду %(exec.1), $(TestVar);<br>  defaultValue: Не известная команда;<br>}<br>
-:::
+```js 
+!{switch| 
+  type: string; 
+  path: update.message.text; TestVar: abc;
+
+  case: /(\/.+)/;  value: Вы команду %(exec.1), $(TestVar);
+  defaultValue: Не известная команда;
+}
+
+```
 
 
 

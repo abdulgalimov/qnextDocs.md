@@ -17,9 +17,8 @@ stickerSetName - указываем название стикерпака. Ре�
 В чате должно быть минимум 100 человек
 
 
-::: tip
-**setChatStickerSet method bot.api**
-:::
+```
+**setChatStickerSet method bot.api**```
 
 
 

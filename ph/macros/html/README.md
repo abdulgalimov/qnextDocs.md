@@ -19,65 +19,109 @@
 * [br](#br)
 * [space](#space)
 ### italic
-::: tip
-!{html|<br>  text: Наклонный текст;<br>  type: italic;<br>}<br>
-:::
+```js 
+!{html|
+  text: Наклонный текст;
+  type: italic;
+}
+
+```
 ### bold
-::: tip
-!{html|<br>  text: Жирный текст;<br>  type: bold;<br>}<br>
-:::
+```js 
+!{html|
+  text: Жирный текст;
+  type: bold;
+}
+
+```
 ### underline
-::: tip
-!{html|<br>  text: Подчеркнутый текст;<br>  type: underline;<br>}<br>
-:::
+```js 
+!{html|
+  text: Подчеркнутый текст;
+  type: underline;
+}
+
+```
 ### strike
-::: tip
-!{html|<br>  text: Зачеркнутый текст;<br>  type: strike;<br>}<br>
-:::
+```js 
+!{html|
+  text: Зачеркнутый текст;
+  type: strike;
+}
+
+```
 ### code
-::: tip
-!{html|<br>  text: Моноширинная строка;<br>  type: code;<br>}<br>
-:::
+```js 
+!{html|
+  text: Моноширинная строка;
+  type: code;
+}
+
+```
 ### pre
-::: tip
-!{html|<br>  text: Моноширинный блок;<br>  type: pre;<br>}<br>
-:::
+```js 
+!{html|
+  text: Моноширинный блок;
+  type: pre;
+}
+
+```
 ### encode
-::: tip
-!{html|<br>  text: Преобразование тегов <>;<br>  type: encode;<br>}<br>
-:::
+```js 
+!{html|
+  text: Преобразование тегов <>;
+  type: encode;
+}
+
+```
 ### decode
-::: tip
-!{html|<br>  text: Обратное преобразование тегов &lt; &gt;;<br>  type: decode;<br>}<br>
-:::
+```js 
+!{html|
+  text: Обратное преобразование тегов &lt; &gt;;
+  type: decode;
+}
+
+```
 ### link
-::: tip
-!{html|<br>  text: Ссылка;<br>  url: https://core.telegram.org/bots/api;<br>  type: link;<br>}<br>
-:::
+```js 
+!{html|
+  text: Ссылка;
+  url: https://core.telegram.org/bots/api;
+  type: link;
+}
+
+```
 ### hiddenLink
 
 Скрытая ссылка:
-::: tip
-!{html|<br>  url: https://core.telegram.org/bots/api;<br>  type: hiddenLink;<br>}<br>
-:::
+```js 
+!{html|
+  url: https://core.telegram.org/bots/api;
+  type: hiddenLink;
+}
+
+```
 ### hiddenSymbol
 
 Скрытый символ:
-::: tip
-!{html| type: hiddenSymbol}<br>
-:::
+```js 
+!{html| type: hiddenSymbol}
+
+```
 ### br
 
 Переход на новую строку:
-::: tip
-!{html| type: br}<br>
-:::
+```js 
+!{html| type: br}
+
+```
 ### space
 
 Пробел
-::: tip
-!{html| type: space}<br>
-:::
+```js 
+!{html| type: space}
+
+```
 
 
 

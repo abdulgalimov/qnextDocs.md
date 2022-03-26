@@ -1,22 +1,28 @@
 ## QNext. Макрос value
 
 Макрос  берет значение из указанного пути и возвращает это значение:
-::: tip
-!{value| path: localVar.code}<br>
-:::
+```js 
+!{value| path: localVar.code}
+
+```
 
 Данный макрос можно смело заменить переменной `${localVar}`, но макрос может быть полезен в том случае, когда вам в параметре path необходимо использовать другую переменную:
-::: tip
-!{value| path: localVar.${localVar.myCode} }<br>
-:::
+```js 
+!{value| path: localVar.${localVar.myCode} }
+
+```
 
 В данном случае если локальная переменная **myCode** имеет значение **test**, тогда текущий макрос вернет значение локальной переменной `${localVar.test}`.
 ### castTo
 
 Макрос умеет преобразовывать типы, например если в значении лежит строка похожая на число, можно преобразовать эту строку в число:
-::: tip
-!{value|<br>  path: localVar.code;<br>  castTo: number;<br>}<br>
-:::
+```js 
+!{value|
+  path: localVar.code;
+  castTo: number;
+}
+
+```
 
 Параметр castTo может принимать следующие значения:
 * **string**
@@ -25,17 +31,26 @@
 ### number
 
 Если указать `castTo: number`, можно дополнительно указать параметр `accuracy`, который указывает точность вывода дробного числа:
-::: tip
-!{value|<br>  path: localVar.code;<br>  castTo: number;<br>  accuracy: 2;<br>}<br>
-:::
+```js 
+!{value|
+  path: localVar.code;
+  castTo: number;
+  accuracy: 2;
+}
+
+```
 
 
 ### format
 
 Вы можете преобразовать вывод значения, например следующий макрос покажет JSON строку объекта user:
-::: tip
-!{value|<br>  path: user;<br>  format: json;<br>}<br>
-:::
+```js 
+!{value|
+  path: user;
+  format: json;
+}
+
+```
 
 Параметр format может принимать значения:
 * **json**

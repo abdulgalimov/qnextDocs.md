@@ -19,90 +19,166 @@
 * и другие...
 
 Макрос умеет показывать различную информацию в зависимости от параметра data:
-::: tip
-!{trello| <br>  type: action;<br>  data: ...<br>}<br>
-:::
+```js 
+!{trello| 
+  type: action;
+  data: ...
+}
+
+```
 ### data: card
 
 Показать информацию о карточке:
-::: tip
-!{trello|<br>  type: action;<br>  data: card;<br>}<br>
-:::
+```js 
+!{trello|
+  type: action;
+  data: card;
+}
+
+```
 
 Показать ссылку на карточку:
-::: tip
-!{trello|<br>  type: action;<br>  data: card;<br>  showLink;<br>}<br>
-:::
+```js 
+!{trello|
+  type: action;
+  data: card;
+  showLink;
+}
+
+```
 
 По умолчанию макрос покажет название карточки внутри которой зашита ссылка на карточку. Если надо написать любой текст вместо названия карточки, воспользуйтесь параметром title:
-::: tip
-!{trello|<br>  type: action;<br>  data: card;<br>  title: Показать карточку;<br>  showLink;<br>}<br>
-:::
+```js 
+!{trello|
+  type: action;
+  data: card;
+  title: Показать карточку;
+  showLink;
+}
+
+```
 
 Если надо показать только ссылку без текста:
-::: tip
-!{trello|<br>  type: action;<br>  data: card;<br>  linkOnly;<br>}<br>
-:::
+```js 
+!{trello|
+  type: action;
+  data: card;
+  linkOnly;
+}
+
+```
 ### data: listBefore
 
 Название списка до изменений:
-::: tip
-!{trello|<br>  type: action; <br>  data: listBefore;<br>}<br>
-:::
+```js 
+!{trello|
+  type: action; 
+  data: listBefore;
+}
+
+```
 ### data: listAfter
 
 Название списка после изменений:
-::: tip
-!{trello|<br>  type: action; <br>  data: listAfter;<br>}<br>
-:::
+```js 
+!{trello|
+  type: action; 
+  data: listAfter;
+}
+
+```
 ### data: list
 
 Название списка:
-::: tip
-!{trello|<br>  type: action; <br>  data: list;<br>}<br>
-:::
+```js 
+!{trello|
+  type: action; 
+  data: list;
+}
+
+```
 ### data: board
 
 Название доски:
-::: tip
-!{trello|<br>  type: action; <br>  data: board;<br>}<br>
-:::
+```js 
+!{trello|
+  type: action; 
+  data: board;
+}
+
+```
 
 Ссылка на доску:
-::: tip
-!{trello|<br>  type: action; <br>  data: board;<br>  showLink;<br>}<br>
-:::
+```js 
+!{trello|
+  type: action; 
+  data: board;
+  showLink;
+}
+
+```
 
 По умолчанию макрос покажет название доски внутри которой зашита ссылка на доску. Если надо написать любой текст вместо названия доски, воспользуйтесь параметром title:
-::: tip
-!{trello|<br>  type: action; <br>  data: board;<br>  title: Показать доску;<br>  showLink;<br>}<br>
-:::
+```js 
+!{trello|
+  type: action; 
+  data: board;
+  title: Показать доску;
+  showLink;
+}
+
+```
 
 Если надо показать только ссылку без текста:
-::: tip
-!{trello|<br>  type: action; <br>  data: board;<br>  linkOnly;<br>}<br>
-:::
+```js 
+!{trello|
+  type: action; 
+  data: board;
+  linkOnly;
+}
+
+```
 ### data: memberCreator
 
 Показать имя автора текущего действия:
-::: tip
-!{trello|<br>  type: action; <br>  data: memberCreator;<br>}<br>
-:::
+```js 
+!{trello|
+  type: action; 
+  data: memberCreator;
+}
+
+```
 
 Показать ссылку  на автора:
-::: tip
-!{trello|<br>  type: action; <br>  data: memberCreator;<br>  showLink;<br>}<br>
-:::
+```js 
+!{trello|
+  type: action; 
+  data: memberCreator;
+  showLink;
+}
+
+```
 
 По умолчанию макрос покажет название доски внутри которой зашита ссылка на доску. Если надо написать любой текст вместо названия доски, воспользуйтесь параметром title:
-::: tip
-!{trello|<br>  type: action; <br>  data: memberCreator;<br>  title: Показать пользователя;<br>  showLink;<br>}<br>
-:::
+```js 
+!{trello|
+  type: action; 
+  data: memberCreator;
+  title: Показать пользователя;
+  showLink;
+}
+
+```
 
 Если надо показать только ссылку без текста:
-::: tip
-!{trello|<br>  type: action; <br>  data: memberCreator;<br>  linkOnly;<br>}<br>
-:::
+```js 
+!{trello|
+  type: action; 
+  data: memberCreator;
+  linkOnly;
+}
+
+```
 
 
 ### type: card
@@ -111,9 +187,15 @@
 ### data: labels
 
 Показать все метки карточки:
-::: tip
-!{trello|<br>  type: card;<br>  data: labels;<br>  template: $name $color;<br>  splitter: \n<br>}<br>
-:::
+```js 
+!{trello|
+  type: card;
+  data: labels;
+  template: $name $color;
+  splitter: \n
+}
+
+```
 
 Список доступных полей для объекта Member можно посмотреть в [документации Trello](/docs-test/ph/admin/trello-about).
 

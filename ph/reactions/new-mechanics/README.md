@@ -6,11 +6,10 @@
 * [Так что там с новым механизмом?](#так-что-там-с-новым-механизмом?)
      * [Куда делась реакция resetUser?](#куда-делась-реакция-resetuser?)
 * [Что мне делать в итоге?](#что-мне-делать-в-итоге?)
-* [Как мне быстро найти все реакции требующие обновления?](#как-мне-быстро-найти-все-реакции-требующие-обновления?)
+* [Как мне быстро найти все реакции требующие обновления?](#как-мне-быстро-наити-все-реакции-требующие-обновления?)
 * [Какие реакции надо изменить?](#какие-реакции-надо-изменить?)
-* [Список переименованных реакций](#список-переименованных-реакций)
+* [Список переименованных реакций](#список-переименованных-реакции)
 * [Я ничего не понял](#я-ничего-не-понял)
-### 
 ### Что такое take-реакции?
 
 **take-реакции** - это целый класс реакций, которые изменяют направление работы бота, т.е. это реакции которые указывают боту с каким пользователем или чатом работать в последующих реакциях. Когда бот меняет направление, будем говорить что бот поменял **цель реакций**.
@@ -76,17 +75,38 @@
 ### Какие реакции надо изменить?
 
 Вот список take-реакций, которые теперь работаю по новым правилам:
-::: tip
-⚡️for<br>⚡️takeAdmins<br>⚡️takeAuthorUser<br>⚡️takeButtonsUser<br>⚡️takeChat<br>⚡️takeChatAdmins<br>⚡️takeChatDir<br>⚡️takeMentions<br>⚡️takePollUsers<br>⚡️takeRandomUser<br>⚡️takeReplyUser<br>⚡️takeTechChat<br>⚡️takeUser<br>⚡️takeUserList<br>⚡️takeVariable<br>
-:::
+```js 
+⚡️for
+⚡️takeAdmins
+⚡️takeAuthorUser
+⚡️takeButtonsUser
+⚡️takeChat
+⚡️takeChatAdmins
+⚡️takeChatDir
+⚡️takeMentions
+⚡️takePollUsers
+⚡️takeRandomUser
+⚡️takeReplyUser
+⚡️takeTechChat
+⚡️takeUser
+⚡️takeUserList
+⚡️takeVariable
+
+```
 
 
 ### Список переименованных реакций
 
 Следующие реакции назывались take, но они не меняют цель реакций, и по сути не являются take-реакциями. А т.к. у нас take - это теперь отдельный специальный класс реакций, чтобы не путаться, было принято решение их переименовать:
-::: tip
-⚡️takeButton➡️loadButton<br>⚡️takeContent➡️loadContent<br>⚡️takeRandomContent➡️loadRandomContent<br>⚡️takeVoteResults➡️loadVoteResults<br>⚡️takeVote➡️loadVote<br>⚡️takeProfile➡️loadProfile<br>
-:::
+```js 
+⚡️takeButton➡️loadButton
+⚡️takeContent➡️loadContent
+⚡️takeRandomContent➡️loadRandomContent
+⚡️takeVoteResults➡️loadVoteResults
+⚡️takeVote➡️loadVote
+⚡️takeProfile➡️loadProfile
+
+```
 
 Делать с ними ничего не нужно, они работают как и прежде, просто имейте ввиду что они были переименованы. 
 

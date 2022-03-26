@@ -15,9 +15,8 @@ _${getchatMemberResult}_
 ![](./2.png)
 
 
-::: tip
-[**getChatMember method bot.api**](https://core.telegram.org/bots/api#getchatmember)
-:::
+```
+[**getChatMember method bot.api**](https://core.telegram.org/bots/api#getchatmember)```
 
 
 

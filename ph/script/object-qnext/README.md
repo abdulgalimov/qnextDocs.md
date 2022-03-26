@@ -113,9 +113,10 @@ out.mdCode = qnext.html.entities.apply(text, entities, "markdown");
 ### qnext.telegram
 
 В скриптах можно вызвать telegram api метод, с помощью функции:
-::: tip
-qnext.telegram.api(methodName, body, token)<br>
-:::
+```js 
+qnext.telegram.api(methodName, body, token)
+
+```
 * **methodName** - название метода из telegram bot api
 * **body** - объект содержащий параметры для передачи в telegram bot api
 * **token** - токен бота, с помощью которого необходимо отправить запрос в telegram bot api. Параметр не обязательный, если его не передать, будет использован токен текущего бота.
@@ -129,9 +130,8 @@ var body = {
 qnext.telegram.api("sendMessage", body)
 
 ```
-::: tip
-⚠️ Методы telegram.api доступны только в скриптах с включенным асинхронным режимом.
-:::
+```
+⚠️ Методы telegram.api доступны только в скриптах с включенным асинхронным режимом.```
 
 Полный список методов api и их параметров читайте в документации [telegram bot api](https://core.telegram.org/bots/api).
 

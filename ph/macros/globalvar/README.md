@@ -1,9 +1,13 @@
 ## QNext. Макрос globalVar
 
 Макрос `!{globalVar}` покажет значение глобальной переменной:
-::: tip
-!{globalVar|<br>  code: CodeName;<br>  defaultValue: нет такой переменной<br>}<br>
-:::
+```js 
+!{globalVar|
+  code: CodeName;
+  defaultValue: нет такой переменной
+}
+
+```
 * code - код глобальной переменной
 * defaultValue - значение по умолчанию, если такой глобальной переменной нет.
 
