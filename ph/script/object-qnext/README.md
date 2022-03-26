@@ -5,13 +5,13 @@
 
 
 У объекта qnext доступны следующие функции и объекты:
-* [qnext.getValue](#qnext.getvalue) - получить значение переменной тригера
-* [qnext.date](#qnext.date) - работа с датой
-* [qnext.time](#qnext.time) - работа с временем
-* [qnext.html](#qnext.html) - объект имеющий различные методы для работы с html разметкой.
-* [qnext.constants](#qnext.constants) - различные константы
-* [qnext.telegram](#qnext.telegram) - работа с telegram api
-* [qnext.fetch](#qnext.fetch) - http-запросы из скриптов
+* [qnext.getValue](#qnext-getvalue) - получить значение переменной тригера
+* [qnext.date](#qnext-date) - работа с датой
+* [qnext.time](#qnext-time) - работа с временем
+* [qnext.html](#qnext-html) - объект имеющий различные методы для работы с html разметкой.
+* [qnext.constants](#qnext-constants) - различные константы
+* [qnext.telegram](#qnext-telegram) - работа с telegram api
+* [qnext.fetch](#qnext-fetch) - http-запросы из скриптов
 ### qnext.getValue
 
 Функция вернет значение переменной тригера. Функция может принимать два параметр: путь до значения и значение по умолчанию:

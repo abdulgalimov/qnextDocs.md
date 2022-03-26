@@ -1,6 +1,6 @@
 ## QNext. Устаревшая конструкция загрузки профиля
-* [${user.data}](#user.data)
-* [${user.link}](#user.link)
+* [${user.data}](#user-data)
+* [${user.link}](#user-link)
 * [Автозамена](#автозамена)
 ### 
 ### ${user.data}
