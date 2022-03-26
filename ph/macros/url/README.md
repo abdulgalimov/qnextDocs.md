@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext. Макрос url
 
 [⬅️QNext. Макросы](/docs-test/ph/macros)
@@ -65,5 +61,5 @@ sidebar: auto
 
 
 [⬅️QNext. Макросы](/docs-test/ph/macros)
-
+  
 [Original](https://telegra.ph/QNext-Macros-Url-01-23)

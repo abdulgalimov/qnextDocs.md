@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext. Прочее полезное
 
 ▪️Случайный выбор: 
@@ -99,5 +95,5 @@ https://t.me/ИмяБота?start=user_0000000
 [Qnext. Каталог полезное](/docs-test/ph/admin/lifehack)
 
 [Qnext. Документация](/docs-test/ph)
-
+  
 [Original](https://telegra.ph/QNext-admin-other-06-20)

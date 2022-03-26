@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext реакция getChat
 
 **getChat** - получить информацию о чате. 
@@ -25,5 +21,5 @@ _${getChatResult}_
 [QNext. Документация](/docs-test/ph)
 
 
-
+  
 [Original](https://telegra.ph/QNext-admin-reaction-getChat-01-06)

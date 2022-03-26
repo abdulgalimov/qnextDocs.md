@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext. реакция loadGlobalVar
 
 **loadGlobalVar** — эта реакция загрузит или обновит значения глобальных переменных.
@@ -13,5 +9,5 @@ sidebar: auto
 [QNext. Глобальные переменные](/docs-test/ph/admin/globalvariables-about)
 
 [QNext. Каталог реакций](/docs-test/ph/reactions)
-
+  
 [Original](https://telegra.ph/QNext-admin-reaction-loadGlobalVariable-05-08)

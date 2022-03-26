@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext. реакция clearDynamicVar
 
 **clearDynamicVar** - эта реакция удалит значение динамической переменной и очистит кэш указанной переменной.
@@ -15,5 +11,5 @@ sidebar: auto
 [QNext. Динамические переменные](/docs-test/ph/reactions/dynamicvariable)
 
 [QNext. Перечень реакции](/docs-test/ph/reactions)
-
+  
 [Original](https://telegra.ph/QNext-admin-reaction-clearDynamicVariable-05-01)

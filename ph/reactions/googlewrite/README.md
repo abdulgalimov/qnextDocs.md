@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext. реакция googleWrite
 
 **googleWrite** — позволяет записать в Google таблицу произвольные данные. Для того, чтобы использовать эту реакцию, необходимо провести подготовку.
@@ -63,5 +59,5 @@ Google страница - выбираем ранее созданную Google 
 [QNext. Перечень реакции](/docs-test/ph/reactions)
 
 
-
+  
 [Original](https://telegra.ph/QNext-admin-reaction-googleWrite-09-25)

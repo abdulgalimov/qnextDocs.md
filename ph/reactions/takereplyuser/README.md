@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext. реакция takeReplyUser
 
 takeReplyUser - взять пользователя на чье сообщение ответили в чате.
@@ -17,5 +13,5 @@ takeReplyUser - взять пользователя на чье сообщени
 [QNext. Перечень реакций](/docs-test/ph/reactions)
 
 
-
+  
 [Original](https://telegra.ph/QNext-admin-reaction-takeReplyUser-05-09)

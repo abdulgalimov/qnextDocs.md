@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext. Прием платежей с помощью QIWI кошелька
 * [Подключение](#подключение)
 * [Как получить ключи?](#как-получить-ключи?)
@@ -61,5 +57,5 @@ sidebar: auto
 ![](./8.png)
 
 [⬅️QNext. Платежи](/docs-test/ph/pay)
-
+  
 [Original](https://telegra.ph/QNext-Payments-QIWI-12-14)

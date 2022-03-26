@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext. Чаты
 
 В процессе написания
@@ -41,5 +37,5 @@ sidebar: auto
 
 
 [QNext. Каталог реакций](/docs-test/ph/reactions)
-
+  
 [Original](https://telegra.ph/QNext-admin-chat-about-07-05)

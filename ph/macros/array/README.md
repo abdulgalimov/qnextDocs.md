@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext. Макрос array
 
 [⬅️QNext. Макросы](/docs-test/ph/macros)
@@ -85,5 +81,5 @@ test@123@abc<br>
 [⬅️QNext. Макросы](/docs-test/ph/macros)
 
 
-
+  
 [Original](https://telegra.ph/QNext-Macros-Array-04-06)

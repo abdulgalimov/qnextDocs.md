@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext. Голосование
 
 В процессе написания
@@ -19,5 +15,5 @@ sidebar: auto
 
 
 [QNext. Документация](/docs-test/ph)
-
+  
 [Original](https://telegra.ph/QNext-admin-votes-about-05-09)

@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext. реакция openFormResult
 
 **openFormResult** - открытие результатов формы определенного пользователя. По умолчанию загружаются результаты формы инициатора. 
@@ -25,5 +21,5 @@ sidebar: auto
 [QNext. Форма](/docs-test/ph/admin/forms-about)
 
 [QNext. Перечень реакции](/docs-test/ph/reactions)
-
+  
 [Original](https://telegra.ph/QNext-admin-reaction-openFormResult-05-09)

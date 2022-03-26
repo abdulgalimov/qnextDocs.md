@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext. реакция log
 
 **log** - сохранение в логах совершенного действия (или группы действий).
@@ -272,5 +268,5 @@ sidebar: auto
 [QNext. Перечень реакции](/docs-test/ph/reactions)
 
 
-
+  
 [Original](https://telegra.ph/QNext-admin-reaction-log-05-09)

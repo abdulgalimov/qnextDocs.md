@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext. Ограничение profileValue
 
 profleValue - условие проверяет параметр профиля. Этим можно ограничить возможность пользоваться функциями.
@@ -27,5 +23,5 @@ profleValue - условие проверяет параметр профиля.
 [QNext. Перечень реакции](/docs-test/ph/reactions)
 
 
-
+  
 [Original](https://telegra.ph/QNext-admin-restrictions-profileValue-04-25)

@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext. Списки пользователей
 
 В процессе написания
@@ -14,5 +10,5 @@ sidebar: auto
 
 
 [QNext. Перечень реакции](/docs-test/ph/reactions)
-
+  
 [Original](https://telegra.ph/QNext-admin-userList-about-05-08)

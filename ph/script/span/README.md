@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext. Работа с объектом span
 
 [⬅️QNext. Скрипты. Объект qnext](/docs-test/ph/script/object-qnext).
@@ -67,5 +63,5 @@ const span = qnext.time.span.new(0);<br>span.addHour(2);<br>span.addMin(30);<br>
 
 
 [⬅️QNext. Скрипты. Объект qnext](/docs-test/ph/script/object-qnext).
-
+  
 [Original](https://telegra.ph/QNext-Scripts-Span-01-30)

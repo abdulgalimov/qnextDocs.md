@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext admin реакция approveChatJoinRequest
 
 **approveChatJoinRequest** - одобрить запрос в чат.
@@ -20,5 +16,5 @@ sidebar: auto
 [QNext. Перечень реакции](/docs-test/ph/reactions)
 
 
-
+  
 [Original](https://telegra.ph/QNext-admin-reaction-approveChatJoinRequest-01-05)

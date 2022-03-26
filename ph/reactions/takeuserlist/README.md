@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext. реакция takeUserList
 
 **takeUsersList** - выбрать список пользователей для последующей работы с ним. Внутри этой реакции, другие реакции, делающие публикации, будут все отправлять пользователям из выбранного списка.
@@ -11,5 +7,5 @@ sidebar: auto
 [QNext. списки пользователей](/docs-test/ph/admin/userlist-about)
 
 [QNext. Перечень реакции](/docs-test/ph/reactions)
-
+  
 [Original](https://telegra.ph/QNext-admin-reaction-takeUserList-05-08)

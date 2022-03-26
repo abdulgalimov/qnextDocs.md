@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext. реакция for
 
 **for** — многократное повторение одного участка реакций для значений типа список или объект, т.н. цикл. 
@@ -21,5 +17,5 @@ ${forItem.value} — значение списка или объекта, кот
 
 
 [QNext. Перечень реакции](/docs-test/ph/reactions)
-
+  
 [Original](https://telegra.ph/QNext-admin-reaction-for-05-09)

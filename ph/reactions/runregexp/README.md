@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext. реакция runRegexp
 
 **runRegexp** — реакция найдет в указанной строке все подстроки, удовлетворяющие установленному регулярному выражению.
@@ -41,5 +37,5 @@ sidebar: auto
 
 
 [QNext. Перечень реакции](/docs-test/ph/reactions)
-
+  
 [Original](https://telegra.ph/QNext-admin-reaction-runRegexp-05-09)

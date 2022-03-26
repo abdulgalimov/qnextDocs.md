@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext. Макрос switch
 * [Диапазон значений](#диапазон-значений)
 * [Регулярные выражения](#регулярные-выражения)
@@ -56,5 +52,5 @@ sidebar: auto
 
 
 [⬅️QNext. Макросы](/docs-test/ph/macros)
-
+  
 [Original](https://telegra.ph/QNext-Macros-Switch-01-09)

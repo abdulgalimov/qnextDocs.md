@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext. Payments. Payeer
 
 Скоро здесь будет документация по платежам с помощью Payeer.
@@ -9,5 +5,5 @@ sidebar: auto
 
 
 [⬅️QNext. Платежи](/docs-test/ph/pay)
-
+  
 [Original](https://telegra.ph/QNext-Payments-Payeer-01-05)

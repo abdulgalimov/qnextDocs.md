@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext. реакция breakGroup
 
 **breakGroup** - работает по принципу реакции ⚡️break, только завершаются выполнения всех дальнейших реакций в группе.
@@ -27,5 +23,5 @@ sidebar: auto
 
 
 [QNext. Перечень реакции](/docs-test/ph/reactions)
-
+  
 [Original](https://telegra.ph/QNext-admin-reaction-breakGroup-05-09)

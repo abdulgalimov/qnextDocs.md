@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext. Скрипты
 * [Общие сведения](#общие-сведения)
 * [Использование макроса !{script} ](#использование-макроса-!{script})
@@ -130,5 +126,5 @@ var a = 10 + 20;<br>exports.a = a;<br>
 
 
 
-
+  
 [Original](https://telegra.ph/QNextBot-Scripts-10-29)

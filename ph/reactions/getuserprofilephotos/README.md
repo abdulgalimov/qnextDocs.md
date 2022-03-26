@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext реакция getUserProfilePhotos
 
 getUserProfilePhotos - получить аватарку(ки) пользователя
@@ -36,5 +32,5 @@ _${userPhotosResult}_
 [QNext. Перечень реакции](/docs-test/ph/reactions)
 
 
-
+  
 [Original](https://telegra.ph/QNext-admin-reaction-getUserProfilePhotos-01-06)

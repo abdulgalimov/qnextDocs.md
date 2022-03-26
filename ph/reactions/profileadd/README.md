@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext. реакция profileAdd
 
 С помощью этой реакции можно добавлять, или отнимать значения в параметре профиля.
@@ -23,5 +19,5 @@ sidebar: auto
 [QNext. Перечень реакции](/docs-test/ph/reactions)
 
 [QNext. Документация](/docs-test/ph)
-
+  
 [Original](https://telegra.ph/QNext-admin-reaction-profileAdd-04-28)

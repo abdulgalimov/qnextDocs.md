@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext. Макрос crypto
 
 Макрос для кодирования и декодирования текста на платформе qnext. Общий формат макроса выглядит так:
@@ -57,5 +53,5 @@ var userId = qnext.getValue("user.id", 0);<br>var botId = qnext.getValue("user.i
 
 
 [⬅️QNext. Макросы](/docs-test/ph/macros)
-
+  
 [Original](https://telegra.ph/QNext-Macros-Crypto-02-12)

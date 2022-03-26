@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext. Тарифы
 
 На платформе @Qnextbot есть 2 типа режима работы ботов:
@@ -41,5 +37,5 @@ sidebar: auto
 _*Стоимость может быть изменена_
 
 [QNext. Документация](/docs-test/ph)
-
+  
 [Original](https://telegra.ph/QNext-admin-price-about-11-13)

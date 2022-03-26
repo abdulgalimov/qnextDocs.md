@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext. Скрипты. Объект qnext
 
 [⬅️QNext. Скрипты](/docs-test/ph/script)
@@ -134,5 +130,5 @@ qnext.fetch - это функция, которая делает http запро
 
 
 [⬅️QNext. Скрипты](/docs-test/ph/script)
-
+  
 [Original](https://telegra.ph/QNext-Scripts-Object-qnext-01-30)

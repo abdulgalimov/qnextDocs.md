@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext. Конвертор
 
 Конвертор - раздел для выгрузки данных.
@@ -77,5 +73,5 @@ sidebar: auto
 [**QNext. Документация**](/docs-test/ph)
 
 
-
+  
 [Original](https://telegra.ph/QNext-admin-converter-about-02-13)

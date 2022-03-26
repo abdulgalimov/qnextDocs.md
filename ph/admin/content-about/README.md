@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext. Контент
 
 В процессе написания
@@ -21,5 +17,5 @@ sidebar: auto
 
 
 [QNext. Документация](/docs-test/ph)
-
+  
 [Original](https://telegra.ph/QNext-admin-content-about-05-09)

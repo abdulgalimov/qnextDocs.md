@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext. реакция hide
 
 Скрыть(удалить) публикацию после нажатия на кнопку.
@@ -15,5 +11,5 @@ sidebar: auto
 Работает только в личном чате с ботом.
 
 [QNext. Перечень реакции](/docs-test/ph/reactions)
-
+  
 [Original](https://telegra.ph/QNext-admin-reaction-hide-04-28)

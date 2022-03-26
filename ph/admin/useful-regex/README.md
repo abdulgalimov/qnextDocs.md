@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext. примеры regex
 ### Разбор цифр на составные
 * /слово (\d)(\d)?(\d)?/
@@ -173,5 +169,5 @@ ${exec.3} = необязательный текст2
 [Qnext. Каталог полезное](/docs-test/ph/admin/lifehack)
 
 [Qnext. Документация](/docs-test/ph)
-
+  
 [Original](https://telegra.ph/QNext-admin-useful-regex-07-04)

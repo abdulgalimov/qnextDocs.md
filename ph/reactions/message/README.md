@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext. реакция sendMessage
 
 **sendMessage** — реакция отправит текстовое сообщение. Сообщение отправляется в приват с ботом, если реакция не вложена в take-реакцию, которая указывает направление вывода.
@@ -95,5 +91,5 @@ ${localVar.file}
 
 
 [QNext. Перечень реакций](/docs-test/ph/reactions)
-
+  
 [Original](https://telegra.ph/QNext-admin-reaction-message-05-09)

@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext. Макрос value
 
 Макрос  берет значение из указанного пути и возвращает это значение:
@@ -56,5 +52,5 @@ sidebar: auto
 
 
 [⬅️QNext. Макросы](/docs-test/ph/macros)
-
+  
 [Original](https://telegra.ph/QNext-Macros-value-01-10)

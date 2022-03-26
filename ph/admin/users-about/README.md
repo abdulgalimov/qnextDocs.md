@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext. Пользователи
 
 
@@ -32,5 +28,5 @@ sidebar: auto
 [QNext. Перечень реакции](/docs-test/ph/reactions)
 
 
-
+  
 [Original](https://telegra.ph/QNext-admin-users-about-05-27)

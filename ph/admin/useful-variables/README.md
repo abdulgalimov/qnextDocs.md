@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext. Переменные
 
 
@@ -62,5 +58,5 @@ ${scriptResult.out.input}
 [Qnext. Документация](/docs-test/ph)
 
 
-
+  
 [Original](https://telegra.ph/QNext-admin-useful-variables-06-24)

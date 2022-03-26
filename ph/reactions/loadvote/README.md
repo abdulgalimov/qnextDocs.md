@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext. Реакция loadVote
 ![](./1.png)
 
@@ -18,5 +14,5 @@ sidebar: auto
 [QNext. Голосование](/docs-test/ph/admin/vote-about)
 
 [QNext. Перечень реакции](/docs-test/ph/reactions)
-
+  
 [Original](https://telegra.ph/QNext-admin-reaction-loadVote-04-28)

@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext реакция getChatMemberCount
 
 **getChatMemberCount** -получить количество участников в чате.
@@ -29,5 +25,5 @@ _${chatMembersCountResult}_
 [QNext. Перечень реакции](/docs-test/ph/reactions)
 
 
-
+  
 [Original](https://telegra.ph/QNext-admin-reaction-getChatMemberCount-01-06)

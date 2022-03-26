@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext раздел webhooks
 
 **Webhook** — механизм оповещения системы (бота в нашем случае) о событиях. С его помощью можно создать ссылку бота, которую может выполнить любой внешний ресурс.
@@ -38,5 +34,5 @@ sidebar: auto
 [QNext. WEB](/docs-test/ph/admin/web-about)
 
 [QNext. Документация](/docs-test/ph)
-
+  
 [Original](https://telegra.ph/QNext-admin-webhooks-09-11)

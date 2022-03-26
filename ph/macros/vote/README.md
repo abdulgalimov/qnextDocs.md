@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext. Макрос vote
 
 Макрос `!{vote}` используется для работы с голосами опроса. Макрос умет выводить результаты голосования в разных форматах, в зависимости от параметра `type`.
@@ -226,5 +222,5 @@ sidebar: auto
 
 
 [⬅️QNext. Макросы](/docs-test/ph/macros)
-
+  
 [Original](https://telegra.ph/QNext-Macros-Vote-12-23)

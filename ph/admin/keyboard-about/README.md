@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext. Клавиатура
 
 Клавиатура - это кнопки отображаемые под полем ввода текста. 
@@ -16,5 +12,5 @@ sidebar: auto
 
 
 [QNext. Перечень реакции](/docs-test/ph/reactions)
-
+  
 [Original](https://telegra.ph/QNext-admin-keyboard-about-05-08)

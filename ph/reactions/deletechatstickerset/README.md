@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext реакция deleteChatStickerSet
 
 **deleteChatStickerSet** - удалить стикерпак группы
@@ -22,5 +18,5 @@ sidebar: auto
 [QNext. Перечень реакции](/docs-test/ph/reactions)
 
 
-
+  
 [Original](https://telegra.ph/QNext-admin-reaction-deleteChatStickerSet-01-06)

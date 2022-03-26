@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext. Макрос pay
 
 [⬅️QNext. Макросы](/docs-test/ph/macros)
@@ -100,5 +96,5 @@ ton=123, btc=0.001, ...<br>
 [⬅️QNext. Макросы](/docs-test/ph/macros)
 
 
-
+  
 [Original](https://telegra.ph/QNext-Macros-pay-02-08)

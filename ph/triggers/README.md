@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext. Глобальный, Базовый и Общий триггеры
 
 В ⚙️Настройках бота в разделе Триггеры есть разделы
@@ -69,5 +65,5 @@ sidebar: auto
 
 
 
-
+  
 [Original](https://telegra.ph/QNext-Global-and-Base-Trigger-03-18)

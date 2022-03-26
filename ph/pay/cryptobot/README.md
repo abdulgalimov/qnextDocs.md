@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext. Прием платежей с помощью CryptoBot
 * [Создание приложения в CryptoBot](#создание-приложения-в-cryptobot)
 * [Подключение к qnext](#подключение-к-qnext)
@@ -95,5 +91,5 @@ sidebar: auto
 [⬅️QNext. Платежи](/docs-test/ph/pay)
 
 
-
+  
 [Original](https://telegra.ph/QNext-Payments-CryptoBot-02-07)

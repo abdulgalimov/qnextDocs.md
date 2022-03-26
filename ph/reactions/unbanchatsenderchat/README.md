@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext реакция unbanChatSenderChat
 
 **unbanChatSenderChat -** разблокировать канал в чате.
@@ -24,5 +20,5 @@ sidebar: auto
 
 
 
-
+  
 [Original](https://telegra.ph/QNext-admin-reaction-unbanChatSenderChat-01-05)

@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext. реакция kickChatMember
 
 **banChatMember -** Исключает* пользователя из чата. по умолчанию время выставлено = 0 (бесконечно, перезайти сразу нельзя)
@@ -27,5 +23,5 @@ sidebar: auto
 [QNext. Перечень реакции](/docs-test/ph/reactions)
 
 
-
+  
 [Original](https://telegra.ph/QNext-admin-reaction-kickChatMember-05-07)

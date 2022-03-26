@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext. Документация
 ### Меню администратора
 * [QNext. Настройки бота](/docs-test/ph/admin/setting-about)
@@ -59,5 +55,5 @@ sidebar: auto
 🔸[Политика конфиденциальности](http://qnext.app/docs/privacy.html)
 
 🔸[Пользовательское соглашение](http://qnext.app/docs/terms.html) 
-
+  
 [Original](https://telegra.ph/QNext-admin-documentation-05-08)

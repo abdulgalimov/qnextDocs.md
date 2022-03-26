@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext. Переключатели
 
 **Переключатели** - реакции позволяющие изменить состояние определенных реакций.
@@ -13,5 +9,5 @@ sidebar: auto
  * [**reactionOnSwitch**](/docs-test/ph/reactions/reactionswitch) - Изменить состояние реакции
 
 
-
+  
 [Original](https://telegra.ph/QNext-admin-switch-about-01-31)

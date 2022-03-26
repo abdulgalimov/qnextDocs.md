@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext Макрос file
 
 Макрос !{file} позволяет настроить вывод файла, в сообщении.
@@ -113,5 +109,5 @@ sidebar: auto
 
 
 [⬅️QNext. Макросы](/docs-test/ph/macros)
-
+  
 [Original](https://telegra.ph/QNext-Macros-file-05-22)

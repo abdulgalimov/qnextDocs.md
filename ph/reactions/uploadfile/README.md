@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext. реакция uploadFile
 
 **uploadFile** - реакция позволяет загрузить файлы в Телеграм по ссылке. 
@@ -13,5 +9,5 @@ sidebar: auto
 
 
 [QNext. Перечень реакции](/docs-test/ph/reactions)
-
+  
 [Original](https://telegra.ph/QNext-admin-reaction-uploadFile-09-18)

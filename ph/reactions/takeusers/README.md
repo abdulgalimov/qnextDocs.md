@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext. реакция takeUsers
 
 **takeUsers** - взять пользователя(ей) для дальнейшей работы. 
@@ -63,5 +59,5 @@ sidebar: auto
 [QNext. Перечень реакций](/docs-test/ph/reactions)
 
 
-
+  
 [Original](https://telegra.ph/QNext-admin-reaction-takeUsers-05-09)

@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext. Макросы
 * [Общее описание](#общее-описание)
 * [Список доступных макросов](#список-доступных-макросов)
@@ -86,5 +82,5 @@ sidebar: auto
 [QNext. Документация](/docs-test/ph)
 
 
-
+  
 [Original](https://telegra.ph/QNext-Macroses-12-22)

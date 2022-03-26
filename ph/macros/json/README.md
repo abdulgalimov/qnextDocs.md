@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext. Макрос JSON
 
 [⬅️QNext. Макросы](/docs-test/ph/macros)
@@ -30,5 +26,5 @@ sidebar: auto
 
 
 
-
+  
 [Original](https://telegra.ph/QNext-Macros-JSON-05-13)

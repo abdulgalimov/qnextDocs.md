@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext. Настройки бота
 
 Настройки бота - раздел в процессе написания
@@ -175,5 +171,5 @@ sidebar: auto
 :::
 
 [QNext. Документация](/docs-test/ph)
-
+  
 [Original](https://telegra.ph/QNext-admin-setting-about-02-08)

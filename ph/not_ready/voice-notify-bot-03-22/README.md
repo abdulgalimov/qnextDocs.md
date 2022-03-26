@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## @voice_notify_bot - инструкция по применению
 * [О чем этот бот?](#о-чем-этот-бот?)
 * [Как это работает?](#как-это-работает?)
@@ -43,5 +39,5 @@ t.me/voice_notify_bot?start=subscribe_123456789<br>
 ### У меня остались вопросы
 
 Приходите в чат тех поддержки [@QBotsSupport](https://t.me/QBotsSupport), будем рады вам помочь.
-
+  
 [Original](https://telegra.ph/voice-notify-bot-03-22)

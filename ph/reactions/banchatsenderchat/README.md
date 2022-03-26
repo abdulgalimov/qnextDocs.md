@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext реакция banChatSenderChat
 
 **banChatSenderChat** - заблокировать канал в чате.
@@ -19,5 +15,5 @@ sidebar: auto
 [QNext. Перечень реакции](/docs-test/ph/reactions)
 
 
-
+  
 [Original](https://telegra.ph/QNext-admin-reaction-banChatSenderChat-01-05)

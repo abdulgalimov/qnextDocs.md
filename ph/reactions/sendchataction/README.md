@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext. реакция sendChatAction
 
 **sendChatAction** — реакция сообщит пользователям бота или чата о том, что бот, что то пишет, как показано на скриншоте.
@@ -17,5 +13,5 @@ sidebar: auto
 
 
 
-
+  
 [Original](https://telegra.ph/QNext-admin-reaction-sendChatAction-05-09)

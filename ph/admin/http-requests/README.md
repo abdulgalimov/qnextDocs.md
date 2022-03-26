@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext раздел http-requests
 
 http-requests - запросы на api разных сервисов для получения от них различной информации, такой как погода, курсы, цены в магазине, каталоги, и другие варианты.
@@ -119,5 +115,5 @@ requestFromSupportBot
 [QNext. WEB](/docs-test/ph/admin/web-about)
 
 [QNext. Документация](/docs-test/ph)
-
+  
 [Original](https://telegra.ph/QNext-admin-http-requests-09-11)

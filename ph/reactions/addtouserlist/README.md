@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext. реакция addToUserList
 
 **addToUserList** — Добавление пользователя в ранее созданный список пользователей.
@@ -13,5 +9,5 @@ sidebar: auto
 [QNext. списки пользователей](/docs-test/ph/admin/userlist-about)
 
 [QNext. Перечень реакции](/docs-test/ph/reactions)
-
+  
 [Original](https://telegra.ph/QNext-admin-reaction-addToUserList-05-08)

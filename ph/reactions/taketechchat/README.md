@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext реакция takeTechChat
 
 takeTechChat - загружает технический чат для дальнейшей работы с этим чатом.
@@ -13,5 +9,5 @@ takeTechChat - загружает технический чат для даль�
 [QNext. Перечень реакции](/docs-test/ph/reactions)
 
 
-
+  
 [Original](https://telegra.ph/QNext-admin-reaction-takeTechChat-02-08)

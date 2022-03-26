@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext. реакция loadVoteResults
 
 **loadVoteResults** - загрузить результаты голосования в контенте. 
@@ -25,5 +21,5 @@ sidebar: auto
 [QNext. Голосование](/docs-test/ph/admin/vote-about)
 
 [QNext. Перечень реакции](/docs-test/ph/reactions)
-
+  
 [Original](https://telegra.ph/QNext-admin-reaction-loadVoteResults-05-03)

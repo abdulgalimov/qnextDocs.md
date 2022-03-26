@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext. реакция setUserLanguage
 
 **setUserLanguage** — реакция позволяющая пользователю выбрать язык внутри бота. Все системные кнопки внутри бота будут на выбранном языке.
@@ -15,5 +11,5 @@ sidebar: auto
 
 
 [QNext. Перечень реакции](/docs-test/ph/reactions)
-
+  
 [Original](https://telegra.ph/QNext-admin-reaction-setUserLanguage-05-09)

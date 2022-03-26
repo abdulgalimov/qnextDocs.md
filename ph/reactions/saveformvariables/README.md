@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext реакция saveFormVariables
 
 **saveFormVariables** - сохранение локальные переменных при запуске формы, а так же во время прохождения формы.
@@ -22,5 +18,5 @@ sidebar: auto
 
 
 
-
+  
 [Original](https://telegra.ph/QNext-admin-reaction-saveFormVariables-11-25)

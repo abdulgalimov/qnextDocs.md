@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext Подключение бота
 
 В этой статье разберем вопросы подключения бота к @Qnextbot, а так же обновление токена в уже подключенном боте. 
@@ -174,5 +170,5 @@ sidebar: auto
 
 
 [QNext. Документация](/docs-test/ph)
-
+  
 [Original](https://telegra.ph/QNext-transfer-token-about-11-21)

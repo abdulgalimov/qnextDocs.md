@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext. реакция banBotUser
 
 banBotUser - позволяет заблокировать пользователя в боте.
@@ -18,5 +14,5 @@ banBotUser - позволяет заблокировать пользовате�
 
 
 [QNext. Перечень реакции](/docs-test/ph/reactions)
-
+  
 [Original](https://telegra.ph/QNext-admin-reaction-banBotUser-05-07)

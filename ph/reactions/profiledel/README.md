@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext. реакция profileDel
 
 **profileDel** - Эта реакция удалит значение из параметра профиля пользователя, который запустил реакцию.
@@ -19,5 +15,5 @@ sidebar: auto
 [QNext. Перечень реакции](/docs-test/ph/reactions)
 
 [QNext. Документация](/docs-test/ph)
-
+  
 [Original](https://telegra.ph/QNext-admin-reaction-profileDel-04-28)

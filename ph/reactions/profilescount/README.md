@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext реакция profilesCount
 
 **profilesCount** - проверяет у скольких людей параметр профиля соответствует указанному условию.
@@ -29,5 +25,5 @@ sidebar: auto
 [QNext. Документация](/docs-test/ph)
 
 
-
+  
 [Original](https://telegra.ph/QNext-admin-reaction-profilesCount-01-05)

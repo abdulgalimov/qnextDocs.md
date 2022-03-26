@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext. Прием платежей с помощью Robokassa
 
 Скоро здесь будет документация по Robokassa.
@@ -9,5 +5,5 @@ sidebar: auto
 
 
 [⬅️QNext. Платежи](/docs-test/ph/pay)
-
+  
 [Original](https://telegra.ph/QNext-Payments-Robokassa-01-01)

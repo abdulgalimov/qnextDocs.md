@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext. Макрос date
 
 `!{date}` - макрос позволяющий вставить в текст дату.
@@ -202,5 +198,5 @@ sidebar: auto
 
 
 [⬅️QNext. Макросы](/docs-test/ph/macros)
-
+  
 [Original](https://telegra.ph/QNext-Macros-Date-02-13)

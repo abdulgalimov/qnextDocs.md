@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext. реакция notification
 
 **notification** - Текст во всплывающем окне без подтверждения. 
@@ -18,5 +14,5 @@ sidebar: auto
 
 
 [QNext. Перечень реакции](/docs-test/ph/reactions)
-
+  
 [Original](https://telegra.ph/QNext-admin-reaction-notification-04-28)

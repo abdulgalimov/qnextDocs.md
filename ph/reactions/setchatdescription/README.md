@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext реакция setChatDescription
 
 **setChatDescription** - изменить описание чата
@@ -28,5 +24,5 @@ title - текст, на который необходимо изменить о
 [QNext. Чаты](/docs-test/ph/admin/chat-about)
 
 [QNext. Перечень реакции](/docs-test/ph/reactions)
-
+  
 [Original](https://telegra.ph/QNext-admin-reaction-setChatDescription-01-06)

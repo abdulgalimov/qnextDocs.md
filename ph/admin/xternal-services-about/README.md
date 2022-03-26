@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext. Внешние сервисы
 
 Внешние сервисы - в процессе написания
@@ -24,5 +20,5 @@ SSH-ключи
 amoCRM
 
 
-
+  
 [Original](https://telegra.ph/QNext-admin-xternal-services-about-02-08)

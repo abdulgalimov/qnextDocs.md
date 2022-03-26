@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext. реакция scheduleSwitch
 
 scheduleSwitch - включить/выключить расписание
@@ -13,5 +9,5 @@ scheduleSwitch - включить/выключить расписание
 [QNext. Перечень реакций](/docs-test/ph/reactions)
 
 [QNext. Документация](/docs-test/ph)
-
+  
 [Original](https://telegra.ph/QNext-admin-reaction-scheduleOn-05-09)

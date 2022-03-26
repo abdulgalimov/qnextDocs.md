@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext реакция refreshContent
 
 refreshContent - в процессе написания
@@ -15,5 +11,5 @@ refreshContent - в процессе написания
 [QNext. Перечень реакции](/docs-test/ph/reactions)
 
 
-
+  
 [Original](https://telegra.ph/QNext-admin-reaction-refreshContent-02-13)

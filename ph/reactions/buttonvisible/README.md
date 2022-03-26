@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext. реакция buttonVisible
 
 **buttonVisible** — Позволяет показать/скрыть кнопку контента или меню. Выбор раздела скрываемой кнопки и состояние доступны в настройках реакции.
@@ -15,5 +11,5 @@ sidebar: auto
 
 
 [QNext. Перечень реакции](/docs-test/ph/reactions)
-
+  
 [Original](https://telegra.ph/QNext-admin-reaction-buttonVisible-05-09)

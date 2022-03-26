@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext. Макрос random
 
 Макрос `!{random}` - позволяет выбирать случайные значения из указанного диапазона или списка. Например чтобы выбрать случайное число в диапазоне от 1 до 100:
@@ -62,5 +58,5 @@ sidebar: auto
 [⬅️QNext. Макросы](/docs-test/ph/macros)
 
 
-
+  
 [Original](https://telegra.ph/QNext-Macros-Random-03-20)

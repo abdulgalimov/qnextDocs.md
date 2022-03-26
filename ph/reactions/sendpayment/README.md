@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext. реакция sendPayment
 
  sendPayment - Отправить платежную форму пользователю. 
@@ -18,5 +14,5 @@ sidebar: auto
 Подробнее о платежных системах и их подключении: [**Читать здесь**](/docs-test/ph/pay)
 
 [QNext. Перечень реакций](/docs-test/ph/reactions)
-
+  
 [Original](https://telegra.ph/QNext-admin-reaction-sendPayment-05-09)

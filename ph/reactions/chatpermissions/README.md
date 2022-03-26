@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext. реакция chatPermissions
 
 **chatPermissions** — Реакция для управления разрешениями чата.
@@ -30,5 +26,5 @@ sidebar: auto
 [QNext. Чаты](/docs-test/ph/admin/chat-about)
 
 [QNext. Перечень реакции](/docs-test/ph/reactions)
-
+  
 [Original](https://telegra.ph/QNext-admin-reaction-chatPermissions-05-03)

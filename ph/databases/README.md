@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext. Базы данных
 * [О базах данных](#о-базах-данных)
 * [Системные БД](#системные-бд)
@@ -41,5 +37,5 @@ const databaseId = 123;<br>const user = qnext.getValue("user");<br>async functio
 На текущий момент этот раздел находится в разработке. Но в будущем можно будет подключить такие базы как mysql, mongodb, postgresql, clickhouse и другие.
 
 
-
+  
 [Original](https://telegra.ph/QNext-Databases-01-30)

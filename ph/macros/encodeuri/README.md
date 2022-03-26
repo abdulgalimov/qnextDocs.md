@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext. Макросы encodeURI/decodeURI
 
 [⬅️QNext. Макросы](/docs-test/ph/macros)
@@ -42,5 +38,5 @@ sidebar: auto
 
 
 [⬅️QNext. Макросы](/docs-test/ph/macros)
-
+  
 [Original](https://telegra.ph/QNext-Macros-encodeURI-08-10)

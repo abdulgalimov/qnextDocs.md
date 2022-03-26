@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext. реакция sendMenu
 
 **sendMenu** - показать пользователю меню. Вы можете выбрать какой из подпунктов меню открыть при срабатывании реакции.
@@ -22,5 +18,5 @@ sidebar: auto
 
 
 [QNext. Перечень реакции](/docs-test/ph/reactions)
-
+  
 [Original](https://telegra.ph/QNext-admin-reaction-sendMenu-05-09)

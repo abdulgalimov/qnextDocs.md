@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext. реакция takeMentions
 
 **takeMentions** - взять пользователя(ей) для дальнейшей работы. 
@@ -51,5 +47,5 @@ sidebar: auto
 [QNext. Перечень реакций](/docs-test/ph/reactions)
 
 
-
+  
 [Original](https://telegra.ph/QNext-admin-reaction-takeMentions-05-09)

@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext. Макрос attachment
 
 Макрос !{attachment} позволит вам прикрепить меди ресурсы к реакциям ⚡️sendMessage и ⚡️sendMenu. Макрос можно записать тремя разными способами, используя параметры fileId, path, или url
@@ -49,5 +45,5 @@ sidebar: auto
 [⬅️QNext. Макросы](/docs-test/ph/macros)
 
  
-
+  
 [Original](https://telegra.ph/QNext-Macros-attachment-10-16)

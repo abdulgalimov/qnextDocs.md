@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext. реакция takeRandomUser
 
 takeRandomUser - взять в случайном порядке пользователей.
@@ -36,5 +32,5 @@ takeRandomUser - все пользователи
 [QNext. Перечень реакций](/docs-test/ph/reactions)
 
 
-
+  
 [Original](https://telegra.ph/QNext-admin-reaction-takeRandomUser-05-09)

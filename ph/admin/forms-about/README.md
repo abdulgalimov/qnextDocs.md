@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext. Форма
 
 Форма - универсальное средство приема данных от пользователей.
@@ -361,5 +357,5 @@ update.message.audio: mp3, wav, flac и т.д.
 [QNext. Перечень реакции](/docs-test/ph/reactions)
 
 [QNext. Документация](/docs-test/ph)
-
+  
 [Original](https://telegra.ph/QNext-admin-forms-about-05-09)

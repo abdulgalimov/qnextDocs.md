@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext. Реакция promoteChatMember
 
 **promoteChatMember** - реакция позволяет выдавать права администратора в чате от имени бота, а так же изменять и забирать права у админов, назначенных ботом.
@@ -44,5 +40,5 @@ sidebar: auto
 [QNext. Документация](/docs-test/ph)
 
 
-
+  
 [Original](https://telegra.ph/QNext-admin-reaction-promoteChatMember-04-26)

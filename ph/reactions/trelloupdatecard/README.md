@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext реакция trelloUpdateCard
 
 trelloUpdateCard — в процессе написания
@@ -15,5 +11,5 @@ trelloUpdateCard — в процессе написания
 [QNext. Перечень реакции](/docs-test/ph/reactions)
 
 
-
+  
 [Original](https://telegra.ph/QNext-admin-reaction-trelloUpdateCard-02-13)

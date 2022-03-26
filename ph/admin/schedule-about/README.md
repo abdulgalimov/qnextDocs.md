@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext. Расписание
 
 Расписание - выполнение заранее настроенных действий в указанное время.
@@ -91,5 +87,5 @@ sidebar: auto
 
 
 [**QNext. Документация**](/docs-test/ph)
-
+  
 [Original](https://telegra.ph/QNext-admin-schedule-about-02-13)

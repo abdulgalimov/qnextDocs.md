@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext. Переменные
 
 Переменные - в процессе написания
@@ -13,5 +9,5 @@ sidebar: auto
 [QNext. Динамические переменные](/docs-test/ph/reactions/dynamicvariable)
 
 [QNext. Глобальные переменные](/docs-test/ph/admin/globalvariables-about)
-
+  
 [Original](https://telegra.ph/QNext-admin-variables-about-02-08)

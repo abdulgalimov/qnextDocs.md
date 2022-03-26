@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext. реакция createChatInviteLink
 
 createChatInviteLink - Используйте этот метод, чтобы создать дополнительную ссылку для приглашения в чат.
@@ -33,5 +29,5 @@ createChatInviteLink - Используйте этот метод, чтобы с
 [Qnext. Пригласительные ссылки](/docs-test/ph/admin/invitelink-about)
 
 [QNext. Перечень реакции](/docs-test/ph/reactions)
-
+  
 [Original](https://telegra.ph/QNext-admin-reaction-createChatInviteLink-09-25)

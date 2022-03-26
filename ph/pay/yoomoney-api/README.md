@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext. Прием платежей с помощью ЮMoney кошелька
 
 QNext. Прием платежей с помощью ЮMoney кошелька
@@ -71,5 +67,5 @@ QNext. Прием платежей с помощью ЮMoney кошелька
 
 
 
-
+  
 [Original](https://telegra.ph/QNext-Payments-Yoomoney-Api-12-27)

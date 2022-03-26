@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext. реакция  timeout
 
 **timeout** - реакция позволяет запускать действие с задержкой до 5 секунд. 
@@ -21,5 +17,5 @@ sidebar: auto
 [QNext. Перечень реакции](/docs-test/ph/reactions)
 
 [QNext. Документация](/docs-test/ph)
-
+  
 [Original](https://telegra.ph/QNext-admin-reaction-timeout-06-24)

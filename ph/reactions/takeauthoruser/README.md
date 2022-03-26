@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext. реакция takeAuthorUser
 
 takeAuthorUser - взять инициатора действия.
@@ -13,5 +9,5 @@ takeAuthorUser - взять инициатора действия.
 
 
 [QNext. Перечень реакций](/docs-test/ph/reactions)
-
+  
 [Original](https://telegra.ph/QNext-admin-reaction-takeAuthorUser-05-09)

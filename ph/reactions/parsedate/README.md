@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext. Реакция parseDate
 
 Реакция ⚡️parseDate предназначена для создания объекта даты из строкового представления любого формате.
@@ -38,5 +34,5 @@ sidebar: auto
 
 
 [QNext. Перечень реакции](/docs-test/ph/reactions)
-
+  
 [Original](https://telegra.ph/QNext-Reactions-parseDate-02-21)

@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext. Макрос profile
 
 Макрос умеет показывать параметры профиля в разных форматах. Вывод зависит от параметра `type`, который может принимать одно из значений:
@@ -156,5 +152,5 @@ sidebar: auto
 
 
 [⬅️QNext. Макросы](/docs-test/ph/macros)
-
+  
 [Original](https://telegra.ph/QNext-Macros-Profile-01-11)

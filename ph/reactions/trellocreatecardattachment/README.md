@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext реакция trelloGetCardAttachment
 
 Реакция ⚡️trelloGetCardAttachment загрузит файл-обложку карточки trello.
@@ -13,5 +9,5 @@ sidebar: auto
 [QNext. Перечень реакции](/docs-test/ph/reactions)
 
 
-
+  
 [Original](https://telegra.ph/QNext-admin-reaction-trelloCreateCardAttachment-02-13)

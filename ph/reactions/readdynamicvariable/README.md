@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext. реакция readDynamicVar
 
 **readDynamicVar** - эта реакция обновит значение указанной динамической переменной.
@@ -23,5 +19,5 @@ sidebar: auto
 [QNext. Динамические переменные](/docs-test/ph/reactions/dynamicvariable)
 
 [QNext. Перечень реакции](/docs-test/ph/reactions)
-
+  
 [Original](https://telegra.ph/QNext-admin-reaction-readDynamicVariable-05-01)

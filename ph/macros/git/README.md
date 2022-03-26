@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext. Макрос git
 
 [⬅️QNext. Макросы](/docs-test/ph/macros)
@@ -45,5 +41,5 @@ texts:<br>  hello: Привет<br>  by: Пока<br>
 [⬅️QNext. Макросы](/docs-test/ph/macros)
 
 
-
+  
 [Original](https://telegra.ph/QNext-Macros-git-01-29)

@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext. реакция profileDelAll
 
 **profileDelAll -** удалить все профили пользователя. 
@@ -19,5 +15,5 @@ sidebar: auto
 [QNext. Перечень реакции](/docs-test/ph/reactions)
 
 [QNext. Документация](/docs-test/ph)
-
+  
 [Original](https://telegra.ph/QNext-admin-reaction-profileDelAll-05-13)

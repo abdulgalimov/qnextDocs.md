@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext. реакция loadContent
 
 **loadContent** - Взять (загрузить) контент, для последующей работы с ним.
@@ -25,5 +21,5 @@ sidebar: auto
 [QNext. Контент](/docs-test/ph/admin/content-about)
 
 [QNext. Перечень реакции](/docs-test/ph/reactions)
-
+  
 [Original](https://telegra.ph/QNext-admin-reaction-loadContent-05-07)

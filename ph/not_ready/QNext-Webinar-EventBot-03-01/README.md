@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext Webinar. EventBot
 
 `6 Марта 2021` пройдет первый вебинар на тему создания ботов на платформе [@QNextBot](http://t.me/qnextbot). Участие в вебинаре бесплатное, будем рады видеть всех кто интересуется разработкой telegram ботов с использованием конструкторов.
@@ -50,5 +46,5 @@ sidebar: auto
 
 
 
-
+  
 [Original](https://telegra.ph/QNext-Webinar-EventBot-03-01)

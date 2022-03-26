@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext. реакция findProfileValue
 
 **findProfileValue** - найдет все значения профиля, которые удовлетворяют заданным условиям поиска.
@@ -37,5 +33,5 @@ ${findValues...}
 [QNext. Перечень реакции](/docs-test/ph/reactions)
 
 [QNext. Документация](/docs-test/ph)
-
+  
 [Original](https://telegra.ph/QNext-admin-reaction-findProfileValue-09-13)

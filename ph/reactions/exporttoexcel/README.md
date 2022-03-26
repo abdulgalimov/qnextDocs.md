@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext. реакция exportToExcel
 
 exportToExcel - позволяет экспортировать в Excel различные данные.
@@ -59,5 +55,5 @@ exportToExcel - позволяет экспортировать в Excel раз�
 
 
 [QNext. Перечень реакции](/docs-test/ph/reactions)
-
+  
 [Original](https://telegra.ph/QNext-admin-reaction-exportToExcel-05-07)

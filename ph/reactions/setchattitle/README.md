@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext реакция setChatTitle
 
 setChatTitle - изменить название группы
@@ -32,5 +28,5 @@ title - текст, на который необходимо изменить н
 
 
 
-
+  
 [Original](https://telegra.ph/QNext-admin-reaction-setChatTitle-01-06)

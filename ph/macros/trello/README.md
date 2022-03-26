@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext. Макрос trello
 
 Макрос доступен в тригере модели Trello, т.е. когда trello сообщает боту о том что на доске произошли какие то изменения. Макрос поможет показать информацию из полученных данных.
@@ -124,5 +120,5 @@ sidebar: auto
 
 ⬅️[QNext. Макросы](/docs-test/ph/macros)
 
-
+  
 [Original](https://telegra.ph/QNext-Makros-trello-02-20)

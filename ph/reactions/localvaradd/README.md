@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext. реакция localVarAdd
 
 **localVarAdd** — позволяет суммировать (для значения типа: число) или добавлять в конец (для значений типа: Строка, Список или Любой объект) значение указанное в реакции.
@@ -33,5 +29,5 @@ takeUserList
 [QNext. Локальные переменные](/docs-test/ph/reactions/localvar)
 
 [QNext. Перечень реакции](/docs-test/ph/reactions)
-
+  
 [Original](https://telegra.ph/QNext-admin-reaction-localVarAdd-04-30)

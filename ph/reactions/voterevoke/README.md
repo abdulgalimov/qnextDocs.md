@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext. реакция voteRevoke
 
 **voteRevoke** - Аннулировать все голоса в опросе. Все голоса будут безвозвратно удалены.
@@ -15,5 +11,5 @@ sidebar: auto
 [QNext. Голосование](/docs-test/ph/admin/vote-about)
 
 [QNext. Перечень реакции](/docs-test/ph/reactions)
-
+  
 [Original](https://telegra.ph/QNext-admin-reaction-voteRevoke-04-28)

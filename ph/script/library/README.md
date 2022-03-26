@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext. Библиотека скриптов
 
 [⬅️QNext. Скрипты](/docs-test/ph/script)
@@ -35,5 +31,5 @@ const short = ['Вс', 'Пн', 'Вт', 'Ср', 'Чт', 'Пт', 'Сб'];<br>funct
 
 
 [⬅️QNext. Скрипты](/docs-test/ph/script)
-
+  
 [Original](https://telegra.ph/QNext-Scripts-Library-05-08)

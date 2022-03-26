@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext. реакция uploadToTelegraph
 
 **uploadToTelegraph** - Реакция загрузит фото/видео в telegra.ph и вернет ссылку на этот файл. 
@@ -50,5 +46,5 @@ _${localVar.file}_
 [QNext. Перечень реакции](/docs-test/ph/reactions)
 
 [QNext. Документация](/docs-test/ph)
-
+  
 [Original](https://telegra.ph/QNext-admin-reaction-uploadToTelegraph-09-17)

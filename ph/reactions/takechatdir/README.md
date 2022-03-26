@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext. реакция takeChatDir
 
 takeChatDir - загружает каталог чатов. 
@@ -15,5 +11,5 @@ takeChatDir - загружает каталог чатов.
 [QNext. Чаты](/docs-test/ph/admin/chat-about)
 
 [QNext. Перечень реакции](/docs-test/ph/reactions)
-
+  
 [Original](https://telegra.ph/QNext-admin-reaction-takeChatDir-05-07)

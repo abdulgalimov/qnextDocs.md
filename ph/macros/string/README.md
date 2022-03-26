@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext. Макрос string
 
 [⬅️QNext. Макросы](/docs-test/ph/macros)
@@ -147,5 +143,5 @@ sidebar: auto
 
 
 [⬅️QNext. Макросы](/docs-test/ph/macros)
-
+  
 [Original](https://telegra.ph/QNext-Macros-String-09-09)

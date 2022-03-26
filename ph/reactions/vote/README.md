@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext. реакция vote
 
 **vote** - Провести голосование.
@@ -39,5 +35,5 @@ ____________________________
 [QNext. Голосование](/docs-test/ph/admin/vote-about)
 
 [QNext. Перечень реакции](/docs-test/ph/reactions)
-
+  
 [Original](https://telegra.ph/QNext-admin-reaction-vote-04-28)

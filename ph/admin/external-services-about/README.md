@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext. Внешние сервисы
 
 Внешние сервисы - в процессе написания
@@ -19,5 +15,5 @@ Telegraph
 
 
 [QNext. Документация](/docs-test/ph)
-
+  
 [Original](https://telegra.ph/QNext-admin-external-services-about-02-08)

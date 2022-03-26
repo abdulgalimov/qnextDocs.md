@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext реакция keyboardAction
 
 **keyboardAction** - реакция выполняется во время нажатия на любую из клавиш клавиатуры. Таким образом позволяет отслеживать и контролировать то, в каком разделе находится пользователь.
@@ -15,5 +11,5 @@ sidebar: auto
 [QNext. Перечень реакции](/docs-test/ph/reactions)
 
 [QNext. Документация](/docs-test/ph)
-
+  
 [Original](https://telegra.ph/QNext-admin-reaction-keyboardAction-11-25)

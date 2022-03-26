@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext. Магазин
 
 Написание в процессе
@@ -31,5 +27,5 @@ sidebar: auto
 
 
 [QNext. Документация](/docs-test/ph)
-
+  
 [Original](https://telegra.ph/QNext-admin-stores-about-05-09)

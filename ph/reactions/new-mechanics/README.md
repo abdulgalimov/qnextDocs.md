@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## Новый механизм take-реакций
 * [Что такое take-реакции?](#что-такое-take-реакции?)
      * [Рассмотрим пример](#рассмотрим-пример)
@@ -108,5 +104,5 @@ sidebar: auto
 
 
 
-
+  
 [Original](https://telegra.ph/Novyj-mehanizm-take-reakcij-12-13)

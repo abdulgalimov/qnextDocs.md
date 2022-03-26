@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext. реакция writeDynamicVar
 
 writeDynamicVar - эта реакция сохранит значение указанной динамической переменной.
@@ -19,5 +15,5 @@ writeDynamicVar - эта реакция сохранит значение ука
 [QNext. Динамические переменные](/docs-test/ph/reactions/dynamicvariable)
 
 [QNext. Перечень реакции](/docs-test/ph/reactions)
-
+  
 [Original](https://telegra.ph/QNext-admin-reaction-writeDynamicVariable-05-01)

@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext. Новые контенты
 ### Идеи
 * Сортировка сущностей в каталогах
@@ -22,5 +18,5 @@ sidebar: auto
 * refreshContent
 * Переменные в кнопках
 * Поддержка topMedia при использовании макроса: _!{attachment| path: uploadedFile}_ в тексте контента.
-
+  
 [Original](https://telegra.ph/QNext-New-contents-07-07)

@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext. реакция loadRandomContent
 
 **loadRandomContent** - реакция позволяет в случайном порядке выбрать контент из каталога для последующей работы с ним.
@@ -16,5 +12,5 @@ loadRandomContent - выбираем каталог<br> — takeChat — выб�
 [QNext. Контент](/docs-test/ph/admin/content-about)
 
 [QNext. Перечень реакции](/docs-test/ph/reactions)
-
+  
 [Original](https://telegra.ph/QNext-admin-reaction-loadRandomContent-05-07)

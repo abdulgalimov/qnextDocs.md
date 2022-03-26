@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext интеграция с Google таблицами
 
 **Google таблицы** - позволяют собирать и хранить различные данные полученные в вашем боте. 
@@ -57,5 +53,5 @@ sidebar: auto
 [QNext. Перечень реакции](/docs-test/ph/reactions)
 
 
-
+  
 [Original](https://telegra.ph/QNext-admin-google-about-01-11)

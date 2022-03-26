@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext. реакция takeChatMembers
 
 **takeChatMembers** - загружает участников чатов. 
@@ -36,5 +32,5 @@ sidebar: auto
 [QNext. Чаты](/docs-test/ph/admin/chat-about)
 
 [QNext. Перечень реакции](/docs-test/ph/reactions)
-
+  
 [Original](https://telegra.ph/QNext-admin-reaction-takeChatMembers-05-07)

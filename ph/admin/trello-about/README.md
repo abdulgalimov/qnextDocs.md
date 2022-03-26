@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext. trello
 
 Trello — в процессе написания
@@ -19,5 +15,5 @@ Trello — в процессе написания
 
 
 [QNext. Перечень реакции](/docs-test/ph/reactions)
-
+  
 [Original](https://telegra.ph/QNext-admin-trello-about-02-13)

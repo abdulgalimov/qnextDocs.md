@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext. Таймаут рассылки
 * [Что такое таймаут рассылки?](#что-такое-таймаут-рассылки?)
 * [Для чего нужен таймаут?](#для-чего-нужен-таймаут?)
@@ -47,5 +43,5 @@ sidebar: auto
 [QNext. Документация](/docs-test/ph)
 
 
-
+  
 [Original](https://telegra.ph/QNext-Newsletters-Timeout-02-08)

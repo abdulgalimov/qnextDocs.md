@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext. Исполняемые модули
 
 
@@ -64,5 +60,5 @@ sidebar: auto
 [QNext. Документация](/docs-test/ph)
 
 
-
+  
 [Original](https://telegra.ph/QNext-Executable-modules-09-10)

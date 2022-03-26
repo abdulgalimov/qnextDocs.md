@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext реакция getChatMember
 
 **getChatMember** - получить информацию об участнике чата
@@ -30,5 +26,5 @@ _${getchatMemberResult}_
 [QNext. Перечень реакции](/docs-test/ph/reactions)
 
 
-
+  
 [Original](https://telegra.ph/QNext-admin-reaction-getChatMember-01-06)

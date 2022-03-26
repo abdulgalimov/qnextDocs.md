@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext. Прием платежей с помощью ЮКассы для юр. лиц
 * [Подключение](#подключение)
 * [Как получить shopId и секретный ключ?](#как-получить-shopid-и-секретный-ключ?)
@@ -44,5 +40,5 @@ sidebar: auto
 [⬅️QNext. Платежи](/docs-test/ph/pay)
 
 
-
+  
 [Original](https://telegra.ph/QNext-Payments-Yookassa-12-27)

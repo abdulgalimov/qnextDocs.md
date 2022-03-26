@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext admin reaction writeFormCustom
 
 **writeFormCustom** - реакция связанная с полем форме: **custom.** 
@@ -49,5 +45,5 @@ _string ${forItem.value.type}=url_
 [QNext. Перечень реакции](/docs-test/ph/reactions)
 
 
-
+  
 [Original](https://telegra.ph/QNext-admin-reaction-writeFormCustom-01-30)

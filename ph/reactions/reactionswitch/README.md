@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext реакция reactionOnSwitch
 
 **reactionOnSwitch -** изменение статуса работы реакции. Для указания реакции необходимо знать его ID. ID реакции указывается под ее названием.
@@ -28,5 +24,5 @@ sidebar: auto
 [QNext. Перечень реакции](/docs-test/ph/reactions)
 
 [QNext. Документация](/docs-test/ph)
-
+  
 [Original](https://telegra.ph/QNext-admin-reaction-reactionSwitch-11-25)

@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext. реакция exportChatInviteLink
 
 exportChatInviteLink - Позволяет боту создать свою ссылку в чат.
@@ -17,5 +13,5 @@ exportChatInviteLink - Позволяет боту создать свою сс�
 [QNext. Перечень реакции](/docs-test/ph/reactions)
 
 
-
+  
 [Original](https://telegra.ph/QNext-admin-reaction-exportChatInviteLink-04-26)

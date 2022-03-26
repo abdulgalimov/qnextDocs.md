@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext. Профиль Число
 
 Этот параметр содержит числовые значения. Чтобы экспортировать значение из формы в параметр number в триггере финиш этой формы используется переменная 
@@ -23,5 +19,5 @@ ${form.data.Название поля.number}
 [Qnext. Профили](/docs-test/ph/admin/profile-about)
 
 [QNext. Перечень реакции](/docs-test/ph/reactions)
-
+  
 [Original](https://telegra.ph/QNext-admin-profile-number-04-25)

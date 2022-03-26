@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext. реакция leaveChat
 
 **leaveChat -** заставляет бота покинуть чат
@@ -16,5 +12,5 @@ sidebar: auto
 [QNext. Перечень реакции](/docs-test/ph/reactions)
 
 
-
+  
 [Original](https://telegra.ph/QNext-admin-reaction-leaveChat-05-07)

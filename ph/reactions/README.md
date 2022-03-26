@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext. Каталог реакций
 * [Google таблицы](#google)
 * [trello](#trello) (в процессе написания)
@@ -217,5 +213,5 @@ _Все реакции работают как в чате так и в кана
 
 
 [QNext. Документация](/docs-test/ph)
-
+  
 [Original](https://telegra.ph/QNext-admin-reaction-about-05-01)

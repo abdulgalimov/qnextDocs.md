@@ -1,7 +1,3 @@
----
-sidebar: auto
----
-
 ## QNext. WEB
 
 Здесь описаны разделы связанные с работой web ссылок.
@@ -33,5 +29,5 @@ sidebar: auto
 [QNext. Документация](/docs-test/ph)
 
 
-
+  
 [Original](https://telegra.ph/QNext-admin-web-about-09-11)
