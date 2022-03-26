@@ -21,9 +21,12 @@
 :::
 
 Если вам необходимо применить шифрование к сумме нескольких параметров, например id юзера и id бота, вы можете вычислить сумму скриптом:
-::: tip
-var userId = qnext.getValue("user.id", 0);<br>var botId = qnext.getValue("user.id", 0);<br>exports.valueForMd5 = userId+"_"+botId;<br>
-:::
+```js 
+var userId = qnext.getValue("user.id", 0);
+var botId = qnext.getValue("user.id", 0);
+exports.valueForMd5 = userId+"_"+botId;
+
+```
 
 , а потом передать в макрос получившееся значение:
 ::: tip

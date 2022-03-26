@@ -23,32 +23,40 @@
 ### qnext.date.format
 
 Функция форматирующая вывод даты, например чтобы показать дату регистрации пользователя в вашем боте:
-::: tip
-var registerDate = qnext.getValue("client.createdAt");<br>out.result = qnext.date.format(registerDate, "dd.mm.yyyy hh:MM")<br>
-:::
+```js 
+var registerDate = qnext.getValue("client.createdAt");
+out.result = qnext.date.format(registerDate, "dd.mm.yyyy hh:MM")
+
+```
 
 Вывод будет таким: `23.09.2020 06:24`. Подробнее про функцию date.format можно почитать в [документации](https://www.npmjs.com/package/dateformat).
 ### qnext.date.toLocal
 
 Локальное время бота, т.е. время в часовом поясе бота. Если вызвать без аргументов, тогда функция вернет текущее время. Если передать в качестве аргумента дату, тогда эта дата будет конвертирована в часовой пояс бота.
-::: tip
-var currentDate = qnext.date.toLocal();<br>out.result = qnext.date.format(currentDate, "dd.mm.yyyy hh:MM")<br>
-:::
+```js 
+var currentDate = qnext.date.toLocal();
+out.result = qnext.date.format(currentDate, "dd.mm.yyyy hh:MM")
+
+```
 ### qnext.date.toUtc
 
 Дата по Гринвичу `GMT 0`. Если вызвать без аргументов, тогда функция вернет текущее время. Если передать в качестве аргумента дату, тогда эта дата будет конвертирована в часовой пояс `GMT 0`.
-::: tip
-var utcDate = qnext.date.toUtc();<br>out.result = qnext.date.format(utcDate, "dd.mm.yyyy hh:MM")<br>
-:::
+```js 
+var utcDate = qnext.date.toUtc();
+out.result = qnext.date.format(utcDate, "dd.mm.yyyy hh:MM")
+
+```
 ### qnext.time
 
 В объекте `qnext.time` собраны функции для работы с временем.
 ### qnext.time.toHMS
 
 Принимает время в миллисекундах, и выводит в формате `чч:мм:сс`.
-::: tip
-var msec = 320000 // миллисекунды<br>var text = qnext.time.toHMS(msec); // 00:05:20<br>
-:::
+```js 
+var msec = 320000 // миллисекунды
+var text = qnext.time.toHMS(msec); // 00:05:20
+
+```
 ### qnext.time.toHM
 
 Выводит время в формате `чч:мм`.
@@ -64,13 +72,17 @@ qnext.time.span - это объект со своим набором функц�
 * `qnext.html.link` - получить ссылку с текстом
 
 Следующие скрипт покажет имя пользователя с t.me... ссылкой на него:
-::: tip
-var user = qnext.getValue("user");<br>out.result = qnext.html.link(user.name, "http://t.me/"+user.username)<br>
-:::
+```js 
+var user = qnext.getValue("user");
+out.result = qnext.html.link(user.name, "http://t.me/"+user.username)
+
+```
 * `qnext.html.hiddenLink` - скрытая ссылка на фото/видео. Используется если необходимо показать превью на фото/видео, без отображения самой ссылки.
-::: tip
-var user = qnext.getValue("user");<br>out.result = qnext.html.hiddenLink("http://t.me/"+user.username)<br>
-:::
+```js 
+var user = qnext.getValue("user");
+out.result = qnext.html.hiddenLink("http://t.me/"+user.username)
+
+```
 * `qnext.html.italic` - наклонный текст
 * `qnext.html.bold` - жирный текст
 * `qnext.html.code` - моноширинный текст
@@ -84,9 +96,13 @@ var user = qnext.getValue("user");<br>out.result = qnext.html.hiddenLink("http:/
 * `qnext.html.entities.apply` - применяет telegram разметку к тексту и создает текст с html разметкой.
 
 Метод `entities.apply` возвращает на выходе такой же форматированный текст, каким он был отправлен в телеграмм. 
-::: tip
-var text = qnext.getValue("update.message.text")<br>var entities = qnext.getValue("update.message.entities")<br>out.htmlCode = qnext.html.entities.apply(text, entities, "html");<br>out.mdCode = qnext.html.entities.apply(text, entities, "markdown");<br>
-:::
+```js 
+var text = qnext.getValue("update.message.text")
+var entities = qnext.getValue("update.message.entities")
+out.htmlCode = qnext.html.entities.apply(text, entities, "html");
+out.mdCode = qnext.html.entities.apply(text, entities, "markdown");
+
+```
 
 
 ### qnext.constants
@@ -105,9 +121,14 @@ qnext.telegram.api(methodName, body, token)<br>
 * **token** - токен бота, с помощью которого необходимо отправить запрос в telegram bot api. Параметр не обязательный, если его не передать, будет использован токен текущего бота.
 
 Например чтобы отправить текстовое сообщение от имени текущего бота, воспользуйтесь методом:
-::: tip
-var body = {<br>  chat_id: 1234567,<br>  text: "Hello, World!"<br>}<br>qnext.telegram.api("sendMessage", body)<br>
-:::
+```js 
+var body = {
+  chat_id: 1234567,
+  text: "Hello, World!"
+}
+qnext.telegram.api("sendMessage", body)
+
+```
 ::: tip
 ⚠️ Методы telegram.api доступны только в скриптах с включенным асинхронным режимом.
 :::
