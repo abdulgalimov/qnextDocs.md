@@ -17,102 +17,96 @@ module.exports = {
     lastUpdated: true, // string | boolean
     sidebarDepth: 2,
 
-    sidebar1: 'auto',
-    sidebar1: [
-      ['demo/first/', 'первая страница'],
-      ['demo/second/', 'вторая страница'],
-      ['demo/third/', 'третья страница'],
-    ],
     sidebar: [{
       title: 'Документация',
-      path: '/ph/',
+      path: '/',
       collapsable: false,
       children: [{
         title: 'Меню администратора',
         collapsable: false,
         children: [{
           title: 'QNext. Настройки бота',
-          path: '/ph/admin/setting-about/'
+          path: '/admin/setting-about/'
         }, {
           title: 'QNext. Люди',
-          path: '/ph/admin/people-about/'
+          path: '/admin/people-about/'
         }, {
           title: 'QNext. Контент',
-          path: '/ph/admin/content-about/'
+          path: '/admin/content-about/'
         }, {
           title: 'QNext. Команды',
-          path: '/ph/admin/command-about/'
+          path: '/admin/command-about/'
         }, {
           title: 'QNext. Расписание',
-          path: '/ph/admin/shedule-about/'
+          path: '/admin/schedule-about/'
         }, {
           title: 'QNext. Чаты/Каналы',
-          path: '/ph/admin/chats-and-channels-about/'
+          path: '/admin/chats-and-channels-about/'
         }, {
           title: 'QNext. Формы',
-          path: '/ph/admin/forms-about/'
+          path: '/admin/forms-about/'
         }, {
           title: 'QNext. Меню',
-          path: '/ph/admin/menu-about/'
+          path: '/admin/menu-about/'
         }, {
           title: 'QNext. Платежи',
-          path: '/ph/admin/pay/'
+          path: '/pay/'
         }, {
           title: 'QNext. Рассылки',
-          path: '/ph/admin/newsletters-about/'
+          path: '/admin/newsletters-about/'
         }, {
           title: 'QNext. WEB',
-          path: '/ph/admin/web-about/'
+          path: '/admin/web-about/'
         }, {
           title: 'QNext. Магазины',
-          path: '/ph/admin/stores-about/'
+          path: '/admin/stores-about/'
         }, {
           title: 'QNext. WorkFlows',
-          path: '/ph/admin/workflow-about/'
+          path: '/admin/workflow-about/'
         }, {
           title: 'QNext. Конвертор',
-          path: '/ph/admin/converter-about/'
+          path: '/admin/converter-about/'
         }, {
           title: 'QNext. Внешние сервисы',
-          path: '/ph/admin/external-services-about/'
+          path: '/admin/external-services-about/'
         }, {
           title: 'QNext. Клавиатура',
-          path: '/ph/admin/keyboard-about/'
+          path: '/admin/keyboard-about/'
         }, {
           title: 'QNext. Переменные',
-          path: '/ph/admin/variables-about/'
+          path: '/admin/variables-about/'
         }]
       }, {
         title: 'Исполняемые модули',
         collapsable: false,
         children: [{
           title: 'Реакции',
-          path: '/ph/reactions/'
+          path: '/reactions/'
         }, {
           title: 'Ограничения',
-          path: '/ph/restrictions/'
+          path: '/restrictions/'
         }, {
           title: 'Скрипты',
-          path: '/ph/script/'
+          path: '/script/'
         }, {
           title: 'Макросы',
-          path: '/ph/macroses/'
+          path: '/macros/'
         }]
       }, {
         title: 'Статьи',
         collapsable: false,
         children: [{
           title: 'Уведомления',
-          path: '/ph/root/notifications/'
+          path: '/root/notifications/'
         }, {
           title: 'Регистрация бота и обновление токена',
-          path: '/ph/root/token-about/'
+          path: '/root/token-about/'
         }, {
           title: 'Таймаут рассылки',
-          path: '/ph/newsletters/timeout/'
+          path: '/newsletters/timeout/'
         }, {
           title: 'RegEx',
-          path: '/ph/admin/useful-regex/'
+          path: '/admin/useful-regex/'
         }]
       }],
     }]

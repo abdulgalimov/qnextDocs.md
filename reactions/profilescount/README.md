@@ -1,0 +1,29 @@
+## QNext реакция profilesCount
+
+**profilesCount** - проверяет у скольких людей параметр профиля соответствует указанному условию.
+
+![](./1.png)
+
+Вот так будет выглядеть в логах: 
+
+![](./2.png)
+
+Нужный нам параметр будет храниться по пути: 
+* ${profilesCount} 
+
+
+### ОСОБЕННОСТИ:
+
+Не ограничен первыми 200 пользователями, может обработать и проверить хоть миллион
+
+
+
+[QNext. Профили](/docs-test/admin/profile-about)
+
+[QNext. Перечень реакции](/docs-test/reactions)
+
+[QNext. Документация](/docs-test/)
+
+
+  
+[Original](https://telegra.ph/QNext-admin-reaction-profilesCount-01-05)
