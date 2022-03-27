@@ -38,7 +38,7 @@ module.exports = {
           path: '/ph/admin/people-about/'
         }, {
           title: 'QNext. Контент',
-          path: '/ph/admin/command-about/'
+          path: '/ph/admin/content-about/'
         }, {
           title: 'QNext. Команды',
           path: '/ph/admin/command-about/'
@@ -68,7 +68,7 @@ module.exports = {
           path: '/ph/admin/stores-about/'
         }, {
           title: 'QNext. WorkFlows',
-          path: '/ph/admin/workflows-about/'
+          path: '/ph/admin/workflow-about/'
         }, {
           title: 'QNext. Конвертор',
           path: '/ph/admin/converter-about/'
@@ -96,7 +96,7 @@ module.exports = {
           path: '/ph/script/'
         }, {
           title: 'Макросы',
-          path: '/ph/macros/'
+          path: '/ph/macroses/'
         }]
       }, {
         title: 'Статьи',
@@ -106,7 +106,7 @@ module.exports = {
           path: '/ph/root/notifications/'
         }, {
           title: 'Регистрация бота и обновление токена',
-          path: '/ph/root/token/'
+          path: '/ph/root/token-about/'
         }, {
           title: 'Таймаут рассылки',
           path: '/ph/newsletters/timeout/'
