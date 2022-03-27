@@ -7,7 +7,6 @@
 Пример запроса в @HowUsedBot api с помощью NodeJS. Для начала вы должны установить модуль `node-fetch`:
 ```js 
 npm install node-fetch
-
 ```
 
 Далее при поступлении любого `update` от telegram api(по longpoll или webhook) вы должны выполнить следующий метод:
@@ -44,7 +43,6 @@ function sendEvent(userId, event, options=null) {
 }
 
 sendEvent(yourUserId, 'common')
-
 ```
 
 

@@ -6,7 +6,6 @@
   type: md5;
   text: Текст для кодирования;
 }
-
 ```
 
 Параметр `type` может принимать одно из значений:
@@ -25,7 +24,6 @@
   type: md5;
   text: ${user.id};
 }
-
 ```
 
 Если вам необходимо применить шифрование к сумме нескольких параметров, например id юзера и id бота, вы можете вычислить сумму скриптом:
@@ -33,7 +31,6 @@
 var userId = qnext.getValue("user.id", 0);
 var botId = qnext.getValue("user.id", 0);
 exports.valueForMd5 = userId+"_"+botId;
-
 ```
 
 , а потом передать в макрос получившееся значение:
@@ -42,7 +39,6 @@ exports.valueForMd5 = userId+"_"+botId;
   type: md5;
   text: ${localVar.valueForMd5};
 }
-
 ```
 
 Подробнее про скрипты читайте в [документации](/docs-test/script).
@@ -55,7 +51,6 @@ exports.valueForMd5 = userId+"_"+botId;
   text: Текст для кодирования;
   key: ключ шифрования
 }
-
 ```
 ### randomText
 

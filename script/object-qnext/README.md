@@ -26,7 +26,6 @@
 ```js 
 var registerDate = qnext.getValue("client.createdAt");
 out.result = qnext.date.format(registerDate, "dd.mm.yyyy hh:MM")
-
 ```
 
 Вывод будет таким: `23.09.2020 06:24`. Подробнее про функцию date.format можно почитать в [документации](https://www.npmjs.com/package/dateformat).
@@ -36,7 +35,6 @@ out.result = qnext.date.format(registerDate, "dd.mm.yyyy hh:MM")
 ```js 
 var currentDate = qnext.date.toLocal();
 out.result = qnext.date.format(currentDate, "dd.mm.yyyy hh:MM")
-
 ```
 ### qnext.date.toUtc
 
@@ -44,7 +42,6 @@ out.result = qnext.date.format(currentDate, "dd.mm.yyyy hh:MM")
 ```js 
 var utcDate = qnext.date.toUtc();
 out.result = qnext.date.format(utcDate, "dd.mm.yyyy hh:MM")
-
 ```
 ### qnext.time
 
@@ -55,7 +52,6 @@ out.result = qnext.date.format(utcDate, "dd.mm.yyyy hh:MM")
 ```js 
 var msec = 320000 // миллисекунды
 var text = qnext.time.toHMS(msec); // 00:05:20
-
 ```
 ### qnext.time.toHM
 
@@ -75,13 +71,11 @@ qnext.time.span - это объект со своим набором функц�
 ```js 
 var user = qnext.getValue("user");
 out.result = qnext.html.link(user.name, "http://t.me/"+user.username)
-
 ```
 * `qnext.html.hiddenLink` - скрытая ссылка на фото/видео. Используется если необходимо показать превью на фото/видео, без отображения самой ссылки.
 ```js 
 var user = qnext.getValue("user");
 out.result = qnext.html.hiddenLink("http://t.me/"+user.username)
-
 ```
 * `qnext.html.italic` - наклонный текст
 * `qnext.html.bold` - жирный текст
@@ -101,7 +95,6 @@ var text = qnext.getValue("update.message.text")
 var entities = qnext.getValue("update.message.entities")
 out.htmlCode = qnext.html.entities.apply(text, entities, "html");
 out.mdCode = qnext.html.entities.apply(text, entities, "markdown");
-
 ```
 
 
@@ -115,7 +108,6 @@ out.mdCode = qnext.html.entities.apply(text, entities, "markdown");
 В скриптах можно вызвать telegram api метод, с помощью функции:
 ```js 
 qnext.telegram.api(methodName, body, token)
-
 ```
 * **methodName** - название метода из telegram bot api
 * **body** - объект содержащий параметры для передачи в telegram bot api
@@ -128,7 +120,6 @@ var body = {
   text: "Hello, World!"
 }
 qnext.telegram.api("sendMessage", body)
-
 ```
 ```plain
 ⚠️ Методы telegram.api доступны только в скриптах с включенным асинхронным режимом

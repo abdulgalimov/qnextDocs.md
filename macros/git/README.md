@@ -22,7 +22,6 @@
   filename: myFile.txt;
   sourceType: text;
 }
-
 ```
 ### sourceType
 
@@ -35,7 +34,6 @@
 texts:
   hello: Привет
   by: Пока
-
 ```
 
 Тогда чтобы показать содержимое переменной texts.hello, воспользуйтесь макросом:
@@ -48,7 +46,6 @@ texts:
   key: texts.hello;
   defaultValue: Строка не найдена;
 }
-
 ```
 
 

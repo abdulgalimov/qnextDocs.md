@@ -24,7 +24,6 @@
   text: Наклонный текст;
   type: italic;
 }
-
 ```
 ### bold
 ```js 
@@ -32,7 +31,6 @@
   text: Жирный текст;
   type: bold;
 }
-
 ```
 ### underline
 ```js 
@@ -40,7 +38,6 @@
   text: Подчеркнутый текст;
   type: underline;
 }
-
 ```
 ### strike
 ```js 
@@ -48,7 +45,6 @@
   text: Зачеркнутый текст;
   type: strike;
 }
-
 ```
 ### code
 ```js 
@@ -56,7 +52,6 @@
   text: Моноширинная строка;
   type: code;
 }
-
 ```
 ### pre
 ```js 
@@ -64,7 +59,6 @@
   text: Моноширинный блок;
   type: pre;
 }
-
 ```
 ### encode
 ```js 
@@ -72,7 +66,6 @@
   text: Преобразование тегов <>;
   type: encode;
 }
-
 ```
 ### decode
 ```js 
@@ -80,7 +73,6 @@
   text: Обратное преобразование тегов &lt; &gt;;
   type: decode;
 }
-
 ```
 ### link
 ```js 
@@ -89,7 +81,6 @@
   url: https://core.telegram.org/bots/api;
   type: link;
 }
-
 ```
 ### hiddenLink
 
@@ -99,28 +90,24 @@
   url: https://core.telegram.org/bots/api;
   type: hiddenLink;
 }
-
 ```
 ### hiddenSymbol
 
 Скрытый символ:
 ```js 
 !{html| type: hiddenSymbol}
-
 ```
 ### br
 
 Переход на новую строку:
 ```js 
 !{html| type: br}
-
 ```
 ### space
 
 Пробел
 ```js 
 !{html| type: space}
-
 ```
 
 
