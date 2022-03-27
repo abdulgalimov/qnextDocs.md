@@ -39,6 +39,48 @@ module.exports = {
         }, {
           title: 'QNext. Контент',
           path: '/ph/admin/command-about/'
+        }, {
+          title: 'QNext. Команды',
+          path: '/ph/admin/command-about/'
+        }, {
+          title: 'QNext. Расписание',
+          path: '/ph/admin/shedule-about/'
+        }, {
+          title: 'QNext. Чаты/Каналы',
+          path: '/ph/admin/chats-and-channels-about/'
+        }, {
+          title: 'QNext. Формы',
+          path: '/ph/admin/forms-about/'
+        }, {
+          title: 'QNext. Меню',
+          path: '/ph/admin/menu-about/'
+        }, {
+          title: 'QNext. Платежи',
+          path: '/ph/admin/pay/'
+        }, {
+          title: 'QNext. Рассылки',
+          path: '/ph/admin/newsletters-about/'
+        }, {
+          title: 'QNext. WEB',
+          path: '/ph/admin/web-about/'
+        }, {
+          title: 'QNext. Магазины',
+          path: '/ph/admin/stores-about/'
+        }, {
+          title: 'QNext. WorkFlows',
+          path: '/ph/admin/workflows-about/'
+        }, {
+          title: 'QNext. Конвертор',
+          path: '/ph/admin/converter-about/'
+        }, {
+          title: 'QNext. Внешние сервисы',
+          path: '/ph/admin/external-services-about/'
+        }, {
+          title: 'QNext. Клавиатура',
+          path: '/ph/admin/keyboard-about/'
+        }, {
+          title: 'QNext. Переменные',
+          path: '/ph/admin/variables-about/'
         }]
       }, {
         title: 'Исполняемые модули',
@@ -52,6 +94,9 @@ module.exports = {
         }, {
           title: 'Скрипты',
           path: '/ph/script/'
+        }, {
+          title: 'Макросы',
+          path: '/ph/macros/'
         }]
       }, {
         title: 'Статьи',
@@ -60,8 +105,14 @@ module.exports = {
           title: 'Уведомления',
           path: '/ph/root/notifications/'
         }, {
-          title: 'Логи',
-          path: '/ph/reactions/log/'
+          title: 'Регистрация бота и обновление токена',
+          path: '/ph/root/token/'
+        }, {
+          title: 'Таймаут рассылки',
+          path: '/ph/newsletters/timeout/'
+        }, {
+          title: 'RegEx',
+          path: '/ph/admin/useful-regex/'
         }]
       }],
     }]
