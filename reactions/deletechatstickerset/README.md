@@ -8,7 +8,8 @@
 
 
 ```plain
-[**deleteChatStickerSet  method bot.api**](https://core.telegram.org/bots/api#deletechatstickerset)```
+[**deleteChatStickerSet  method bot.api**](https://core.telegram.org/bots/api#deletechatstickerset
+```
 
 
 
