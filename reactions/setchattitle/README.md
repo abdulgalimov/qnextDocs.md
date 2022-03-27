@@ -16,7 +16,8 @@ title - текст, на который необходимо изменить н
 
 
 ```plain
-[**setChatTitle method bot.api**](https://core.telegram.org/bots/api#setchattitle)```
+[**setChatTitle method bot.api**](https://core.telegram.org/bots/api#setchattitle
+```
 
 
 

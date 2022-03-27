@@ -11,7 +11,8 @@ _${getChatResult}_
 
 ![](./2.png)
 ```plain
-[**getChat method bot.api** ](https://core.telegram.org/bots/api#getchat)```
+[**getChat method bot.api** ](https://core.telegram.org/bots/api#getchat
+```
 
 
 

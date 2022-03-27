@@ -18,7 +18,8 @@ stickerSetName - указываем название стикерпака. Ре�
 
 
 ```plain
-**setChatStickerSet method bot.api**```
+**setChatStickerSet method bot.api*
+```
 
 
 

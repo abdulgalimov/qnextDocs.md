@@ -16,7 +16,8 @@ _${getchatMemberResult}_
 
 
 ```plain
-[**getChatMember method bot.api**](https://core.telegram.org/bots/api#getchatmember)```
+[**getChatMember method bot.api**](https://core.telegram.org/bots/api#getchatmember
+```
 
 
 

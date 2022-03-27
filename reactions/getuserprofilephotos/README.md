@@ -22,7 +22,8 @@ _${userPhotosResult}_
 
 
 ```plain
-[**getUserProfilePhotos  method bot.api**](https://core.telegram.org/bots/api#getuserprofilephotos)```
+[**getUserProfilePhotos  method bot.api**](https://core.telegram.org/bots/api#getuserprofilephotos
+```
 
 
 
