@@ -7,7 +7,6 @@
 Пример запроса в @HowUsedBot api с помощью python. Для начала вы должны установить библиотеку `requests`:
 ```js 
 pip3 install requests
-
 ```
 
 Далее при поступлении любого `update` от telegram api(по longpoll или webhook) вы должны выполнить следующий запрос:
@@ -33,7 +32,6 @@ def send_event(user_id, event_name):
 
 
 send_event(you_user_id, "common")
-
 ```
 
 ⚠️Не забудьте заменить:

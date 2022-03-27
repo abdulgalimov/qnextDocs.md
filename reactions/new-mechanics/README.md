@@ -91,7 +91,6 @@
 ⚡️takeUser
 ⚡️takeUserList
 ⚡️takeVariable
-
 ```
 
 
@@ -105,7 +104,6 @@
 ⚡️takeVoteResults➡️loadVoteResults
 ⚡️takeVote➡️loadVote
 ⚡️takeProfile➡️loadProfile
-
 ```
 
 Делать с ними ничего не нужно, они работают как и прежде, просто имейте ввиду что они были переименованы. 

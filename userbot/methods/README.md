@@ -30,7 +30,6 @@
 Получить информацию о себе (юзер бот)
 ```js 
 method: getMe
-
 ```
 ### Messages
 ###  messages.sendMessage
@@ -46,7 +45,6 @@ background: false
 clearDraft: false
 scheduleDate: Unixtime дата отправки
 replyToMessageId: Id сообщения
-
 ```
 * peer: [InputPeer](/docs-test/userbot/inputpeer)
 ### messages.forwardMessages
@@ -60,7 +58,6 @@ id: числовой id сообщения или массив
 silent: false
 background: false
 scheduleDate: Unixtime дата отправки
-
 ```
 * peer: [InputPeer](/docs-test/userbot/inputpeer)
 
@@ -80,7 +77,6 @@ id:
  - 22006
 silent: true
 background: false
-
 ```
 
 
@@ -90,7 +86,6 @@ background: false
 ```js 
 method: messages.reportSpam
 peer: InputPeer
-
 ```
 * peer: [InputPeer](/docs-test/userbot/inputpeer)
 
@@ -102,14 +97,12 @@ peer: InputPeer
 ```js 
 method: messages.getChats
 chatId: -1234567890
-
 ```
 
 _или_
 ```js 
 method: messages.getChats
 chatIdList: [-1234567890]
-
 ```
 ### messages.getFullChat
 
@@ -117,7 +110,6 @@ chatIdList: [-1234567890]
 ```js 
 method: messages.getFullChat
 chatId: -1234567890
-
 ```
 
 
@@ -129,7 +121,6 @@ method: messages.getCommonChats
 user: InputUser
 limit: 10
 maxId: 0
-
 ```
 * user: [InputUser](/docs-test/userbot/inputuser)
 
@@ -140,7 +131,6 @@ maxId: 0
 method: channels.toggleSlowMode
 channel: InputChannel
 seconds: 1
-
 ```
 * channel: [InputChannel](/docs-test/userbot/inputchannel)
 
@@ -151,7 +141,6 @@ seconds: 1
 method: stats.getMegagroupStats
 channel: InputChannel
 dark: true
-
 ```
 * channel: [InputChannel](/docs-test/userbot/inputchannel)
 ### stats.getBroadcastStats
@@ -159,7 +148,6 @@ dark: true
 method: stats.getBroadcastStats
 channel: InputChannel
 dark: true
-
 ```
 * channel: [InputChannel](/docs-test/userbot/inputchannel)
 ### stats.loadAsyncGraph
@@ -167,7 +155,6 @@ dark: true
 method: stats.loadAsyncGraph
 token: "abc...xyz"
 x: 0.5
-
 ```
 
 

@@ -13,7 +13,6 @@
 Все api запросы отправляются по ссылке:
 ```js 
 https://qnext.app/bin/webhooks/6438/181/4opQGmB6OlHqqPRM
-
 ```
 
 Все запрос в api должны обязательно содержать три **body** параметра:
@@ -37,7 +36,6 @@ https://qnext.app/bin/webhooks/6438/181/4opQGmB6OlHqqPRM
     "userId": 7654321,
     "userRegisterTime": "unixtimestamp"
 }
-
 ```
 * **event** - имя события, любая строка длиной от 3 до 20 символов.
 * **userId** - числовой айди юзера
@@ -52,7 +50,6 @@ https://qnext.app/bin/webhooks/6438/181/4opQGmB6OlHqqPRM
 {
    "ok": true
 }
-
 ```
 
 
@@ -70,7 +67,6 @@ https://qnext.app/bin/webhooks/6438/181/4opQGmB6OlHqqPRM
     "requestType": "getOnline",
     "seconds": 300
 }
-
 ```
 
 Параметр seconds не обязательный, по умолчанию 120. Можно передать значение до 600 секунд.
@@ -80,7 +76,6 @@ https://qnext.app/bin/webhooks/6438/181/4opQGmB6OlHqqPRM
     "ok": true,
     "onlineCount": 1
 }
-
 ```
 
 

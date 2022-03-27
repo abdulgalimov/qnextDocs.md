@@ -6,7 +6,6 @@
 ```js 
 name: "${formResult.values.mention}"
 desc: "${formResult.values.text}"
-
 ```
 
 ![](./1.png)

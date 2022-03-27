@@ -32,7 +32,6 @@
 ```js 
 5555 5555 5555 4444
 11/22           333
-
 ```
 
 Подробнее про тестирование ЮКассы можно почитать здесь [https://yookassa.ru/developers/using-api/testing](https://yookassa.ru/developers/using-api/testing) .

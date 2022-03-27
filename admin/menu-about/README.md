@@ -212,7 +212,6 @@ _В разработке_
    }]
   ]
 }
-
 ```
 
 Валидировать и посмотреть JSON строку можно на сайте [https://jsonformatter.org/json-viewer](https://jsonformatter.org/json-viewer).
@@ -231,7 +230,6 @@ buttons:
     - type: url
       title: open url
       url: https://qnext.app
-
 ```
 
 Валидировать и посмотреть YAML строку можно на сайте [https://jsonformatter.org/yaml-viewer](https://jsonformatter.org/yaml-viewer).
