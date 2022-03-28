@@ -20,9 +20,9 @@ _${userPhotosResult}_
 Можно загрузить не более 100 аватарок за 1 запрос
 
 
-```plain
+::: tip ℹ️
 [**getUserProfilePhotos  method bot.api**](https://core.telegram.org/bots/api#getuserprofilephotos)
-```
+:::
 
 
 

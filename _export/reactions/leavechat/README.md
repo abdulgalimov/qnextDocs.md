@@ -2,9 +2,9 @@
 **leaveChat -** заставляет бота покинуть чат
 
 
-```plain
+::: tip ℹ️
 [**leaveChat**   **method**   **bot.api** ](https://core.telegram.org/bots/api#leavechat)
-```
+:::
 
 
 

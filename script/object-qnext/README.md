@@ -120,9 +120,9 @@ var body = {
 }
 qnext.telegram.api("sendMessage", body)
 ```
-```plain
+::: tip ℹ️
 ⚠️ Методы telegram.api доступны только в скриптах с включенным асинхронным режимом
-```
+:::
 
 Полный список методов api и их параметров читайте в документации [telegram bot api](https://core.telegram.org/bots/api).
 

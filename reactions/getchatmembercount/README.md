@@ -13,9 +13,9 @@ _${chatMembersCountResult}_
 
 
 
-```plain
-[**getChatMemberCount method bot.api**](https://core.telegram.org/bots/api#getchatmember
-```
+::: tip ℹ️
+[**getChatMemberCount method bot.api**](https://core.telegram.org/bots/api#getchatmember)
+:::
 
 
 

@@ -6,9 +6,9 @@
 Чаты/Каналы - указываем чат в котором необходимо выполнить действие
 
 
-```plain
+::: tip ℹ️
 [**deleteChatStickerSet  method bot.api**](https://core.telegram.org/bots/api#deletechatstickerset)
-```
+:::
 
 
 

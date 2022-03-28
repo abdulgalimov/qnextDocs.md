@@ -14,9 +14,9 @@ title - текст, на который необходимо изменить н
 Максимум 255 символов.
 
 
-```plain
-[**setChatTitle method bot.api**](https://core.telegram.org/bots/api#setchattitle
-```
+::: tip ℹ️
+[**setChatTitle method bot.api**](https://core.telegram.org/bots/api#setchattitle)
+:::
 
 
 
