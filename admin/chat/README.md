@@ -3,7 +3,6 @@
 
 
 
-
  * [**approveChatJoinRequest**](/docs-test/reactions/approvechatjoinrequest) - Одобрить запрос в чат
  * [**banChatMember**](/docs-test/reactions/kickchatmember) - Заблокировать и удалить участника из чата
  * [**banChatSenderChat**](/docs-test/reactions/banchatsenderchat) - Заблокировать канал в чате

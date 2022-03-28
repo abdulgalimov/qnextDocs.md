@@ -28,55 +28,55 @@ module.exports = {
         title: 'Меню администратора',
         collapsable: false,
         children: [{
-          title: 'Настройки бота',
+          title: '⚙Настройки бота',
           path: '/admin/setting/'
         }, {
-          title: 'Люди',
+          title: '👤Люди',
           path: '/admin/people/'
         }, {
-          title: 'Контент',
+          title: '📋Контент',
           path: '/admin/content/'
         }, {
-          title: 'Команды',
+          title: '↙Команды',
           path: '/admin/command/'
         }, {
-          title: 'Расписание',
+          title: '📅Расписание',
           path: '/admin/schedule/'
         }, {
-          title: 'Чаты/Каналы',
+          title: '👥Чаты/Каналы',
           path: '/admin/chats-and-channels/'
         }, {
-          title: 'Формы',
+          title: '🗄Формы',
           path: '/admin/forms/'
         }, {
-          title: 'Меню',
+          title: '🕹Меню',
           path: '/admin/menu/'
         }, {
-          title: 'Платежи',
+          title: '💰Платежи',
           path: '/admin/pay/'
         }, {
-          title: 'Рассылки',
+          title: '📬Рассылки',
           path: '/admin/newsletters/'
         }, {
-          title: 'WEB',
+          title: '🌐WEB',
           path: '/admin/web/'
         }, {
-          title: 'Магазины',
+          title: '🏪Магазины',
           path: '/admin/stores/'
         }, {
-          title: 'WorkFlows',
+          title: '🔀WorkFlows',
           path: '/admin/workflow/'
         }, {
-          title: 'Конвертор',
+          title: '🗃Конвертор',
           path: '/admin/converter/'
         }, {
-          title: 'Внешние сервисы',
+          title: '🧩Внешние сервисы',
           path: '/admin/external-services/'
         }, {
-          title: 'Клавиатура',
+          title: '⌨️Клавиатура',
           path: '/admin/keyboard/'
         }, {
-          title: 'Переменные',
+          title: '💼Переменные',
           path: '/admin/variables/'
         }]
       }, {
