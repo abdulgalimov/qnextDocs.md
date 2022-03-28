@@ -1,5 +1,2 @@
-## QNext. workflow
-
-QNext admin workflow about
+**Workflow** - в процессе написания
   
-[Original](https://telegra.ph/QNext-admin-workflow-about-02-13)
