@@ -22,7 +22,7 @@ module.exports = {
       path: '/',
       collapsable: false,
       children: [{
-        title: 'Тарифы',
+        title: 'Оплата',
         path: '/price/'
       },{
         title: 'Меню администратора',
