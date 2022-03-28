@@ -22,59 +22,62 @@ module.exports = {
       path: '/',
       collapsable: false,
       children: [{
+        title: 'Тарифы',
+        path: '/price/'
+      },{
         title: 'Меню администратора',
         collapsable: false,
         children: [{
           title: 'QNext. Настройки бота',
-          path: '/admin/setting-about/'
+          path: '/admin/setting/'
         }, {
           title: 'QNext. Люди',
-          path: '/admin/people-about/'
+          path: '/admin/people/'
         }, {
           title: 'QNext. Контент',
-          path: '/admin/content-about/'
+          path: '/admin/content/'
         }, {
           title: 'QNext. Команды',
-          path: '/admin/command-about/'
+          path: '/admin/command/'
         }, {
           title: 'QNext. Расписание',
-          path: '/admin/schedule-about/'
+          path: '/admin/schedule/'
         }, {
           title: 'QNext. Чаты/Каналы',
-          path: '/admin/chats-and-channels-about/'
+          path: '/admin/chats-and-channels/'
         }, {
           title: 'QNext. Формы',
-          path: '/admin/forms-about/'
+          path: '/admin/forms/'
         }, {
           title: 'QNext. Меню',
-          path: '/admin/menu-about/'
+          path: '/admin/menu/'
         }, {
           title: 'QNext. Платежи',
-          path: '/pay/'
+          path: '/admin/pay/'
         }, {
           title: 'QNext. Рассылки',
-          path: '/admin/newsletters-about/'
+          path: '/admin/newsletters/'
         }, {
           title: 'QNext. WEB',
-          path: '/admin/web-about/'
+          path: '/admin/web/'
         }, {
           title: 'QNext. Магазины',
-          path: '/admin/stores-about/'
+          path: '/admin/stores/'
         }, {
           title: 'QNext. WorkFlows',
-          path: '/admin/workflow-about/'
+          path: '/admin/workflow/'
         }, {
           title: 'QNext. Конвертор',
-          path: '/admin/converter-about/'
+          path: '/admin/converter/'
         }, {
           title: 'QNext. Внешние сервисы',
-          path: '/admin/external-services-about/'
+          path: '/admin/external-services/'
         }, {
           title: 'QNext. Клавиатура',
-          path: '/admin/keyboard-about/'
+          path: '/admin/keyboard/'
         }, {
           title: 'QNext. Переменные',
-          path: '/admin/variables-about/'
+          path: '/admin/variables/'
         }]
       }, {
         title: 'Исполняемые модули',
