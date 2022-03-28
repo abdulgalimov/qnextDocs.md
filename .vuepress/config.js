@@ -28,55 +28,55 @@ module.exports = {
         title: 'Меню администратора',
         collapsable: false,
         children: [{
-          title: 'QNext. Настройки бота',
+          title: 'Настройки бота',
           path: '/admin/setting/'
         }, {
-          title: 'QNext. Люди',
+          title: 'Люди',
           path: '/admin/people/'
         }, {
-          title: 'QNext. Контент',
+          title: 'Контент',
           path: '/admin/content/'
         }, {
-          title: 'QNext. Команды',
+          title: 'Команды',
           path: '/admin/command/'
         }, {
-          title: 'QNext. Расписание',
+          title: 'Расписание',
           path: '/admin/schedule/'
         }, {
-          title: 'QNext. Чаты/Каналы',
+          title: 'Чаты/Каналы',
           path: '/admin/chats-and-channels/'
         }, {
-          title: 'QNext. Формы',
+          title: 'Формы',
           path: '/admin/forms/'
         }, {
-          title: 'QNext. Меню',
+          title: 'Меню',
           path: '/admin/menu/'
         }, {
-          title: 'QNext. Платежи',
+          title: 'Платежи',
           path: '/admin/pay/'
         }, {
-          title: 'QNext. Рассылки',
+          title: 'Рассылки',
           path: '/admin/newsletters/'
         }, {
-          title: 'QNext. WEB',
+          title: 'WEB',
           path: '/admin/web/'
         }, {
-          title: 'QNext. Магазины',
+          title: 'Магазины',
           path: '/admin/stores/'
         }, {
-          title: 'QNext. WorkFlows',
+          title: 'WorkFlows',
           path: '/admin/workflow/'
         }, {
-          title: 'QNext. Конвертор',
+          title: 'Конвертор',
           path: '/admin/converter/'
         }, {
-          title: 'QNext. Внешние сервисы',
+          title: 'Внешние сервисы',
           path: '/admin/external-services/'
         }, {
-          title: 'QNext. Клавиатура',
+          title: 'Клавиатура',
           path: '/admin/keyboard/'
         }, {
-          title: 'QNext. Переменные',
+          title: 'Переменные',
           path: '/admin/variables/'
         }]
       }, {
