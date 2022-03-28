@@ -110,4 +110,3 @@
 
 [⬅️QNext. Макросы](/docs-test/macros)
   
-[Original](https://telegra.ph/QNext-Macros-file-05-22)

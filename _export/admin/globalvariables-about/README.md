@@ -33,6 +33,3 @@
 
 — 15к символов на одну глобальную переменную
 
-[QNext. Каталог реакций](/docs-test/_export/reactions)
-  
-[Original](https://telegra.ph/QNext-admin-GlobalVariables-about-05-08)

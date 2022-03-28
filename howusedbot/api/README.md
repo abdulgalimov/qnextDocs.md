@@ -93,4 +93,4 @@ https://qnext.app/bin/webhooks/6438/181/4opQGmB6OlHqqPRM
 
 
   
-[Original](https://telegra.ph/HowUsedBot-Api-03-02)
+

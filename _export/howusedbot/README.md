@@ -33,4 +33,3 @@
 
 В разделе Токены вы можете получить api token, необходимый для работы с api бота. Чтобы отобразилась статистика, вы должны в своем боте при получении `update` от telegram api, делать запрос в [api @HowUsedBot](/docs-test/_export/howusedbot/api).
   
-[Original](https://telegra.ph/HowUsedBot-02-23)

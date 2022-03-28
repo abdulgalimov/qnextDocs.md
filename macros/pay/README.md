@@ -128,4 +128,4 @@ ton=123, btc=0.001, ...
 
 
   
-[Original](https://telegra.ph/QNext-Macros-pay-02-08)
+

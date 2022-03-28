@@ -38,4 +38,3 @@
 
 
   
-[Original](https://telegra.ph/QNext-Macros-menu-05-13)

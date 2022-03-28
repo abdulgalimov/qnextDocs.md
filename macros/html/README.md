@@ -127,4 +127,4 @@
 
 
   
-[Original](https://telegra.ph/QNext-Macros-html-05-13)
+

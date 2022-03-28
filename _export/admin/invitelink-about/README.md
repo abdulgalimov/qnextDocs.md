@@ -16,8 +16,3 @@ _в разработке_
 
 
 
-[QNext. Перечень реакции](/docs-test/_export/reactions)
-
-
-  
-[Original](https://telegra.ph/QNext-admin-inviteLink-about-09-25)

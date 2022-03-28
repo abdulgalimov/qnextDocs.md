@@ -168,6 +168,3 @@ ${exec.3} = необязательный текст2
 
 [Qnext. Каталог полезное](/docs-test/_export/admin/lifehack)
 
-[Qnext. Документация](/docs-test/_export)
-  
-[Original](https://telegra.ph/QNext-admin-useful-regex-07-04)

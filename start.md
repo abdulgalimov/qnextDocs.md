@@ -56,5 +56,5 @@
 
 🔸[Пользовательское соглашение](http://qnext.app/docs/terms.html) 
   
-[Original](https://telegra.ph/QNext-admin-documentation-05-08)
+
 

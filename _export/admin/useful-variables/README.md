@@ -55,8 +55,3 @@ ${scriptResult.out.input}
 
 [Qnext. Каталог полезное](/docs-test/_export/admin/lifehack)
 
-[Qnext. Документация](/docs-test/_export)
-
-
-  
-[Original](https://telegra.ph/QNext-admin-useful-variables-06-24)

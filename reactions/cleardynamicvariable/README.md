@@ -10,6 +10,3 @@
 
 [QNext. Динамические переменные](/docs-test/reactions/dynamicvariable)
 
-[QNext. Перечень реакции](/docs-test/reactions)
-  
-[Original](https://telegra.ph/QNext-admin-reaction-clearDynamicVariable-05-01)

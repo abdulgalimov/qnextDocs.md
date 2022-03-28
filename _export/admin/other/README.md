@@ -94,6 +94,3 @@ https://t.me/ИмяБота?start=user_0000000
 
 [Qnext. Каталог полезное](/docs-test/_export/admin/lifehack)
 
-[Qnext. Документация](/docs-test/_export)
-  
-[Original](https://telegra.ph/QNext-admin-other-06-20)

@@ -64,4 +64,4 @@ console.log("Текущий день недели: "+name)
 
 [⬅️QNext. Скрипты](/docs-test/script)
   
-[Original](https://telegra.ph/QNext-Scripts-Library-05-08)
+

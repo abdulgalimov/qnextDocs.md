@@ -40,8 +40,3 @@
 
 
 
-[QNext. Документация](/docs-test/_export)
-
-
-  
-[Original](https://telegra.ph/QNext-Newsletters-Timeout-02-08)

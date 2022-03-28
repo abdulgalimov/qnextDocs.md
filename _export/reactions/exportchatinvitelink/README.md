@@ -15,6 +15,3 @@ exportChatInviteLink - Используйте этот метод для соз�
 
 [Qnext. Пригласительные ссылки](/docs-test/_export/admin/invitelink-about)
 
-[QNext. Перечень реакции](/docs-test/_export/reactions)
-  
-[Original](https://telegra.ph/QNext-admin-reaction-exportChatInviteLink-12-09)

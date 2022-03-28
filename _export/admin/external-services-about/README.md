@@ -14,6 +14,3 @@ Telegraph
 
 
 
-[QNext. Документация](/docs-test/_export)
-  
-[Original](https://telegra.ph/QNext-admin-external-services-about-02-08)

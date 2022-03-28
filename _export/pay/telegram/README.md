@@ -6,4 +6,3 @@
 
 [⬅️QNext. Платежи](/docs-test/_export/pay)
   
-[Original](https://telegra.ph/QNext-Payments-Telegram-01-01)

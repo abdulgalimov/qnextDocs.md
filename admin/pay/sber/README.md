@@ -5,4 +5,3 @@
 
 
   
-[Original](https://telegra.ph/QNext-Payment-Sber-10-26)

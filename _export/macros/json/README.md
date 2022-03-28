@@ -34,4 +34,3 @@
 
 
   
-[Original](https://telegra.ph/QNext-Macros-JSON-05-13)

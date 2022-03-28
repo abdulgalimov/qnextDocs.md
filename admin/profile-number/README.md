@@ -18,6 +18,3 @@ ${form.data.Название поля.number}
 
 [Qnext. Профили](/docs-test/admin/profile-about)
 
-[QNext. Перечень реакции](/docs-test/reactions)
-  
-[Original](https://telegra.ph/QNext-admin-profile-number-04-25)

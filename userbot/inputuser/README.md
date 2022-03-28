@@ -26,4 +26,4 @@ messageId: 123
 
 [🏠Главная](/docs-test/userbot)
   
-[Original](https://telegra.ph/QNext-UserBot-InputUser-09-03)
+

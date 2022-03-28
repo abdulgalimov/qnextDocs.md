@@ -8,6 +8,3 @@ takeAuthorUser - взять инициатора действия.
 
 
 
-[QNext. Перечень реакций](/docs-test/_export/reactions)
-  
-[Original](https://telegra.ph/QNext-admin-reaction-takeAuthorUser-05-09)

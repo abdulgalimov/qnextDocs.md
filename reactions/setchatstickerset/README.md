@@ -25,8 +25,4 @@ stickerSetName - указываем название стикерпака. Ре�
 
 [QNext. Чаты](/docs-test/admin/chat-about)
 
-[QNext. Перечень реакции](/docs-test/reactions)
 
-
-  
-[Original](https://telegra.ph/QNext-admin-reaction-setChatStickerSet-01-06)

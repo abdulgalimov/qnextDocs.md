@@ -14,6 +14,3 @@ Trello — в процессе написания
 
 
 
-[QNext. Перечень реакции](/docs-test/_export/reactions)
-  
-[Original](https://telegra.ph/QNext-admin-trello-about-02-13)

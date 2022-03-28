@@ -23,6 +23,3 @@
 
 [QNext. Перечень реакции](/docs-test/reactions)
 
-[QNext. Документация](/docs-test/)
-  
-[Original](https://telegra.ph/QNext-admin-reaction-reactionSwitch-11-25)

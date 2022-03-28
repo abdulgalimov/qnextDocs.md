@@ -37,6 +37,4 @@
 
 
 
-[QNext. Перечень реакции](/docs-test/reactions)
-  
-[Original](https://telegra.ph/QNext-Reactions-parseDate-02-21)
+

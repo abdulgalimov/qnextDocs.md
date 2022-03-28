@@ -10,8 +10,3 @@ deleteMessage — реакция позволяет удалять пост в �
 
 
 
-[QNext. Перечень реакции](/docs-test/reactions)
-
- 
-  
-[Original](https://telegra.ph/QNext-admin-reaction-deleteMessage-05-09)

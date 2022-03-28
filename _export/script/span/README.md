@@ -95,4 +95,3 @@ out.time = span.locale(); // 2ч. 30мин.
 
 [⬅️QNext. Скрипты. Объект qnext](/docs-test/_export/script/object-qnext).
   
-[Original](https://telegra.ph/QNext-Scripts-Span-01-30)

@@ -88,8 +88,3 @@
 
 
 
-[QNext. Документация](/docs-test/_export)
-
-
-  
-[Original](https://telegra.ph/QNext-Macroses-12-22)

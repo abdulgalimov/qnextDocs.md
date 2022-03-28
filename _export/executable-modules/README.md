@@ -58,8 +58,3 @@
 
 
 
-[QNext. Документация](/docs-test/_export)
-
-
-  
-[Original](https://telegra.ph/QNext-Executable-modules-09-10)

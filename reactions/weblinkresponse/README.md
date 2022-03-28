@@ -6,6 +6,3 @@ WeblinkResponse - позволит показать в web-ссылке любо
 
 [QNext. WEB](/docs-test/admin/web-about)
 
-[QNext. Перечень реакции](/docs-test/reactions)
-  
-[Original](https://telegra.ph/QNext-admin-reaction-WeblinkResponse-01-31)

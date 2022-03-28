@@ -56,8 +56,3 @@
 
 [QNext. Пользователи](/docs-test/_export/admin/users-about)
 
-[QNext. Перечень реакций](/docs-test/_export/reactions)
-
-
-  
-[Original](https://telegra.ph/QNext-admin-reaction-takeUsers-05-09)

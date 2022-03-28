@@ -169,6 +169,4 @@
 
 
 
-[QNext. Документация](/docs-test/)
-  
-[Original](https://telegra.ph/QNext-transfer-token-about-11-21)
+

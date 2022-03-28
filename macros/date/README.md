@@ -236,4 +236,4 @@
 
 [⬅️QNext. Макросы](/docs-test/macros)
   
-[Original](https://telegra.ph/QNext-Macros-Date-02-13)
+

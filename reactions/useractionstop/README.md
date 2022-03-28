@@ -4,6 +4,3 @@ userActionStop - позволяет останавливать ранее зап
 
 
 
-[QNext. Перечень реакций](/docs-test/reactions)
-  
-[Original](https://telegra.ph/QNext-admin-reaction-userActionStop-06-24)

@@ -6,6 +6,3 @@
 
 [QNext. Скрипты](/docs-test/_export/script)
 
-[QNext. Перечень реакции](/docs-test/_export/reactions)
-  
-[Original](https://telegra.ph/QNext-admin-reaction-runScript-05-09)

@@ -82,4 +82,4 @@
 
 [**QNext. Документация**](/docs-test/)
   
-[Original](https://telegra.ph/QNext-admin-schedule-about-02-13)
+

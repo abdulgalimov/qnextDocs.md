@@ -38,8 +38,3 @@ bool ❌ ${update.message.text}
 
 [QNext. Перечень реакции](/docs-test/reactions)
 
-[QNext. Документация](/docs-test/)
-
-
-  
-[Original](https://telegra.ph/QNext-admin-reaction-bindTrigger-11-25)

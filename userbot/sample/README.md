@@ -64,4 +64,3 @@ peer:
 
 text: Текст для отправки
   
-[Original](https://telegra.ph/QNext-UserBot-Sample-10-04)

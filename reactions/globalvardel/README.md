@@ -6,6 +6,3 @@
 
 [QNext. Глобальные переменные](/docs-test/admin/globalvariables-about)
 
-[QNext. Перечень реакции](/docs-test/reactions)
-  
-[Original](https://telegra.ph/QNext-admin-reaction-globalVarDel-05-08)

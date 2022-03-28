@@ -14,6 +14,3 @@ writeDynamicVar - эта реакция сохранит значение ука
 
 [QNext. Динамические переменные](/docs-test/reactions/dynamicvariable)
 
-[QNext. Перечень реакции](/docs-test/reactions)
-  
-[Original](https://telegra.ph/QNext-admin-reaction-writeDynamicVariable-05-01)

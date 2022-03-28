@@ -35,6 +35,3 @@
 
 _*Стоимость может быть изменена_
 
-[QNext. Документация](/docs-test/_export)
-  
-[Original](https://telegra.ph/QNext-admin-price-about-11-13)

@@ -144,4 +144,4 @@ qnext.fetch - это функция, которая делает http запро
 
 [⬅️QNext. Скрипты](/docs-test/script)
   
-[Original](https://telegra.ph/QNext-Scripts-Object-qnext-01-30)
+

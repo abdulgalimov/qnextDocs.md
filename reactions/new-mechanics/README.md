@@ -115,12 +115,4 @@
 
 
 
-[QNext. Документация](/docs-test/)
 
-
-
-
-
-
-  
-[Original](https://telegra.ph/Novyj-mehanizm-take-reakcij-12-13)

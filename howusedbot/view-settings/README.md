@@ -19,4 +19,4 @@ https://qnext.app/bin/charts/6438/19/678cf4eb1efb80c5669b1f3b443d38850d4d642f
 
 
   
-[Original](https://telegra.ph/HowUsedBot-View-Settings-03-17)
+

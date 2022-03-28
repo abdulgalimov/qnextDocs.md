@@ -8,6 +8,3 @@ scheduleSwitch - включить/выключить расписание
 
 [QNext. Перечень реакций](/docs-test/_export/reactions)
 
-[QNext. Документация](/docs-test/_export)
-  
-[Original](https://telegra.ph/QNext-admin-reaction-scheduleOn-05-09)

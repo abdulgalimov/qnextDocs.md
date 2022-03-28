@@ -7,7 +7,3 @@ fix - Зафиксировать пост, т.е. если после этой �
 
 
 
-[QNext. Перечень реакции](/docs-test/_export/reactions)
-
-  
-[Original](https://telegra.ph/QNext-admin-reaction-fix-04-28)

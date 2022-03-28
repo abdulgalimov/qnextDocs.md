@@ -56,4 +56,4 @@ sendEvent(yourUserId, 'common')
 
 [⬅️ @HowUsedBot - API](/docs-test/howusedbot/api)
   
-[Original](https://telegra.ph/HowUsedBot-Api-Nodejs-03-10)
+

@@ -211,6 +211,3 @@ _Все реакции работают как в чате так и в кана
 
 
 
-[QNext. Документация](/docs-test/_export)
-  
-[Original](https://telegra.ph/QNext-admin-reaction-about-05-01)

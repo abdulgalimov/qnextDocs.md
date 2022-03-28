@@ -115,4 +115,4 @@
 
 
   
-[Original](https://telegra.ph/QNext-admin-data-models-about-01-25)
+

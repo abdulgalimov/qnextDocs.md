@@ -223,6 +223,3 @@
 
 
 
-[QNext. Документация](/docs-test/_export)
-  
-[Original](https://telegra.ph/QNext-admin-content-about-02-03)

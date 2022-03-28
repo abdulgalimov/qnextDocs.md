@@ -25,8 +25,3 @@
 
 
 
-[QNext. Перечень реакции](/docs-test/reactions)
-
-
-  
-[Original](https://telegra.ph/QNext-admin-users-about-05-27)

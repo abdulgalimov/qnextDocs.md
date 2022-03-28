@@ -56,8 +56,3 @@ Google страница - выбираем ранее созданную Google 
 
 [QNext. Глобальные переменные](/docs-test/_export/admin/globalvariables-about)
 
-[QNext. Перечень реакции](/docs-test/_export/reactions)
-
-
-  
-[Original](https://telegra.ph/QNext-admin-reaction-googleWrite-09-25)

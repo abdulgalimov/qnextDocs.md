@@ -50,4 +50,4 @@
 
 [⬅️QNext. Макросы](/docs-test/macros)
   
-[Original](https://telegra.ph/QNext-Macros-encodeURI-08-10)
+

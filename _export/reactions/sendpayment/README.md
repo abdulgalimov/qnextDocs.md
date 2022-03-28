@@ -13,6 +13,3 @@
 
 Подробнее о платежных системах и их подключении: [**Читать здесь**](/docs-test/_export/pay)
 
-[QNext. Перечень реакций](/docs-test/_export/reactions)
-  
-[Original](https://telegra.ph/QNext-admin-reaction-sendPayment-05-09)

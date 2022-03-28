@@ -8,6 +8,3 @@
 
 
 
-[QNext. Перечень реакции](/docs-test/reactions)
-  
-[Original](https://telegra.ph/QNext-admin-reaction-adminMenu-05-09)

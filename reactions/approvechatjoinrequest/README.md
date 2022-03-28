@@ -13,8 +13,3 @@
 
 [QNext. Чаты](/docs-test/admin/chat-about)
 
-[QNext. Перечень реакции](/docs-test/reactions)
-
-
-  
-[Original](https://telegra.ph/QNext-admin-reaction-approveChatJoinRequest-01-05)

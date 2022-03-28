@@ -25,6 +25,3 @@ loadContent — взять контент
 
 [QNext. Голосование](/docs-test/_export/admin/vote-about)
 
-[QNext. Перечень реакции](/docs-test/_export/reactions)
-  
-[Original](https://telegra.ph/QNext-admin-reaction-loadVoteResults-05-03)

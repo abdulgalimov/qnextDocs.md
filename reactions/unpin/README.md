@@ -26,6 +26,3 @@ disableNotification - отключит оповещение об открепл�
 
 
 
-[QNext. Перечень реакций](/docs-test/reactions)
-  
-[Original](https://telegra.ph/QNext-admin-reaction-unpin-05-09)

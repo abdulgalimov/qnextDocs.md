@@ -2,4 +2,3 @@
 
 text Example
   
-[Original](https://telegra.ph/VCR-05-20)

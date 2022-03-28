@@ -26,6 +26,3 @@
 
 
 
-[QNext. Документация](/docs-test/_export)
-  
-[Original](https://telegra.ph/QNext-admin-stores-about-05-09)

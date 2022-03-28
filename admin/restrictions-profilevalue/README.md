@@ -20,8 +20,3 @@ profleValue - условие проверяет параметр профиля.
 
 [QNext. Профили](/docs-test/admin/profile-about)
 
-[QNext. Перечень реакции](/docs-test/reactions)
-
-
-  
-[Original](https://telegra.ph/QNext-admin-restrictions-profileValue-04-25)

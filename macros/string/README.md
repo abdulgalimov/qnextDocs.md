@@ -218,4 +218,4 @@
 
 [⬅️QNext. Макросы](/docs-test/macros)
   
-[Original](https://telegra.ph/QNext-Macros-String-09-09)
+

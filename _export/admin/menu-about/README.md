@@ -387,14 +387,3 @@ buttons:
 
 
 
-[QNext. Документация](/docs-test/_export)
-
-
-
-
-
-
-
-
-  
-[Original](https://telegra.ph/QNext-admin-menu-about-08-18)

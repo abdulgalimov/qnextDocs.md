@@ -17,6 +17,3 @@
 
 
 
-[QNext. Перечень реакции](/docs-test/_export/reactions)
-  
-[Original](https://telegra.ph/QNext-admin-reaction-sendMenu-05-09)

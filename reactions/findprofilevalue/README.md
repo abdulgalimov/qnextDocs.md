@@ -32,6 +32,3 @@ ${findValues...}
 
 [QNext. Перечень реакции](/docs-test/reactions)
 
-[QNext. Документация](/docs-test/)
-  
-[Original](https://telegra.ph/QNext-admin-reaction-findProfileValue-09-13)

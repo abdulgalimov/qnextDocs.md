@@ -22,8 +22,3 @@
 
 [QNext. Перечень реакции](/docs-test/reactions)
 
-[QNext. Документация](/docs-test/)
-
-
-  
-[Original](https://telegra.ph/QNext-admin-reaction-profilesCount-01-05)

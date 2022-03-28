@@ -9,4 +9,3 @@
 
 [🏠Главная](/docs-test/userbot)
   
-[Original](https://telegra.ph/QNext-UserBot-Types-09-05)

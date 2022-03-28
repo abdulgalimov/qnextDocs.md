@@ -43,4 +43,4 @@ send_event(you_user_id, "common")
 
 [⬅️ @HowUsedBot - API](/docs-test/howusedbot/api)
   
-[Original](https://telegra.ph/HowUsedBot-Api-Python-03-10)
+

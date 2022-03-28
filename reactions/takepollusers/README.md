@@ -8,6 +8,3 @@
 
 [QNext. Голосование](/docs-test/admin/vote-about)
 
-[QNext. Перечень реакции](/docs-test/reactions)
-  
-[Original](https://telegra.ph/QNext-admin-reaction-takePollUsers-05-03)

@@ -12,6 +12,3 @@ ID Результатов будут находится по пути: ${formDat
 
 [QNext. Форма](/docs-test/admin/forms-about)
 
-[QNext. Перечень реакции](/docs-test/reactions)
-  
-[Original](https://telegra.ph/QNext-admin-reaction-takeFormResults-05-09)

@@ -5,6 +5,3 @@
 
 
 
-[Qnext. Документация](/docs-test/)
-  
-[Original](https://telegra.ph/QNext-admin-lifehack-06-13)

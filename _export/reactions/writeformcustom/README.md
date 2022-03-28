@@ -42,8 +42,3 @@ _string ${forItem.value.type}=url_
 
 [QNext. Форма](/docs-test/_export/admin/forms-about)
 
-[QNext. Перечень реакции](/docs-test/_export/reactions)
-
-
-  
-[Original](https://telegra.ph/QNext-admin-reaction-writeFormCustom-01-30)

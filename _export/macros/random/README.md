@@ -78,4 +78,3 @@
 
 
   
-[Original](https://telegra.ph/QNext-Macros-Random-03-20)

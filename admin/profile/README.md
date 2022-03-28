@@ -66,6 +66,3 @@
 
 [QNext. Перечень реакции](/docs-test/reactions)
 
-[QNext. Документация](/docs-test/)
-  
-[Original](https://telegra.ph/QNext-admin-profile-about-04-25)

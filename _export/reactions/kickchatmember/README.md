@@ -20,8 +20,3 @@
 
 [QNext. Чаты](/docs-test/_export/admin/chat-about)
 
-[QNext. Перечень реакции](/docs-test/_export/reactions)
-
-
-  
-[Original](https://telegra.ph/QNext-admin-reaction-kickChatMember-05-07)

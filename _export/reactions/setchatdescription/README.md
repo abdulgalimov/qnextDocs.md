@@ -23,6 +23,3 @@ title - текст, на который необходимо изменить о
 
 [QNext. Чаты](/docs-test/_export/admin/chat-about)
 
-[QNext. Перечень реакции](/docs-test/_export/reactions)
-  
-[Original](https://telegra.ph/QNext-admin-reaction-setChatDescription-01-06)

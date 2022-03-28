@@ -9,6 +9,3 @@
 
 
 
-[QNext. Перечень реакции](/docs-test/reactions)
-  
-[Original](https://telegra.ph/QNext-admin-userList-about-05-08)

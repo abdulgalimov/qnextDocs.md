@@ -2,4 +2,3 @@
 
 base menu
   
-[Original](https://telegra.ph/base-menu-08-18)

@@ -104,4 +104,4 @@ test@123@abc
 
 
   
-[Original](https://telegra.ph/QNext-Macros-Array-04-06)
+

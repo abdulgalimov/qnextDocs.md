@@ -86,4 +86,4 @@
 
 [⬅️QNext. Макросы](/docs-test/macros)
   
-[Original](https://telegra.ph/QNext-Macros-Switch-01-09)
+

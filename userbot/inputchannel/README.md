@@ -21,4 +21,4 @@ peer: [InputPeer](/docs-test/userbot/inputpeer)
 
 [🏠Главная](/docs-test/userbot)
   
-[Original](https://telegra.ph/QNext-UserBot-InputChannel-09-05)
+

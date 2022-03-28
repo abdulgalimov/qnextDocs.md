@@ -10,6 +10,3 @@
 
 [QNext. общий триггер](/docs-test/triggers)
 
-[QNext. Перечень реакции](/docs-test/reactions)
-  
-[Original](https://telegra.ph/QNext-admin-reaction-runTrigger-05-09)

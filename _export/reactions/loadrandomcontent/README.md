@@ -13,6 +13,3 @@ loadRandomContent - выбираем каталог
 
 [QNext. Контент](/docs-test/_export/admin/content-about)
 
-[QNext. Перечень реакции](/docs-test/_export/reactions)
-  
-[Original](https://telegra.ph/QNext-admin-reaction-loadRandomContent-05-07)

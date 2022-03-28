@@ -33,6 +33,3 @@
 
 [QNext. WEB](/docs-test/admin/web-about)
 
-[QNext. Документация](/docs-test/)
-  
-[Original](https://telegra.ph/QNext-admin-webhooks-09-11)

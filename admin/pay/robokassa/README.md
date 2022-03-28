@@ -6,4 +6,3 @@
 
 [⬅️QNext. Платежи](/docs-test/pay)
   
-[Original](https://telegra.ph/QNext-Payments-Robokassa-01-01)

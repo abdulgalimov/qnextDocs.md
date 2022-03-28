@@ -170,6 +170,3 @@
 [Вернуться к Оглавлению](#оглавление)
 ```
 
-[QNext. Документация](/docs-test/_export)
-  
-[Original](https://telegra.ph/QNext-admin-setting-about-02-08)

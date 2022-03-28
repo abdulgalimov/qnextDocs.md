@@ -72,6 +72,3 @@ Trello — 🧰Аккаунты — ➕ Добавить — Укажите ср
 
 [Qnext. Реакции](/docs-test/_export/reactions)
 
-[QNext. Документация](/docs-test/_export)
-  
-[Original](https://telegra.ph/QNext-admin-trello-about-02-16)

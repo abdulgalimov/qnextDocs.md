@@ -74,4 +74,3 @@
 
 
   
-[Original](https://telegra.ph/QNext-admin-converter-about-02-13)

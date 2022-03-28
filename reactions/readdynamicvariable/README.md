@@ -18,6 +18,3 @@
 
 [QNext. Динамические переменные](/docs-test/reactions/dynamicvariable)
 
-[QNext. Перечень реакции](/docs-test/reactions)
-  
-[Original](https://telegra.ph/QNext-admin-reaction-readDynamicVariable-05-01)

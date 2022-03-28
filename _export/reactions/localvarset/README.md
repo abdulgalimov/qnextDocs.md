@@ -6,6 +6,3 @@ localVarSet - создание локальной переменной и при
 
 [QNext. Локальные переменные](/docs-test/_export/reactions/localvar)
 
-[QNext. Перечень реакции](/docs-test/_export/reactions)
-  
-[Original](https://telegra.ph/QNext-admin-reaction-localVarSet-04-30)

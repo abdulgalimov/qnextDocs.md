@@ -56,4 +56,3 @@ texts:
 
 
   
-[Original](https://telegra.ph/QNext-Macros-git-01-29)

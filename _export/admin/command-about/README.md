@@ -135,4 +135,3 @@ Telegram накладывает некоторые ограничения на �
 
 
   
-[Original](https://telegra.ph/QNext-admin-command-about-06-20)

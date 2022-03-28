@@ -28,6 +28,3 @@ takeUserList
 
 [QNext. Локальные переменные](/docs-test/_export/reactions/localvar)
 
-[QNext. Перечень реакции](/docs-test/_export/reactions)
-  
-[Original](https://telegra.ph/QNext-admin-reaction-localVarAdd-04-30)

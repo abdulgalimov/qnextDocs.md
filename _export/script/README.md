@@ -151,10 +151,3 @@ exports.a = a;
 
 Функции `setInterval` и `setTimeout`  доступны только в [асинхронном режиме](#асинхронныи-режим).
 
-[QNext. Документация](/docs-test/_export)
-
-
-
-
-  
-[Original](https://telegra.ph/QNextBot-Scripts-10-29)

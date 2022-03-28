@@ -6,6 +6,3 @@
 
 [QNext. Перечень реакции](/docs-test/reactions)
 
-[QNext. Документация](/docs-test/)
-  
-[Original](https://telegra.ph/QNext-admin-reaction-voteOpen-05-03)

@@ -183,7 +183,4 @@
 Список доступных полей для объекта Member можно посмотреть в [документации Trello](/docs-test/admin/trello-about).
 
 
-⬅️[QNext. Макросы](/docs-test/macros)
-
-  
-[Original](https://telegra.ph/QNext-Makros-trello-02-20)
+⬅️

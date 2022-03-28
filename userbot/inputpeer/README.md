@@ -60,4 +60,4 @@ messageId: 65432
 
 
   
-[Original](https://telegra.ph/QNext-UserBot-InputPeer-09-03)
+

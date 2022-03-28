@@ -356,6 +356,3 @@ update.message.audio: mp3, wav, flac и т.д.
 
 [QNext. Перечень реакции](/docs-test/_export/reactions)
 
-[QNext. Документация](/docs-test/_export)
-  
-[Original](https://telegra.ph/QNext-admin-forms-about-05-09)

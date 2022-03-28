@@ -37,8 +37,3 @@
 
 [QNext. Перечень реакции](/docs-test/reactions)
 
-[QNext. Документация](/docs-test/)
-
-
-  
-[Original](https://telegra.ph/QNext-admin-reaction-promoteChatMember-04-26)

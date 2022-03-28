@@ -58,4 +58,3 @@
 
 [⬅️QNext. Платежи](/docs-test/_export/pay)
   
-[Original](https://telegra.ph/QNext-Payments-QIWI-12-14)

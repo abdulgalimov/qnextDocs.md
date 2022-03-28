@@ -40,4 +40,3 @@ t.me/voice_notify_bot?start=subscribe_123456789
 
 Приходите в чат тех поддержки [@QBotsSupport](https://t.me/QBotsSupport), будем рады вам помочь.
   
-[Original](https://telegra.ph/voice-notify-bot-03-22)

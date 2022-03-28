@@ -52,4 +52,3 @@
 
  
   
-[Original](https://telegra.ph/QNext-Macros-attachment-10-16)

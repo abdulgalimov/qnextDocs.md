@@ -69,4 +69,4 @@ exports.valueForMd5 = userId+"_"+botId;
 
 [⬅️QNext. Макросы](/docs-test/macros)
   
-[Original](https://telegra.ph/QNext-Macros-Crypto-02-12)
+

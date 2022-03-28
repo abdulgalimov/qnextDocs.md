@@ -8,6 +8,3 @@ formStart - начать заполнение формы. Реакция дос�
 
 [QNext. Форма](/docs-test/admin/forms-about)
 
-[QNext. Перечень реакции](/docs-test/reactions)
-  
-[Original](https://telegra.ph/QNext-admin-reaction-formStart-05-09)

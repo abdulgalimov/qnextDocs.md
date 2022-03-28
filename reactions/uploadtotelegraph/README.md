@@ -45,6 +45,3 @@ _${localVar.file}_
 
 [QNext. Перечень реакции](/docs-test/reactions)
 
-[QNext. Документация](/docs-test/)
-  
-[Original](https://telegra.ph/QNext-admin-reaction-uploadToTelegraph-09-17)

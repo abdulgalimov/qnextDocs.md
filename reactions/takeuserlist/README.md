@@ -6,6 +6,3 @@
 
 [QNext. списки пользователей](/docs-test/admin/userlist-about)
 
-[QNext. Перечень реакции](/docs-test/reactions)
-  
-[Original](https://telegra.ph/QNext-admin-reaction-takeUserList-05-08)

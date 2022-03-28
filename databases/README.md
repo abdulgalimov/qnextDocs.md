@@ -59,4 +59,4 @@ run();
 
 
   
-[Original](https://telegra.ph/QNext-Databases-01-30)
+

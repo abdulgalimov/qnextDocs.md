@@ -167,4 +167,4 @@ x: 0.5
 
 
   
-[Original](https://telegra.ph/QNext-UserBot-Methods-09-05)
+

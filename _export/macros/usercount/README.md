@@ -94,4 +94,3 @@
 
 [⬅️QNext. Макросы](/docs-test/_export/macros)
   
-[Original](https://telegra.ph/QNext-Macros-userCount-07-01)

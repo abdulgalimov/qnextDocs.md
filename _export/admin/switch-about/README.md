@@ -10,4 +10,3 @@
 
 
   
-[Original](https://telegra.ph/QNext-admin-switch-about-01-31)

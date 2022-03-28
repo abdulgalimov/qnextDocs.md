@@ -4,4 +4,3 @@
 
 [Ссылка](/docs-test/)
   
-[Original](https://telegra.ph/Katalog-10-31-3)

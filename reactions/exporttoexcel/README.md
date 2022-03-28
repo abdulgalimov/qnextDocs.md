@@ -53,6 +53,3 @@ exportToExcel - позволяет экспортировать в Excel раз�
 
 
 
-[QNext. Перечень реакции](/docs-test/reactions)
-  
-[Original](https://telegra.ph/QNext-admin-reaction-exportToExcel-05-07)

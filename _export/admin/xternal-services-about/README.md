@@ -21,4 +21,3 @@ amoCRM
 
 
   
-[Original](https://telegra.ph/QNext-admin-xternal-services-about-02-08)

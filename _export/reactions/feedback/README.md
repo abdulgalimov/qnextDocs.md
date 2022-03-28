@@ -11,6 +11,3 @@
 
 Реакция отзыва может содержать текст и файл.
 
-[QNext. Перечень реакции](/docs-test/_export/reactions)
-  
-[Original](https://telegra.ph/QNext-admin-reaction-feedback-04-28)

@@ -60,10 +60,3 @@
 
 
 
-[QNext. Документация](/docs-test/)
-
-
-
-
-  
-[Original](https://telegra.ph/QNext-Global-and-Base-Trigger-03-18)

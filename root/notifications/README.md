@@ -36,12 +36,4 @@
 
 
 
-[QNext. Документация](/docs-test/)
 
-
-
-
-
-
-  
-[Original](https://telegra.ph/QNext-Root-Notifications-06-17)

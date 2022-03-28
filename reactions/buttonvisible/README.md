@@ -10,6 +10,3 @@
 
 
 
-[QNext. Перечень реакции](/docs-test/reactions)
-  
-[Original](https://telegra.ph/QNext-admin-reaction-buttonVisible-05-09)

@@ -49,6 +49,3 @@
 
 
 
-[QNext. Документация](/docs-test/_export)
-  
-[Original](https://telegra.ph/Ogranicheniya-10-04)

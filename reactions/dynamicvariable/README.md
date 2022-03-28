@@ -41,6 +41,3 @@ ID значения — Идентификатор значения динами
 
 
 
-[QNext. Перечень реакции](/docs-test/reactions)
-  
-[Original](https://telegra.ph/QNext-admin-reaction-DynamicVariable-05-01)

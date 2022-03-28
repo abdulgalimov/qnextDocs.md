@@ -92,4 +92,3 @@
 
 
   
-[Original](https://telegra.ph/QNext-Payments-CryptoBot-02-07)

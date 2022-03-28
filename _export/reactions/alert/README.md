@@ -13,6 +13,3 @@ alert - Текст во всплывающем окне с подтвержде�
 
 [Попробовать](https://t.me/QNextSupportBot?start=cmd_MDFNTjJ8SUk3NHxDTWJ1bQ)
 
-[QNext. Перечень реакции](/docs-test/_export/reactions)
-  
-[Original](https://telegra.ph/QNext-admin-reaction-alert-04-25-2)

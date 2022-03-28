@@ -68,4 +68,3 @@
 
 
   
-[Original](https://telegra.ph/QNext-Macros-Template-10-02)

@@ -113,6 +113,3 @@ requestFromSupportBot
 
 [QNext. WEB](/docs-test/_export/admin/web-about)
 
-[QNext. Документация](/docs-test/_export)
-  
-[Original](https://telegra.ph/QNext-admin-http-requests-09-11)

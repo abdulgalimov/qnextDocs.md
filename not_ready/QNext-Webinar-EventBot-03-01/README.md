@@ -47,4 +47,4 @@
 
 
   
-[Original](https://telegra.ph/QNext-Webinar-EventBot-03-01)
+

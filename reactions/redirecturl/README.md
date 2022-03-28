@@ -13,8 +13,4 @@ WEB — web - ссылки — триггер Web-ссылк
 
 [QNext. WEB](/docs-test/admin/web-about)
 
-[QNext. Перечень реакции](/docs-test/reactions)
 
-
-  
-[Original](https://telegra.ph/QNext-admin-reaction-redirectUrl-11-25)

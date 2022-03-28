@@ -42,4 +42,3 @@
 
 
   
-[Original](https://telegra.ph/QNext-Payments-Yookassa-12-27)

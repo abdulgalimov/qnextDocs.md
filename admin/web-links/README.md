@@ -53,6 +53,3 @@ WEB - ссылки - создание кастомных (Контекстных
 
 [QNext. WEB](/docs-test/admin/web-about)
 
-[QNext. Документация](/docs-test/)
-  
-[Original](https://telegra.ph/QNext-admin-web-links-09-11)

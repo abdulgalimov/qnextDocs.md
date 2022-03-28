@@ -38,10 +38,3 @@ formResult - данная реакция работает в связке с м�
 
 [QNext. Форма](/docs-test/admin/forms-about)
 
-[QNext. Перечень реакции](/docs-test/reactions)
-
-
-
-
-  
-[Original](https://telegra.ph/QNext-admin-reaction-formResult-05-09)

@@ -6,4 +6,3 @@
 
 
   
-[Original](https://telegra.ph/QNext-UserBot-API-04-24)

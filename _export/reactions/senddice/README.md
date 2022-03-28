@@ -6,6 +6,3 @@
 
 
 
-[QNext. Перечень реакции](/docs-test/_export/reactions)
-  
-[Original](https://telegra.ph/QNext-admin-reaction-sendDice-05-09)

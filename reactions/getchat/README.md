@@ -18,8 +18,4 @@ _${getChatResult}_
 
 [QNext. Перечень реакции](/docs-test/reactions)
 
-[QNext. Документация](/docs-test/)
 
-
-  
-[Original](https://telegra.ph/QNext-admin-reaction-getChat-01-06)
