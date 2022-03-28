@@ -8,5 +8,5 @@ keyboardShow - отправить клавиатуру в чат.
 
 
 
-[QNext. Клавиатура](/docs-test/admin/keyboard-about)
+
 

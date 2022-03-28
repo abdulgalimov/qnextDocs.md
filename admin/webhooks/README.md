@@ -31,5 +31,5 @@
 
  
 
-[QNext. WEB](/docs-test/admin/web-about)
+
 

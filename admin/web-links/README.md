@@ -51,5 +51,5 @@ WEB - ссылки - создание кастомных (Контекстных
 
 
 
-[QNext. WEB](/docs-test/admin/web-about)
+
 

@@ -8,5 +8,5 @@ takeChatDir - загружает каталог чатов.
 
 
 
-[QNext. Чаты](/docs-test/_export/admin/chat-about)
+
 

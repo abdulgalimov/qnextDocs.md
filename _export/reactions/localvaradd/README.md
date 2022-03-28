@@ -26,5 +26,5 @@ takeUserList
 
 
 
-[QNext. Локальные переменные](/docs-test/_export/reactions/localvar)
+
 

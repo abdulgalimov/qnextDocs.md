@@ -23,5 +23,5 @@ stickerSetName - указываем название стикерпака. Ре�
 
 
 
-[QNext. Чаты](/docs-test/_export/admin/chat-about)
+
 

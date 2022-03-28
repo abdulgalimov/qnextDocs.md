@@ -92,5 +92,5 @@ https://t.me/ИмяБота?start=user_0000000
 
 
 
-[Qnext. Каталог полезное](/docs-test/admin/lifehack)
+
 

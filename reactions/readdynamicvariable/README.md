@@ -16,5 +16,5 @@
 
 
 
-[QNext. Динамические переменные](/docs-test/reactions/dynamicvariable)
+
 

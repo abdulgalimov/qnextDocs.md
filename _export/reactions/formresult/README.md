@@ -36,5 +36,5 @@ formResult - данная реакция работает в связке с м�
 
 
 
-[QNext. Форма](/docs-test/_export/admin/forms-about)
+
 

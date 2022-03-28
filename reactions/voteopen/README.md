@@ -4,5 +4,5 @@
 
 
 
-[QNext. Перечень реакции](/docs-test/reactions)
+
 

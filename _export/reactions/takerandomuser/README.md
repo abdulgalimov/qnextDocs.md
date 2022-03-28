@@ -27,5 +27,5 @@ takeRandomUser - все пользователи
 
 
 
-[QNext. Пользователи](/docs-test/_export/admin/users-about)
+
 

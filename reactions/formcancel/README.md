@@ -4,5 +4,5 @@ formCancel - отменяет заполнение формы. Вы можете
 
 
 
-[QNext. Форма](/docs-test/admin/forms-about)
+
 

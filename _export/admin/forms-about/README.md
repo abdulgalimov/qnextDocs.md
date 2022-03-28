@@ -17,9 +17,9 @@
 
 
 
-[QNext. Перечень реакции](/docs-test/_export/reactions)
 
-[QNext. Документация](/docs-test/_export)
+
+
 
 
 ### Настройки
@@ -354,5 +354,5 @@ update.message.audio: mp3, wav, flac и т.д.
 
 
 
-[QNext. Перечень реакции](/docs-test/_export/reactions)
+
 

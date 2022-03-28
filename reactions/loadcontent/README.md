@@ -23,6 +23,6 @@
 
 
 
-[QNext. Контент](/docs-test/admin/content-about)
+
 
 

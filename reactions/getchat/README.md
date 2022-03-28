@@ -16,6 +16,6 @@ _${getChatResult}_
 
 
 
-[QNext. Перечень реакции](/docs-test/reactions)
+
 
 

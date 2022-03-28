@@ -36,5 +36,5 @@ bool ❌ ${update.message.text}
 ⚡️runTrigger - выбираем ранее созданное ОД
 
 
-[QNext. Перечень реакции](/docs-test/_export/reactions)
+
 

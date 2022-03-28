@@ -18,7 +18,7 @@
 * [Чат](#чат)
 * [Прочее](#прочее)
 
-[QNext. Документация](/docs-test/)
+
 
 
 ## [Google](/docs-test/admin/google-about)

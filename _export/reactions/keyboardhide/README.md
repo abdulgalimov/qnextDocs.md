@@ -4,5 +4,5 @@ keyboardHide - скрытие (удаление) клавиатуры в чат�
 
 
 
-[QNext. Клавиатура](/docs-test/_export/admin/keyboard-about)
+
 

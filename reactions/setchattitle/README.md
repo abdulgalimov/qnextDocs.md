@@ -21,6 +21,6 @@ title - текст, на который необходимо изменить н
 
 
 
-[QNext. Чаты](/docs-test/admin/chat-about)
+
 
 

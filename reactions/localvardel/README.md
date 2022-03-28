@@ -4,5 +4,5 @@
 
 
 
-[QNext. Локальные переменные](/docs-test/reactions/localvar)
+
 

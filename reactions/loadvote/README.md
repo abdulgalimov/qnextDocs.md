@@ -11,5 +11,5 @@
 
 
 
-[QNext. Голосование](/docs-test/admin/vote-about)
+
 

@@ -8,5 +8,5 @@
 
 
 
-[QNext. общий триггер](/docs-test/triggers)
+
 

@@ -4,5 +4,5 @@
 
 
 
-[QNext. Скрипты](/docs-test/script)
+
 

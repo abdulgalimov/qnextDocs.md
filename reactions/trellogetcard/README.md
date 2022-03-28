@@ -13,6 +13,6 @@ ${trelloRequest.action.data.card.id}
 
 
 
-[QNext. Trello](/docs-test/admin/trello-about)
+
 
 

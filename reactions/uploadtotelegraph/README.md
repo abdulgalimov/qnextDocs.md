@@ -43,5 +43,5 @@ _${localVar.file}_
 
 
 
-[QNext. Перечень реакции](/docs-test/reactions)
+
 

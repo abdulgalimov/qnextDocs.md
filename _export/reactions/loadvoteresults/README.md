@@ -23,5 +23,5 @@ loadContent — взять контент
 
 
 
-[QNext. Голосование](/docs-test/_export/admin/vote-about)
+
 

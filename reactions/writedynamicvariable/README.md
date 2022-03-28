@@ -12,5 +12,5 @@ writeDynamicVar - эта реакция сохранит значение ука
 
 
 
-[QNext. Динамические переменные](/docs-test/reactions/dynamicvariable)
+
 

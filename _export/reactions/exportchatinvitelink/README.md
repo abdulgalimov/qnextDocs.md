@@ -13,5 +13,5 @@ exportChatInviteLink - Используйте этот метод для соз�
 
 
 
-[Qnext. Пригласительные ссылки](/docs-test/_export/admin/invitelink-about)
+
 

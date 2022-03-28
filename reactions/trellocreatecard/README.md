@@ -12,6 +12,6 @@ desc: "${formResult.values.text}"
 
 
 
-[QNext. Trello](/docs-test/admin/trello-about)
+
 
 

@@ -18,5 +18,5 @@ profleValue - условие проверяет параметр профиля.
 
 
 
-[QNext. Профили](/docs-test/_export/admin/profile-about)
+
 

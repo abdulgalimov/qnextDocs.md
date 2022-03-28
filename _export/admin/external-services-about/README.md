@@ -6,7 +6,7 @@
 
 
 
-[QNext. Google](/docs-test/_export/admin/google-about)
+
 
 [Trello](/docs-test/_export/admin/trello-about)
 

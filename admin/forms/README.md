@@ -334,5 +334,5 @@ update.message.audio: mp3, wav, flac и т.д.
 
 
 
-[QNext. Перечень реакции](/docs-test/reactions)
+
 

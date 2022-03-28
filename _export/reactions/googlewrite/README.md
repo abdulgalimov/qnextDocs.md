@@ -54,5 +54,5 @@ Google страница - выбираем ранее созданную Google 
 
 
 
-[QNext. Глобальные переменные](/docs-test/_export/admin/globalvariables-about)
+
 

@@ -12,7 +12,7 @@
 
 
 
-[QNext. Глобальные переменные](/docs-test/_export/admin/globalvariables-about)
+
 
 [⬅️QNext. Макросы](/docs-test/_export/macros)
   

@@ -42,5 +42,5 @@ ${admin.0.user.name} - укажет его ID
 
 
 
-[QNext. Пользователи](/docs-test/admin/users-about)
+
 

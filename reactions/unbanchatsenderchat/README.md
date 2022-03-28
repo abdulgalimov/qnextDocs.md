@@ -13,5 +13,5 @@
 
 
 
-[QNext. Чаты](/docs-test/admin/chat-about)
+
 

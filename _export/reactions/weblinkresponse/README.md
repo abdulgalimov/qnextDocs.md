@@ -4,5 +4,5 @@ WeblinkResponse - позволит показать в web-ссылке любо
 
 
 
-[QNext. WEB](/docs-test/_export/admin/web-about)
+
 

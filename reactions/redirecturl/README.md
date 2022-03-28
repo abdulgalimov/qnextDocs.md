@@ -11,6 +11,6 @@ WEB — web - ссылки — триггер Web-ссылк
 
 
 
-[QNext. WEB](/docs-test/admin/web-about)
+
 
 

@@ -26,5 +26,5 @@ createChatInviteLink - Используйте этот метод, чтобы с
 
 
 
-[Qnext. Пригласительные ссылки](/docs-test/admin/invitelink-about)
+
 

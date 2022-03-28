@@ -4,7 +4,7 @@ loadProfile - позволяет загрузить один тип профил
 
 ![](./1.png)
 
-[QNext. Профили](/docs-test/_export/admin/profile-about)
 
-[QNext. Перечень реакции](/docs-test/_export/reactions)
+
+
 

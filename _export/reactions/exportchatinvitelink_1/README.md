@@ -8,5 +8,5 @@ exportChatInviteLink - Позволяет боту создать свою сс�
 
 ![](./1.png)
 
-[QNext. Чаты](/docs-test/_export/admin/chat-about)
+
 

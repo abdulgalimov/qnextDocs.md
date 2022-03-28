@@ -19,7 +19,7 @@
 * [Чат](#чат)
 * [Прочее](#прочее)
 
-[QNext. Документация](/docs-test/_export)
+
 
 
 ### [Google](/docs-test/_export/admin/google-about)

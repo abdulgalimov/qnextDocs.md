@@ -8,5 +8,5 @@ takeReplyUser - взять пользователя на чье сообщени
 
 
 
-[QNext. Пользователи](/docs-test/admin/users-about)
+
 

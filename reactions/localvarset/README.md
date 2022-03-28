@@ -4,5 +4,5 @@ localVarSet - создание локальной переменной и при
 
 
 
-[QNext. Локальные переменные](/docs-test/reactions/localvar)
+
 

@@ -53,5 +53,5 @@ ${scriptResult.out.input}
 
 
 
-[Qnext. Каталог полезное](/docs-test/_export/admin/lifehack)
+
 

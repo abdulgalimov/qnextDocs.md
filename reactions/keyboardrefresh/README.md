@@ -4,5 +4,5 @@
 
 
 
-[QNext. Клавиатура](/docs-test/admin/keyboard-about)
+
 

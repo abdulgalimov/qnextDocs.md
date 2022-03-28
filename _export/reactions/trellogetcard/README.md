@@ -13,5 +13,5 @@ ${trelloRequest.action.data.card.id}
 
 
 
-[QNext. Trello](/docs-test/_export/admin/trello-about)
+
 

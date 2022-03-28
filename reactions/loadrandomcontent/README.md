@@ -11,6 +11,6 @@ loadRandomContent - выбираем каталог
 
 
 
-[QNext. Контент](/docs-test/admin/content-about)
+
 
 

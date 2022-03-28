@@ -4,5 +4,5 @@
 
 
 
-[QNext. Глобальные переменные](/docs-test/_export/admin/globalvariables-about)
+
 

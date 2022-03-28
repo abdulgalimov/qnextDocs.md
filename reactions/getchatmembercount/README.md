@@ -20,6 +20,6 @@ _${chatMembersCountResult}_
 
 
 
-[QNext. Чаты](/docs-test/admin/chat-about)
+
 
 

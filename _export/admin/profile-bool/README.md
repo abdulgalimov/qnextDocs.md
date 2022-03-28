@@ -20,5 +20,5 @@ client.isNewUser - новый пользователь
 
 
 
-[Qnext. Профили](/docs-test/_export/admin/profile-about)
+
 
