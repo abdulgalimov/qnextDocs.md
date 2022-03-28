@@ -1,4 +1,3 @@
-## QNext. Макрос html
 
 [⬅️QNext. Макросы](/docs-test/_export/macros)
 
@@ -18,63 +17,63 @@
 * [hiddenSymbol](#hiddensymbol)
 * [br](#br)
 * [space](#space)
-### italic
+## italic
 ```js 
 !{html|
   text: Наклонный текст;
   type: italic;
 }
 ```
-### bold
+## bold
 ```js 
 !{html|
   text: Жирный текст;
   type: bold;
 }
 ```
-### underline
+## underline
 ```js 
 !{html|
   text: Подчеркнутый текст;
   type: underline;
 }
 ```
-### strike
+## strike
 ```js 
 !{html|
   text: Зачеркнутый текст;
   type: strike;
 }
 ```
-### code
+## code
 ```js 
 !{html|
   text: Моноширинная строка;
   type: code;
 }
 ```
-### pre
+## pre
 ```js 
 !{html|
   text: Моноширинный блок;
   type: pre;
 }
 ```
-### encode
+## encode
 ```js 
 !{html|
   text: Преобразование тегов <>;
   type: encode;
 }
 ```
-### decode
+## decode
 ```js 
 !{html|
   text: Обратное преобразование тегов &lt; &gt;;
   type: decode;
 }
 ```
-### link
+## link
 ```js 
 !{html|
   text: Ссылка;
@@ -82,7 +81,7 @@
   type: link;
 }
 ```
-### hiddenLink
+## hiddenLink
 
 Скрытая ссылка:
 ```js 
@@ -91,19 +90,19 @@
   type: hiddenLink;
 }
 ```
-### hiddenSymbol
+## hiddenSymbol
 
 Скрытый символ:
 ```js 
 !{html| type: hiddenSymbol}
 ```
-### br
+## br
 
 Переход на новую строку:
 ```js 
 !{html| type: br}
 ```
-### space
+## space
 
 Пробел
 ```js 

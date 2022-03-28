@@ -1,4 +1,3 @@
-## @HowUsedBot - API.Python
 
 [⬅️ @HowUsedBot - API](/docs-test/howusedbot/api)
 

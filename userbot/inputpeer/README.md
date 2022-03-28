@@ -1,25 +1,24 @@
-## QNext. UserBot. Тип InputPeer
-### InputPeer
-### inputPeerEmpty
+## InputPeer
+## inputPeerEmpty
 ```js 
 constructor: inputPeerEmpty
 ```
 
 
-### inputPeerSelf
+## inputPeerSelf
 ```js 
 constructor: inputPeerSelf
 ```
 
 
-### inputPeerChat
+## inputPeerChat
 ```js 
 constructor: inputPeerChat
 chatId: 1234567890
 ```
 
 
-### inputPeerChannel
+## inputPeerChannel
 ```js 
 constructor: inputPeerChannel
 channelId: -1234567890
@@ -27,7 +26,7 @@ accessHash: "abc...xyz"
 ```
 
 
-### inputPeerUser
+## inputPeerUser
 ```js 
 constructor: inputPeerUser
 userId: 1234567890
@@ -35,7 +34,7 @@ accessHash: "abc...xyz"
 ```
 
 
-### inputPeerUserFromMessage
+## inputPeerUserFromMessage
 ```js 
 constructor: inputPeerUserFromMessage
 peer: InputPeer
@@ -45,7 +44,7 @@ messageId: 65432
 * peer: [InputPeer](#inputpeer)
 
 
-### inputPeerChannelFromMessage
+## inputPeerChannelFromMessage
 ```js 
 constructor: inputPeerUserFromMessage
 peer: InputPeer

@@ -1,4 +1,3 @@
-## QNext. Макрос trello
 
 Макрос доступен в тригере модели Trello, т.е. когда trello сообщает боту о том что на доске произошли какие то изменения. Макрос поможет показать информацию из полученных данных.
 * [type: action](#type:-action)
@@ -10,7 +9,7 @@
     * [data: memberCreator](#data:-membercreator)
 * [type: card](#type:-card)
     * [data: labels](#data:-labels)
-### type: action
+## type: action
 
 Макросы типа action работают в момент когда от Trello прилетает событие с каким либо действием, например
  * Создание списка
@@ -25,7 +24,7 @@
   data: ...
 }
 ```
-### data: card
+## data: card
 
 Показать информацию о карточке:
 ```js 
@@ -62,7 +61,7 @@
   linkOnly;
 }
 ```
-### data: listBefore
+## data: listBefore
 
 Название списка до изменений:
 ```js 
@@ -71,7 +70,7 @@
   data: listBefore;
 }
 ```
-### data: listAfter
+## data: listAfter
 
 Название списка после изменений:
 ```js 
@@ -80,7 +79,7 @@
   data: listAfter;
 }
 ```
-### data: list
+## data: list
 
 Название списка:
 ```js 
@@ -89,7 +88,7 @@
   data: list;
 }
 ```
-### data: board
+## data: board
 
 Название доски:
 ```js 
@@ -126,7 +125,7 @@
   linkOnly;
 }
 ```
-### data: memberCreator
+## data: memberCreator
 
 Показать имя автора текущего действия:
 ```js 
@@ -165,10 +164,10 @@
 ```
 
 
-### type: card
+## type: card
 
 Макрос служит для работы с параметрами карточки. Макрос работает по разному в зависимости от параметра data.
-### data: labels
+## data: labels
 
 Показать все метки карточки:
 ```js 

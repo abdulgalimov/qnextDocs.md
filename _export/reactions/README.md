@@ -1,4 +1,3 @@
-## QNext. Каталог реакций
 * [Google таблицы](#google)
 * [trello](#trello) (в процессе написания)
 * [WEB](#web)
@@ -22,9 +21,9 @@
 
 
 
-### [Google](/docs-test/_export/admin/google-about)
+## [Google](/docs-test/_export/admin/google-about)
 * [**googleWrite** ](/docs-test/_export/reactions/googlewrite)- записать в гугл-таблицу
-### [Trello](/docs-test/_export/admin/trello-about)
+## [Trello](/docs-test/_export/admin/trello-about)
 
 _в процессе написания_
 * [trelloApiRequest](/docs-test/_export/reactions/trelloapirequest)
@@ -33,16 +32,16 @@ _в процессе написания_
 * [trelloGetCard](/docs-test/_export/reactions/trellogetcard)
 * [trelloCreateCardAttachment](/docs-test/_export/reactions/trellocreatecardattachment)
 * [trelloUpdateCard](/docs-test/_export/reactions/trelloupdatecard)
-### [WEB](/docs-test/_export/admin/web-about)
+## [WEB](/docs-test/_export/admin/web-about)
  * [**httpRequest** ](/docs-test/_export/reactions/httprequest)- Выполнить HTTP-запрос (get, post)
  * [**webhookResponse** ](/docs-test/_export/reactions/webhookresponse)- Ответ для webhook's
  * [**weblinkRedirect**](/docs-test/_export/reactions/redirecturl) - перенаправление на другой адрес
  * [**WeblinkResponse**](/docs-test/_export/reactions/weblinkresponse) - Ответ на web запрос
-### [Глобальные переменные](/docs-test/_export/admin/globalvariables-about)
+## [Глобальные переменные](/docs-test/_export/admin/globalvariables-about)
  * [**globalVarDel** ](/docs-test/_export/reactions/globalvardel)- Удалить глобальную переменную
  * [**globalVarSet** ](/docs-test/_export/reactions/globalvarset)- Сохранить глобальную переменную
  * [**loadGlobalVar** ](/docs-test/_export/reactions/loadglobalvariable)- Загрузить глобальные переменные
-### [Голосование](/docs-test/_export/admin/vote-about)
+## [Голосование](/docs-test/_export/admin/vote-about)
  * [**loadVote** ](/docs-test/_export/reactions/loadvote)- Загрузить голос в опросе
  * [**loadVoteResults** ](/docs-test/_export/reactions/loadvoteresults)- Загрузить результаты голосования
  * [**takePollUsers** ](/docs-test/_export/reactions/takepollusers)- Загрузить проголосовавших в опросе
@@ -51,20 +50,20 @@ _в процессе написания_
  * [**voteCancel** ](/docs-test/_export/reactions/votecancel)- Отменить голос
  * [**voteSwitch** ](/docs-test/_export/reactions/voteopen)- Открыть/закрыть голосование
  * [**voteRevoke** ](/docs-test/_export/reactions/voterevoke)- Очистить (сбросить) голосование
-### [Динамические переменные](/docs-test/_export/reactions/dynamicvariable)
+## [Динамические переменные](/docs-test/_export/reactions/dynamicvariable)
  * [**DynamicVarDel** ](/docs-test/_export/reactions/cleardynamicvariable)- Удалить значение динамической переменной
  * [**loadDynamicVar** ](/docs-test/_export/reactions/readdynamicvariable)- Прочитать динамическую переменную
  * [**DynamicVarSet** ](/docs-test/_export/reactions/writedynamicvariable)- Записать динамическую переменную
-### [Контент](/docs-test/_export/admin/content-about)
+## [Контент](/docs-test/_export/admin/content-about)
  * [**loadContent** ](/docs-test/_export/reactions/loadcontent)- Загрузить Контент
  * [**loadRandomContent** ](/docs-test/_export/reactions/loadrandomcontent)- Выбрать случайный контент
  * [**sendContent** ](/docs-test/_export/reactions/sendcontent)- Отправить Контент
  * [**refreshContent** ](/docs-test/_export/reactions/refreshcontent)- Обновить контент
-### [Локальные переменные](/docs-test/_export/reactions/localvar)
+## [Локальные переменные](/docs-test/_export/reactions/localvar)
  * [**localVarAdd** ](/docs-test/_export/reactions/localvaradd)- Добавить значение в локальную переменную
  * [**localVarDel**  ](/docs-test/_export/reactions/localvardel)- Удалить локальную переменную
  * [**localVarSet** ](/docs-test/_export/reactions/localvarset)- Установить локальную переменную
-### [Магазин](/docs-test/_export/admin/stores-about)
+## [Магазин](/docs-test/_export/admin/stores-about)
 
 _в процессе написания_
  * [openStoreCarts ](/docs-test/_export/reactions/openstorecarts)- Показать Мою корзину в магазине
@@ -74,12 +73,12 @@ _в процессе написания_
  * [orderCheckout ](/docs-test/_export/reactions/ordercheckout)- Начать оформление заказа в магазине
  * [sendStore ](/docs-test/_export/reactions/sendstore)- Отправить магазин
  * [sendStoreOrder ](/docs-test/_export/reactions/sendstoreorder)- Показать полученный заказ в магазине
-### [Переключатели](/docs-test/_export/admin/switch-about)
+## [Переключатели](/docs-test/_export/admin/switch-about)
  * [**voteSwitch** ](/docs-test/_export/reactions/voteopen)- Открыть/закрыть голосование
  * [**profileSwitch** ](/docs-test/_export/reactions/profileswitch)- Изменить статус профиля bool
  * [**scheduleSwitch**  ](/docs-test/_export/reactions/scheduleon)- Изменить состояние расписания
  * [**reactionOnSwitch**](/docs-test/_export/reactions/reactionswitch) - Изменить состояние реакции
-### [Пользователи](/docs-test/_export/admin/users-about)
+## [Пользователи](/docs-test/_export/admin/users-about)
  * [**takeAdmins** ](/docs-test/_export/reactions/takeadmins)- Загрузить админов
  * [**takeMentions** ](/docs-test/_export/reactions/takementions)- Получить всех упомянутых в тексте людей и чаты
  * [**takeAuthorUser** ](/docs-test/_export/reactions/takeauthoruser)- Получить пользователя инициатора действия
@@ -87,7 +86,7 @@ _в процессе написания_
  * [**takeRandomUser** ](/docs-test/_export/reactions/takerandomuser)- Загрузить случайного пользователя
  * [**takeReplyUser** ](/docs-test/_export/reactions/takereplyuser)- Загрузить пользователя, которому ответили в...
  * [**takeUsers** ](/docs-test/_export/reactions/takeusers)- взять пользователя(ей)
-### [Пригласительные ссылки](/docs-test/_export/admin/invitelink-about)
+## [Пригласительные ссылки](/docs-test/_export/admin/invitelink-about)
 * [**exportChatInviteLink** ](/docs-test/_export/reactions/exportchatinvitelink) - создать основную пригласительную ссылку
 * [**createChatInviteLink** ](/docs-test/_export/reactions/createchatinvitelink)- создать дополнительную пригласительную ссылку
 
@@ -95,7 +94,7 @@ _в разработке_
 * [**editChatInviteLink** ](/docs-test/_export/reactions/editchatinvitelink)- изменить пригласительную ссылку
 * [**revokeChatInviteLink** ](/docs-test/_export/reactions/revokechatinvitelink)- обновить пригласительную ссылку
 * [**loadChatInviteLink** ](/docs-test/_export/reactions/loadchatinvitelink)- получить пригласительную ссылку
-### [Профиль](/docs-test/_export/admin/profile-about)
+## [Профиль](/docs-test/_export/admin/profile-about)
  * [**loadProfile** ](/docs-test/_export/reactions/loadprofile)- Загрузить Профиль пользователя
  * [**profileAdd** ](/docs-test/_export/reactions/profileadd)- Добавить Профиль пользователя
  * [**profileDel** ](/docs-test/_export/reactions/profiledel)- Удалить Профиль пользователя
@@ -105,20 +104,20 @@ _в разработке_
  * [**profileSwitch** ](/docs-test/_export/reactions/profileswitch)- Изменить статус профиля bool
  * [**findProfileValue** ](/docs-test/_export/reactions/findprofilevalue)- Найти значение профиля
  * [**profilesCount** ](/docs-test/_export/reactions/profilescount)- посчитать количество профилей
-### [Рассылки](/docs-test/_export/admin/newsletters-about)
+## [Рассылки](/docs-test/_export/admin/newsletters-about)
  * [**newsletterCancel** ](/docs-test/_export/reactions/newslettercancel)- Отменить рассылку
  * [**newsletterRevoke** ](/docs-test/_export/reactions/newsletterrevoke)- Аннулировать рассылку
  * [**newsletterStart**](/docs-test/_export/reactions/newsletterstart) - Начать рассылку
-### [Списки пользователей](/docs-test/_export/admin/userlist-about)
+## [Списки пользователей](/docs-test/_export/admin/userlist-about)
  * [**addToUserList** ](/docs-test/_export/reactions/addtouserlist)- Добавить в список пользователей
  * [**delFromUserList** ](/docs-test/_export/reactions/delfromuserlist)- Удалить из списка пользователей
  * [**takeUserList** ](/docs-test/_export/reactions/takeuserlist)- взять список пользователей
-### [Телеграм клавиатура](/docs-test/_export/admin/keyboard-about)
+## [Телеграм клавиатура](/docs-test/_export/admin/keyboard-about)
  * [**keyboardAction**](/docs-test/_export/reactions/keyboardaction) - выполнить действие при нажатии на кнопку.
  * [**keyboardHide** ](/docs-test/_export/reactions/keyboardhide)- Скрыть клавиатуру
  * [**keyboardRefresh** ](/docs-test/_export/reactions/keyboardrefresh)- Обновить текущую клавиатуру
  * [**keyboardShow** ](/docs-test/_export/reactions/keyboardshow)- Показать клавиатуру
-### [Форма](/docs-test/_export/admin/forms-about)
+## [Форма](/docs-test/_export/admin/forms-about)
  * [**formStart** ](/docs-test/_export/reactions/formstart)- Запустить форму
  * [**formCancel** ](/docs-test/_export/reactions/formcancel)- Остановить (прервать) форму
  * [**formResult** ](/docs-test/_export/reactions/formresult)- Показать результат формы
@@ -127,7 +126,7 @@ _в разработке_
  * [**takeFormResults** ](/docs-test/_export/reactions/takeformresults)- Получить последние несколько результатов формы
  * [**saveFormVariables** ](/docs-test/_export/reactions/saveformvariables)- сохранить локальную переменную в форме
  * [**writeFormCustom** ](/docs-test/_export/reactions/writeformcustom)- загрузить произвольный параметр формы
-### [Чат ](/docs-test/_export/admin/chat-about)
+## [Чат ](/docs-test/_export/admin/chat-about)
 
 _Все реакции работают как в чате так и в канале_
  * [**approveChatJoinRequest** ](/docs-test/_export/reactions/approvechatjoinrequest)- Одобрить запрос в чат
@@ -158,7 +157,7 @@ _Все реакции работают как в чате так и в кана
 
 
 
-### Прочее 
+## Прочее 
  * [**adminMenu** ](/docs-test/_export/reactions/adminmenu)- Меню админа
  * [**alert** ](/docs-test/_export/reactions/alert)- Сообщение в окне
  * [**amocrmApi**](/docs-test/_export/reactions/amocrmapi) - 

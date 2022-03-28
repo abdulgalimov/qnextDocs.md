@@ -21,9 +21,7 @@
 
 
 
-## [Google](/docs-test/admin/google-about)
 * [**googleWrite** ](/docs-test/reactions/googlewrite)- записать в гугл-таблицу
-## [Trello](/docs-test/admin/trello-about)
 
 _в процессе написания_
 * [trelloApiRequest](/docs-test/reactions/trelloapirequest)
@@ -32,16 +30,13 @@ _в процессе написания_
 * [trelloGetCard](/docs-test/reactions/trellogetcard)
 * [trelloCreateCardAttachment](/docs-test/reactions/trellocreatecardattachment)
 * [trelloUpdateCard](/docs-test/reactions/trelloupdatecard)
-## [WEB](/docs-test/admin/web-about)
  * [**httpRequest** ](/docs-test/reactions/httprequest)- Выполнить HTTP-запрос (get, post)
  * [**webhookResponse** ](/docs-test/reactions/webhookresponse)- Ответ для webhook's
  * [**weblinkRedirect**](/docs-test/reactions/redirecturl) - перенаправление на другой адрес
  * [**WeblinkResponse**](/docs-test/reactions/weblinkresponse) - Ответ на web запрос
-## [Глобальные переменные](/docs-test/admin/globalvariables-about)
  * [**globalVarDel** ](/docs-test/reactions/globalvardel)- Удалить глобальную переменную
  * [**globalVarSet** ](/docs-test/reactions/globalvarset)- Сохранить глобальную переменную
  * [**loadGlobalVar** ](/docs-test/reactions/loadglobalvariable)- Загрузить глобальные переменные
-## [Голосование](/docs-test/admin/vote-about)
  * [**loadVote** ](/docs-test/reactions/loadvote)- Загрузить голос в опросе
  * [**loadVoteResults** ](/docs-test/reactions/loadvoteresults)- Загрузить результаты голосования
  * [**takePollUsers** ](/docs-test/reactions/takepollusers)- Загрузить проголосовавших в опросе
@@ -50,20 +45,16 @@ _в процессе написания_
  * [**voteCancel** ](/docs-test/reactions/votecancel)- Отменить голос
  * [**voteSwitch** ](/docs-test/reactions/voteopen)- Открыть/закрыть голосование
  * [**voteRevoke** ](/docs-test/reactions/voterevoke)- Очистить (сбросить) голосование
-## [Динамические переменные](/docs-test/reactions/dynamicvariable)
  * [**DynamicVarDel** ](/docs-test/reactions/cleardynamicvariable)- Удалить значение динамической переменной
  * [**loadDynamicVar** ](/docs-test/reactions/readdynamicvariable)- Прочитать динамическую переменную
  * [**DynamicVarSet** ](/docs-test/reactions/writedynamicvariable)- Записать динамическую переменную
-## [Контент](/docs-test/admin/content-about)
  * [**loadContent** ](/docs-test/reactions/loadcontent)- Загрузить Контент
  * [**loadRandomContent** ](/docs-test/reactions/loadrandomcontent)- Выбрать случайный контент
  * [**sendContent** ](/docs-test/reactions/sendcontent)- Отправить Контент
  * [**refreshContent** ](/docs-test/reactions/refreshcontent)- Обновить контент
-## [Локальные переменные](/docs-test/reactions/localvar)
  * [**localVarAdd** ](/docs-test/reactions/localvaradd)- Добавить значение в локальную переменную
  * [**localVarDel**  ](/docs-test/reactions/localvardel)- Удалить локальную переменную
  * [**localVarSet** ](/docs-test/reactions/localvarset)- Установить локальную переменную
-## [Магазин](/docs-test/admin/stores-about)
 
 _в процессе написания_
  * [openStoreCarts ](/docs-test/reactions/openstorecarts)- Показать Мою корзину в магазине
@@ -73,12 +64,10 @@ _в процессе написания_
  * [orderCheckout ](/docs-test/reactions/ordercheckout)- Начать оформление заказа в магазине
  * [sendStore ](/docs-test/reactions/sendstore)- Отправить магазин
  * [sendStoreOrder ](/docs-test/reactions/sendstoreorder)- Показать полученный заказ в магазине
-## [Переключатели](/docs-test/admin/switch-about)
  * [**voteSwitch** ](/docs-test/reactions/voteopen)- Открыть/закрыть голосование
  * [**profileSwitch** ](/docs-test/reactions/profileswitch)- Изменить статус профиля bool
  * [**scheduleSwitch**  ](/docs-test/reactions/scheduleon)- Изменить состояние расписания
  * [**reactionOnSwitch**](/docs-test/reactions/reactionswitch) - Изменить состояние реакции
-## [Пользователи](/docs-test/admin/users-about)
  * [**takeAdmins** ](/docs-test/reactions/takeadmins)- Загрузить админов
  * [**takeMentions** ](/docs-test/reactions/takementions)- Получить всех упомянутых в тексте людей и чаты
  * [**takeAuthorUser** ](/docs-test/reactions/takeauthoruser)- Получить пользователя инициатора действия
@@ -86,7 +75,6 @@ _в процессе написания_
  * [**takeRandomUser** ](/docs-test/reactions/takerandomuser)- Загрузить случайного пользователя
  * [**takeReplyUser** ](/docs-test/reactions/takereplyuser)- Загрузить пользователя, которому ответили в...
  * [**takeUsers** ](/docs-test/reactions/takeusers)- взять пользователя(ей)
-## [Пригласительные ссылки](/docs-test/admin/invitelink-about)
 * [**exportChatInviteLink** ](/docs-test/reactions/exportchatinvitelink) - создать основную пригласительную ссылку
 * [**createChatInviteLink** ](/docs-test/reactions/createchatinvitelink)- создать дополнительную пригласительную ссылку
 
@@ -94,7 +82,6 @@ _в разработке_
 * [**editChatInviteLink** ](/docs-test/reactions/editchatinvitelink)- изменить пригласительную ссылку
 * [**revokeChatInviteLink** ](/docs-test/reactions/revokechatinvitelink)- обновить пригласительную ссылку
 * [**loadChatInviteLink** ](/docs-test/reactions/loadchatinvitelink)- получить пригласительную ссылку
-## [Профиль](/docs-test/admin/profile-about)
  * [**loadProfile** ](/docs-test/reactions/loadprofile)- Загрузить Профиль пользователя
  * [**profileAdd** ](/docs-test/reactions/profileadd)- Добавить Профиль пользователя
  * [**profileDel** ](/docs-test/reactions/profiledel)- Удалить Профиль пользователя
@@ -104,20 +91,16 @@ _в разработке_
  * [**profileSwitch** ](/docs-test/reactions/profileswitch)- Изменить статус профиля bool
  * [**findProfileValue** ](/docs-test/reactions/findprofilevalue)- Найти значение профиля
  * [**profilesCount** ](/docs-test/reactions/profilescount)- посчитать количество профилей
-## [Рассылки](/docs-test/admin/newsletters-about)
  * [**newsletterCancel** ](/docs-test/reactions/newslettercancel)- Отменить рассылку
  * [**newsletterRevoke** ](/docs-test/reactions/newsletterrevoke)- Аннулировать рассылку
  * [**newsletterStart**](/docs-test/reactions/newsletterstart) - Начать рассылку
-## [Списки пользователей](/docs-test/admin/userlist-about)
  * [**addToUserList** ](/docs-test/reactions/addtouserlist)- Добавить в список пользователей
  * [**delFromUserList** ](/docs-test/reactions/delfromuserlist)- Удалить из списка пользователей
  * [**takeUserList** ](/docs-test/reactions/takeuserlist)- взять список пользователей
-## [Телеграм клавиатура](/docs-test/admin/keyboard-about)
  * [**keyboardAction**](/docs-test/reactions/keyboardaction) - выполнить действие при нажатии на кнопку.
  * [**keyboardHide** ](/docs-test/reactions/keyboardhide)- Скрыть клавиатуру
  * [**keyboardRefresh** ](/docs-test/reactions/keyboardrefresh)- Обновить текущую клавиатуру
  * [**keyboardShow** ](/docs-test/reactions/keyboardshow)- Показать клавиатуру
-## [Форма](/docs-test/admin/forms-about)
  * [**formStart** ](/docs-test/reactions/formstart)- Запустить форму
  * [**formCancel** ](/docs-test/reactions/formcancel)- Остановить (прервать) форму
  * [**formResult** ](/docs-test/reactions/formresult)- Показать результат формы
@@ -126,7 +109,6 @@ _в разработке_
  * [**takeFormResults** ](/docs-test/reactions/takeformresults)- Получить последние несколько результатов формы
  * [**saveFormVariables** ](/docs-test/reactions/saveformvariables)- сохранить локальную переменную в форме
  * [**writeFormCustom** ](/docs-test/reactions/writeformcustom)- загрузить произвольный параметр формы
-## [Чат ](/docs-test/admin/chat-about)
 
 _Все реакции работают как в чате так и в канале_
  * [**approveChatJoinRequest** ](/docs-test/reactions/approvechatjoinrequest)- Одобрить запрос в чат
@@ -157,7 +139,6 @@ _Все реакции работают как в чате так и в кана
 
 
 
-## Прочее 
  * [**adminMenu** ](/docs-test/reactions/adminmenu)- Меню админа
  * [**alert** ](/docs-test/reactions/alert)- Сообщение в окне
  * [**amocrmApi**](/docs-test/reactions/amocrmapi) - 

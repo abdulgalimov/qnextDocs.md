@@ -1,4 +1,3 @@
-## QNext. Макрос menu
 
 [⬅️QNext. Макросы](/docs-test/macros)
 
@@ -8,7 +7,7 @@
 * [type: open](#type:-open)
 
 
-### type: open
+## type: open
 
 Показывает ссылку для открытия меню в боте:
 ```js 

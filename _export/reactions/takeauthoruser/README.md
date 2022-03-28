@@ -1,4 +1,3 @@
-## QNext. реакция takeAuthorUser
 
 takeAuthorUser - взять инициатора действия.
 

@@ -1,4 +1,3 @@
-## QNext. UserBot. Типы
 
 
 * [InputPeer](/docs-test/userbot/inputpeer)

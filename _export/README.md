@@ -1,5 +1,4 @@
-## QNext. Документация
-### Меню администратора
+## Меню администратора
 * [QNext. Настройки бота](/docs-test/_export/admin/setting-about)
 * [QNext. Люди](/docs-test/_export/admin/people-about)
 * [QNext. Контент](/docs-test/_export/admin/content-about)
@@ -17,14 +16,14 @@
 * [QNext. Внешние сервисы](/docs-test/_export/admin/external-services-about)
 * [QNext. Клавиатура](/docs-test/_export/admin/keyboard-about)
 * [QNext. Переменные](/docs-test/_export/admin/variables-about)
-### Исполняемые модули
+## Исполняемые модули
 * [Qnext. Исполняемые модули](/docs-test/_export/executable-modules)
 * [QNext. Реакции](/docs-test/_export/reactions)
 * [QNext. Ограничения](/docs-test/_export/restrictions)
 * [QNext. Скрипты](/docs-test/_export/script)
 * [QNext. Макросы](/docs-test/_export/macros)
 * [QNext. Google](/docs-test/_export/admin/google-about)
-### Статьи и обзоры
+## Статьи и обзоры
 * [Qnextbot уведомления](/docs-test/_export/root/notifications)
 * [QNext тарифы](/docs-test/_export/admin/price-about)
 * [Подключение бота и изменение токена](/docs-test/_export/root/token-about)
@@ -34,10 +33,10 @@
 * [Новый механизм take-реакций](/docs-test/_export/reactions/new-mechanics)
 * [Лимиты Телеграм](https://limits.tginfo.me/ru-RU/)
 * [Публичные API](/docs-test/_export/admin/public-api)
-### Онлайн конференции
+## Онлайн конференции
 * [Создание бота для проведения оффлайн конференций](https://www.youtube.com/watch?v=DnGL2II51Xg) 
 * [Локальные переменные](https://www.youtube.com/watch?v=3ify7Ci8D_I)
-### Ресурсы проекта в Telegram
+## Ресурсы проекта в Telegram
 * [@QNextBot](https://t.me/QNextBot) — Платформа управления ботами
 * [@QNext](http://t.me/QNext)— Новости проекта
 * [@QNextSupport](http://t.me/Qnextsupport) — Чат техподдержки
@@ -50,7 +49,7 @@
 * [@QNextChat](https://t.me/QNextChat) — Чат флудилка
 
 
-### Продолжая работу с ботом, вы принимаете условия Политики конфиденциальности и Пользовательского соглашения платформы @QNextBot.
+## Продолжая работу с ботом, вы принимаете условия Политики конфиденциальности и Пользовательского соглашения платформы @QNextBot.
 
 🔸[Политика конфиденциальности](http://qnext.app/docs/privacy.html)
 

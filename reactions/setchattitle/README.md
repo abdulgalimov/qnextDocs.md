@@ -1,4 +1,3 @@
-## QNext реакция setChatTitle
 
 setChatTitle - изменить название группы
 

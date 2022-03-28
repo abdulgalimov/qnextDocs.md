@@ -1,4 +1,3 @@
-## QNext. реакция profileDelAll
 
 **profileDelAll -** удалить все профили пользователя. 
 

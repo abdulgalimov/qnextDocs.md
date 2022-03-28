@@ -1,4 +1,3 @@
-## QNext реакция deleteChatStickerSet
 
 **deleteChatStickerSet** - удалить стикерпак группы
 

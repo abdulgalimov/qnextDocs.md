@@ -1,4 +1,3 @@
-## QNext. реакция localVarSet
 
 localVarSet - создание локальной переменной и присвоение значения созданной переменной. В отличии от [localVarAdd](/docs-test/reactions/localvaradd) - заменяет имеющееся значение новым, если оно есть.
 

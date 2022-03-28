@@ -1,4 +1,3 @@
-## QNext. UserBot. Методы
 
 
 
@@ -24,15 +23,15 @@
 //  [Шаблоны и полезные подсказки](/docs-test/userbot/sample)
 
 /// [Юзерботы работают на yaml](https://docs.ansible.com/ansible/latest/reference_appendices/YAMLSyntax.html)
-### common
-### getMe
+## common
+## getMe
 
 Получить информацию о себе (юзер бот)
 ```js 
 method: getMe
 ```
-### Messages
-###  messages.sendMessage
+## Messages
+##  messages.sendMessage
 
 Отправить сообщение юзеру в личку или в чат/канал
 ```js 
@@ -47,7 +46,7 @@ scheduleDate: Unixtime дата отправки
 replyToMessageId: Id сообщения
 ```
 * peer: [InputPeer](/docs-test/userbot/inputpeer)
-### messages.forwardMessages
+## messages.forwardMessages
 
 Переслать сообщение
 ```js 
@@ -80,7 +79,7 @@ background: false
 ```
 
 
-###  messages.reportSpam
+##  messages.reportSpam
 
 Сообщить о спаме от нового пользователя
 ```js 
@@ -91,7 +90,7 @@ peer: InputPeer
 
 
 
-### messages.getChats
+## messages.getChats
 
 Получить информацию о чате
 ```js 
@@ -104,7 +103,7 @@ _или_
 method: messages.getChats
 chatIdList: [-1234567890]
 ```
-### messages.getFullChat
+## messages.getFullChat
 
 Получить полную информацию о чате
 ```js 
@@ -113,7 +112,7 @@ chatId: -1234567890
 ```
 
 
-### messages.getCommonChats
+## messages.getCommonChats
 
 Найти общие с пользователем чаты
 ```js 
@@ -125,8 +124,8 @@ maxId: 0
 * user: [InputUser](/docs-test/userbot/inputuser)
 
 
-### Channels
-### channels.toggleSlowMode
+## Channels
+## channels.toggleSlowMode
 ```js 
 method: channels.toggleSlowMode
 channel: InputChannel
@@ -135,22 +134,22 @@ seconds: 1
 * channel: [InputChannel](/docs-test/userbot/inputchannel)
 
 
-### Stats
-### stats.getMegagroupStats
+## Stats
+## stats.getMegagroupStats
 ```js 
 method: stats.getMegagroupStats
 channel: InputChannel
 dark: true
 ```
 * channel: [InputChannel](/docs-test/userbot/inputchannel)
-### stats.getBroadcastStats
+## stats.getBroadcastStats
 ```js 
 method: stats.getBroadcastStats
 channel: InputChannel
 dark: true
 ```
 * channel: [InputChannel](/docs-test/userbot/inputchannel)
-### stats.loadAsyncGraph
+## stats.loadAsyncGraph
 ```js 
 method: stats.loadAsyncGraph
 token: "abc...xyz"

@@ -1,4 +1,3 @@
-## QNext. реакция takeAdmins
 
 takeAdmins - взять админов бота.
 

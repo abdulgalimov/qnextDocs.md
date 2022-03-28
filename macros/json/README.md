@@ -1,4 +1,3 @@
-## QNext. Макрос JSON
 
 [⬅️QNext. Макросы](/docs-test/macros)
 

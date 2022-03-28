@@ -1,4 +1,3 @@
-## @HowUsedBot - API.NodeJS
 
 [⬅️ @HowUsedBot - API](/docs-test/howusedbot/api)
 

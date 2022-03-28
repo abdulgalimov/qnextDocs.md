@@ -1,4 +1,3 @@
-## @HowUsedBot - Настройки визуализации
 
 [⬅️ @HowUsedBot - Документация](/docs-test/howusedbot)
 

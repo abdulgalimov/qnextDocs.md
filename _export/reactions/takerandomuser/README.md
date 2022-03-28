@@ -1,4 +1,3 @@
-## QNext. реакция takeRandomUser
 
 takeRandomUser - взять в случайном порядке пользователей.
 

@@ -1,4 +1,3 @@
-## QNext. реакция takeReplyUser
 
 takeReplyUser - взять пользователя на чье сообщение ответили в чате.
 

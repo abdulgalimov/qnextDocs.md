@@ -1,4 +1,3 @@
-## QNext. Макросы encodeURI/decodeURI
 
 [⬅️QNext. Макросы](/docs-test/_export/macros)
 
@@ -36,7 +35,7 @@
 ```
 
 
-### defaultValue
+## defaultValue
 
 Если параметр text пустой, вы можете показать значение по умолчанию, передав его в параметре defaultValue:
 ```js 

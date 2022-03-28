@@ -1,4 +1,3 @@
-## QNext реакция unbanChatSenderChat
 
 **unbanChatSenderChat -** разблокировать канал в чате.
 

@@ -1,4 +1,3 @@
-## QNext реакция getChatMemberCount
 
 **getChatMemberCount** -получить количество участников в чате.
 

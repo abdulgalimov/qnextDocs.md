@@ -1,4 +1,3 @@
-## QNext реакция setChatStickerSet
 
 **setChatStickerSet** - установить стикерпак для группы.
 

@@ -1,4 +1,3 @@
-## QNext. WEB
 
 Здесь описаны разделы связанные с работой web ссылок.
 * [QNext. WEB-links](/docs-test/_export/admin/web-links)

@@ -1,4 +1,3 @@
-## QNext Ссылки на публичные API
 * [Сервис для тестирования API](https://postman.com/)
 * [Telegram Bot API](https://core.telegram.org/bots/api)
 * [Telegram User API](https://core.telegram.org/methods)

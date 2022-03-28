@@ -1,4 +1,3 @@
-## QNext. Работа с объектом span
 
 [⬅️QNext. Скрипты. Объект qnext](/docs-test/script/object-qnext).
 
@@ -20,7 +19,7 @@ const spanTime2 = qnext.time.span.parseTime("12:25")
 ```
 
 
-### span.add...
+## span.add...
 
 После создания объекта span, у него доступны методы для добавление времени к уже имеющемуся:
 ```js 
@@ -31,7 +30,7 @@ span.addMin(1) // добавить минуты
 span.addHour(1) // добавить часы
 span.addDay(1) // добавить дни
 ```
-### span.set...
+## span.set...
 
 Вы так же можете заменить время с помощью следующих функций:
 ```js 
@@ -42,7 +41,7 @@ span.setMin(1) // указать новое время в минутах
 span.setHour(1) указать новое время в часах
 span.setDay(1) указать новое время в днях
 ```
-### span.decompose
+## span.decompose
 
 Извлечь время можно в различных форматах.
 ```js 
@@ -63,7 +62,7 @@ out.time = span.decompose();
   ms: 0,
 }
 ```
-### span.view
+## span.view
 ```js 
 const span = qnext.time.span.new(0);
 span.addHour(2);
@@ -79,7 +78,7 @@ out.time = span.view("Время dd:hh:mm:ss:SS");
 То будет получен результат:
 
 `Время 00:02:30:00:00`
-### span.locale
+## span.locale
 
 Данная функция вернет время с локализацией пользователя:
 ```js 

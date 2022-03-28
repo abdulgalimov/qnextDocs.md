@@ -1,4 +1,3 @@
-## QNext. trello
 
 Trello — в процессе написания
 

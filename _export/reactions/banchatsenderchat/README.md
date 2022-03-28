@@ -1,4 +1,3 @@
-## QNext реакция banChatSenderChat
 
 **banChatSenderChat** - заблокировать канал в чате.
 

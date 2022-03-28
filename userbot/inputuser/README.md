@@ -1,17 +1,16 @@
-## QNext. UserBot. Тип InputUser
 
 
-### inputUserSelf
+## inputUserSelf
 ```js 
 constructor: inputUserSelf
 ```
-### inputUser
+## inputUser
 ```js 
 constructor: inputUser
 userId: 1234567890
 accessHash: "abcd...xyz"
 ```
-### inputUserFromMessage
+## inputUserFromMessage
 ```js 
 constructor: inputUserFromMessage
 peer: InputPeer

@@ -1,4 +1,3 @@
-## QNext. Библиотека скриптов
 
 [⬅️QNext. Скрипты](/docs-test/_export/script)
 

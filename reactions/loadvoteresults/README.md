@@ -1,4 +1,3 @@
-## QNext. реакция loadVoteResults
 
 **loadVoteResults** - загрузить результаты голосования в контенте. 
 

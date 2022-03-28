@@ -1,4 +1,3 @@
-## QNext реакция setChatDescription
 
 **setChatDescription** - изменить описание чата
 

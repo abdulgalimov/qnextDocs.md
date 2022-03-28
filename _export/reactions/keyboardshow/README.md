@@ -1,4 +1,3 @@
-## QNext. реакция keyboardShow
 
 keyboardShow - отправить клавиатуру в чат.
 

@@ -1,4 +1,3 @@
-## QNext admin reaction writeFormCustom
 
 **writeFormCustom** - реакция связанная с полем форме: **custom.** 
 

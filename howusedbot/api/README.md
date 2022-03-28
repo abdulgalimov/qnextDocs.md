@@ -1,4 +1,3 @@
-## @HowUsedBot - API
 
 [⬅️ @HowUsedBot - Документация](/docs-test/howusedbot)
 
@@ -23,10 +22,10 @@ https://qnext.app/bin/webhooks/6438/181/4opQGmB6OlHqqPRM
 В зависимости от значения **requestType** могут быть дополнительные параметры. Параметр **requestType** может принимать следующие значения:
 * [requestType: event](#requesttype:-event)
 * [requestType: getOnline](#requesttype:-getonline)
-### requestType: event
+## requestType: event
 
 Сохранить событие, наступившее в вашем боте.
-### Пример запроса:
+## Пример запроса:
 ```js 
 {
     "botId": 1234567,
@@ -45,7 +44,7 @@ https://qnext.app/bin/webhooks/6438/181/4opQGmB6OlHqqPRM
 * **param_3** - дополнительный параметр запроса
 
 Дополнительные параметры запроса(param_1, param_2 и param_3) можно использовать для сегментации событий. Например если вам необходимо в событии **register**, узнать разброс пользователей по языкам, передайте например в параметре **param_1** значение языка пользователя. После этого вы сможете построить график с фильтром или сегментацией по значению языка пользователей.
-### Ответ:
+## Ответ:
 ```js 
 {
    "ok": true
@@ -57,7 +56,7 @@ https://qnext.app/bin/webhooks/6438/181/4opQGmB6OlHqqPRM
 Примеры запросов на разных языках:
 * [python](/docs-test/howusedbot/api-python)
 * [NodeJS](/docs-test/howusedbot/api-nodejs)
-### requestType: getOnline
+## requestType: getOnline
 
 Получить количество пользователей online - это те пользователи которые обращались к боту за последние N секунд. Пример запроса:
 ```js 
@@ -70,7 +69,7 @@ https://qnext.app/bin/webhooks/6438/181/4opQGmB6OlHqqPRM
 ```
 
 Параметр seconds не обязательный, по умолчанию 120. Можно передать значение до 600 секунд.
-### Ответ:
+## Ответ:
 ```js 
 {
     "ok": true,
@@ -81,7 +80,7 @@ https://qnext.app/bin/webhooks/6438/181/4opQGmB6OlHqqPRM
 
 
 
-### requestType: update
+## requestType: update
 
 ⛔️Устаревая конструкция, используйте [requestType: event](#requesttype:-event) ⛔️
 

@@ -1,4 +1,3 @@
-## HowUsedBot. Python
 
 HowUsedBot. Python
   

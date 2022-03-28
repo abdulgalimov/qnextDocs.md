@@ -1,13 +1,12 @@
-## QNext. UserBot. Тип InputChannel
 
 
-### inputChannel
+## inputChannel
 ```js 
 constructor: inputChannel
 channelId: -12345678
 accessHash: "abcd...xyz"
 ```
-### inputChannelFromMessage
+## inputChannelFromMessage
 ```js 
 constructor: inputChannelFromMessage
 channelId: -12345678

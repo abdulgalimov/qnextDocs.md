@@ -1,4 +1,3 @@
-## QNext. реакция exportChatInviteLink
 
 exportChatInviteLink - Позволяет боту создать свою ссылку в чат.
 

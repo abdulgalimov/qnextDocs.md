@@ -1,4 +1,3 @@
-## QNext реакция getUserProfilePhotos
 
 getUserProfilePhotos - получить аватарку(ки) пользователя
 

@@ -1,4 +1,3 @@
-## Starter cataloge
 
 Starter cataloge
   

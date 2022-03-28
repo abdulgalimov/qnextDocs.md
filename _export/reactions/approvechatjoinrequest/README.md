@@ -1,4 +1,3 @@
-## QNext admin реакция approveChatJoinRequest
 
 **approveChatJoinRequest** - одобрить запрос в чат.
 

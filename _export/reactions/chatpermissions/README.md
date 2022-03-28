@@ -1,4 +1,3 @@
-## QNext. реакция chatPermissions
 
 **chatPermissions** — Реакция для управления разрешениями чата.
 

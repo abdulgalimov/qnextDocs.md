@@ -1,4 +1,3 @@
-## QNext. реакция scheduleSwitch
 
 scheduleSwitch - включить/выключить расписание
 

@@ -1,4 +1,3 @@
-## QNext реакция declineChatJoinRequest
 
 **declineChatJoinRequest** - отклонить запрос в чат.
 

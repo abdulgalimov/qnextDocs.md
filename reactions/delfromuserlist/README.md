@@ -1,4 +1,3 @@
-## QNext. реакция delFromUserList
 
 **delFromUserList** — Удаление пользователя из указанного списка пользователей.
 
