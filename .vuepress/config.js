@@ -13,6 +13,7 @@ module.exports = {
       description: '📦 Документация для бота.',
     },
   },
+  patterns: ['**/*.md', '!.vuepress', '!node_modules', '!_export'],
   themeConfig: {
     lastUpdated: true, // string | boolean
     sidebarDepth: 2,
