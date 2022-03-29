@@ -57,7 +57,7 @@ QNext. Прием платежей с помощью ЮMoney кошелька
 
 
 
-[⬅️QNext. Платежи](/docs-test/pay)
+[⬅️QNext. Платежи](/docs-test/admin/pay)
 
 
 

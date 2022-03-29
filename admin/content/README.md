@@ -167,7 +167,7 @@
 
 
 ## Реакции
- * [**loadContent** ](/docs-test/_export/reactions/loadcontent)- Загрузить Контент
- * [**loadRandomContent** ](/docs-test/_export/reactions/loadrandomcontent)- Выбрать случайный контент
- * [**sendContent** ](/docs-test/_export/reactions/sendcontent)- Отправить Контент
- * [**refreshContent** ](/docs-test/_export/reactions/refreshcontent)- Обновить контент
+ * [**loadContent** ](/docs-test/reactions/loadcontent)- Загрузить Контент
+ * [**loadRandomContent** ](/docs-test/reactions/loadrandomcontent)- Выбрать случайный контент
+ * [**sendContent** ](/docs-test/reactions/sendcontent)- Отправить Контент
+ * [**refreshContent** ](/docs-test/reactions/refreshcontent)- Обновить контент

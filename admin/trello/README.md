@@ -2,7 +2,7 @@
 • [Подключаем Trello к боту](#подлючаем-trello-к-боту)
 • [Настройка рабочего места](#настроика-рабочего-места-аккаунта-в-браузере) 
 • [Первый update](#первыи-update-в-логах)
-• [Макрос trello](/docs-test/_export/macros/trello)
+• [Макрос trello](/docs-test/macros/trello)
 
 
 Trello — облачная программа для управления проектами небольших групп.
@@ -57,12 +57,12 @@ Trello — 🧰Аккаунты — ➕ Добавить — Укажите ср
 ![](./12.png)
 
 Смотрим логи 
-**Что такое логи ?** [Ответ](/docs-test/_export/reactions/log) 
+**Что такое логи ?** [Ответ](/docs-test/reactions/log) 
 
 ![](./13.png)
-* [trelloApiRequest](/docs-test/_export/reactions/trelloapirequest)
-* [trelloAddComment](/docs-test/_export/reactions/trelloaddcomment)
-* [trelloCreateCard](/docs-test/_export/reactions/trellocreatecard)
-* [trelloGetCard](/docs-test/_export/reactions/trellogetcard)
-* [trelloGetCardAttachment](/docs-test/_export/reactions/trellocreatecardattachment)
-* [trelloUpdateCard](/docs-test/_export/reactions/trelloupdatecard)
+* [trelloApiRequest](/docs-test/reactions/trelloapirequest)
+* [trelloAddComment](/docs-test/reactions/trelloaddcomment)
+* [trelloCreateCard](/docs-test/reactions/trellocreatecard)
+* [trelloGetCard](/docs-test/reactions/trellogetcard)
+* [trelloGetCardAttachment](/docs-test/reactions/trellocreatecardattachment)
+* [trelloUpdateCard](/docs-test/reactions/trelloupdatecard)

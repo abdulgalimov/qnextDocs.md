@@ -3,12 +3,12 @@
 С помощью платежей в qnext, создатели ботов могут принимать платежи со своих пользователей. 
 ## Способы оплаты
 На текущий момент доступны следующие способы оплаты:
-* [QIWI кошелек](/docs-test/pay/qiwi)
-* [ЮMoney кошелек](/docs-test/pay/yoomoney-api) (бывшие Яндекс.Деньги)
-* [ЮKassa для юр. лиц](/docs-test/pay/yookassa) (бывшая Яндекс.Касса)
-* [Нативные Telegram платежи](/docs-test/pay/telegram)
-* [ROBOKASSA](/docs-test/pay/robokassa)
-* [PAYEER](/docs-test/pay/payeer)
+* [QIWI кошелек](/docs-test/admin/pay/qiwi)
+* [ЮMoney кошелек](/docs-test/admin/pay/yoomoney-api) (бывшие Яндекс.Деньги)
+* [ЮKassa для юр. лиц](/docs-test/admin/pay/yookassa) (бывшая Яндекс.Касса)
+* [Нативные Telegram платежи](/docs-test/admin/pay/telegram)
+* [ROBOKASSA](/docs-test/admin/pay/robokassa)
+* [PAYEER](/docs-test/admin/pay/payeer)
 
 ## Подключение новых способов оплаты
 

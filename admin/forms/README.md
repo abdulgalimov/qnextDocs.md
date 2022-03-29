@@ -60,10 +60,10 @@
 —
 ## Google таблицы
 
-— Подключение и вывод результатов формы в [**Google таблицы.**](/docs-test/admin/google-about)
+— Подключение и вывод результатов формы в [**Google таблицы.**](/docs-test/admin/google)
 ## Конвертор
 
-— Подключение конвертора для вывода результатов формы в [**Google таблицы**](/docs-test/admin/google-about) или Excel
+— Подключение конвертора для вывода результатов формы в [**Google таблицы**](/docs-test/admin/google) или Excel
 ## Workflows 
 
 —

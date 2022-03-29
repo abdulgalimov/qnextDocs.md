@@ -37,7 +37,7 @@
 
 
 
-[⬅️QNext. Платежи](/docs-test/pay)
+[⬅️QNext. Платежи](/docs-test/admin/pay)
 
 
   
