@@ -1,5 +1,6 @@
+# loadChatInviteLink
 
-loadChatInviteLink - в разработке
+**loadChatInviteLink** - в разработке
 
 
 

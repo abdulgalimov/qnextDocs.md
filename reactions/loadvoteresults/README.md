@@ -1,3 +1,4 @@
+№ loadVoteResults
 
 **loadVoteResults** - загрузить результаты голосования в контенте. 
 

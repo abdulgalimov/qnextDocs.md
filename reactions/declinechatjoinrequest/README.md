@@ -1,3 +1,4 @@
+# declineChatJoinRequest
 
 **declineChatJoinRequest** - отклонить запрос в чат.
 

@@ -1,5 +1,6 @@
+# keyboardShow
 
-keyboardShow - отправить клавиатуру в чат.
+**keyboardShow** - отправить клавиатуру в чат.
 
 ![](./1.png)
 

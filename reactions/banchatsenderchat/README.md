@@ -1,3 +1,4 @@
+# banChatSenderChat
 
 **banChatSenderChat** - заблокировать канал в чате.
 

@@ -1,3 +1,4 @@
+# getUserProfilePhotos
 
 getUserProfilePhotos - получить аватарку(ки) пользователя
 
@@ -18,11 +19,9 @@ _${userPhotosResult}_
 **ОСОБЕННОСТИ**:
 
 Можно загрузить не более 100 аватарок за 1 запрос
-
-
-::: tip ℹ️
+️
 [**getUserProfilePhotos  method bot.api**](https://core.telegram.org/bots/api#getuserprofilephotos)
-:::
+
 
 
 

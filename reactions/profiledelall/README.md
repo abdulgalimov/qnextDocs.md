@@ -1,11 +1,10 @@
+# profileDelAll
 
-**profileDelAll -** удалить все профили пользователя. 
+**profileDelAll** - удалить все профили пользователя. 
 
+Для удаления определенного профиля, необходимо использовать:
 
-
-Для удаления выборочно одного профиля, необходимо использовать:
-
-[Реакция:  **profileDell**](/docs-test/reactions/profiledel)
+Реакция: [**profileDell**](/docs-test/reactions/profiledel)
 
 
 

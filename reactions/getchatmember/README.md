@@ -1,3 +1,4 @@
+# getChatMember
 
 **getChatMember** - получить информацию об участнике чата
 

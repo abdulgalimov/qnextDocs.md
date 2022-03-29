@@ -1,3 +1,4 @@
+# chatPermissions
 
 **chatPermissions** — Реакция для управления разрешениями чата.
 

@@ -1,3 +1,4 @@
+# getChatMemberCount
 
 **getChatMemberCount** -получить количество участников в чате.
 
@@ -11,11 +12,8 @@ _${chatMembersCountResult}_
 ![](./2.png)
 
 
-
-
-::: tip ℹ️
 [**getChatMemberCount method bot.api**](https://core.telegram.org/bots/api#getchatmember)
-:::
+
 
 
 

@@ -1,3 +1,4 @@
+# approveChatJoinRequest
 
 **approveChatJoinRequest** - одобрить запрос в чат.
 

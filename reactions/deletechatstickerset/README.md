@@ -1,3 +1,4 @@
+# deleteChatStickerSet
 
 **deleteChatStickerSet** - удалить стикерпак группы
 
