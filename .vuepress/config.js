@@ -109,7 +109,7 @@ module.exports = {
           path: '/newsletters/timeout/'
         }, {
           title: 'RegEx',
-          path: '/admin/useful/'
+          path: '/admin/regexp/'
         }]
       }],
     }]
