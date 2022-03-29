@@ -27,6 +27,7 @@ module.exports = {
         path: '/price/'
       },{
         title: 'Меню администратора',
+        path: '/admin/',
         collapsable: false,
         children: [{
           title: '⚙Настройки бота',
@@ -82,6 +83,7 @@ module.exports = {
         }]
       }, {
         title: 'Исполняемые модули',
+        path: '/executable-modules/',
         collapsable: false,
         children: [{
           title: 'Реакции',
