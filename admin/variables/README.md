@@ -2,11 +2,11 @@
 
 Характеристики:
  
-—  [Профили](/docs-test/admin/profile-about) - позволяют хранить до 4096 символов
+—  [Профили](/docs-test/admin/profile) - позволяют хранить до 4096 символов
 
 —  [Динамические переменные](/docs-test/reactions/dynamicvariable) - позволяют хранить до 4096 символов
 
-—  [Глобальные переменные](/docs-test/admin/globalvariables-about) - позволяют хранить до 16 384 символов
+—  [Глобальные переменные](/docs-test/admin/globalvariables) - позволяют хранить до 16 384 символов
 
 
 
