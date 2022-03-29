@@ -1,3 +1,4 @@
+# WEB
 
 Здесь описаны разделы связанные с работой web ссылок.
 * [QNext. WEB-links](/docs-test/admin/web-links)
