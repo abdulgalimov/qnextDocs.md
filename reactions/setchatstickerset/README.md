@@ -1,4 +1,4 @@
-
+# setChatStickerSet
 **setChatStickerSet** - установить стикерпак для группы.
 
 ![](./1.png)

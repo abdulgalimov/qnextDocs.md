@@ -1,5 +1,5 @@
-
-setChatTitle - изменить название группы
+# setChatTitle
+**setChatTitle** - изменить название группы
 
 ![](./1.png)
 
@@ -8,15 +8,12 @@ setChatTitle - изменить название группы
 title - текст, на который необходимо изменить название
 
 
-
 **ОСОБЕННОСТИ**:
 
 Максимум 255 символов.
 
-
-::: tip ℹ️
 [**setChatTitle method bot.api**](https://core.telegram.org/bots/api#setchattitle)
-:::
+
 
 
 

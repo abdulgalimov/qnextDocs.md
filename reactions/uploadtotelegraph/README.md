@@ -1,4 +1,4 @@
-
+# uploadToTelegraph
 **uploadToTelegraph** - Реакция загрузит фото/видео в telegra.ph и вернет ссылку на этот файл. 
 
 Важно:

@@ -1,5 +1,5 @@
-
-takeAuthorUser - взять инициатора действия.
+# takeAuthorUser
+**takeAuthorUser** - взять инициатора действия.
 
 
 

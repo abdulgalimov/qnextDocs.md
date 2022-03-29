@@ -1,4 +1,4 @@
-
+# takeMentions
 **takeMentions** - взять пользователя(ей) для дальнейшей работы. 
 
 
@@ -22,12 +22,10 @@
 Реакции:
 
 — takeMentions
-— — takeChat 
+
+— — takeChat
+ 
 — — — kickChatMember
-
-
-
-
 
 **Особенности:**
 * Работает только юзернеймами (@username) и меншенами (mention: Account6 testgen)
@@ -35,7 +33,7 @@
 
 Если необходимо использовать @username и ID, подойдет:
 
-[ **реакция: takeUsers**](/docs-test/reactions/takeusers)
+[**реакция: takeUsers**](/docs-test/reactions/takeusers)
 
 
 

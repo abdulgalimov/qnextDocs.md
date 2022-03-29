@@ -1,5 +1,5 @@
-
-scheduleSwitch - включить/выключить расписание
+# scheduleSwitch
+**scheduleSwitch** - включить/выключить расписание
 
 ![](./1.png)
 

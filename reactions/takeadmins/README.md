@@ -1,5 +1,5 @@
-
-takeAdmins - взять админов бота.
+# takeAdmins
+**takeAdmins** - взять админов бота.
 
 
 

@@ -1,5 +1,5 @@
-
-takeChatDir - загружает каталог чатов. 
+# takeChatDir
+**takeChatDir** - загружает каталог чатов. 
 
 
 
