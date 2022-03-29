@@ -7,7 +7,8 @@
 
 
 
-## Реакции
+**Реакции**
+
  * [**httpRequest** ](/docs-test/reactions/httprequest)- Выполнить HTTP-запрос (get, post)
  * [**webhookResponse** ](/docs-test/reactions/webhookresponse)- Ответ для webhook's
  * [**weblinkRedirect**](/docs-test/reactions/redirecturl) - перенаправление на другой адрес (в процессе написания)
