@@ -22,32 +22,57 @@
 
 `Дата: 22.12.2020 15:58`
 
-
+## amount
 * !{amount}
+## array
 * [!{array}](/docs-test/macros/array)
+## date
 * [!{date}](/docs-test/macros/date)
+## crypto
 * [!{crypto}](/docs-test/macros/crypto)
+## decodeURI
 * [!{decodeURI}](/docs-test/macros/encodeuri)
+## encodeURI
 * [!{encodeURI}](/docs-test/macros/encodeuri)
+## file
 * [!{file}](/docs-test/macros/file)
+## globalVar
 * [!{globalVar}](/docs-test/macros/globalvar)
+## html
 * [!{html}](/docs-test/macros/html)
+## if
 * [!{if}](/docs-test/macros/if)
+## json
 * [!{json}](/docs-test/macros/json)
+## makeLink
 * !{makeLink}
+## menu
 * [!{menu}](/docs-test/macros/menu)
+## pay
 * [!{pay}](/docs-test/macros/pay)
+## profile
 * [!{profile}](/docs-test/macros/profile)
+## random
 * [!{random}](/docs-test/macros/random)
+## script
 * [!{script}](/docs-test/script)
+## string
 * [!{string}](/docs-test/macros/string)
+## switch
 * [!{switch}](/docs-test/macros/switch)
+## trello
 * [!{trello}](/docs-test/macros/trello)
+## user
 * [!{user}](/docs-test/macros/user)
+## usersCount
 * [!{usersCount}](/docs-test/macros/usercount)
+## url
 * [!{url}](/docs-test/macros/url)
+## vote
 * [!{vote}](/docs-test/macros/vote)
+## value
 * [!{value}](/docs-test/macros/value)
+## template
 * !{template}
 
 

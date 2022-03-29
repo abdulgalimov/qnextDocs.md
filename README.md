@@ -27,7 +27,6 @@
 * [Qnextbot уведомления](/docs-test/root/notifications)
 * [QNext тарифы](/docs-test/price)
 * [Подключение бота и изменение токена](/docs-test/root/token-about)
-* [Таймаут рассылки](/docs-test/newsletters/timeout)
 * [Примеры RegEx](/docs-test/admin/regexp)
 * [Логи](/docs-test/reactions/log)
 * [Новый механизм take-реакций](/docs-test/reactions/new-mechanics)
