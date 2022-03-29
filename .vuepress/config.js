@@ -108,9 +108,6 @@ module.exports = {
           title: 'Регистрация бота и обновление токена',
           path: '/root/token-about/'
         }, {
-          title: 'Таймаут рассылки',
-          path: '/newsletters/timeout/'
-        }, {
           title: 'RegEx',
           path: '/admin/regexp/'
         }]
