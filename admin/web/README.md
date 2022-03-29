@@ -9,10 +9,10 @@
 
 **Реакции**
 
- * [**httpRequest** ](/docs-test/reactions/httprequest)- Выполнить HTTP-запрос (get, post)
- * [**webhookResponse** ](/docs-test/reactions/webhookresponse)- Ответ для webhook's
- * [**weblinkRedirect**](/docs-test/reactions/redirecturl) - перенаправление на другой адрес (в процессе написания)
- * [WeblinkResponse](/docs-test/reactions/weblinkresponse) - Ответ на web запрос
+ * [**httpRequest** ](/docs-test/ext/reactions/httprequest)- Выполнить HTTP-запрос (get, post)
+ * [**webhookResponse** ](/docs-test/ext/reactions/webhookresponse)- Ответ для webhook's
+ * [**weblinkRedirect**](/docs-test/ext/reactions/redirecturl) - перенаправление на другой адрес (в процессе написания)
+ * [WeblinkResponse](/docs-test/ext/reactions/weblinkresponse) - Ответ на web запрос
 
 
 

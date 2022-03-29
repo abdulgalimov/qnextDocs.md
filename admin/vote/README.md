@@ -6,18 +6,18 @@
 
 
 
-— [**loadVote**](/docs-test/reactions/loadvote) - Загрузить голос в опросе
+— [**loadVote**](/docs-test/ext/reactions/loadvote) - Загрузить голос в опросе
 
-— [**loadVoteResults**](/docs-test/reactions/loadvoteresults) - Загрузить результаты голосования
+— [**loadVoteResults**](/docs-test/ext/reactions/loadvoteresults) - Загрузить результаты голосования
 
-— [**takePollUsers**](/docs-test/reactions/takepollusers) - Загрузить проголосовавших в опросе
+— [**takePollUsers**](/docs-test/ext/reactions/takepollusers) - Загрузить проголосовавших в опросе
 
-— [**vote**](/docs-test/reactions/vote) - голосование
+— [**vote**](/docs-test/ext/reactions/vote) - голосование
 
-— [**voteAdd**](/docs-test/reactions/voteadd) - Добавить голос
+— [**voteAdd**](/docs-test/ext/reactions/voteadd) - Добавить голос
 
-— [**voteCancel**](/docs-test/reactions/votecancel) - Отменить голос
+— [**voteCancel**](/docs-test/ext/reactions/votecancel) - Отменить голос
 
-— [**voteOpen**](/docs-test/reactions/voteopen) - Открыть/закрыть голосование
+— [**voteOpen**](/docs-test/ext/reactions/voteopen) - Открыть/закрыть голосование
 
-— [**voteRevoke**](/docs-test/reactions/voterevoke) - Очистить (сбросить) голосование
+— [**voteRevoke**](/docs-test/ext/reactions/voterevoke) - Очистить (сбросить) голосование

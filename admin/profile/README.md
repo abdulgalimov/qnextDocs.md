@@ -35,23 +35,23 @@
 
 ## Реакции работающие с профилями: 
 
- [**loadProfile** ](/docs-test/reactions/loadprofile)- Загрузить Профиль пользователя
+ [**loadProfile** ](/docs-test/ext/reactions/loadprofile)- Загрузить Профиль пользователя
 
- [**profileAdd** ](/docs-test/reactions/profileadd)- Добавить Профиль пользователя
+ [**profileAdd** ](/docs-test/ext/reactions/profileadd)- Добавить Профиль пользователя
 
- [**profileDel** ](/docs-test/reactions/profiledel)- Удалить Профиль пользователя
+ [**profileDel** ](/docs-test/ext/reactions/profiledel)- Удалить Профиль пользователя
 
- [**profileSet** ](/docs-test/reactions/profileset)- Установить Профиль пользователя
+ [**profileSet** ](/docs-test/ext/reactions/profileset)- Установить Профиль пользователя
 
- [**profileDelAll** ](/docs-test/reactions/profiledelall)- Удалить все Профили пользователя
+ [**profileDelAll** ](/docs-test/ext/reactions/profiledelall)- Удалить все Профили пользователя
 
- [**profileSet** ](/docs-test/reactions/profileset)- Установить Профиль пользователя
+ [**profileSet** ](/docs-test/ext/reactions/profileset)- Установить Профиль пользователя
 
- [**profileSwitch** ](/docs-test/reactions/profileswitch)- Изменить статус профиля bool
+ [**profileSwitch** ](/docs-test/ext/reactions/profileswitch)- Изменить статус профиля bool
 
- [**findProfileValue** ](/docs-test/reactions/findprofilevalue)**- **Найти значение профиля
+ [**findProfileValue** ](/docs-test/ext/reactions/findprofilevalue)**- **Найти значение профиля
 
- [**profilesCount** ](/docs-test/reactions/profilescount)- посчитать количество профилей
+ [**profilesCount** ](/docs-test/ext/reactions/profilescount)- посчитать количество профилей
 ## Ограничения работающие с профилями:
 
 [**ProfileValue**](/docs-test/admin/restrictions-profilevalue) — проверяет значение профиля
@@ -59,7 +59,7 @@
 
 ## Использование макросов с профилями:
 
-[**Ссылка**](/docs-test/macros/profile)
+[**Ссылка**](/docs-test/ext/macros/profile)
 
 
 

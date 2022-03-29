@@ -41,4 +41,4 @@
 
 
 
-[**googleWrite** ](/docs-test/reactions/googlewrite)- записать параметр в Google таблицу
+[**googleWrite** ](/docs-test/ext/reactions/googlewrite)- записать параметр в Google таблицу

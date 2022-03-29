@@ -2,9 +2,9 @@
 В процессе написания
 
 
-* [**addToUserList**](/docs-test/reactions/addtouserlist)
-* [**delFromUserList**](/docs-test/reactions/delfromuserlist)
-* [**takeUserList**](/docs-test/reactions/takeuserlist)
+* [**addToUserList**](/docs-test/ext/reactions/addtouserlist)
+* [**delFromUserList**](/docs-test/ext/reactions/delfromuserlist)
+* [**takeUserList**](/docs-test/ext/reactions/takeuserlist)
 
 
 

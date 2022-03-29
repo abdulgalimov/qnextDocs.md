@@ -6,16 +6,16 @@
 
 
 
-[openStoreCarts ](/docs-test/reactions/openstorecarts)- Показать Мою корзину в магазине
+[openStoreCarts ](/docs-test/ext/reactions/openstorecarts)- Показать Мою корзину в магазине
 
-[openStoreCategory ](/docs-test/reactions/openstorecategory)- Показать Категорию в магазине
+[openStoreCategory ](/docs-test/ext/reactions/openstorecategory)- Показать Категорию в магазине
 
-[openStoreOrders ](/docs-test/reactions/openstoreorders)- Показать Мои заказы в магазине
+[openStoreOrders ](/docs-test/ext/reactions/openstoreorders)- Показать Мои заказы в магазине
 
-[openStoreProduct ](/docs-test/reactions/openstoreproduct)- Показать Продукт в магазине
+[openStoreProduct ](/docs-test/ext/reactions/openstoreproduct)- Показать Продукт в магазине
 
-[orderCheckout ](/docs-test/reactions/ordercheckout)- Начать оформление заказа в магазине
+[orderCheckout ](/docs-test/ext/reactions/ordercheckout)- Начать оформление заказа в магазине
 
-[sendStore ](/docs-test/reactions/sendstore)- Отправить магазин
+[sendStore ](/docs-test/ext/reactions/sendstore)- Отправить магазин
 
-[sendStoreOrder ](/docs-test/reactions/sendstoreorder)- Показать полученный заказ в магазине
+[sendStoreOrder ](/docs-test/ext/reactions/sendstoreorder)- Показать полученный заказ в магазине

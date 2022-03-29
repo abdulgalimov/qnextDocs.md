@@ -13,6 +13,12 @@ module.exports = {
       description: '📦 Документация для бота.',
     },
   },
+  plugins: [
+    ['@vuepress/search', {
+      searchMaxSuggestions: 10,
+      test: ['/(admin)|(article)|(ext)|(root)/']
+    }]
+  ],
   patterns: ['**/*.md', '!.vuepress', '!node_modules', '!_export'],
   themeConfig: {
     lastUpdated: true, // string | boolean
@@ -24,7 +30,7 @@ module.exports = {
       collapsable: false,
       children: [{
         title: 'Оплата',
-        path: '/price/'
+        path: '/article/price/'
       },{
         title: 'Меню администратора',
         path: '/admin/',
@@ -83,23 +89,23 @@ module.exports = {
         }]
       }, {
         title: 'Исполняемые модули',
-        path: '/executable-modules/',
+        path: '/ext/',
         collapsable: false,
         children: [{
           title: 'Реакции',
-          path: '/reactions/'
+          path: '/ext/reactions/'
         }, {
           title: 'Ограничения',
-          path: '/restrictions/'
+          path: '/ext/restrictions/'
         }, {
           title: 'Скрипты',
-          path: '/script/'
+          path: '/ext/script/'
         }, {
           title: 'Макросы',
-          path: '/macros/'
+          path: '/ext/macros/'
         }]
       }, {
-        title: 'Статьи',
+        title: 'Настройки в QNextBot',
         collapsable: false,
         children: [{
           title: 'Уведомления',
@@ -107,9 +113,16 @@ module.exports = {
         }, {
           title: 'Регистрация бота и обновление токена',
           path: '/root/token-about/'
-        }, {
-          title: 'RegEx',
+        }]
+      }, {
+        title: 'Разное',
+        collapsable: false,
+        children: [{
+          title: 'Регулярные выражения',
           path: '/admin/regexp/'
+        }, {
+          title: 'Триггеры',
+          path: '/article/triggers/'
         }]
       }],
     }]

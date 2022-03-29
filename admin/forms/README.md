@@ -6,7 +6,7 @@
 ## Настройки 
 ## Ограничения
 
-— Применяются все предлагаемые платформой [**ограничения**](/docs-test/restrictions).
+— Применяются все предлагаемые платформой [**ограничения**](/docs-test/ext/restrictions).
 
 ### Тех. название 
 
@@ -247,7 +247,7 @@ update.message.audio: mp3, wav, flac и т.д.
 ## Поле: custom
 
 Поле для приема любого типа данных (в том числе смешанных). Может одновременно принимать и ссылки и цифры, или ссылки и юзернеймы. 
-Работает с связке с реакцией: [**writeFormCustom**](/docs-test/reactions/writeformcustom)
+Работает с связке с реакцией: [**writeFormCustom**](/docs-test/ext/reactions/writeformcustom)
 ## Поле: user
 
 — Поле для выбора пользователя бота.
@@ -300,7 +300,7 @@ update.message.audio: mp3, wav, flac и т.д.
 — Триггер отмены срабатывает после нажатия на кнопку "**Отменить форму**"
 ## Триггер Финиш
 
-— В триггере финиша работает реакция  [**formResult**](/docs-test/reactions/formresult), которая отображает данные пройденной формы.
+— В триггере финиша работает реакция  [**formResult**](/docs-test/ext/reactions/formresult), которая отображает данные пройденной формы.
 
 
 
@@ -313,21 +313,21 @@ update.message.audio: mp3, wav, flac и т.д.
 
 **Реакции**
 
- [**formStart**](/docs-test/reactions/formstart)- Запустить форму
+ [**formStart**](/docs-test/ext/reactions/formstart)- Запустить форму
 
- [**formCancel**](/docs-test/reactions/formcancel) - Остановить (прервать) форму
+ [**formCancel**](/docs-test/ext/reactions/formcancel) - Остановить (прервать) форму
 
- [**formResult**](/docs-test/reactions/formresult) - Показать результат формы
+ [**formResult**](/docs-test/ext/reactions/formresult) - Показать результат формы
 
- [**loadFormResult**](/docs-test/reactions/loadformresult) - Загрузить результаты формы
+ [**loadFormResult**](/docs-test/ext/reactions/loadformresult) - Загрузить результаты формы
 
- [**openFormResult**](/docs-test/reactions/openformresult) - Открыть результаты формы
+ [**openFormResult**](/docs-test/ext/reactions/openformresult) - Открыть результаты формы
 
- [**takeFormResults**](/docs-test/reactions/takeformresults) - Получить последние несколько результатов формы
+ [**takeFormResults**](/docs-test/ext/reactions/takeformresults) - Получить последние несколько результатов формы
 
- [**saveFormVariables**](/docs-test/reactions/saveformvariables) - сохранить локальную переменную в поле формы
+ [**saveFormVariables**](/docs-test/ext/reactions/saveformvariables) - сохранить локальную переменную в поле формы
 
- [**writeFormCustom**](/docs-test/reactions/writeformcustom) - записать произвольный параметр поля формы
+ [**writeFormCustom**](/docs-test/ext/reactions/writeformcustom) - записать произвольный параметр поля формы
 
 
 

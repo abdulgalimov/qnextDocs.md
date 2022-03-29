@@ -22,9 +22,9 @@
 * **yaml** — формат данных, концептуально близкий к языкам разметки, но ориентированный на удобство ввода-вывода типичных структур данных многих языков программирования.
 
 
- * [**globalVarDel**](/docs-test/reactions/globalvardel) - Удалить глобальную переменную
- * [**globalVarSet**](/docs-test/reactions/globalvarset) - Сохранить глобальную переменную
- * [**loadGlobalVar**](/docs-test/reactions/loadglobalvariable) - Загрузить глобальные переменные
+ * [**globalVarDel**](/docs-test/ext/reactions/globalvardel) - Удалить глобальную переменную
+ * [**globalVarSet**](/docs-test/ext/reactions/globalvarset) - Сохранить глобальную переменную
+ * [**loadGlobalVar**](/docs-test/ext/reactions/loadglobalvariable) - Загрузить глобальные переменные
 
 
 

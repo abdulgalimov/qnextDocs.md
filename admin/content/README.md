@@ -157,7 +157,7 @@
 
 
 ### Реакции
- * [**loadContent** ](/docs-test/reactions/loadcontent)- Загрузить Контент
- * [**loadRandomContent** ](/docs-test/reactions/loadrandomcontent)- Выбрать случайный контент
- * [**sendContent** ](/docs-test/reactions/sendcontent)- Отправить Контент
- * [**refreshContent** ](/docs-test/reactions/refreshcontent)- Обновить контент
+ * [**loadContent** ](/docs-test/ext/reactions/loadcontent)- Загрузить Контент
+ * [**loadRandomContent** ](/docs-test/ext/reactions/loadrandomcontent)- Выбрать случайный контент
+ * [**sendContent** ](/docs-test/ext/reactions/sendcontent)- Отправить Контент
+ * [**refreshContent** ](/docs-test/ext/reactions/refreshcontent)- Обновить контент

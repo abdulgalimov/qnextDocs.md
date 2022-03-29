@@ -40,9 +40,9 @@ WEB - ссылки - создание кастомных (Контекстных
 
 Настройки - статистика
 
-[Ограничения](/docs-test/restrictions)
+[Ограничения](/docs-test/ext/restrictions)
 
-[Реакции](/docs-test/reactions)
+[Реакции](/docs-test/ext/reactions)
 
 
 
