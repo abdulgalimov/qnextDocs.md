@@ -109,7 +109,7 @@ module.exports = {
         collapsable: false,
         children: [{
           title: 'Уведомления',
-          path: '/root/notifications/'
+          path: '/article/notifications/'
         }, {
           title: 'Первичная регистрация бота',
           path: '/article/price/newtoken/'
