@@ -1,3 +1,5 @@
+## Тарифы и оплата
+* [QNext тарифы](/docs-test/article/price)
 ## Меню администратора
 * [QNext. Настройки бота](/docs-test/admin/setting)
 * [QNext. Люди](/docs-test/admin/people)
@@ -22,12 +24,11 @@
 * [QNext. Ограничения](/docs-test/ext/restrictions)
 * [QNext. Скрипты](/docs-test/ext/script)
 * [QNext. Макросы](/docs-test/ext/macros)
-* [QNext. Google](/docs-test/admin/google)
 ## Статьи и обзоры
-* [Qnextbot уведомления](/docs-test/root/notifications)
-* [QNext тарифы](/docs-test/article/price)
-* [Подключение бота и изменение токена](/docs-test/root/token-about)
-* [Примеры RegEx](/docs-test/admin/regexp)
+* [Qnextbot уведомления](/docs-test/article/notifications)
+* [Первая регистрация бота](/docs-test/article/price/newtoken)
+* [Обновление токена подключенного бота](/docs-test/article/price/reltoken)
+* [regEx - регулярные выражения](/docs-test/admin/regexp)
 * [Логи](/docs-test/ext/reactions/log)
 * [Новый механизм take-реакций](/docs-test/ext/reactions/new-mechanics)
 * [Лимиты Телеграм](https://limits.tginfo.me/ru-RU/)

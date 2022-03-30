@@ -111,8 +111,11 @@ module.exports = {
           title: 'Уведомления',
           path: '/root/notifications/'
         }, {
-          title: 'Регистрация бота и обновление токена',
-          path: '/root/token-about/'
+          title: 'Первичная регистрация бота',
+          path: '/article/price/newtoken/'
+        }, {
+          title: 'обновление токена бота',
+          path: '/article/price/reltoken/'
         }]
       }, {
         title: 'Разное',
