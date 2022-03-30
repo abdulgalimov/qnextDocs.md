@@ -1,29 +1,6 @@
-
-[⬅️QNext. Макросы](/docs-test/ext/macros)
-
-
+# string
 
 Макрос позволяет делать различные манипуляции со строками. Макрос по сути копирует поведение многих методов класса String языка JavaScript, ознакомиться можно так же в [документации](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/String).
-
-
-* [length](#length)
-* [charAt](#charat)
-* [charCodeAt](#charcodeat)
-* [endsWith](#endswith)
-* [startsWith](#startswith)
-* [fromCharCode](#fromcharcode)
-* [indexOf](#indexof)
-* [lastIndexOf](#lastindexof)
-* [replace](#replace)
-* [replaceAll](#replaceall)
-* [search](#search)
-* [slice](#slice)
-* [toLowerCase](#tolowercase)
-* [toUpperCase](#touppercase)
-* [trim](#trim)
-* [trimStart](#trimstart)
-* [trimEnd](#trimend)
-* Регулярное выражение
 
 
 ## length
@@ -210,11 +187,3 @@
   newString: X;
 }
 ```
-
-
-
-
-
-[⬅️QNext. Макросы](/docs-test/ext/macros)
-  
-

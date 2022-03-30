@@ -1,22 +1,6 @@
-
-[⬅️QNext. Макросы](/docs-test/ext/macros)
-
-
-
+# html
 Макрос `!{html}` позволяет делать различные преобразования разметки.
-* [italic](#italic)
-* [bold](#bold)
-* [underline](#underline)
-* [strike](#strike)
-* [code](#code)
-* [pre](#pre)
-* [encode](#encode)
-* [decode](#decode)
-* [link](#link)
-* [hiddenLink](#hiddenlink)
-* [hiddenSymbol](#hiddensymbol)
-* [br](#br)
-* [space](#space)
+
 ## italic
 ```js 
 !{html|
@@ -108,13 +92,6 @@
 ```js 
 !{html| type: space}
 ```
-
-
-
-[⬅️QNext. Макросы](/docs-test/ext/macros)
-
-
-
 
 
 

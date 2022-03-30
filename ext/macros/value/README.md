@@ -1,4 +1,4 @@
-
+# value
 Макрос  берет значение из указанного пути и возвращает это значение:
 ```js 
 !{value| path: localVar.code}
@@ -56,10 +56,4 @@
 
 Если `format: json`, в макросе можно указать параметры описанные в документации метода [dump](https://www.npmjs.com/package/js-yaml).
 
-
-
-
-
-[⬅️QNext. Макросы](/docs-test/ext/macros)
-  
 

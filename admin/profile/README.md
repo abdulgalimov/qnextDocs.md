@@ -52,10 +52,10 @@
  [**findProfileValue** ](/docs-test/ext/reactions/findprofilevalue)**- **Найти значение профиля
 
  [**profilesCount** ](/docs-test/ext/reactions/profilescount)- посчитать количество профилей
+ 
 ## Ограничения работающие с профилями:
 
 [**ProfileValue**](/docs-test/admin/restrictions-profilevalue) — проверяет значение профиля
-
 
 ## Использование макросов с профилями:
 

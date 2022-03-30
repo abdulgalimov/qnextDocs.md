@@ -1,4 +1,4 @@
-
+# crypto
 Макрос для кодирования и декодирования текста на платформе qnext. Общий формат макроса выглядит так:
 ```js 
 !{crypto|
@@ -61,11 +61,3 @@ exports.valueForMd5 = userId+"_"+botId;
 * utf8
 * hex
 * base64
-
-
-
-
-
-[⬅️QNext. Макросы](/docs-test/ext/macros)
-  
-

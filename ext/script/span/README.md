@@ -1,5 +1,4 @@
-
-[⬅️QNext. Скрипты. Объект qnext](/docs-test/ext/script/object-qnext).
+# span
 
 span - это объект позволяющий манипулировать временем. Создать такой объект можно следующими способами:
 ```js 
@@ -87,11 +86,4 @@ span.addHour(2);
 span.addMin(30);
 out.time = span.locale(); // 2ч. 30мин.
 ```
-
-
-
-
-
-[⬅️QNext. Скрипты. Объект qnext](/docs-test/ext/script/object-qnext).
-  
 

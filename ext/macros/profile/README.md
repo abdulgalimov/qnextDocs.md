@@ -1,16 +1,5 @@
-
+# profile
 Макрос умеет показывать параметры профиля в разных форматах. Вывод зависит от параметра `type`, который может принимать одно из значений:
-* [type: value](#type:-value)
-   * [key](#key)
-   * [path](#path)
-   * [userId](#userid)
-   * [sourceType](#sourcetype)
-   * [defaultValue](#defaultvalue)
-* [type: sum](#type:-sum)
-   * [where: vote](#where:-vote)
-* [type: allValues](#type:-allvalues)
-* type: count
-
 
 ## type: value
 
@@ -185,12 +174,4 @@
 * `<>` - не равно
 * `contains` - содержит (только для строковых типов)
 * `notContains` - не содержит (только для строковых типов)
-
-
-
-
-
-
-[⬅️QNext. Макросы](/docs-test/ext/macros)
-  
 

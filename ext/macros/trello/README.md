@@ -1,14 +1,6 @@
-
+# trello
 Макрос доступен в тригере модели Trello, т.е. когда trello сообщает боту о том что на доске произошли какие то изменения. Макрос поможет показать информацию из полученных данных.
-* [type: action](#type:-action)
-    * [data: card](#data:-card)
-    * [data: listBefore](#data:-listbefore)
-    * [data: listAfter](#data:-listafter)
-    * [data: list](#data:-list)
-    * [data: board](#data:-board)
-    * [data: memberCreator](#data:-membercreator)
-* [type: card](#type:-card)
-    * [data: labels](#data:-labels)
+
 ## type: action
 
 Макросы типа action работают в момент когда от Trello прилетает событие с каким либо действием, например
