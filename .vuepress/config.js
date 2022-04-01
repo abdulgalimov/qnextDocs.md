@@ -114,7 +114,7 @@ module.exports = {
           title: 'Первичная регистрация бота',
           path: '/article/price/newtoken/'
         }, {
-          title: 'обновление токена бота',
+          title: 'Обновление токена бота',
           path: '/article/price/reltoken/'
         }]
       }, {
