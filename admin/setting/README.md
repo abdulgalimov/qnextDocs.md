@@ -74,7 +74,7 @@
 ## Логи
 ![](./12.png)
 
-[**Документация по логам**](/docs-test/ext/reactions/log)
+[Документация по логам](/docs-test/ext/reactions/log)
 
 
 ## Файловый менеджер
@@ -94,8 +94,9 @@
 ## Библиотека
 ![](./15.png)
 
-[**Документация по библиотекам**](/docs-test/ext/script/library)
-
+[Документация по библиотекам](/docs-test/ext/script/library)
 
 ## Меню команд
 ![](./16.png)
+
+[Документация по меню команд](/docs-test/ext/admin/command)
