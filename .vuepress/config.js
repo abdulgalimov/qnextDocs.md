@@ -121,11 +121,14 @@ module.exports = {
         title: 'Разное',
         collapsable: false,
         children: [{
-          title: 'Регулярные выражения',
-          path: '/admin/regexp/'
+          title: 'Логи',
+          path: '/ext/reactions/log/'
         }, {
           title: 'Триггеры',
           path: '/article/triggers/'
+        }, {
+          title: 'Регулярные выражения',
+          path: '/admin/regexp/'
         }]
       }],
     }]

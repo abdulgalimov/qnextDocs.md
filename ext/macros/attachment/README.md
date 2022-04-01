@@ -1,5 +1,6 @@
-# attachment
-Макрос !{attachment} позволит вам прикрепить меди ресурсы к реакциям ⚡️sendMessage и ⚡️sendMenu. Макрос можно записать тремя разными способами, используя параметры fileId, path, или url
+# !{attachment|...}
+
+Макрос `!{attachment}` позволит вам прикрепить меди ресурсы к реакциям ⚡️sendMessage и ⚡️sendMenu. Макрос можно записать тремя разными способами, используя параметры fileId, path, или url
 ## fileId
 ```js 
 !{attachment|

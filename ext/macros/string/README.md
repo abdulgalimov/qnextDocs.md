@@ -1,6 +1,6 @@
-# string
+# !{string|...}
 
-Макрос позволяет делать различные манипуляции со строками. Макрос по сути копирует поведение многих методов класса String языка JavaScript, ознакомиться можно так же в [документации](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/String).
+Макрос `!{string}` позволяет делать различные манипуляции со строками. Макрос по сути копирует поведение многих методов класса String языка JavaScript, ознакомиться можно так же в [документации](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/String).
 
 
 ## length

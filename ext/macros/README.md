@@ -23,107 +23,107 @@
 
 `Дата: 22.12.2020 15:58`
 
-## amount
+## !{amount}
 
 * !{amount}
 
-## array
+## !{array}
 
 * [!{array}](/docs-test/ext/macros/array)
 
-## date
+## !{date}
 
 * [!{date}](/docs-test/ext/macros/date)
 
-## crypto
+## !{crypto}
 
 * [!{crypto}](/docs-test/ext/macros/crypto)
 
-## decodeURI
+## !{decodeURI}
 
-* [!{decodeURI}](/docs-test/ext/macros/encodeuri)
+* [!{decodeURI}](/docs-test/ext/macros/decodeuri)
 
-## encodeURI
+## !{encodeURI}
 
 * [!{encodeURI}](/docs-test/ext/macros/encodeuri)
 
-## file
+## !{file}
 
 * [!{file}](/docs-test/ext/macros/file)
 
-## globalVar
+## !{globalVar}
 
 * [!{globalVar}](/docs-test/ext/macros/globalvar)
 
-## html
+## !{html}
 
 * [!{html}](/docs-test/ext/macros/html)
 
-## if
+## !{if}
 
 * [!{if}](/docs-test/ext/macros/if)
 
-## json
+## !{json}
 
 * [!{json}](/docs-test/ext/macros/json)
 
-## makeLink
+## !{makeLink}
 
-* !{makeLink}
+* [!{makeLink}](/docs-test/ext/macros/makelink)
 
-## menu
+## !{menu}
 
 * [!{menu}](/docs-test/ext/macros/menu)
 
-## pay
+## !{pay}
 
 * [!{pay}](/docs-test/ext/macros/pay)
 
-## profile
+## !{profile}
 
 * [!{profile}](/docs-test/ext/macros/profile)
 
-## random
+## !{random}
 
 * [!{random}](/docs-test/ext/macros/random)
 
-## script
+## !{script}
 
 * [!{script}](/docs-test/ext/script)
 
-## string
+## !{string}
 
 * [!{string}](/docs-test/ext/macros/string)
 
-## switch
+## !{switch}
 
 * [!{switch}](/docs-test/ext/macros/switch)
 
-## trello
+## !{trello}
 
 * [!{trello}](/docs-test/ext/macros/trello)
 
-## user
+## !{user}
 
 * [!{user}](/docs-test/ext/macros/user)
 
-## usersCount
+## !{usersCount}
 
 * [!{usersCount}](/docs-test/ext/macros/usercount)
 
-## url
+## !{url}
 
 * [!{url}](/docs-test/ext/macros/url)
 
-## vote
+## !{vote}
 
 * [!{vote}](/docs-test/ext/macros/vote)
 
-## value
+## !{value}
 
 * [!{value}](/docs-test/ext/macros/value)
 
-## template
+## !{template}
 
 * [!{template}](ext/macros/template)
 

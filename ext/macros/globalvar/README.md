@@ -1,4 +1,5 @@
-# globalVar
+# !{globalVar|...}
+
 Макрос `!{globalVar}` покажет значение глобальной переменной:
 ```js 
 !{globalVar|
