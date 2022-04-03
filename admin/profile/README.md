@@ -48,7 +48,7 @@
 
  [**profileSet** ](/docs-test/ext/reactions/profileset)- Установить Профиль пользователя
 
- [**profileSwitch** ](/docs-test/ext/reactions/profileswitch)- Изменить статус профиля bool
+ [**profileSwitch** ](/docs-test/admin/switch/profileswitch)- Изменить статус профиля bool
 
  [**findProfileValue** ](/docs-test/ext/reactions/findprofilevalue)**- **Найти значение профиля
 

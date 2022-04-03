@@ -101,4 +101,4 @@
 
 ![](./16.png)
 
-[Документация по меню команд](/docs-test/ext/admin/command)
+[Документация по меню команд](/docs-test/admin/command)

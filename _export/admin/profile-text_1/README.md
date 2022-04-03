@@ -1,3 +1,0 @@
-
-QNext. admin profile text
-  

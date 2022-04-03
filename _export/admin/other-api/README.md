@@ -1,3 +1,0 @@
-
-Qnext admin other api
-  

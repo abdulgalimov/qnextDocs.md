@@ -1,3 +1,0 @@
-
-QNext admin stores about
-  

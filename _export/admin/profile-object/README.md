@@ -1,7 +1,0 @@
-
-QNext admin profile object
-
-
-
-
-
