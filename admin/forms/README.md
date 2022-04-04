@@ -247,7 +247,7 @@ update.message.audio: mp3, wav, flac и т.д.
 ## Поле: custom
 
 Поле для приема любого типа данных (в том числе смешанных). Может одновременно принимать и ссылки и цифры, или ссылки и юзернеймы. 
-Работает с связке с реакцией: [**writeFormCustom**](/docs-test/ext/reactions/writeformcustom)
+Работает с связке с реакцией: [**writeFormCustom**](/docs-test/admin/forms/writeformcustom)
 ## Поле: user
 
 — Поле для выбора пользователя бота.
@@ -300,7 +300,7 @@ update.message.audio: mp3, wav, flac и т.д.
 — Триггер отмены срабатывает после нажатия на кнопку "**Отменить форму**"
 ## Триггер Финиш
 
-— В триггере финиша работает реакция  [**formResult**](/docs-test/ext/reactions/formresult), которая отображает данные пройденной формы.
+— В триггере финиша работает реакция  [**formResult**](/docs-test/admin/forms/formresult), которая отображает данные пройденной формы.
 
 
 
@@ -313,21 +313,21 @@ update.message.audio: mp3, wav, flac и т.д.
 
 **Реакции**
 
- [**formStart**](/docs-test/ext/reactions/formstart)- Запустить форму
+[formStart](/docs-test/admin/forms/formstart) - Запустить форму
 
- [**formCancel**](/docs-test/ext/reactions/formcancel) - Остановить (прервать) форму
+[formCancel](/docs-test/admin/forms/formcancel) - Остановить (прервать) форму
 
- [**formResult**](/docs-test/ext/reactions/formresult) - Показать результат формы
+[formResult](/docs-test/admin/forms/formresult) - Показать результат формы
 
- [**loadFormResult**](/docs-test/ext/reactions/loadformresult) - Загрузить результаты формы
+[loadFormResult](/docs-test/admin/forms/loadformresult) - Загрузить результаты формы
 
- [**openFormResult**](/docs-test/ext/reactions/openformresult) - Открыть результаты формы
+[openFormResult](/docs-test/admin/forms/openformresult) - Открыть результаты формы
 
- [**takeFormResults**](/docs-test/ext/reactions/takeformresults) - Получить последние несколько результатов формы
+[takeFormResults](/docs-test/admin/forms/takeformresults) - Получить последние несколько результатов формы
 
- [**saveFormVariables**](/docs-test/ext/reactions/saveformvariables) - сохранить локальную переменную в поле формы
+[saveFormVariables](/docs-test/admin/forms/saveformvariables) - сохранить локальную переменную в форме
 
- [**writeFormCustom**](/docs-test/ext/reactions/writeformcustom) - записать произвольный параметр поля формы
+[writeFormCustom](/docs-test/admin/forms/writeformcustom) - загрузить произвольный параметр формы
 
 
 

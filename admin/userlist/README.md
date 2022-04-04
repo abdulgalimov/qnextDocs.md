@@ -1,10 +1,13 @@
+## Списки пользователей
 
 В процессе написания
 
 
-* [**addToUserList**](/docs-test/ext/reactions/addtouserlist)
-* [**delFromUserList**](/docs-test/ext/reactions/delfromuserlist)
-* [**takeUserList**](/docs-test/ext/reactions/takeuserlist)
+[addToUserList](/docs-test/admin/userlist/addtouserlist) - Добавить в список пользователей
+
+[delFromUserList](/docs-test/admin/userlist/delfromuserlist) - Удалить из списка пользователей
+
+[takeUserList](/docs-test/admin/userlist/takeuserlist) - взять список пользователей
 
 
 

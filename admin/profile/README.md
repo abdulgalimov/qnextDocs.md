@@ -19,7 +19,8 @@
 [Объект](/docs-test/admin/profile-object) - хранение сразу целых разделов данных (прим: сохранить весь раздел ${update}
 
 Чтобы отобразить содержимое параметра загрузите в триггер данные из профиля с помощью реакции⚡️loadProfile, после этого, содержимое профиля будет доступно через переменную ${profile.Название параметра.value}. Или можно воспользоваться макросом !{profile|name:Название параметра} - при использовании макроса, загружать данные профиля не нужно.
-## Особенности:
+
+**Особенности**
 
 1. Лимит символов в параметре профиля типа: text = 1048 символов.
 
@@ -34,31 +35,31 @@
 6. Не рекомендуется использовать параметры профиля для хранения значений, одинаковых для всех пользователей бота. Для хранения таких значений необходимо использовать глобальные переменные.
 
 
-## Реакции работающие с профилями: 
+**Реакции**
 
- [**loadProfile** ](/docs-test/ext/reactions/loadprofile)- Загрузить Профиль пользователя
+[loadProfile](/docs-test/admin/profile/loadprofile)- Загрузить Профиль пользователя
 
- [**profileAdd** ](/docs-test/ext/reactions/profileadd)- Добавить Профиль пользователя
+[profileAdd](/docs-test/admin/profile/profileadd)- Добавить Профиль пользователя
 
- [**profileDel** ](/docs-test/ext/reactions/profiledel)- Удалить Профиль пользователя
+[profileDel](/docs-test/admin/profile/profiledel)- Удалить Профиль пользователя
 
- [**profileSet** ](/docs-test/ext/reactions/profileset)- Установить Профиль пользователя
+[profileSet](/docs-test/admin/profile/profileset)- Установить Профиль пользователя
 
- [**profileDelAll** ](/docs-test/ext/reactions/profiledelall)- Удалить все Профили пользователя
+[profileDelAll](/docs-test/admin/profile/profiledelall)- Удалить все Профили пользователя
 
- [**profileSet** ](/docs-test/ext/reactions/profileset)- Установить Профиль пользователя
+[profileSet](/docs-test/admin/profile/profileset)- Установить Профиль пользователя
 
- [**profileSwitch** ](/docs-test/admin/switch/profileswitch)- Изменить статус профиля bool
+[profileSwitch](/docs-test/admin/switch/profileswitch)- Изменить статус профиля bool
 
- [**findProfileValue** ](/docs-test/ext/reactions/findprofilevalue)**- **Найти значение профиля
+[findProfileValue](/docs-test/admin/profile/findprofilevalue)- Найти значение профиля
 
- [**profilesCount** ](/docs-test/ext/reactions/profilescount)- посчитать количество профилей
+[profilesCount](/docs-test/admin/profile/profilescount)- посчитать количество профилей
  
-## Ограничения работающие с профилями:
+**Ограничения работающие с профилями**
 
 [**ProfileValue**](/docs-test/admin/restrictions-profilevalue) — проверяет значение профиля
 
-## Использование макросов с профилями:
+**Использование макросов с профилями**
 
 [**Ссылка**](/docs-test/ext/macros/profile)
 

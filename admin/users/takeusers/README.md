@@ -45,7 +45,7 @@
 
 Если необходимо использовать @username и меншены, подойдет:
 
- [реакция:  **takeMentions**](/docs-test/ext/reactions/takementions)
+ [реакция:takeMentions](/docs-test/admin/users/takementions)
 
 
 

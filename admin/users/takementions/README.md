@@ -33,7 +33,7 @@
 
 Если необходимо использовать @username и ID, подойдет:
 
-[**реакция: takeUsers**](/docs-test/ext/reactions/takeusers)
+[**реакция: takeUsers**](/docs-test/admin/users/takeusers)
 
 
 
