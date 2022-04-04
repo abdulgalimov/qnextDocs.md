@@ -6,7 +6,7 @@
  
  ## [Trello](/docs-test/admin/trello)
 
-_в процессе написания_
+* _в процессе написания_
 
 [trelloApiRequest](/docs-test/admin/trello/trelloapirequest)
 
@@ -87,7 +87,7 @@ _в процессе написания_
  
  ## [Магазин](/docs-test/admin/stores)
 
-_в процессе написания_
+* _в процессе написания_
 
 [openStoreCarts](/docs-test/ext/reactions/openstorecarts) - Показать Мою корзину в магазине
  
@@ -138,7 +138,7 @@ _в процессе написания_
 
 [createChatInviteLink](/docs-test/admin/invitelink/createchatinvitelink)- создать дополнительную пригласительную ссылку
 
-_в разработке_
+* _запланировано, на стадии разработки_
 
 [editChatInviteLink](/docs-test/admin/invitelink/editchatinvitelink)- изменить пригласительную ссылку
 
