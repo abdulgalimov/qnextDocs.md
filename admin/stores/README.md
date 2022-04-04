@@ -1,23 +1,19 @@
-# stores
+# Магазин
 
 **stores** - Написание в процессе
 
 
 
-
-
-
-
-[openStoreCarts](/docs-test/ext/reactions/openstorecarts) - Показать Мою корзину в магазине
+[openStoreCarts](/docs-test/admin/stores/openstorecarts) - Показать Мою корзину в магазине
  
-[openStoreCategory](/docs-test/ext/reactions/openstorecategory) - Показать Категорию в магазине
+[openStoreCategory](/docs-test/admin/stores/openstorecategory) - Показать Категорию в магазине
  
-[openStoreOrders](/docs-test/ext/reactions/openstoreorders) - Показать Мои заказы в магазине
+[openStoreOrders](/docs-test/admin/stores/openstoreorders) - Показать Мои заказы в магазине
  
-[openStoreProduct](/docs-test/ext/reactions/openstoreproduct) - Показать Продукт в магазине
+[openStoreProduct](/docs-test/admin/stores/openstoreproduct) - Показать Продукт в магазине
  
-[orderCheckout](/docs-test/ext/reactions/ordercheckout) - Начать оформление заказа в магазине
+[orderCheckout](/docs-test/admin/stores/ordercheckout) - Начать оформление заказа в магазине
  
-[sendStore](/docs-test/ext/reactions/sendstore) - Отправить магазин
+[sendStore](/docs-test/admin/stores/sendstore) - Отправить магазин
  
-[sendStoreOrder](/docs-test/ext/reactions/sendstoreorder) - Показать полученный заказ в магазине
+[sendStoreOrder](/docs-test/admin/stores/sendstoreorder) - Показать полученный заказ в магазине
