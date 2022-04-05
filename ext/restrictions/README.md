@@ -8,17 +8,17 @@
 
 ✅ - переменная содержит значение
 
-Пример: ✅ ${update.message.text}
+**Пример:** ✅ ${update.message.text}
 
 Сработает, если отправлено текстовое сообщение
 
 ❌ - переменная не содержит значение или неопределена
 
-Пример: ❌ ${update.message.from.username}
+**Пример:** ❌ ${update.message.from.username}
 
 Сработает, если у отправителя нет юзернейма
 
-Пример: ❌ ${update.message.text}
+**Пример:** ❌ ${update.message.text}
 
 Сработает, если отправлено не текстовое сообщение
 
@@ -35,23 +35,23 @@
 
 Поддерживает проверку следующих типов файлов:
 
-* Любой файл 
+* **Любой файл**
 
-* Фото = ${update.message.photo}
+* **Фото** = _${update.message.photo}_
 
-* Видео = ${update.message.video}
+* **Видео** = _${update.message.video}_
 
-* Видеозаметка = ${update.message.....}
+* **Видеозаметка** = _${update.message.....}_
 
-* Аудио = ${update.media.audio}
+* **Аудио** = _${update.media.audio}_
 
-* Голосовое = ${update.message...}
+* **Голосовое** = _${update.message...}_
 
-* Файл = ${update.message.file}
+* **Файл** = _${update.message.file}_
 
-* Анимация = ${update.message.dice}
+* ***Анимация** = _${update.message.dice}_
 
-* Стикер = ${update.message.sticker}
+* **Стикер** = _${update.message.sticker}_
 
 
 ## hasUsername
@@ -67,9 +67,9 @@
 
 Проверяет параметр ${update.message.chat.type}
 
-✅ - ${update.message.chat.type} = private - действие совершено в привате с ботом
+✅ - _${update.message.chat.type}_ = **private** - действие совершено в привате с ботом
 
-❌ - ${update.message.chat.type} = private - действие совершено не в привате 
+❌ - _${update.message.chat.type}_ = **private** - действие совершено не в привате 
 
 
 
@@ -144,7 +144,7 @@
 
 Условие проверяет была ли запущена реакция ответом на сообщение
 
-Проверяет наличие параметра ${update.message.reply_to_message}
+Проверяет наличие параметра _${update.message.reply_to_message}_
 
 ✅ - сообщение отправлено в ответ на другое сообщение
 
@@ -160,7 +160,7 @@
 
 Условие проверяет кто отправил сообщение бот или нет.
 
-Проверяет наличие параметра {update.message.via_bot}
+Проверяет наличие параметра _${update.message.via_bot}_
 
 ✅ - сообщение отправлено с помощью бота
 
