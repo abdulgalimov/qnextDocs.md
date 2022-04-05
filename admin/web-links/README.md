@@ -42,7 +42,7 @@ WEB - ссылки - создание кастомных (Контекстных
 
 [Ограничения](/docs-test/ext/restrictions)
 
-[Реакции](/docs-test/ext/reactions)
+[Реакции](/docs-test/admin/other/reactions)
 
 
 

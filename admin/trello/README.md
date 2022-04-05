@@ -54,7 +54,7 @@ Trello — 🧰Аккаунты — ➕ Добавить — Укажите ср
 ![](./12.png)
 
 Смотрим логи 
-**Что такое логи ?** [Ответ](/docs-test/ext/reactions/log) 
+**Что такое логи ?** [Ответ](/docs-test/admin/other/reactions/log) 
 
 ![](./13.png)
 * [trelloApiRequest](/docs-test/admin/trello/trelloapirequest)

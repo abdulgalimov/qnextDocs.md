@@ -21,7 +21,7 @@
 * [QNext. Переменные](/docs-test/admin/variables)
 ## Исполняемые модули
 * [Qnext. Исполняемые модули](/docs-test/ext)
-* [QNext. Реакции](/docs-test/ext/reactions)
+* [QNext. Реакции](/docs-test/admin/other/reactions)
 * [QNext. Ограничения](/docs-test/ext/restrictions)
 * [QNext. Скрипты](/docs-test/ext/script)
 * [QNext. Макросы](/docs-test/ext/macros)
@@ -30,8 +30,8 @@
 * [Первая регистрация бота](/docs-test/article/price/newtoken)
 * [Обновление токена подключенного бота](/docs-test/article/price/reltoken)
 * [regEx - регулярные выражения](/docs-test/admin/regexp)
-* [Логи](/docs-test/ext/reactions/log)
-* [Новый механизм take-реакций](/docs-test/ext/reactions/new-mechanics)
+* [Логи](/docs-test/admin/other/reactions/log)
+* [Новый механизм take-реакций](/docs-test/admin/other/reactions/new-mechanics)
 * [Лимиты Телеграм](https://limits.tginfo.me/ru-RU/)
 * [Публичные API](/docs-test/admin/public-api)
 ## Онлайн конференции

@@ -74,7 +74,7 @@
 ## Логи
 ![](./12.png)
 
-[Документация по логам](/docs-test/ext/reactions/log)
+[Документация по логам](/docs-test/admin/other/reactions/log)
 
 
 ## Файловый менеджер
