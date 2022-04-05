@@ -122,7 +122,7 @@ module.exports = {
         collapsable: false,
         children: [{
           title: 'Логи',
-          path: '/ext/reactions/log/'
+          path: '/admin/other/reactions/log/'
         }, {
           title: 'Триггеры',
           path: '/article/triggers/'
