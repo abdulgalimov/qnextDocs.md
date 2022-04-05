@@ -93,7 +93,7 @@ module.exports = {
         collapsable: false,
         children: [{
           title: 'Реакции',
-          path: '/ext/reactions/'
+          path: '/admin/other/reactions/'
         }, {
           title: 'Ограничения',
           path: '/ext/restrictions/'

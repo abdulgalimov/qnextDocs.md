@@ -270,52 +270,100 @@ _Все реакции работают как в чате так и в кана
 
 ## Прочее
 
- * [**adminMenu** ](/docs-test/admin/other/reactions/adminmenu)- Меню админа
- * [**alert** ](/docs-test/admin/other/reactions/alert)- Сообщение в окне
- * [**amocrmApi**](/docs-test/admin/other/reactions/amocrmapi) - 
- * [**banBotUser** ](/docs-test/admin/other/reactions/banbotuser)- Забанить/Разбанить юзера в боте
- * [**break** ](/docs-test/admin/other/reactions/break)- Отменить последующие реакции
- * [**breakGroup** ](/docs-test/admin/other/reactions/breakgroup)- Отменить последующие реакции в группе
- * [**buttonVisible** ](/docs-test/admin/other/reactions/buttonvisible)- Показать/скрыть кнопку
- * [**bindTrigger** ](/docs-test/admin/other/reactions/bindtrigger)- Привязать триггерre
- * [**chartAnnotations** ](/docs-test/admin/other/reactions/chartannotations)- Аннотации графика (в процессе разработки)
- * [**chartFill** ](/docs-test/admin/other/reactions/chartfill)- Заполнить график (в процессе разработки)
- * [**deleteMessage** ](/docs-test/admin/other/reactions/deletemessage)- Удалить сообщение
- * [**exportToExcel** ](/docs-test/admin/other/reactions/exporttoexcel)- Экспортировать в excel
- * [**feedback** ](/docs-test/admin/other/reactions/feedback)- Обратная связь
- * [**fix** ](/docs-test/admin/other/reactions/fix)- Следующие реакции не будут изменять этот пост
- * [**for** ](/docs-test/admin/other/reactions/for)- Цикл
- * [**forwardMessage** ](/docs-test/admin/other/reactions/forwardmessage)- Переслать исходное сообщение
- * [getFileBase64 ](/docs-test/admin/other/reactions/getfilebase64)- Получить base64 файла
- * [**groupReactions** ](/docs-test/admin/other/reactions/groupreaction)- Группировать реакции
- * [**hide**](/docs-test/admin/other/reactions/hide) - Скрыть пост
- * [**inlineAnswer** ](/docs-test/admin/other/reactions/inlineanswer)- ответит на inline запрос
- * — [inlineBrowse ](/docs-test/admin/other/reactions/inlinebrowse)- Просмотрщик inline-запросов
- * — [loadButton ](/docs-test/admin/other/reactions/loadbutton)- Загрузить кнопку
- * [**log** ](/docs-test/admin/other/reactions/log)- Записать в лог текущее состояние
- * [**notification**  ](/docs-test/admin/other/reactions/notification)- Всплывающее сообщение
- * [**parseDate** ](/docs-test/admin/other/reactions/parsedate)- Парсинг даты
- * [**pin** ](/docs-test/admin/other/reactions/pin)- Закрепить сообщение
- * [**redirectToBot** ](/docs-test/admin/other/reactions/redirecttobot)- Перенаправить пользователя в приват с ботом
- * readStats - Загрузить статистику
- * saveStats - Сохранить статистику
- * [**return** ](/docs-test/admin/other/reactions/return)- Отменить все последующие триггеры и реакции
- * [**runRegexp** ](/docs-test/admin/other/reactions/runregexp)- Выполнить регулярное выражение
- * [**runScript** ](/docs-test/admin/other/reactions/runscript)- Выполнить скрипт
- * [**runTrigger**  ](/docs-test/admin/other/reactions/runtrigger)- Выполнить Общий триггер
- * [**sendChatAction** ](/docs-test/admin/other/reactions/sendchataction)- Показать действие бота
- * [**sendDice** ](/docs-test/admin/other/reactions/senddice)- Отправить кости
- * [**sendLocation** ](/docs-test/admin/other/reactions/sendlocation)- Отправить гео-позицию
- * [**sendMenu** ](/docs-test/admin/other/reactions/sendmenu)- Отправить меню
- * [**sendMessage** ](/docs-test/admin/other/reactions/message)- Отправить сообщение от бота
- * [**sendPayment** ](/docs-test/admin/other/reactions/sendpayment)- Отправить платежку
- * [sendYandexWallet ](/docs-test/admin/other/reactions/sendyandexwallet)- Отправить ссылку на оплату yandex кошельком
- * [**setUserLanguage** ](/docs-test/admin/other/reactions/setuserlanguage)- Установить язык пользователя
- * [takeVariable](/docs-test/admin/other/reactions/takevariable) - Устарело, используйте реакцию [**For**](/docs-test/admin/other/reactions/for)
- * [**timeout** ](/docs-test/admin/other/reactions/timeout)- запустить действие с задержкой.
- * [**uploadToTelegraph**](/docs-test/admin/other/reactions/uploadtotelegraph) - загрузить файл в Телеграф
- * [**uploadFile** ](/docs-test/admin/other/reactions/uploadfile)- загрузить файл в Телеграм
- * [**userActionStart** ](/docs-test/admin/other/reactions/useractionstart)- запускает отложенное действие
- * [**userActionStop** ](/docs-test/admin/other/reactions/useractionstop)- останавливает отложенное действие
- * [**unpin** ](/docs-test/admin/other/reactions/unpin)- Открепить пост в чате/канале
- * [**unpinAll** ](/docs-test/admin/other/reactions/unpinall)- Открепить все посты в чате/канале
+[adminMenu](/docs-test/admin/other/reactions/adminmenu)- Меню админа
+
+[alert](/docs-test/admin/other/reactions/alert)- Сообщение в окне
+
+[amocrmApi](/docs-test/admin/other/reactions/amocrmapi) - 
+
+[banBotUser](/docs-test/admin/other/reactions/banbotuser)- Забанить/Разбанить юзера в боте
+
+[break](/docs-test/admin/other/reactions/break)- Отменить последующие реакции
+
+[breakGroup](/docs-test/admin/other/reactions/breakgroup)- Отменить последующие реакции в группе
+
+[buttonVisible](/docs-test/admin/other/reactions/buttonvisible)- Показать/скрыть кнопку
+
+[bindTrigger](/docs-test/admin/other/reactions/bindtrigger)- Привязать триггерre
+
+[chartAnnotations](/docs-test/admin/other/reactions/chartannotations)- Аннотации графика (в процессе разработки)
+
+[chartFill](/docs-test/admin/other/reactions/chartfill)- Заполнить график (в процессе разработки)
+
+[deleteMessage](/docs-test/admin/other/reactions/deletemessage)- Удалить сообщение
+
+[exportToExcel](/docs-test/admin/other/reactions/exporttoexcel)- Экспортировать в excel
+
+[feedback](/docs-test/admin/other/reactions/feedback)- Обратная связь
+
+[fix](/docs-test/admin/other/reactions/fix)- Следующие реакции не будут изменять этот пост
+
+[for](/docs-test/admin/other/reactions/for)- Цикл
+
+[forwardMessage](/docs-test/admin/other/reactions/forwardmessage)- Переслать исходное сообщение
+
+[getFileBase64](/docs-test/admin/other/reactions/getfilebase64)- Получить base64 файла
+
+[groupReactions](/docs-test/admin/other/reactions/groupreaction)- Группировать реакции
+
+[hide](/docs-test/admin/other/reactions/hide) - Скрыть пост
+
+[inlineAnswer](/docs-test/admin/other/reactions/inlineanswer)- ответит на inline запрос
+
+[inlineBrowse](/docs-test/admin/other/reactions/inlinebrowse)- Просмотрщик inline-запросов
+
+[loadButton](/docs-test/admin/other/reactions/loadbutton)- Загрузить кнопку
+
+[log](/docs-test/admin/other/reactions/log)- Записать в лог текущее состояние
+
+[notification](/docs-test/admin/other/reactions/notification)- Всплывающее сообщение
+
+[parseDate](/docs-test/admin/other/reactions/parsedate)- Парсинг даты
+
+[pin](/docs-test/admin/other/reactions/pin)- Закрепить сообщение
+
+[redirectToBot](/docs-test/admin/other/reactions/redirecttobot)- Перенаправить пользователя в приват с ботом
+
+readStats - Загрузить статистику
+
+saveStats - Сохранить статистику
+
+[return](/docs-test/admin/other/reactions/return) - Отменить все последующие триггеры и реакции
+
+[runRegexp](/docs-test/admin/other/reactions/runregexp) - Выполнить регулярное выражение
+
+[runScript](/docs-test/admin/other/reactions/runscript) - Выполнить скрипт
+
+[runTrigger](/docs-test/admin/other/reactions/runtrigger) - Выполнить Общий триггер
+
+[sendChatAction](/docs-test/admin/other/reactions/sendchataction) - Показать действие бота
+
+[sendDice](/docs-test/admin/other/reactions/senddice) - Отправить кости
+
+[sendLocation](/docs-test/admin/other/reactions/sendlocation) - Отправить гео-позицию
+
+[sendMenu](/docs-test/admin/other/reactions/sendmenu) - Отправить меню
+
+[sendMessage](/docs-test/admin/other/reactions/message) - Отправить сообщение от бота
+
+[sendPayment](/docs-test/admin/other/reactions/sendpayment) - Отправить платежку
+
+[sendYandexWallet](/docs-test/admin/other/reactions/sendyandexwallet) - Отправить ссылку на оплату yandex кошельком
+
+[setUserLanguage](/docs-test/admin/other/reactions/setuserlanguage) - Установить язык пользователя
+
+[takeVariable](/docs-test/admin/other/reactions/takevariable) - Устарело, используйте реакцию [**For**](/docs-test/admin/other/reactions/for)
+
+[timeout](/docs-test/admin/other/reactions/timeout) - запустить действие с задержкой
+
+[uploadToTelegraph](/docs-test/admin/other/reactions/uploadtotelegraph) - загрузить файл в Телеграф
+
+[uploadFile](/docs-test/admin/other/reactions/uploadfile) - загрузить файл в Телеграм
+
+[userActionStart](/docs-test/admin/other/reactions/useractionstart) - запускает отложенное действие
+
+[userActionStop](/docs-test/admin/other/reactions/useractionstop) - останавливает отложенное действие
+
+[unpin](/docs-test/admin/other/reactions/unpin) - Открепить пост в чате/канале
+
+[unpinAll](/docs-test/admin/other/reactions/unpinall) - Открепить все посты в чате/канале
