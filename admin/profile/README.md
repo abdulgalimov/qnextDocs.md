@@ -16,9 +16,13 @@
 
 [Дробное число](/docs-test/admin/profile/profile-float) — хранение числовых данных в дробном формате (прим: 11.3, 25.24, 111,57)
 
-[Объект](/docs-test/admin/profile/profile-object) - хранение сразу целых разделов данных (прим: сохранить весь раздел ${update}
+[Объект](/docs-test/admin/profile/profile-object) - хранение сразу целых разделов данных (прим: сохранить весь раздел _${update}_)
 
-Чтобы отобразить содержимое параметра загрузите в триггер данные из профиля с помощью реакции⚡️loadProfile, после этого, содержимое профиля будет доступно через переменную ${profile.Название параметра.value}. Или можно воспользоваться макросом !{profile|name:Название параметра} - при использовании макроса, загружать данные профиля не нужно.
+Чтобы отобразить содержимое параметра загрузите в триггер данные из профиля с помощью реакции ⚡️loadProfile, после этого, содержимое профиля будет доступно:
+ 
+— В переменной _${profile.Название параметра.value}_. 
+ 
+— Или можно отобразить макросом _!{profile|name:Название параметра}_ - при использовании макроса, загружать данные профиля не нужно.
 
 **Особенности**
 
@@ -34,34 +38,33 @@
 
 6. Не рекомендуется использовать параметры профиля для хранения значений, одинаковых для всех пользователей бота. Для хранения таких значений необходимо использовать глобальные переменные.
 
+---
 
 **Реакции**
 
-[loadProfile](/docs-test/admin/profile/loadprofile)- Загрузить Профиль пользователя
+[findProfileValue](/docs-test/admin/profile/findprofilevalue) - Найти значение профиля
 
-[profileAdd](/docs-test/admin/profile/profileadd)- Добавить Профиль пользователя
+[loadProfile](/docs-test/admin/profile/loadprofile) - Загрузить Профиль пользователя
 
-[profileDel](/docs-test/admin/profile/profiledel)- Удалить Профиль пользователя
+[profileAdd](/docs-test/admin/profile/profileadd) - Добавить Профиль пользователя
 
-[profileSet](/docs-test/admin/profile/profileset)- Установить Профиль пользователя
+[profileDel](/docs-test/admin/profile/profiledel) - Удалить Профиль пользователя
 
-[profileDelAll](/docs-test/admin/profile/profiledelall)- Удалить все Профили пользователя
+[profileDelAll](/docs-test/admin/profile/profiledelall) - Удалить все Профили пользователя
 
-[profileSet](/docs-test/admin/profile/profileset)- Установить Профиль пользователя
+[profileSwitch](/docs-test/admin/switch/profileswitch) - Изменить статус профиля bool
 
-[profileSwitch](/docs-test/admin/switch/profileswitch)- Изменить статус профиля bool
+[profilesCount](/docs-test/admin/profile/profilescount) - посчитать количество профилей
 
-[findProfileValue](/docs-test/admin/profile/findprofilevalue)- Найти значение профиля
-
-[profilesCount](/docs-test/admin/profile/profilescount)- посчитать количество профилей
+[profileSet](/docs-test/admin/profile/profileset) - Установить Профиль пользователя
  
 **Ограничения работающие с профилями**
 
-[**ProfileValue**](/docs-test/admin/restrictions-profilevalue) — проверяет значение профиля
+[ProfileValue](/docs-test/admin/profile/profilevalue) — проверяет значение профиля
 
 **Использование макросов с профилями**
 
-[**Ссылка**](/docs-test/ext/macros/profile)
+[!{profile}](/docs-test/ext/macros/profile) - макрос позволяющий загружать параметры определенного профиля
 
 
 

@@ -1,7 +1,3 @@
-
-QNext admin profile file
-
-
-
+# Профиль файл
 
 

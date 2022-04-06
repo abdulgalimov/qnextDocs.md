@@ -159,8 +159,6 @@
 
 [profileDelAll](/docs-test/admin/profile/profiledelall) - Удалить все Профили пользователя
 
-[profileSet](/docs-test/admin/profile/profileset) - Установить Профиль пользователя
-
 [profileSwitch](/docs-test/admin/switch/profileswitch) - Изменить статус профиля bool
 
 [findProfileValue](/docs-test/admin/profile/findprofilevalue) - Найти значение профиля

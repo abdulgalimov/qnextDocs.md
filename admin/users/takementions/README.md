@@ -1,9 +1,10 @@
 # takeMentions
+
 **takeMentions** - взять пользователя(ей) для дальнейшей работы. 
 
 
 
-Пример использования:
+**Примеры использования:**
 
 Команда: /!take (.+)/i
 
@@ -33,7 +34,7 @@
 
 Если необходимо использовать @username и ID, подойдет:
 
-[**реакция: takeUsers**](/docs-test/admin/users/takeusers)
+Реакция: [takeUsers](/docs-test/admin/users/takeusers)
 
 
 

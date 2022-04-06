@@ -1,24 +1,25 @@
+# Пользователи
 
-
-
-Реакции позволяющие работать с пользователем(ями).
+**Реакции** - предназначенные для работы с пользователями бота и/или участниками чата.
 
 
 **Реакции**
 
-[takeAdmins](/docs-test/admin/users/takeadmins)- Загрузить админов
+[takeAdmins](/docs-test/admin/users/takeadmins) - Загрузить админов
 
-[takeMentions](/docs-test/admin/users/takementions)- Получить всех упомянутых в тексте людей и чаты
-
-[takeAuthorUser](/docs-test/admin/users/takeauthoruser)- Получить пользователя инициатора действия
+[takeAuthorUser](/docs-test/admin/users/takeauthoruser) - Получить пользователя инициатора действия
 
 [takeButtonUsers](/docs-test/admin/users/takebuttonusers) - Загрузить проголосовавших за кнопку
 
-[takeRandomUser](/docs-test/admin/users/takerandomuser)- Загрузить случайного пользователя
+[takeMentions](/docs-test/admin/users/takementions) - Получить всех упомянутых в тексте людей и чаты
 
-[takeReplyUser](/docs-test/admin/users/takereplyuser)- Загрузить пользователя, которому ответили в...
+[takeRandomUser](/docs-test/admin/users/takerandomuser) - Загрузить случайного пользователя
 
-[takeUsers](/docs-test/admin/users/takeusers)- взять пользователя(ей)
+[takeReplyUser](/docs-test/admin/users/takereplyuser) - Загрузить пользователя, которому ответили в...
+
+[takeUsers](/docs-test/admin/users/takeusers) - взять пользователя(ей)
+
+---
 
 **Особенности**
 

@@ -1,7 +1,2 @@
-
-QNext admin profile object
-
-
-
-
+# Профиль объект
 

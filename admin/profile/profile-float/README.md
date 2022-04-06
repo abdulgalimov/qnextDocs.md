@@ -1,5 +1,4 @@
-
-QNext admin profile float
+# Профиль дробное число
 
 
 

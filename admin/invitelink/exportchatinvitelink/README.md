@@ -8,9 +8,13 @@
 
 ![](./1.png)
 
+---
 
-[**bot.api method exportChatInviteLink** ](https://core.telegram.org/bots/api#exportchatinvitelink)
-## Особенности:
+**bot.api method:** [exportChatInviteLink](https://core.telegram.org/bots/api#exportchatinvitelink)
+
+---
+
+**Особенности:**
 
 Можно создать не более 10 ссылок за 60 секунд. 
 

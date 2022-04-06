@@ -1,5 +1,6 @@
+# createChatInviteLink
 
-createChatInviteLink - Используйте этот метод, чтобы создать дополнительную ссылку для приглашения в чат.
+**createChatInviteLink** - Используйте этот метод, чтобы создать дополнительную ссылку для приглашения в чат.
 
 ![](./1.png)
 
@@ -10,16 +11,17 @@ createChatInviteLink - Используйте этот метод, чтобы с
 * Подтверждение администратора - все кто будут нажмимать на ссылку, будут отправлять в чат запрос, и администраторы смогут его либо принять, либо отклонить руками, либо с помощью реакций:
 
 
-⚡️ approveChatJoinRequest - подтвердить запрос
+⚡️ [approveChatJoinRequest](/docs-test/admin/chat/approvechatjoinrequest) - подтвердить запрос
 
-⚡️ declineChatJoinRequest - отклонить запрос
+⚡️ [declineChatJoinRequest](/docs-test/admin/chat/declinechatjoinrequest) - отклонить запрос
 
+---
 
+**bot.api method:** [createChatInviteLink](https://core.telegram.org/bots/api#createchatinvitelink)
 
+--- 
 
-
-[**bot.api method createChatInviteLink** ](https://core.telegram.org/bots/api#createchatinvitelink)
-## Особенности:
+**Особенности**
 
 Можно создать не более 20 ссылок за 60 секунд.
 

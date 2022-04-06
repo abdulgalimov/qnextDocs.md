@@ -8,21 +8,21 @@
 
 Сумма чисел
 
-localVarAdd тип Число; — sumNum = 1
+**localVarAdd** тип Число; — sumNum = 1
 
-localVarAdd тип Число; — sumNum = 2
+**localVarAdd** тип Число; — sumNum = 2
 
-После выполнения этих реакций в переменной ${localVar.sumNum} получим числовое значение 3.
+После выполнения этих реакций в переменной _${localVar.sumNum}_ получим числовое значение 3.
 
 
 
 Список пользователей
 
-takeUserList
+**takeUserList**
 
-— localVarAdd тип Список; — users = !{user| type: link; path: targetUser}
+— **localVarAdd** тип Список; — users = _!{user| type: link; path: targetUser}_
 
-После выполнения этих реакций в переменной ${localVar.users} получим список пользователей в виде ссылок на пользователей.
+После выполнения этих реакций в переменной _${localVar.users}_ получим список пользователей в виде ссылок на пользователей.
 
 
 
