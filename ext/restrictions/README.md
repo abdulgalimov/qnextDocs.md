@@ -217,7 +217,7 @@
 
 Поддерживает языки, указанные в настройках бота. 
 
-* Установить язык можно с помощью реакциии [setLanguage](docs-test/admin/other/reactions/setLanguage)
+* Установить язык можно с помощью реакциии [setLanguage](/docs-test/admin/other/reactions/setLanguage)
 
 ## voteClosed
 

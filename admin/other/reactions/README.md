@@ -2,7 +2,7 @@
 
  ## [Google](/docs-test/admin/google)
 
-[googleWrite](/docs-test/admin/google/googlewrite)- записать в гугл-таблицу
+[googleWrite](/docs-test/admin/google/googlewrite) - записать в гугл-таблицу
  
  ## [Trello](/docs-test/admin/trello)
 
@@ -69,21 +69,21 @@
 
  ## [Контент](/docs-test/admin/content)
  
-[loadContent](/docs-test/admin/content/loadcontent)- Загрузить Контент
+[loadContent](/docs-test/admin/content/loadcontent) - Загрузить Контент
 
-[loadRandomContent](/docs-test/admin/content/loadrandomcontent)- Выбрать случайный контент
+[loadRandomContent](/docs-test/admin/content/loadrandomcontent) - Выбрать случайный контент
 
-[sendContent](/docs-test/admin/content/sendcontent)- Отправить Контент
+[sendContent](/docs-test/admin/content/sendcontent) - Отправить Контент
 
-[refreshContent](/docs-test/admin/content/refreshcontent)- Обновить контент
+[refreshContent](/docs-test/admin/content/refreshcontent) - Обновить контент
  
  ## [Локальные переменные](/docs-test/admin/localvar)
  
-[localVarAdd](/docs-test/admin/localvar/localvaradd)- Добавить значение в локальную переменную
+[localVarAdd](/docs-test/admin/localvar/localvaradd) - Добавить значение в локальную переменную
 
-[localVarDel](/docs-test/admin/localvar/localvardel)- Удалить локальную переменную
+[localVarDel](/docs-test/admin/localvar/localvardel) - Удалить локальную переменную
  
-[localVarSet](/docs-test/admin/localvar/localvarset)- Установить локальную переменную
+[localVarSet](/docs-test/admin/localvar/localvarset) - Установить локальную переменную
  
  ## [Магазин](/docs-test/admin/stores)
 
@@ -106,73 +106,73 @@
  
  ## [Переключатели](/docs-test/admin/switch)
  
-[voteSwitch](/docs-test/admin/switch/voteopen)- Открыть/закрыть голосование
+[voteSwitch](/docs-test/admin/switch/voteopen) - Открыть/закрыть голосование
  
-[profileSwitch](/docs-test/admin/switch/profileswitch)- Изменить статус профиля bool
+[profileSwitch](/docs-test/admin/switch/profileswitch) - Изменить статус профиля bool
  
-[scheduleSwitch](/docs-test/admin/switch/scheduleswitch)- Изменить состояние расписания
+[scheduleSwitch](/docs-test/admin/switch/scheduleswitch) - Изменить состояние расписания
  
 [reactionOnSwitch](/docs-test/admin/switch/reactionswitch) - Изменить состояние реакции
  
  
  ## [Пользователи](/docs-test/admin/users)
  
-[takeAdmins](/docs-test/admin/users/takeadmins)- Загрузить админов
+[takeAdmins](/docs-test/admin/users/takeadmins) - Загрузить админов
 
-[takeMentions](/docs-test/admin/users/takementions)- Получить всех упомянутых в тексте людей и чаты
+[takeMentions](/docs-test/admin/users/takementions) - Получить всех упомянутых в тексте людей и чаты
 
-[takeAuthorUser](/docs-test/admin/users/takeauthoruser)- Получить пользователя инициатора действия
+[takeAuthorUser](/docs-test/admin/users/takeauthoruser) - Получить пользователя инициатора действия
 
 [takeButtonUsers](/docs-test/admin/users/takebuttonusers) - Загрузить проголосовавших за кнопку
 
-[takeRandomUser](/docs-test/admin/users/takerandomuser)- Загрузить случайного пользователя
+[takeRandomUser](/docs-test/admin/users/takerandomuser) - Загрузить случайного пользователя
 
-[takeReplyUser](/docs-test/admin/users/takereplyuser)- Загрузить пользователя, которому ответили в...
+[takeReplyUser](/docs-test/admin/users/takereplyuser) - Загрузить пользователя, которому ответили в...
 
-[takeUsers](/docs-test/admin/users/takeusers)- взять пользователя(ей)
+[takeUsers](/docs-test/admin/users/takeusers) - взять пользователя(ей)
  
  
  ## [Пригласительные ссылки](/docs-test/admin/invitelink)
 
 [exportChatInviteLink](/docs-test/admin/invitelink/exportchatinvitelink) - создать основную пригласительную ссылку
 
-[createChatInviteLink](/docs-test/admin/invitelink/createchatinvitelink)- создать дополнительную пригласительную ссылку
+[createChatInviteLink](/docs-test/admin/invitelink/createchatinvitelink) - создать дополнительную пригласительную ссылку
 
 * _запланировано, на стадии разработки_
 
-[editChatInviteLink](/docs-test/admin/invitelink/editchatinvitelink)- изменить пригласительную ссылку
+[editChatInviteLink](/docs-test/admin/invitelink/editchatinvitelink) - изменить пригласительную ссылку
 
-[revokeChatInviteLink](/docs-test/admin/invitelink/revokechatinvitelink)- обновить пригласительную ссылку
+[revokeChatInviteLink](/docs-test/admin/invitelink/revokechatinvitelink) - обновить пригласительную ссылку
 
-[loadChatInviteLink](/docs-test/admin/invitelink/loadchatinvitelink)- получить пригласительную ссылку
+[loadChatInviteLink](/docs-test/admin/invitelink/loadchatinvitelink) - получить пригласительную ссылку
  
  
  ## [Профиль](/docs-test/admin/profile)
  
-[loadProfile](/docs-test/admin/profile/loadprofile)- Загрузить Профиль пользователя
+[loadProfile](/docs-test/admin/profile/loadprofile) - Загрузить Профиль пользователя
 
-[profileAdd](/docs-test/admin/profile/profileadd)- Добавить Профиль пользователя
+[profileAdd](/docs-test/admin/profile/profileadd) - Добавить Профиль пользователя
 
-[profileDel](/docs-test/admin/profile/profiledel)- Удалить Профиль пользователя
+[profileDel](/docs-test/admin/profile/profiledel) - Удалить Профиль пользователя
 
-[profileSet](/docs-test/admin/profile/profileset)- Установить Профиль пользователя
+[profileSet](/docs-test/admin/profile/profileset) - Установить Профиль пользователя
 
-[profileDelAll](/docs-test/admin/profile/profiledelall)- Удалить все Профили пользователя
+[profileDelAll](/docs-test/admin/profile/profiledelall) - Удалить все Профили пользователя
 
-[profileSet](/docs-test/admin/profile/profileset)- Установить Профиль пользователя
+[profileSet](/docs-test/admin/profile/profileset) - Установить Профиль пользователя
 
-[profileSwitch](/docs-test/admin/switch/profileswitch)- Изменить статус профиля bool
+[profileSwitch](/docs-test/admin/switch/profileswitch) - Изменить статус профиля bool
 
-[findProfileValue](/docs-test/admin/profile/findprofilevalue)- Найти значение профиля
+[findProfileValue](/docs-test/admin/profile/findprofilevalue) - Найти значение профиля
 
-[profilesCount](/docs-test/admin/profile/profilescount)- посчитать количество профилей
+[profilesCount](/docs-test/admin/profile/profilescount) - посчитать количество профилей
  
  
  ## [Рассылка](/docs-test/admin/newsletters)
  
-[newsletterCancel](/docs-test/admin/newsletters/newslettercancel)- Отменить рассылку
+[newsletterCancel](/docs-test/admin/newsletters/newslettercancel) - Отменить рассылку
 
-[newsletterRevoke](/docs-test/admin/newsletters/newsletterrevoke)- Аннулировать рассылку
+[newsletterRevoke](/docs-test/admin/newsletters/newsletterrevoke) - Аннулировать рассылку
 
 [newsletterStart](/docs-test/admin/newsletters/newsletterstart) - Начать рассылку
  
@@ -270,59 +270,59 @@ _Все реакции работают как в чате так и в кана
 
 ## Прочее
 
-[adminMenu](/docs-test/admin/other/reactions/adminmenu)- Меню админа
+[adminMenu](/docs-test/admin/other/reactions/adminmenu) - Меню админа
 
-[alert](/docs-test/admin/other/reactions/alert)- Сообщение в окне
+[alert](/docs-test/admin/other/reactions/alert) - Сообщение в окне
 
 [amocrmApi](/docs-test/admin/other/reactions/amocrmapi) - 
 
-[banBotUser](/docs-test/admin/other/reactions/banbotuser)- Забанить/Разбанить юзера в боте
+[banBotUser](/docs-test/admin/other/reactions/banbotuser) - Забанить/Разбанить юзера в боте
 
-[break](/docs-test/admin/other/reactions/break)- Отменить последующие реакции
+[break](/docs-test/admin/other/reactions/break) - Отменить последующие реакции
 
-[breakGroup](/docs-test/admin/other/reactions/breakgroup)- Отменить последующие реакции в группе
+[breakGroup](/docs-test/admin/other/reactions/breakgroup) - Отменить последующие реакции в группе
 
-[buttonVisible](/docs-test/admin/other/reactions/buttonvisible)- Показать/скрыть кнопку
+[buttonVisible](/docs-test/admin/other/reactions/buttonvisible) - Показать/скрыть кнопку
 
-[bindTrigger](/docs-test/admin/other/reactions/bindtrigger)- Привязать триггерre
+[bindTrigger](/docs-test/admin/other/reactions/bindtrigger) - Привязать триггерre
 
-[chartAnnotations](/docs-test/admin/other/reactions/chartannotations)- Аннотации графика (в процессе разработки)
+[chartAnnotations](/docs-test/admin/other/reactions/chartannotations) - Аннотации графика (в процессе разработки)
 
-[chartFill](/docs-test/admin/other/reactions/chartfill)- Заполнить график (в процессе разработки)
+[chartFill](/docs-test/admin/other/reactions/chartfill) - Заполнить график (в процессе разработки)
 
-[deleteMessage](/docs-test/admin/other/reactions/deletemessage)- Удалить сообщение
+[deleteMessage](/docs-test/admin/other/reactions/deletemessage) - Удалить сообщение
 
-[exportToExcel](/docs-test/admin/other/reactions/exporttoexcel)- Экспортировать в excel
+[exportToExcel](/docs-test/admin/other/reactions/exporttoexcel) - Экспортировать в excel
 
-[feedback](/docs-test/admin/other/reactions/feedback)- Обратная связь
+[feedback](/docs-test/admin/other/reactions/feedback) - Обратная связь
 
-[fix](/docs-test/admin/other/reactions/fix)- Следующие реакции не будут изменять этот пост
+[fix](/docs-test/admin/other/reactions/fix) - Следующие реакции не будут изменять этот пост
 
-[for](/docs-test/admin/other/reactions/for)- Цикл
+[for](/docs-test/admin/other/reactions/for) - Цикл
 
-[forwardMessage](/docs-test/admin/other/reactions/forwardmessage)- Переслать исходное сообщение
+[forwardMessage](/docs-test/admin/other/reactions/forwardmessage) - Переслать исходное сообщение
 
-[getFileBase64](/docs-test/admin/other/reactions/getfilebase64)- Получить base64 файла
+[getFileBase64](/docs-test/admin/other/reactions/getfilebase64) - Получить base64 файла
 
-[groupReactions](/docs-test/admin/other/reactions/groupreaction)- Группировать реакции
+[groupReactions](/docs-test/admin/other/reactions/groupreaction) - Группировать реакции
 
 [hide](/docs-test/admin/other/reactions/hide) - Скрыть пост
 
-[inlineAnswer](/docs-test/admin/other/reactions/inlineanswer)- ответит на inline запрос
+[inlineAnswer](/docs-test/admin/other/reactions/inlineanswer) - ответит на inline запрос
 
-[inlineBrowse](/docs-test/admin/other/reactions/inlinebrowse)- Просмотрщик inline-запросов
+[inlineBrowse](/docs-test/admin/other/reactions/inlinebrowse) - Просмотрщик inline-запросов
 
-[loadButton](/docs-test/admin/other/reactions/loadbutton)- Загрузить кнопку
+[loadButton](/docs-test/admin/other/reactions/loadbutton) - Загрузить кнопку
 
-[log](/docs-test/admin/other/reactions/log)- Записать в лог текущее состояние
+[log](/docs-test/admin/other/reactions/log) - Записать в лог текущее состояние
 
-[notification](/docs-test/admin/other/reactions/notification)- Всплывающее сообщение
+[notification](/docs-test/admin/other/reactions/notification) - Всплывающее сообщение
 
-[parseDate](/docs-test/admin/other/reactions/parsedate)- Парсинг даты
+[parseDate](/docs-test/admin/other/reactions/parsedate) - Парсинг даты
 
-[pin](/docs-test/admin/other/reactions/pin)- Закрепить сообщение
+[pin](/docs-test/admin/other/reactions/pin) - Закрепить сообщение
 
-[redirectToBot](/docs-test/admin/other/reactions/redirecttobot)- Перенаправить пользователя в приват с ботом
+[redirectToBot](/docs-test/admin/other/reactions/redirecttobot) - Перенаправить пользователя в приват с ботом
 
 readStats - Загрузить статистику
 
