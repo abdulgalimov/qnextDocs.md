@@ -27,7 +27,7 @@
 
 Ограничения:
 
-_string ${forItem.value.type}=mention_
+**string** _${forItem.value.type}_ = **mention**
 
   or
 

@@ -6,15 +6,15 @@
 
 
 
-⚡️groupReaction
+⚡️**groupReaction**
 
-— message text 1 
+— **sendMessage** text 1 
 
-— breakGroup
+— **breakGroup**
 
-— message text 2
+— **sendMessage** text 2
 
-⚡️message text 3
+⚡️**sendMessage** text 3
 
 
 
