@@ -1,13 +1,13 @@
 
 
 ## inputChannel
-```js 
+```yaml 
 constructor: inputChannel
 channelId: -12345678
 accessHash: "abcd...xyz"
 ```
 ## inputChannelFromMessage
-```js 
+```yaml 
 constructor: inputChannelFromMessage
 channelId: -12345678
 peer: InputPeer

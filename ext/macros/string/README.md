@@ -6,7 +6,7 @@
 ## length
 
 Возвращает длину строки:
-```js 
+```plain 
 !{string|
   path: ПутьДоСтроки;
   type: length;
@@ -15,7 +15,7 @@
 ## charAt
 
 Возвращает указанный символ из строки:
-```js 
+```plain 
 !{string|
   path: ПутьДоСтроки;
   type: charAt;
@@ -25,7 +25,7 @@
 ## charCodeAt
 
 Возвращает числовое значение Юникода для символа по указанному индексу:
-```js 
+```plain 
 !{string|
   path: ПутьДоСтроки;
   type: charCodeAt;
@@ -35,7 +35,7 @@
 ## endsWith
 
 Позволяет определить, заканчивается ли строка символами указанными в `searchString`, возвращая, соответственно, `true` или `false`:
-```js 
+```plain 
 !{string|
   path: ПутьДоСтроки;
   type: endsWith;
@@ -46,7 +46,7 @@
 ## startsWith
 
 Позволяет определить, начинается ли строка символами указанными в `searchString`, возвращая, соответственно, `true` или `false`:
-```js 
+```plain 
 !{string|
   path: ПутьДоСтроки;
   type: startsWith;
@@ -57,7 +57,7 @@
 ## fromCharCode
 
 Возвращает строку, собранную из кодов указанных в массиве `nums`:
-```js 
+```plain 
 !{string|
   path: ПутьДоСтроки;
   type: fromCharCode;
@@ -67,7 +67,7 @@
 ## indexOf
 
 Возвращает позицию строки `searchString` в проверяемой строке:
-```js 
+```plain 
 !{string|
   path: ПутьДоСтроки;
   type: indexOf;
@@ -78,7 +78,7 @@
 ## lastIndexOf
 
 Возвращает позицию с конца строки `searchString` в проверяемой строке:
-```js 
+```plain 
 !{string|
   path: ПутьДоСтроки;
   type: lastIndexOf;
@@ -89,7 +89,7 @@
 ## replace
 
 Ищет первое совпадение по `pattern` и делает замену на `newString`:
-```js 
+```plain 
 !{string|
   path: ПутьДоСтроки;
   type: replace;
@@ -100,7 +100,7 @@
 ## replaceAll
 
 Ищет ВСЕ совпадение по `pattern` и делает замену на `newString`:
-```js 
+```plain 
 !{string|
   path: ПутьДоСтроки;
   type: replaceAll;
@@ -111,7 +111,7 @@
 ## search
 
 Ищет первое совпадение по `pattern` и возвращает позицию:
-```js 
+```plain 
 !{string|
   path: ПутьДоСтроки;
   type: search;
@@ -121,7 +121,7 @@
 ## slice
 
 Возвращает подстроку от `beginIndex` до `endIndex`:
-```js 
+```plain 
 !{string|
   path: ПутьДоСтроки;
   type: slice;
@@ -132,7 +132,7 @@
 ## toLowerCase
 
 Заменяет все заглавные символы строчными:
-```js 
+```plain 
 !{string|
   path: ПутьДоСтроки;
   type: toLowerCase;
@@ -141,7 +141,7 @@
 ## toUpperCase
 
 Заменяет все строчные символы заглавными:
-```js 
+```plain 
 !{string|
   path: ПутьДоСтроки;
   type: toUpperCase;
@@ -150,7 +150,7 @@
 ## trim
 
 Удаляет все пробелы в начале и в конце строки:
-```js 
+```plain 
 !{string|
   path: ПутьДоСтроки;
   type: trim;
@@ -159,7 +159,7 @@
 ## trimStart
 
 Удаляет все пробелы в начале строки:
-```js 
+```plain 
 !{string|
   path: ПутьДоСтроки;
   type: trimStart;
@@ -168,7 +168,7 @@
 ## trimEnd
 
 Удаляет все пробелы в конце строки:
-```js 
+```plain 
 !{string|
   path: ПутьДоСтроки;
   type: trimEnd;
@@ -179,7 +179,7 @@
 ## Регулярное выражение
 
 В макросах с типом `replace`, `replaceAll` и `search` используется параметр `pattern`. Этот параметр может содержать как строку, так и регулярное выражение. Чтобы указать регулярное выражение, необходимо обернуть значение в символы `/.../`, например так следующий макрос заменить все русские буквы на символ **X**:
-```js 
+```plain 
 !{string|
   path: ПутьДоСтроки;
   type: replace;

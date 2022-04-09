@@ -1,17 +1,17 @@
 
 
 ## inputUserSelf
-```js 
+```yaml 
 constructor: inputUserSelf
 ```
 ## inputUser
-```js 
+```yaml 
 constructor: inputUser
 userId: 1234567890
 accessHash: "abcd...xyz"
 ```
 ## inputUserFromMessage
-```js 
+```yaml 
 constructor: inputUserFromMessage
 peer: InputPeer
 userId: 1234567890

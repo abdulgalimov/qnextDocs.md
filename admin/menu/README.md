@@ -146,7 +146,7 @@ _В разработке_
 ![](./13.png)
 
 Получить такой объект можно например с помощью **JSON** строки:
-```js 
+```json 
 {
  "buttons": [[{
     "type": "callback",
@@ -169,7 +169,7 @@ _В разработке_
 Валидировать и посмотреть JSON строку можно на сайте [https://jsonformatter.org/json-viewer](https://jsonformatter.org/json-viewer).
 
 Или с помощью **YAML** строки:
-```js 
+```yaml 
 buttons:
   - 
     - type: callback

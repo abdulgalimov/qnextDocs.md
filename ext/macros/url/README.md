@@ -1,7 +1,7 @@
 # ${url|...}
 
 Макрос `!{url}` как видно из названия может работать с разного рода ссылками. По умолчанию макрос показывает ссылку как есть, если указать параметр title, тогда ссылка будет зашита в указанный текст:
-```js 
+```plain 
 !{url|
   type: logs;
   title: Открыть логи;
@@ -13,7 +13,7 @@
 ## type: tgAuth
 
 Макрос выдаст ссылку для авторизации в qnext:
-```js 
+```plain 
 !{url| type: tgAuth}
 ```
 
@@ -23,7 +23,7 @@
 ## type: logs
 
 Макрос покажет ссылку для просмотра логов:
-```js 
+```plain 
 !{url| type: logs}
 ```
 
@@ -31,7 +31,7 @@
 ## type: messageLink
 
 Макрос умеет показывать ссылки по публикацию в чате, в формате `https://t.me/c/1234567890/123`:
-```js 
+```plain 
 !{url| type: messageLink}
 ```
 
@@ -39,7 +39,7 @@
 ## where: reply
 
 Строится ссылка на пост, на который сделали reply(ответ):
-```js 
+```plain 
 !{url|
   type: messageLink;
   where: reply;
@@ -48,7 +48,7 @@
 ## where: forward
 
 Строится ссылка на пост, который был перенаправлен
-```js 
+```plain 
 !{url|
   type: messageLink;
   where: forward;
@@ -57,7 +57,7 @@
 ## where: reply.forward
 
 Строится ссылка на оригинальный пост из комментария к посту в канале:
-```js 
+```plain 
 !{url|
   type: messageLink;
   where: reply.forward;

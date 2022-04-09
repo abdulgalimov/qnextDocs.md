@@ -1,7 +1,7 @@
 # !{globalVar|...}
 
 Макрос `!{globalVar}` покажет значение глобальной переменной:
-```js 
+```plain 
 !{globalVar|
   code: CodeName;
   defaultValue: нет такой переменной

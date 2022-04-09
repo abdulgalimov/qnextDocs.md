@@ -2,7 +2,7 @@
 
 Макрос `!{crypto}` для кодирования и декодирования текста на платформе qnext. Общий формат макроса выглядит так:
 
-```js 
+```plain 
 !{crypto|
   type: md5;
   text: Текст для кодирования;
@@ -20,7 +20,7 @@
 * [randomText](#randomtext)
 
 В параметре `text` вы можете указать переменную в формате `${...}`, например id юзера:
-```js 
+```plain 
 !{crypto|
   type: md5;
   text: ${user.id};
@@ -35,7 +35,7 @@ exports.valueForMd5 = userId+"_"+botId;
 ```
 
 , а потом передать в макрос получившееся значение:
-```js 
+```plain 
 !{crypto|
   type: md5;
   text: ${localVar.valueForMd5};
@@ -46,7 +46,7 @@ exports.valueForMd5 = userId+"_"+botId;
 ## hmac
 
 Для макроса hmac требуется дополнительный параметр `key`:
-```js 
+```plain 
 !{crypto|
   type: hmac;
   text: Текст для кодирования;

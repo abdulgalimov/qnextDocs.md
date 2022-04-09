@@ -3,63 +3,63 @@
 Макрос `!{html}` позволяет делать различные преобразования разметки.
 
 ## italic
-```js 
+```plain 
 !{html|
   text: Наклонный текст;
   type: italic;
 }
 ```
 ## bold
-```js 
+```plain 
 !{html|
   text: Жирный текст;
   type: bold;
 }
 ```
 ## underline
-```js 
+```plain 
 !{html|
   text: Подчеркнутый текст;
   type: underline;
 }
 ```
 ## strike
-```js 
+```plain 
 !{html|
   text: Зачеркнутый текст;
   type: strike;
 }
 ```
 ## code
-```js 
+```plain 
 !{html|
   text: Моноширинная строка;
   type: code;
 }
 ```
 ## pre
-```js 
+```plain 
 !{html|
   text: Моноширинный блок;
   type: pre;
 }
 ```
 ## encode
-```js 
+```plain 
 !{html|
   text: Преобразование тегов <>;
   type: encode;
 }
 ```
 ## decode
-```js 
+```plain 
 !{html|
   text: Обратное преобразование тегов &lt; &gt;;
   type: decode;
 }
 ```
 ## link
-```js 
+```plain 
 !{html|
   text: Ссылка;
   url: https://core.telegram.org/bots/api;
@@ -69,7 +69,7 @@
 ## hiddenLink
 
 Скрытая ссылка:
-```js 
+```plain 
 !{html|
   url: https://core.telegram.org/bots/api;
   type: hiddenLink;
@@ -78,19 +78,19 @@
 ## hiddenSymbol
 
 Скрытый символ:
-```js 
+```plain 
 !{html| type: hiddenSymbol}
 ```
 ## br
 
 Переход на новую строку:
-```js 
+```plain 
 !{html| type: br}
 ```
 ## space
 
 Пробел
-```js 
+```plain 
 !{html| type: space}
 ```
 

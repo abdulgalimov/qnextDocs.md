@@ -11,7 +11,7 @@
 * и другие...
 
 Макрос умеет показывать различную информацию в зависимости от параметра data:
-```js 
+```plain 
 !{trello| 
   type: action;
   data: ...
@@ -20,7 +20,7 @@
 ## data: card
 
 Показать информацию о карточке:
-```js 
+```plain 
 !{trello|
   type: action;
   data: card;
@@ -28,7 +28,7 @@
 ```
 
 Показать ссылку на карточку:
-```js 
+```plain 
 !{trello|
   type: action;
   data: card;
@@ -37,7 +37,7 @@
 ```
 
 По умолчанию макрос покажет название карточки внутри которой зашита ссылка на карточку. Если надо написать любой текст вместо названия карточки, воспользуйтесь параметром title:
-```js 
+```plain 
 !{trello|
   type: action;
   data: card;
@@ -47,7 +47,7 @@
 ```
 
 Если надо показать только ссылку без текста:
-```js 
+```plain 
 !{trello|
   type: action;
   data: card;
@@ -57,7 +57,7 @@
 ## data: listBefore
 
 Название списка до изменений:
-```js 
+```plain 
 !{trello|
   type: action; 
   data: listBefore;
@@ -66,7 +66,7 @@
 ## data: listAfter
 
 Название списка после изменений:
-```js 
+```plain 
 !{trello|
   type: action; 
   data: listAfter;
@@ -75,7 +75,7 @@
 ## data: list
 
 Название списка:
-```js 
+```plain 
 !{trello|
   type: action; 
   data: list;
@@ -84,7 +84,7 @@
 ## data: board
 
 Название доски:
-```js 
+```plain 
 !{trello|
   type: action; 
   data: board;
@@ -92,7 +92,7 @@
 ```
 
 Ссылка на доску:
-```js 
+```plain 
 !{trello|
   type: action; 
   data: board;
@@ -101,7 +101,7 @@
 ```
 
 По умолчанию макрос покажет название доски внутри которой зашита ссылка на доску. Если надо написать любой текст вместо названия доски, воспользуйтесь параметром title:
-```js 
+```plain 
 !{trello|
   type: action; 
   data: board;
@@ -111,7 +111,7 @@
 ```
 
 Если надо показать только ссылку без текста:
-```js 
+```plain 
 !{trello|
   type: action; 
   data: board;
@@ -121,7 +121,7 @@
 ## data: memberCreator
 
 Показать имя автора текущего действия:
-```js 
+```plain 
 !{trello|
   type: action; 
   data: memberCreator;
@@ -129,7 +129,7 @@
 ```
 
 Показать ссылку  на автора:
-```js 
+```plain 
 !{trello|
   type: action; 
   data: memberCreator;
@@ -138,7 +138,7 @@
 ```
 
 По умолчанию макрос покажет название доски внутри которой зашита ссылка на доску. Если надо написать любой текст вместо названия доски, воспользуйтесь параметром title:
-```js 
+```plain 
 !{trello|
   type: action; 
   data: memberCreator;
@@ -148,7 +148,7 @@
 ```
 
 Если надо показать только ссылку без текста:
-```js 
+```plain 
 !{trello|
   type: action; 
   data: memberCreator;
@@ -163,7 +163,7 @@
 ## data: labels
 
 Показать все метки карточки:
-```js 
+```plain 
 !{trello|
   type: card;
   data: labels;

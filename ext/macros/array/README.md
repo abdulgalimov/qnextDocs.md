@@ -9,7 +9,7 @@
 3 текст "abc"
 
 Чтобы ботом вывести например количество элементов этого списка, вы можете воспользоваться макросом:
-```js 
+```plain 
 !{array|
   path: localVar.myArrayList;
   type: length;
@@ -27,7 +27,7 @@
 ## type: length
 
 Количество элементов в списке:
-```js 
+```plain 
 !{array|
   path: localVar.myArrayList;
   type: length;
@@ -36,7 +36,7 @@
 ## type: indexOf
 
 Найти номер позиции элемента в списке. Например вы хотите найти в какой позиции находит текст `"abc"`:
-```js 
+```plain 
 !{array|
   path: localVar.myArrayList;
   type: indexOf;
@@ -48,7 +48,7 @@
 ## type: lastIndexOf
 
 Тоже самое что и `type: indexOf`, только поиска начинается с конца массива:
-```js 
+```plain 
 !{array|
   path: localVar.myArrayList;
   type: lastIndexOf;
@@ -60,7 +60,7 @@
 ## type: join
 
 Преобразовывает массив в строку, разделяя элементы разделителем. 
-```js 
+```plain 
 !{array|
   path: localVar.myArrayList;
   type: join;
@@ -69,7 +69,7 @@
 ```
 
 В этом примере мы использовали в качестве разделителя символ @, значит на выходе мы получим вот такую строку:
-```js 
+```plain 
 test@123@abc
 ```
 
@@ -79,7 +79,7 @@ test@123@abc
 ## type: at
 
 Возвращает элемент массив по указанному номеру. Например вы хотите получить из массива элемент с номером `1`:
-```js 
+```plain 
 !{array|
   path: localVar.myArrayList;
   type: at;

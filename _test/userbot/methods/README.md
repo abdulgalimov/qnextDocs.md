@@ -27,14 +27,14 @@
 ## getMe
 
 Получить информацию о себе (юзер бот)
-```js 
+```yaml 
 method: getMe
 ```
 ## Messages
 ##  messages.sendMessage
 
 Отправить сообщение юзеру в личку или в чат/канал
-```js 
+```yaml 
 method: messages.sendMessage
 peer: InputPeer
 text: Текст для отправки
@@ -49,7 +49,7 @@ replyToMessageId: Id сообщения
 ## messages.forwardMessages
 
 Переслать сообщение
-```js 
+```yaml 
 method: messages.forwardMessage
 fromPeer: InputPeer
 toPeer: InputPeer
@@ -61,7 +61,7 @@ scheduleDate: Unixtime дата отправки
 * peer: [InputPeer](/docs-test/_test/userbot/inputpeer)
 
 пример:
-```js 
+```yaml 
 method: messages.forwardMessages
 fromPeer:
  constructor: inputPeerUser
@@ -82,7 +82,7 @@ background: false
 ##  messages.reportSpam
 
 Сообщить о спаме от нового пользователя
-```js 
+```yaml 
 method: messages.reportSpam
 peer: InputPeer
 ```
@@ -93,20 +93,20 @@ peer: InputPeer
 ## messages.getChats
 
 Получить информацию о чате
-```js 
+```yaml 
 method: messages.getChats
 chatId: -1234567890
 ```
 
 _или_
-```js 
+```yaml 
 method: messages.getChats
 chatIdList: [-1234567890]
 ```
 ## messages.getFullChat
 
 Получить полную информацию о чате
-```js 
+```yaml 
 method: messages.getFullChat
 chatId: -1234567890
 ```
@@ -115,7 +115,7 @@ chatId: -1234567890
 ## messages.getCommonChats
 
 Найти общие с пользователем чаты
-```js 
+```yaml 
 method: messages.getCommonChats
 user: InputUser
 limit: 10
@@ -126,7 +126,7 @@ maxId: 0
 
 ## Channels
 ## channels.toggleSlowMode
-```js 
+```yaml 
 method: channels.toggleSlowMode
 channel: InputChannel
 seconds: 1
@@ -136,21 +136,21 @@ seconds: 1
 
 ## Stats
 ## stats.getMegagroupStats
-```js 
+```yaml 
 method: stats.getMegagroupStats
 channel: InputChannel
 dark: true
 ```
 * channel: [InputChannel](/docs-test/_test/userbot/inputchannel)
 ## stats.getBroadcastStats
-```js 
+```yaml 
 method: stats.getBroadcastStats
 channel: InputChannel
 dark: true
 ```
 * channel: [InputChannel](/docs-test/_test/userbot/inputchannel)
 ## stats.loadAsyncGraph
-```js 
+```yaml 
 method: stats.loadAsyncGraph
 token: "abc...xyz"
 x: 0.5
