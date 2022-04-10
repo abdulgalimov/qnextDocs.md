@@ -127,8 +127,18 @@ module.exports = {
           title: 'Триггеры',
           path: '/article/triggers/'
         }, {
-          title: 'Регулярные выражения',
+          title: 'Регулярные выражения/',
           path: '/admin/regexp/'
+        }]
+      }, {
+        title: 'Правила',
+        collapsable: false,
+        children: [{
+          title: 'Политика',
+          path: '/ext/rules/privacy/'
+        }, {
+          title: 'Соглашение',
+          path: '/ext/rules/terms/'
         }]
       }],
     }]
