@@ -30,7 +30,7 @@ module.exports = {
       collapsable: false,
       children: [{
         title: 'Оплата',
-        path: '/article/price/'
+        path: '/root/price/'
       },{
         title: 'Меню администратора',
         path: '/admin/',
@@ -112,10 +112,10 @@ module.exports = {
           path: '/article/notifications/'
         }, {
           title: 'Первичная регистрация бота',
-          path: '/article/price/newtoken/'
+          path: '/root/new-token/'
         }, {
           title: 'Обновление токена бота',
-          path: '/article/price/reltoken/'
+          path: '/root/reset-token/'
         }]
       }, {
         title: 'Разное',
@@ -129,6 +129,16 @@ module.exports = {
         }, {
           title: 'Регулярные выражения',
           path: '/admin/regexp/'
+        }]
+      }, {
+        title: 'Соглашения',
+        collapsable: false,
+        children: [{
+          title: 'Политика конфиденциальности',
+          path: '/agreements/privacy/'
+        }, {
+          title: 'Пользовательское соглашение',
+          path: '/agreements/terms/'
         }]
       }],
     }]
