@@ -5,17 +5,17 @@
 
 **Реакции** 
 
-[exportChatInviteLink](/docs-test/admin/invitelink/exportchatinvitelink) - создать основную пригласительную ссылку
+[exportChatInviteLink](/docs/admin/invitelink/exportchatinvitelink) - создать основную пригласительную ссылку
 
-[createChatInviteLink](/docs-test/admin/invitelink/createchatinvitelink) - создать дополнительную пригласительную ссылку
+[createChatInviteLink](/docs/admin/invitelink/createchatinvitelink) - создать дополнительную пригласительную ссылку
 
 _в разработке_
 
-[editChatInviteLink](/docs-test/admin/invitelink/editchatinvitelink) - изменить пригласительную ссылку
+[editChatInviteLink](/docs/admin/invitelink/editchatinvitelink) - изменить пригласительную ссылку
 
-[revokeChatInviteLink](/docs-test/admin/invitelink/revokechatinvitelink) - обновить пригласительную ссылку
+[revokeChatInviteLink](/docs/admin/invitelink/revokechatinvitelink) - обновить пригласительную ссылку
 
-[loadChatInviteLink](/docs-test/admin/invitelink/loadchatinvitelink) - получить пригласительную ссылку
+[loadChatInviteLink](/docs/admin/invitelink/loadchatinvitelink) - получить пригласительную ссылку
 
 
 

@@ -3,76 +3,76 @@
 
 ## Тарифы и оплата
 
-[QNext тарифы](/docs-test/root/price)
+[QNext тарифы](/docs/root/price)
 
 
 ## Меню администратора
 
-[QNext. Настройки бота](/docs-test/admin/setting)
+[QNext. Настройки бота](/docs/admin/setting)
 
-[QNext. Люди](/docs-test/admin/people)
+[QNext. Люди](/docs/admin/people)
 
-[QNext. Контент](/docs-test/admin/content)
+[QNext. Контент](/docs/admin/content)
 
-[QNext. Команды](/docs-test/admin/command)
+[QNext. Команды](/docs/admin/command)
 
-[QNext. Расписание](/docs-test/admin/schedule)
+[QNext. Расписание](/docs/admin/schedule)
 
-[QNext. Чаты/Каналы](/docs-test/admin/chats-and-channels)
+[QNext. Чаты/Каналы](/docs/admin/chats-and-channels)
 
-[QNext. Формы](/docs-test/admin/forms)
+[QNext. Формы](/docs/admin/forms)
 
-[QNext. Меню](/docs-test/admin/menu)
+[QNext. Меню](/docs/admin/menu)
 
-[QNext. Платежи](/docs-test/admin/pay)
+[QNext. Платежи](/docs/admin/pay)
 
-[QNext. Рассылки](/docs-test/admin/newsletters)
+[QNext. Рассылки](/docs/admin/newsletters)
 
-[QNext. WEB](/docs-test/admin/web)
+[QNext. WEB](/docs/admin/web)
 
-[QNext. Магазины](/docs-test/admin/stores) 
+[QNext. Магазины](/docs/admin/stores) 
 
-[QNext. WorkFlows](/docs-test/admin/workflow) 
+[QNext. WorkFlows](/docs/admin/workflow) 
 
-[QNext. Конвертор](/docs-test/admin/converter) 
+[QNext. Конвертор](/docs/admin/converter) 
 
-[QNext. Внешние сервисы](/docs-test/admin/external-services)
+[QNext. Внешние сервисы](/docs/admin/external-services)
 
-[QNext. Клавиатура](/docs-test/admin/keyboard)
+[QNext. Клавиатура](/docs/admin/keyboard)
 
-[QNext. Переменные](/docs-test/admin/variables)
+[QNext. Переменные](/docs/admin/variables)
 
 
 ## Исполняемые модули
 
-[Qnext. Исполняемые модули](/docs-test/ext)
+[Qnext. Исполняемые модули](/docs/ext)
 
-[QNext. Реакции](/docs-test/admin/other/reactions)
+[QNext. Реакции](/docs/admin/other/reactions)
 
-[QNext. Ограничения](/docs-test/ext/restrictions)
+[QNext. Ограничения](/docs/ext/restrictions)
 
-[QNext. Скрипты](/docs-test/ext/script)
+[QNext. Скрипты](/docs/ext/script)
 
-[QNext. Макросы](/docs-test/ext/macros)
+[QNext. Макросы](/docs/ext/macros)
 
 
 ## Статьи и обзоры
 
-[Qnextbot уведомления](/docs-test/article/notifications)
+[Qnextbot уведомления](/docs/article/notifications)
 
-[Первая регистрация бота](/docs-test/root/new-token)
+[Первая регистрация бота](/docs/root/new-token)
 
-[Обновление токена](/docs-test/root/reset-token)
+[Обновление токена](/docs/root/reset-token)
 
-[regEx - регулярные выражения](/docs-test/admin/regexp)
+[regEx - регулярные выражения](/docs/admin/regexp)
 
-[Логи](/docs-test/admin/other/reactions/log)
+[Логи](/docs/admin/other/reactions/log)
 
-[Новый механизм take-реакций](/docs-test/admin/other/reactions/new-mechanics)
+[Новый механизм take-реакций](/docs/admin/other/reactions/new-mechanics)
 
 [Лимиты Телеграм](https://limits.tginfo.me/ru-RU/)
 
-[Публичные API](/docs-test/admin/public-api)
+[Публичные API](/docs/admin/public-api)
 
 
 ## Онлайн конференции
@@ -107,6 +107,6 @@
 
 ## Продолжая работу с ботом, вы принимаете условия Политики конфиденциальности и Пользовательского соглашения платформы @QNextBot.
 
-🔸[Политика конфиденциальности](/docs-test/agreements/privacy)
+🔸[Политика конфиденциальности](/docs/agreements/privacy)
 
-🔸[Пользовательское соглашение](/docs-test/agreements/terms) 
+🔸[Пользовательское соглашение](/docs/agreements/terms) 

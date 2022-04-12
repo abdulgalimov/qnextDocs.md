@@ -1,7 +1,7 @@
 
 
 
-[🏠Главная](/docs-test/_test/userbot)
+[🏠Главная](/docs/_test/userbot)
 
 
 * [common](#common)
@@ -20,7 +20,7 @@
    * [stats.getBroadcastStats](#stats-getbroadcaststats)
    * [stats.loadAsyncGraph](#stats-loadasyncgraph)
 
-//  [Шаблоны и полезные подсказки](/docs-test/_test/userbot/sample)
+//  [Шаблоны и полезные подсказки](/docs/_test/userbot/sample)
 
 /// [Юзерботы работают на yaml](https://docs.ansible.com/ansible/latest/reference_appendices/YAMLSyntax.html)
 ## common
@@ -45,7 +45,7 @@ clearDraft: false
 scheduleDate: Unixtime дата отправки
 replyToMessageId: Id сообщения
 ```
-* peer: [InputPeer](/docs-test/_test/userbot/inputpeer)
+* peer: [InputPeer](/docs/_test/userbot/inputpeer)
 ## messages.forwardMessages
 
 Переслать сообщение
@@ -58,7 +58,7 @@ silent: false
 background: false
 scheduleDate: Unixtime дата отправки
 ```
-* peer: [InputPeer](/docs-test/_test/userbot/inputpeer)
+* peer: [InputPeer](/docs/_test/userbot/inputpeer)
 
 пример:
 ```yaml 
@@ -86,7 +86,7 @@ background: false
 method: messages.reportSpam
 peer: InputPeer
 ```
-* peer: [InputPeer](/docs-test/_test/userbot/inputpeer)
+* peer: [InputPeer](/docs/_test/userbot/inputpeer)
 
 
 
@@ -121,7 +121,7 @@ user: InputUser
 limit: 10
 maxId: 0
 ```
-* user: [InputUser](/docs-test/_test/userbot/inputuser)
+* user: [InputUser](/docs/_test/userbot/inputuser)
 
 
 ## Channels
@@ -131,7 +131,7 @@ method: channels.toggleSlowMode
 channel: InputChannel
 seconds: 1
 ```
-* channel: [InputChannel](/docs-test/_test/userbot/inputchannel)
+* channel: [InputChannel](/docs/_test/userbot/inputchannel)
 
 
 ## Stats
@@ -141,14 +141,14 @@ method: stats.getMegagroupStats
 channel: InputChannel
 dark: true
 ```
-* channel: [InputChannel](/docs-test/_test/userbot/inputchannel)
+* channel: [InputChannel](/docs/_test/userbot/inputchannel)
 ## stats.getBroadcastStats
 ```yaml 
 method: stats.getBroadcastStats
 channel: InputChannel
 dark: true
 ```
-* channel: [InputChannel](/docs-test/_test/userbot/inputchannel)
+* channel: [InputChannel](/docs/_test/userbot/inputchannel)
 ## stats.loadAsyncGraph
 ```yaml 
 method: stats.loadAsyncGraph
@@ -162,7 +162,7 @@ x: 0.5
 
 
 
-[🏠Главная](/docs-test/_test/userbot)
+[🏠Главная](/docs/_test/userbot)
 
 
   

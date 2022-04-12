@@ -4,7 +4,7 @@
 
 Для удаления определенного профиля, необходимо использовать:
 
-Реакция: [**profileDell**](/docs-test/admin/profile/profiledel)
+Реакция: [**profileDell**](/docs/admin/profile/profiledel)
 
 
 

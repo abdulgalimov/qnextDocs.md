@@ -34,7 +34,7 @@
 
 Если необходимо использовать @username и ID, подойдет:
 
-Реакция: [takeUsers](/docs-test/admin/users/takeusers)
+Реакция: [takeUsers](/docs/admin/users/takeusers)
 
 
 

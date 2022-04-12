@@ -6,7 +6,7 @@
 
 Для удаления всех профилей пользователя, необходимо использовать: 
 
-Реакция: [profileDelAll](/docs-test/admin/profile/profiledelall)
+Реакция: [profileDelAll](/docs/admin/profile/profiledelall)
 
 
 

@@ -24,11 +24,11 @@
 
  **Реакции**
  
-[globalVarDel](/docs-test/admin/globalvar/globalvardel) - Удалить глобальную переменную
+[globalVarDel](/docs/admin/globalvar/globalvardel) - Удалить глобальную переменную
 
-[globalVarSet](/docs-test/admin/globalvar/globalvarset) - Сохранить глобальную переменную
+[globalVarSet](/docs/admin/globalvar/globalvarset) - Сохранить глобальную переменную
  
-[loadGlobalVar](/docs-test/admin/globalvar/loadGlobalVar) - Загрузить глобальные переменные
+[loadGlobalVar](/docs/admin/globalvar/loadGlobalVar) - Загрузить глобальные переменные
 
 
 

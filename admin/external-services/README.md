@@ -3,9 +3,9 @@
 ![](./1.png)
 
 
-[Google](/docs-test/admin/google)
+[Google](/docs/admin/google)
 
-[Trello](/docs-test/admin/trello)
+[Trello](/docs/admin/trello)
 
 
 

@@ -1,22 +1,22 @@
 # Голосование
 
-**Голосование** - универсальная сущность, позволяющая создават самые различные варианты голосований. С помощью макроса [!{vote}](/docs-test/ext/macros/vote) можно придумывать различные форматы отображения результатов.
+**Голосование** - универсальная сущность, позволяющая создават самые различные варианты голосований. С помощью макроса [!{vote}](/docs/ext/macros/vote) можно придумывать различные форматы отображения результатов.
 
 **Реакции**
 
 
-[loadVote](/docs-test/admin/vote/loadvote) - Загрузить голос в опросе
+[loadVote](/docs/admin/vote/loadvote) - Загрузить голос в опросе
  
-[loadVoteResults](/docs-test/admin/vote/loadvoteresults) - Загрузить результаты голосования
+[loadVoteResults](/docs/admin/vote/loadvoteresults) - Загрузить результаты голосования
  
-[takePollUsers](/docs-test/admin/vote/takepollusers) - Загрузить проголосовавших в опросе
+[takePollUsers](/docs/admin/vote/takepollusers) - Загрузить проголосовавших в опросе
  
-[vote](/docs-test/admin/vote/vote) - голосование
+[vote](/docs/admin/vote/vote) - голосование
  
-[voteAdd](/docs-test/admin/vote/voteadd) - Добавить голос
+[voteAdd](/docs/admin/vote/voteadd) - Добавить голос
  
-[voteCancel](/docs-test/admin/vote/votecancel) - Отменить голос
+[voteCancel](/docs/admin/vote/votecancel) - Отменить голос
  
-[voteSwitch](/docs-test/admin/switch/voteopen) - Открыть/закрыть голосование
+[voteSwitch](/docs/admin/switch/voteopen) - Открыть/закрыть голосование
  
-[voteRevoke](/docs-test/admin/vote/voterevoke) - Очистить (сбросить) голосование
+[voteRevoke](/docs/admin/vote/voterevoke) - Очистить (сбросить) голосование

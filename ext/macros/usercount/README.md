@@ -85,6 +85,6 @@
 
 
 
-[⬅️QNext. Макросы](/docs-test/ext/macros)
+[⬅️QNext. Макросы](/docs/ext/macros)
   
 

@@ -4,7 +4,7 @@ module.exports = {
   description: '📦 Документация для бота.',
   theme1: 'api',
   base: conf.basePath,
-  dest: 'docs-test',
+  dest: 'docs',
   locales: {
     '/': {
       lang: 'ru-RU',

@@ -1,10 +1,10 @@
 
 
-* [InputPeer](/docs-test/_test/userbot/inputpeer)
-* [InputUser](/docs-test/_test/userbot/inputuser)
-* [InputChannel](/docs-test/_test/userbot/inputchannel)
+* [InputPeer](/docs/_test/userbot/inputpeer)
+* [InputUser](/docs/_test/userbot/inputuser)
+* [InputChannel](/docs/_test/userbot/inputchannel)
 
 
 
-[🏠Главная](/docs-test/_test/userbot)
+[🏠Главная](/docs/_test/userbot)
   

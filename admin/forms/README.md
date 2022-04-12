@@ -6,7 +6,7 @@
 ## Настройки 
 ### Ограничения
 
-— Применяются все предлагаемые платформой [**ограничения**](/docs-test/ext/restrictions).
+— Применяются все предлагаемые платформой [**ограничения**](/docs/ext/restrictions).
 
 ### Тех. название 
 
@@ -60,10 +60,10 @@
 —
 ### Google таблицы
 
-— Подключение и вывод результатов формы в [**Google таблицы.**](/docs-test/admin/google)
+— Подключение и вывод результатов формы в [**Google таблицы.**](/docs/admin/google)
 ### Конвертор
 
-— Подключение конвертора для вывода результатов формы в [**Google таблицы**](/docs-test/admin/google) или Excel
+— Подключение конвертора для вывода результатов формы в [**Google таблицы**](/docs/admin/google) или Excel
 ### Workflows 
 
 —
@@ -260,7 +260,7 @@ update.message.audio: mp3, wav, flac и т.д.
 ### Поле: custom
 
 Поле для приема любого типа данных (в том числе смешанных). Может одновременно принимать и ссылки и цифры, или ссылки и юзернеймы. 
-Работает с связке с реакцией: [**writeFormCustom**](/docs-test/admin/forms/writeformcustom)
+Работает с связке с реакцией: [**writeFormCustom**](/docs/admin/forms/writeformcustom)
 
 ### Поле: user
 
@@ -321,7 +321,7 @@ update.message.audio: mp3, wav, flac и т.д.
 
 ### Триггер Финиш
 
-— В триггере финиша работает реакция  [formResult](/docs-test/admin/forms/formresult), которая отображает данные пройденной формы.
+— В триггере финиша работает реакция  [formResult](/docs/admin/forms/formresult), которая отображает данные пройденной формы.
 
 ---
 
@@ -335,21 +335,21 @@ update.message.audio: mp3, wav, flac и т.д.
 
 **Реакции**
 
-[formStart](/docs-test/admin/forms/formstart) - Запустить форму
+[formStart](/docs/admin/forms/formstart) - Запустить форму
 
-[formCancel](/docs-test/admin/forms/formcancel) - Остановить (прервать) форму
+[formCancel](/docs/admin/forms/formcancel) - Остановить (прервать) форму
 
-[formResult](/docs-test/admin/forms/formresult) - Показать результат формы
+[formResult](/docs/admin/forms/formresult) - Показать результат формы
 
-[loadFormResult](/docs-test/admin/forms/loadformresult) - Загрузить результаты формы
+[loadFormResult](/docs/admin/forms/loadformresult) - Загрузить результаты формы
 
-[openFormResult](/docs-test/admin/forms/openformresult) - Открыть результаты формы
+[openFormResult](/docs/admin/forms/openformresult) - Открыть результаты формы
 
-[takeFormResults](/docs-test/admin/forms/takeformresults) - Получить последние несколько результатов формы
+[takeFormResults](/docs/admin/forms/takeformresults) - Получить последние несколько результатов формы
 
-[saveFormVariables](/docs-test/admin/forms/saveformvariables) - сохранить локальную переменную в форме
+[saveFormVariables](/docs/admin/forms/saveformvariables) - сохранить локальную переменную в форме
 
-[writeFormCustom](/docs-test/admin/forms/writeformcustom) - загрузить произвольный параметр формы
+[writeFormCustom](/docs/admin/forms/writeformcustom) - загрузить произвольный параметр формы
 
 
 

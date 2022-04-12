@@ -26,7 +26,7 @@
  В тригере вебхука есть параметр ${request...}, который содержит в себе тип запроса (GET/POST), переданные параметры (query, body) и заголовки (headers). В тригере также можно ответить на запрос, с помощью реакции ⚡️**webhookResponse**.
 
 С этим разделом напрямую связана реакция:
-[webhookResponse(/docs-test/admin/web/webhookresponse)- Ответ для webhook's
+[webhookResponse(/docs/admin/web/webhookresponse)- Ответ для webhook's
 
  
 

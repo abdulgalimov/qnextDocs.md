@@ -172,10 +172,10 @@
 --------------------
 **Реакции**
 
-[loadContent](/docs-test/admin/content/loadcontent) - Загрузить Контент
+[loadContent](/docs/admin/content/loadcontent) - Загрузить Контент
 
-[loadRandomContent](/docs-test/admin/content/loadrandomcontent) - Выбрать случайный контент
+[loadRandomContent](/docs/admin/content/loadrandomcontent) - Выбрать случайный контент
 
-[sendContent](/docs-test/admin/content/sendcontent) - Отправить Контент
+[sendContent](/docs/admin/content/sendcontent) - Отправить Контент
 
-[refreshContent](/docs-test/admin/content/refreshcontent) - Обновить контент
+[refreshContent](/docs/admin/content/refreshcontent) - Обновить контент

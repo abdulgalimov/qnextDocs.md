@@ -10,13 +10,13 @@
 
 **Реакции**
 
-[keyboardAction](/docs-test/admin/keyboard/keyboardaction) - выполнить действие при нажатии на кнопку
+[keyboardAction](/docs/admin/keyboard/keyboardaction) - выполнить действие при нажатии на кнопку
  
-[keyboardHide](/docs-test/admin/keyboard/keyboardhide) - Скрыть клавиатуру
+[keyboardHide](/docs/admin/keyboard/keyboardhide) - Скрыть клавиатуру
  
-[keyboardRefresh](/docs-test/admin/keyboard/keyboardrefresh) - Обновить текущую клавиатуру
+[keyboardRefresh](/docs/admin/keyboard/keyboardrefresh) - Обновить текущую клавиатуру
  
-[keyboardShow](/docs-test/admin/keyboard/keyboardshow) - Показать клавиатуру
+[keyboardShow](/docs/admin/keyboard/keyboardshow) - Показать клавиатуру
  
 
 

@@ -1,5 +1,5 @@
 # Trello
-• [Макрос trello](/docs-test/ext/macros/trello)
+• [Макрос trello](/docs/ext/macros/trello)
 
 
 Trello — облачная программа для управления проектами небольших групп.
@@ -54,12 +54,12 @@ Trello — 🧰Аккаунты — ➕ Добавить — Укажите ср
 ![](./12.png)
 
 Смотрим логи 
-**Что такое логи ?** [Ответ](/docs-test/admin/other/reactions/log) 
+**Что такое логи ?** [Ответ](/docs/admin/other/reactions/log) 
 
 ![](./13.png)
-* [trelloApiRequest](/docs-test/admin/trello/trelloapirequest)
-* [trelloAddComment](/docs-test/admin/trello/trelloaddcomment)
-* [trelloCreateCard](/docs-test/admin/trello/trellocreatecard)
-* [trelloGetCard](/docs-test/admin/trello/trellogetcard)
-* [trelloCreateCardAttachment](/docs-test/admin/trello/trellocreatecardattachment)
-* [trelloUpdateCard](/docs-test/admin/trello/trelloupdatecard)
+* [trelloApiRequest](/docs/admin/trello/trelloapirequest)
+* [trelloAddComment](/docs/admin/trello/trelloaddcomment)
+* [trelloCreateCard](/docs/admin/trello/trellocreatecard)
+* [trelloGetCard](/docs/admin/trello/trellogetcard)
+* [trelloCreateCardAttachment](/docs/admin/trello/trellocreatecardattachment)
+* [trelloUpdateCard](/docs/admin/trello/trelloupdatecard)

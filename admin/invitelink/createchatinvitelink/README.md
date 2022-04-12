@@ -11,9 +11,9 @@
 * Подтверждение администратора - все кто будут нажмимать на ссылку, будут отправлять в чат запрос, и администраторы смогут его либо принять, либо отклонить руками, либо с помощью реакций:
 
 
-⚡️ [approveChatJoinRequest](/docs-test/admin/chat/approvechatjoinrequest) - подтвердить запрос
+⚡️ [approveChatJoinRequest](/docs/admin/chat/approvechatjoinrequest) - подтвердить запрос
 
-⚡️ [declineChatJoinRequest](/docs-test/admin/chat/declinechatjoinrequest) - отклонить запрос
+⚡️ [declineChatJoinRequest](/docs/admin/chat/declinechatjoinrequest) - отклонить запрос
 
 ---
 

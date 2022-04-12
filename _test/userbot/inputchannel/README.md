@@ -14,10 +14,10 @@ peer: InputPeer
 messageId: 123
 ```
 
-peer: [InputPeer](/docs-test/_test/userbot/inputpeer)
+peer: [InputPeer](/docs/_test/userbot/inputpeer)
 
 
 
-[🏠Главная](/docs-test/_test/userbot)
+[🏠Главная](/docs/_test/userbot)
   
 

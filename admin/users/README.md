@@ -5,19 +5,19 @@
 
 **Реакции**
 
-[takeAdmins](/docs-test/admin/users/takeadmins) - Загрузить админов
+[takeAdmins](/docs/admin/users/takeadmins) - Загрузить админов
 
-[takeAuthorUser](/docs-test/admin/users/takeauthoruser) - Получить пользователя инициатора действия
+[takeAuthorUser](/docs/admin/users/takeauthoruser) - Получить пользователя инициатора действия
 
-[takeButtonUsers](/docs-test/admin/users/takebuttonusers) - Загрузить проголосовавших за кнопку
+[takeButtonUsers](/docs/admin/users/takebuttonusers) - Загрузить проголосовавших за кнопку
 
-[takeMentions](/docs-test/admin/users/takementions) - Получить всех упомянутых в тексте людей и чаты
+[takeMentions](/docs/admin/users/takementions) - Получить всех упомянутых в тексте людей и чаты
 
-[takeRandomUser](/docs-test/admin/users/takerandomuser) - Загрузить случайного пользователя
+[takeRandomUser](/docs/admin/users/takerandomuser) - Загрузить случайного пользователя
 
-[takeReplyUser](/docs-test/admin/users/takereplyuser) - Загрузить пользователя, которому ответили в...
+[takeReplyUser](/docs/admin/users/takereplyuser) - Загрузить пользователя, которому ответили в...
 
-[takeUsers](/docs-test/admin/users/takeusers) - взять пользователя(ей)
+[takeUsers](/docs/admin/users/takeusers) - взять пользователя(ей)
 
 ---
 

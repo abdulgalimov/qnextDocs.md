@@ -1,4 +1,4 @@
 .vuepress/dist/
-.vuepress/docs-test/
+.vuepress/docs/
 .vuepress/conf.json
 .idea

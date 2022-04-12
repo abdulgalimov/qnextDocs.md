@@ -1,3 +1,3 @@
 
 
-Устарело, используйте реакцию [**For**](/docs-test/admin/other/reactions/for)
+Устарело, используйте реакцию [**For**](/docs/admin/other/reactions/for)
