@@ -2,8 +2,9 @@ const conf = require(__dirname+'/conf.json');
 module.exports = {
   title: 'QNext',
   description: '📦 Документация для бота.',
-  theme: 'api',
+  theme1: 'api',
   base: conf.basePath,
+  dest: 'docs-test',
   locales: {
     '/': {
       lang: 'ru-RU',
@@ -12,25 +13,134 @@ module.exports = {
       description: '📦 Документация для бота.',
     },
   },
+  plugins: [
+    ['@vuepress/search', {
+      searchMaxSuggestions: 10,
+      test: ['/(admin)|(article)|(ext)|(root)/']
+    }]
+  ],
+  patterns: ['**/*.md', '!.vuepress', '!node_modules', '!_export'],
   themeConfig: {
-    // Optional options for generating "Edit this page" link
-
-    // if your docs are in a different repo from your main project:
-    docsRepo: 'sqrthree/vuepress-theme-api',
-    // if your docs are not at the root of the repo:
-    docsDir: 'docs',
-    // if your docs are in a specific branch (defaults to 'master'):
-    docsBranch: 'master',
-    // defaults to false, set to true to enable
-    editLinks: false,
-    // custom text for edit link. Defaults to "Edit this page"
-    // editLinkText: 'Help us improve this page',
-    // lastUpdated: 'Last Updated', // string | boolean
     lastUpdated: true, // string | boolean
+    sidebarDepth: 2,
 
-    // sidebarGroupOrder: [
-    //   'getting-started',
-    //   'configurations',
-    // ],
+    sidebar: [{
+      title: 'Документация',
+      path: '/',
+      collapsable: false,
+      children: [{
+        title: 'Оплата',
+        path: '/root/price/'
+      },{
+        title: 'Меню администратора',
+        path: '/admin/',
+        collapsable: false,
+        children: [{
+          title: '⚙Настройки бота',
+          path: '/admin/setting/'
+        }, {
+          title: '👤Люди',
+          path: '/admin/people/'
+        }, {
+          title: '📋Контент',
+          path: '/admin/content/'
+        }, {
+          title: '↙Команды',
+          path: '/admin/command/'
+        }, {
+          title: '📅Расписание',
+          path: '/admin/schedule/'
+        }, {
+          title: '👥Чаты/Каналы',
+          path: '/admin/chats-and-channels/'
+        }, {
+          title: '🗄Формы',
+          path: '/admin/forms/'
+        }, {
+          title: '🕹Меню',
+          path: '/admin/menu/'
+        }, {
+          title: '💰Платежи',
+          path: '/admin/pay/'
+        }, {
+          title: '📬Рассылки',
+          path: '/admin/newsletters/'
+        }, {
+          title: '🌐WEB',
+          path: '/admin/web/'
+        }, {
+          title: '🏪Магазины',
+          path: '/admin/stores/'
+        }, {
+          title: '🔀WorkFlows',
+          path: '/admin/workflow/'
+        }, {
+          title: '🗃Конвертор',
+          path: '/admin/converter/'
+        }, {
+          title: '🧩Внешние сервисы',
+          path: '/admin/external-services/'
+        }, {
+          title: '⌨️Клавиатура',
+          path: '/admin/keyboard/'
+        }, {
+          title: '💼Переменные',
+          path: '/admin/variables/'
+        }]
+      }, {
+        title: 'Исполняемые модули',
+        path: '/ext/',
+        collapsable: false,
+        children: [{
+          title: 'Реакции',
+          path: '/admin/other/reactions/'
+        }, {
+          title: 'Ограничения',
+          path: '/ext/restrictions/'
+        }, {
+          title: 'Скрипты',
+          path: '/ext/script/'
+        }, {
+          title: 'Макросы',
+          path: '/ext/macros/'
+        }]
+      }, {
+        title: 'Настройки в QNextBot',
+        collapsable: false,
+        children: [{
+          title: 'Уведомления',
+          path: '/article/notifications/'
+        }, {
+          title: 'Первичная регистрация бота',
+          path: '/root/new-token/'
+        }, {
+          title: 'Обновление токена бота',
+          path: '/root/reset-token/'
+        }]
+      }, {
+        title: 'Разное',
+        collapsable: false,
+        children: [{
+          title: 'Логи',
+          path: '/admin/other/reactions/log/'
+        }, {
+          title: 'Триггеры',
+          path: '/article/triggers/'
+        }, {
+          title: 'Регулярные выражения/',
+          path: '/admin/regexp/'
+        }]
+      }, {
+        title: 'Соглашения',
+        collapsable: false,
+        children: [{
+          title: 'Политика конфиденциальности',
+          path: '/agreements/privacy/'
+        }, {
+          title: 'Пользовательское соглашение',
+          path: '/agreements/terms/'
+        }]
+      }],
+    }]
   },
 }

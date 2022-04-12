@@ -1,0 +1,8 @@
+# newsletterCancel
+
+**newsletterCancel** - остановка рассылка.
+
+
+
+
+
