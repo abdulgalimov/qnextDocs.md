@@ -127,7 +127,7 @@ module.exports = {
           title: 'Триггеры',
           path: '/article/triggers/'
         }, {
-          title: 'Регулярные выражения/',
+          title: 'Регулярные выражения',
           path: '/admin/regexp/'
         }]
       }, {
