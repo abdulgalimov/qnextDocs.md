@@ -111,6 +111,9 @@ module.exports = {
           title: 'Уведомления',
           path: '/article/notifications/'
         }, {
+          title: 'Локализация',
+          path: '/ext/localization/'
+        }, {
           title: 'Первичная регистрация бота',
           path: '/root/new-token/'
         }, {
