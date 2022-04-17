@@ -114,6 +114,9 @@ module.exports = {
           title: 'Локализация',
           path: '/ext/localization/'
         }, {
+          title: 'Добавление бота в админы',
+          path: '/ext/groupadminright/'
+        }, {
           title: 'Первичная регистрация бота',
           path: '/root/new-token/'
         }, {
