@@ -1,7 +1,7 @@
 const conf = require(__dirname+'/conf.json');
 module.exports = {
   title: 'QNext',
-  description: '📦 Документация для бота.',
+  description: '🤖 Документация платформы QNext',
   theme1: 'api',
   base: conf.basePath,
   dest: 'docs',
@@ -10,7 +10,7 @@ module.exports = {
       lang: 'ru-RU',
       title: '',
       text: 'Русский',
-      description: '📦 Документация для бота.',
+      description: '🤖 Документация платформы QNext',
     },
   },
   plugins: [
