@@ -103,7 +103,7 @@
 
 ## !{makeLink}
 
-* [!{makeLink}](/docs/ext/macros/makelink)
+* [!{makeLink}](/docs/ext/macros/makelink) - с помощью макроса `!{makeLink}` можно отображать результаты формы в браузере.
 
 ## !{menu}
 

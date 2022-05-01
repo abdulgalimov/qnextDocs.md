@@ -6,7 +6,7 @@
 
 Параметр `type` может принимать одно из значений:
 
-[**Примеры готовых макрос**](/docs/ext/macros/vote/example)
+[**Примеры готовых макросов**](/docs/ext/macros/vote/example)
 
 ## type: results
 
