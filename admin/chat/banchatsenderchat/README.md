@@ -8,6 +8,8 @@
 
 Канал отправителя - путь по которому указан ID канала
 
+[bot.api method - banchatsenderchat](https://core.telegram.org/bots/api#banchatsenderchat)
+
 
 
 

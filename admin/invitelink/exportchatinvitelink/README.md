@@ -1,6 +1,6 @@
 # exportChatInviteLink
 
-**exportChatInviteLink** - Этот метод позволяет создавать новую основную ссылку для приглашения в чат; любая ранее созданная первичная ссылка аннулируется.
+**exportChatInviteLink** - Создание новой основную ссылку для приглашения в чат; любая ранее созданная первичная ссылка аннулируется.
 
 Переменная для указания ссылки: ${chatInviteLink}
 
@@ -8,11 +8,7 @@
 
 ![](./1.png)
 
----
-
-**bot.api method:** [exportChatInviteLink](https://core.telegram.org/bots/api#exportchatinvitelink)
-
----
+[**bot.api method - exportChatInviteLink**](https://core.telegram.org/bots/api#exportchatinvitelink)
 
 **Особенности:**
 

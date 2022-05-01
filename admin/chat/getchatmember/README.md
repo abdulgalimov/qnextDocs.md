@@ -16,7 +16,7 @@ _${getchatMemberResult}_
 
 
 ::: tip ℹ️
-[**getChatMember method bot.api**](https://core.telegram.org/bots/api#getchatmember)
+[**bot.api method - getChatMember**](https://core.telegram.org/bots/api#getchatmember)
 :::
 
 

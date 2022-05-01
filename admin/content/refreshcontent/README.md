@@ -1,5 +1,6 @@
 # refreshContent
-**refreshContent** - в процессе написания
+
+**refreshContent** - Обновление контента. 
 
 
 

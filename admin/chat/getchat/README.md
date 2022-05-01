@@ -11,7 +11,7 @@ _${getChatResult}_
 
 ![](./2.png)
 ::: tip ℹ️
-[**getChat method bot.api** ](https://core.telegram.org/bots/api#getchat)
+[**bot.api method - getChat** ](https://core.telegram.org/bots/api#getchat)
 :::
 
 

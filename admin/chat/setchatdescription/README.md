@@ -16,7 +16,7 @@ title - текст, на который необходимо изменить о
 
 
 ::: tip ℹ️
-[**setChatDescription method bot.api**](https://core.telegram.org/bots/api#setchatdescription)
+[**bot.api method - setChatDescription**](https://core.telegram.org/bots/api#setchatdescription)
 :::
 
 

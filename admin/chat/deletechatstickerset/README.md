@@ -8,7 +8,7 @@
 
 
 ::: tip ℹ️
-[**deleteChatStickerSet  method bot.api**](https://core.telegram.org/bots/api#deletechatstickerset)
+[**bot.api method - deleteChatStickerSet**](https://core.telegram.org/bots/api#deletechatstickerset)
 :::
 
 

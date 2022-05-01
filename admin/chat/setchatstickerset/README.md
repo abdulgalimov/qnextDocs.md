@@ -17,7 +17,7 @@ stickerSetName - указываем название стикерпака. Ре�
 
 
 ::: tip ℹ️
-**setChatStickerSet method bot.api*
+[**bot.api method - setChatStickerSet**](https://core.telegram.org/bots/api#setchatstickerset)
 :::
 
 

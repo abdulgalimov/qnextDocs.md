@@ -17,7 +17,7 @@
 
 ---
 
-**bot.api method:** [createChatInviteLink](https://core.telegram.org/bots/api#createchatinvitelink)
+[**bot.api method - createChatInviteLink**](https://core.telegram.org/bots/api#createchatinvitelink)
 
 --- 
 

@@ -12,7 +12,7 @@ _${chatMembersCountResult}_
 ![](./2.png)
 
 
-[**getChatMemberCount method bot.api**](https://core.telegram.org/bots/api#getchatmember)
+[**bot.api method - getChatMemberCount**](https://core.telegram.org/bots/api#getchatmember)
 
 
 
