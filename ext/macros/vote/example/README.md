@@ -95,13 +95,13 @@
 !{vote| 
   type: count;
   where: buttons;
-  buttons: 128202;
+  buttons: 000000;
 }
 
 !{vote| 
   type: count;
   where: buttons;
-  buttons: 128203;
+  buttons: 000000;
 }
 ```
 
