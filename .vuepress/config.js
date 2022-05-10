@@ -135,6 +135,9 @@ module.exports = {
         }, {
           title: 'Регулярные выражения',
           path: '/admin/regexp/'
+        }, {
+          title: 'Чейнджлог',
+          path: '/ext/changelog/'
         }]
       }, {
         title: 'Соглашения',
