@@ -15,6 +15,7 @@
    * [messages.getCommonChats](#messages-getcommonchats)
 * [Channels](#channels)
    * [channels.toggleSlowMode](#channels-toggleslowmode)
+   * [channels.deleteMessages](#channels-deleteMessages)
 * [Stats](#stats)
    * [stats.getMegagroupStats](#stats-getmegagroupstats)
    * [stats.getBroadcastStats](#stats-getbroadcaststats)
@@ -133,6 +134,12 @@ seconds: 1
 ```
 * channel: [InputChannel](/docs/_test/userbot/inputchannel)
 
+## channels.deleteMessages
+```yaml 
+method: channels.deleteMessages
+channel: InputChannel
+id: <список id сообщений через запятую>
+```
 
 ## Stats
 ## stats.getMegagroupStats
