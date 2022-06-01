@@ -12,12 +12,16 @@
 
 _${getchatMemberResult}_
 
+Если бот имеет статус "участник = member"
+
 ![](./2.png)
 
+Если бот имеет статус "админ = administator"
 
-::: tip ℹ️
+![](./3.jpg)
+
 [**bot.api method - getChatMember**](https://core.telegram.org/bots/api#getchatmember)
-:::
+
 
 
 
