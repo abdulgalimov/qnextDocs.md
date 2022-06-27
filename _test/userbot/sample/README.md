@@ -21,14 +21,12 @@ _${update.message.user.accesHash}_
 ## Шаблоны
 
 _upd. нельзя отправлять сообщение состоящее только из цифр, или начинающееся с цифр._
-## Отправить сообщение в чат/канал
 
+## Отправить сообщение себе в избранное
 ```plain 
 method: messages.sendMessage
 peer: 
-   constructor: inputPeerChannel
-   channelId: -1001.... 
-   accessHash: "-501...." 
+ constructor: inputPeerSelf
 text: Текст для отправки
 ```
 
@@ -42,11 +40,14 @@ peer:
 text: Текст для отправки
 ```
 
-## Отправить сообщение себе в избранное
+## Отправить сообщение в чат/канал
+
 ```plain 
 method: messages.sendMessage
 peer: 
- constructor: inputPeerSelf
+   constructor: inputPeerChannel
+   channelId: -1001.... 
+   accessHash: "-501...." 
 text: Текст для отправки
 ```
 
@@ -63,6 +64,11 @@ toPeer:
  accessHash: "-8957797356081582383"
 id: ${update.message.id}
 ```
+где:
+
+**fromPeer** - откуда пересылаем сообщение
+
+**toPeer** - куда пересылаем сообщение
 
 ## Вступление юзерботом в чат/канал в публичный канал
 ```plain 

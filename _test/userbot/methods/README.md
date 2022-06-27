@@ -21,9 +21,11 @@
    * [stats.getBroadcastStats](#stats-getbroadcaststats)
    * [stats.loadAsyncGraph](#stats-loadasyncgraph)
 
-//  [Шаблоны и полезные подсказки](/docs/_test/userbot/sample)
+##  [Регистрация и подключение юзербота](/docs/_test/userbot/createuserbot)
 
-/// [Юзерботы работают на yaml](https://docs.ansible.com/ansible/latest/reference_appendices/YAMLSyntax.html)
+##  [Шаблоны и полезные подсказки](/docs/_test/userbot/sample)
+
+## [Юзерботы работают на yaml](https://docs.ansible.com/ansible/latest/reference_appendices/YAMLSyntax.html)
 ## common
 ## getMe
 
