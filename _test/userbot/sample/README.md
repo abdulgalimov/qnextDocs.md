@@ -36,7 +36,7 @@ method: messages.sendMessage
 peer: 
    constructor: inputPeerUser
    userId: 123....
-   accessHash: "-136..."
+   accessHash: "-1234..."
 text: Текст для отправки
 ```
 
@@ -47,7 +47,7 @@ method: messages.sendMessage
 peer: 
    constructor: inputPeerChannel
    channelId: -1001.... 
-   accessHash: "-501...." 
+   accessHash: "-1234...." 
 text: Текст для отправки
 ```
 
@@ -56,12 +56,12 @@ text: Текст для отправки
 method: messages.forwardMessages
 fromPeer:
  constructor: inputPeerChannel
- channelId: -1001451168153
- accessHash: "-7521564301491443954"
+ channelId: -1001...
+ accessHash: "-1234..."
 toPeer:
  constructor: inputPeerChannel
- channelId: -1001404256709
- accessHash: "-8957797356081582383"
+ channelId: -1001...
+ accessHash: "-1234..."
 id: ${update.message.id}
 ```
 где:
