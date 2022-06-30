@@ -135,7 +135,7 @@
 
 ## !{template}
 
-[![template]](/docs/ext/macros/template) - Макрос `!{template}` создает шаблон макроса для упрощения их дальнейшего использования.
+* [![template]](/docs/ext/macros/template) - Макрос `!{template}` создает шаблон макроса для упрощения их дальнейшего использования.
 
 ## !{trello}
 
