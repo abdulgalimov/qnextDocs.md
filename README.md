@@ -82,29 +82,6 @@
 [Локальные переменные](https://www.youtube.com/watch?v=3ify7Ci8D_I)
 
 
-## Ресурсы проекта в Telegram
-
-[@QNextBot](https://t.me/QNextBot) — Платформа управления ботами
-
-[@QNext](http://t.me/QNext) — Новости проекта
-
-[@QNextSupport](http://t.me/Qnextsupport) — Чат техподдержки
-
-[@QNextSupportBot](https://t.me/QNextSupportBot) — Cправка по платформе
-
-[@Qnext_Examplebot](https://t.me/Qnext_Examplebot?start=zakaz) — заказать настройку/создание бота
-
-[@QNextExamples](https://t.me/QNextExamples) — Примеры ботов
-
-[@QNextCases](https://t.me/QNextCases) — Кейсы, решения типичных задач
-
-[@schoolQNextBot](http://t.me/schoolQNextBot) — Школа QNextBot
-
-[@QNextPoll](https://t.me/QNextPoll) — Опросы пользователей проекта
-
-[@QNextChat](https://t.me/QNextChat) — Чат флудилка
-
-
 ## Продолжая работу с ботом, вы принимаете условия Политики конфиденциальности и Пользовательского соглашения платформы @QNextBot.
 
 🔸[Политика конфиденциальности](/docs/agreements/privacy)

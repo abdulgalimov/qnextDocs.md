@@ -121,6 +121,13 @@ module.exports = {
           path: '/root/reset-token/'
         }]
       }, {
+        title: 'Ресурсы проекта',
+        collapsable: false,
+        children: [{
+          title: 'Ссылки',
+          path: '/ext/link/'
+        }]
+      }, {
         title: 'Разное',
         collapsable: false,
         children: [{
