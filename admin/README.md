@@ -4,38 +4,14 @@
 
 Чтобы открыть Меню администратора, необходимо в вашем боте набрать команду `/main`. 
 
-![](./1.jpg)
-
-[QNext. Настройки бота](/docs/admin/setting)
-
-[QNext. Люди](/docs/admin/people)
-
-[QNext. Контент](/docs/admin/content)
-
-[QNext. Команды](/docs/admin/command)
-
-[QNext. Расписание](/docs/admin/schedule)
-
-[QNext. Чаты/Каналы](/docs/admin/chats-and-channels)
-
-[QNext. Формы](/docs/admin/forms)
-
-[QNext. Меню](/docs/admin/menu)
-
-[QNext. Платежи](/docs/admin/pay)
-
-[QNext. Рассылки](/docs/admin/newsletters)
-
-[QNext. WEB](/docs/admin/web)
-
-[QNext. Магазины](/docs/admin/stores) 
-
-[QNext. WorkFlows](/docs/admin/workflow) 
-
-[QNext. Конвертор](/docs/admin/converter) 
-
-[QNext. Внешние сервисы](/docs/admin/external-services)
-
-[QNext. Клавиатура](/docs/admin/keyboard)
-
-[QNext. Переменные](/docs/admin/variables)
+| Главное меню ||
+| --- |---| 
+| [Настройки бота](/docs/admin/setting) | [Люди](/docs/admin/people)|
+| [ Контент](/docs/admin/content) | [Команды](/docs/admin/command)|
+| [Расписание](/docs/admin/schedule) | [Чаты/Каналы](/docs/admin/chats-and-channels) |
+| [Формы](/docs/admin/forms) | [Меню](/docs/admin/menu)|
+| [Платежи](/docs/admin/pay) | [Рассылки](/docs/admin/newsletters) |
+| [WEB](/docs/admin/web) | [Магазины](/docs/admin/stores) |
+| [WorkFlows](/docs/admin/workflow)  | [Конвертор](/docs/admin/converter)  |
+| [Внешние сервисы](/docs/admin/external-services) | [Клавиатура](/docs/admin/keyboard) |
+| [Переменные](/docs/admin/variables) | updated |
