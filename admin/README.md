@@ -6,8 +6,6 @@
 
 ![](./1.jpg)
 
-## Меню администратора
-
 [QNext. Настройки бота](/docs/admin/setting)
 
 [QNext. Люди](/docs/admin/people)
