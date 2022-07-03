@@ -2,63 +2,65 @@
 
 Макрос `!{html}` позволяет делать различные преобразования разметки.
 
-## italic
+[[toc]]
+
+## type: italic
 ```plain 
 !{html|
   text: Наклонный текст;
   type: italic;
 }
 ```
-## bold
+## type: bold
 ```plain 
 !{html|
   text: Жирный текст;
   type: bold;
 }
 ```
-## underline
+## type: underLine
 ```plain 
 !{html|
   text: Подчеркнутый текст;
   type: underline;
 }
 ```
-## strike
+## type: strike
 ```plain 
 !{html|
   text: Зачеркнутый текст;
   type: strike;
 }
 ```
-## code
+## type: code
 ```plain 
 !{html|
   text: Моноширинная строка;
   type: code;
 }
 ```
-## pre
+## type: pre
 ```plain 
 !{html|
   text: Моноширинный блок;
   type: pre;
 }
 ```
-## encode
+## type: encode
 ```plain 
 !{html|
   text: Преобразование тегов <>;
   type: encode;
 }
 ```
-## decode
+## type: decode
 ```plain 
 !{html|
   text: Обратное преобразование тегов &lt; &gt;;
   type: decode;
 }
 ```
-## link
+## type: link
 ```plain 
 !{html|
   text: Ссылка;
@@ -66,7 +68,7 @@
   type: link;
 }
 ```
-## hiddenLink
+## type: hiddenLink
 
 Скрытая ссылка:
 ```plain 
@@ -75,19 +77,19 @@
   type: hiddenLink;
 }
 ```
-## hiddenSymbol
+## type: hiddenSymbol
 
 Скрытый символ:
 ```plain 
 !{html| type: hiddenSymbol}
 ```
-## br
+## type: br
 
 Переход на новую строку:
 ```plain 
 !{html| type: br}
 ```
-## space
+## type: space
 
 Пробел
 ```plain 

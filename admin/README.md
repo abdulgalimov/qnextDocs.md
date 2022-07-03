@@ -7,7 +7,7 @@
 | Главное меню ||
 | --- |---| 
 | [Настройки бота](/docs/admin/setting) | [Люди](/docs/admin/people)|
-| [ Контент](/docs/admin/content) | [Команды](/docs/admin/command)|
+| [Контент](/docs/admin/content) | [Команды](/docs/admin/command)|
 | [Расписание](/docs/admin/schedule) | [Чаты/Каналы](/docs/admin/chats-and-channels) |
 | [Формы](/docs/admin/forms) | [Меню](/docs/admin/menu)|
 | [Платежи](/docs/admin/pay) | [Рассылки](/docs/admin/newsletters) |
