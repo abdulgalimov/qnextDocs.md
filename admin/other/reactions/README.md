@@ -1,8 +1,10 @@
 # Реакции
 
  ## [Google](/docs/admin/google)
-
-[googleWrite](/docs/admin/google/googlewrite) - записать в гугл-таблицу
+ 
+| Реакция | Описание |
+| --- | --- |
+|[googleWrite](/docs/admin/google/googlewrite)|записать в гугл-таблицу|
  
  ## [Trello](/docs/admin/trello)
 
@@ -21,70 +23,60 @@
 [trelloUpdateCard](/docs/admin/trello/trelloupdatecard)
 
  ## [WEB](/docs/admin/web)
-
-[httpRequest](/docs/admin/web/httprequest) - Выполнить HTTP-запрос (get, post)
-
-[webhookResponse](/docs/admin/web/webhookresponse) - Ответ для webhook's
-
-[weblinkRedirect](/docs/admin/web/weblinkredirect) - перенаправление на другой адрес
-
-[WeblinkResponse](/docs/admin/web/weblinkresponse) - Ответ на web запрос
-
+ 
+| Реакция | Описание |
+| --- | --- |
+|[httpRequest](/docs/admin/web/httprequest)|Выполнить HTTP-запрос (get, post)|
+|[webhookResponse](/docs/admin/web/webhookresponse)|Ответ для webhook's|
+|[weblinkRedirect](/docs/admin/web/weblinkredirect)|перенаправление на другой адрес|
+|[WeblinkResponse](/docs/admin/web/weblinkresponse)|Ответ на web запрос|
  
  ## [Глобальные переменные](/docs/admin/globalvar)
  
-[globalVarDel](/docs/admin/globalvar/globalvardel) - Удалить глобальную переменную
-
-[globalVarSet](/docs/admin/globalvar/globalvarset) - Сохранить глобальную переменную
- 
-[loadGlobalVar](/docs/admin/globalvar/loadGlobalVar) - Загрузить глобальные переменные
- 
+| Реакция | Описание |
+| --- | --- |
+|[globalVarDel](/docs/admin/globalvar/globalvardel)|Удалить глобальную переменную|
+|[globalVarSet](/docs/admin/globalvar/globalvarset)|Сохранить глобальную переменную|
+|[loadGlobalVar](/docs/admin/globalvar/loadGlobalVar)|Загрузить глобальные переменные|
+  
  ## [Голосование](/docs/admin/vote)
  
-[loadVote](/docs/admin/vote/loadvote) - Загрузить голос в опросе
+| Реакция | Описание |
+| --- | --- |
+|[loadVote](/docs/admin/vote/loadvote)|Загрузить голос в опросе|
+|[loadVoteResults](/docs/admin/vote/loadvoteresults)|Загрузить результаты голосования|
+|[takePollUsers](/docs/admin/vote/takepollusers)|Загрузить проголосовавших в опросе|
+|[vote](/docs/admin/vote/vote)|голосование|
+|[voteAdd](/docs/admin/vote/voteadd)|Добавить голос|
+|[voteCancel](/docs/admin/vote/votecancel)|Отменить голос|
+|[voteSwitch](/docs/admin/switch/voteopen)|Открыть/закрыть голосование| 
+|[voteRevoke](/docs/admin/vote/voterevoke)|Очистить (сбросить) голосование|
  
-[loadVoteResults](/docs/admin/vote/loadvoteresults) - Загрузить результаты голосования
- 
-[takePollUsers](/docs/admin/vote/takepollusers) - Загрузить проголосовавших в опросе
- 
-[vote](/docs/admin/vote/vote) - голосование
- 
-[voteAdd](/docs/admin/vote/voteadd) - Добавить голос
- 
-[voteCancel](/docs/admin/vote/votecancel) - Отменить голос
- 
-[voteSwitch](/docs/admin/switch/voteopen) - Открыть/закрыть голосование
- 
-[voteRevoke](/docs/admin/vote/voterevoke) - Очистить (сбросить) голосование
- 
-
  ## [Динамические переменные](/docs/admin/dynvar)
  
-[DynamicVarDel](/docs/admin/dynvar/DynamicVarDel) - Удалить значение динамической переменной
-
-[loadDynamicVar](/docs/admin/dynvar/loadDynamicVar) - Прочитать динамическую переменную
-
-[DynamicVarSet](/docs/admin/dynvar/DynamicVarSet) - Записать динамическую переменную
-
-
+| Реакция | Описание |
+| --- | --- |
+|[DynamicVarDel](/docs/admin/dynvar/DynamicVarDel)|Удалить значение динамической переменной|
+|[loadDynamicVar](/docs/admin/dynvar/loadDynamicVar)|Прочитать динамическую переменную|
+|[DynamicVarSet](/docs/admin/dynvar/DynamicVarSet)|Записать динамическую переменную|
+ 
  ## [Контент](/docs/admin/content)
  
-[loadContent](/docs/admin/content/loadcontent) - Загрузить Контент
+| Реакция | Описание |
+| --- | --- |
+|[loadContent](/docs/admin/content/loadcontent)|Загрузить Контент|
+|[loadRandomContent](/docs/admin/content/loadrandomcontent)|Выбрать случайный контент|
+|[sendContent](/docs/admin/content/sendcontent)|Отправить Контент|
+|[refreshContent](/docs/admin/content/refreshcontent)|Обновить контент|
 
-[loadRandomContent](/docs/admin/content/loadrandomcontent) - Выбрать случайный контент
-
-[sendContent](/docs/admin/content/sendcontent) - Отправить Контент
-
-[refreshContent](/docs/admin/content/refreshcontent) - Обновить контент
- 
  ## [Локальные переменные](/docs/admin/localvar)
  
-[localVarAdd](/docs/admin/localvar/localvaradd) - Добавить значение в локальную переменную
-
-[localVarDel](/docs/admin/localvar/localvardel) - Удалить локальную переменную
- 
-[localVarSet](/docs/admin/localvar/localvarset) - Установить локальную переменную
- 
+| Реакция | Описание |
+| --- | --- |
+|[localVarAdd](/docs/admin/localvar/localvaradd)|Добавить значение в локальную переменную|
+|[localVarDel](/docs/admin/localvar/localvardel)|Удалить локальную переменную|
+|[localVarSet](/docs/admin/localvar/localvarset)|Установить локальную переменную| 
+  
  ## [Магазин](/docs/admin/stores)
 
 * _в процессе написания_

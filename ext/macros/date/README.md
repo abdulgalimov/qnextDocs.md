@@ -27,36 +27,36 @@
 ## when
 
 Парам `when` указывает какую дату отобразить: сейчас, завтра, определенная дата... В зависимости от значения when, макрос может принимать различные дополнительные параметры. Значения параметры when могут быть следующими:
-* [now](#when:-now)
-* [tomorrow](#when:-tomorrow)
-* [yesterday](#when:-yesterday) 
-* [nextWeekday](#when:-nextweekday)
-* [value](#when:-value)
-## when: now
+* [now](#now)
+* [tomorrow](#tomorrow)
+* [yesterday](#yesterday) 
+* [nextWeekday](#nextweekday)
+* [value](#value)
+## now
 
 Текущая дата, значение по умолчанию, можно не писать:
 ```plain 
 !{date| when: now;}
 ```
-## when: tomorrow
+## tomorrow
 
 Завтра от текущей даты в это же время, т.е. по сути `+24ч`:
 ```plain 
 !{date| when: tomorrow;}
 ```
-## when: yesterday
+## yesterday
 
 Вчера от текущей даты в это же время (`-24ч`):
 ```plain 
 !{date| when: yesterday;}
 ```
-## when: nextWeekday
+## nextWeekday
 
 Ближайший выходной:
 ```plain 
 !{date| when: nextWeekday;}
 ```
-## when: value
+## value
 
 Взятие даты из переменной триггера. Например такой макрос покажет дату когда юзер проголосовал:
 ```plain 
