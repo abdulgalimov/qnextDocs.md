@@ -1,3 +1,8 @@
+| --- | --- |
+|[googleWrite](/docs/admin/google/googlewrite)|записать в гугл-таблицу|
+| одна ячейка |
+| --- | --- |
+
 # Реакции
 
  ## [Google](/docs/admin/google)
@@ -108,18 +113,16 @@
 |[takeUsers](/docs/admin/users/takeusers)|взять пользователя(ей)|
 
  ## [Пригласительные ссылки](/docs/admin/invitelink)
+ 
+| Реакция | Описание |
+| --- | --- | 
+|[exportChatInviteLink](/docs/admin/invitelink/exportchatinvitelink)|создать основную пригласительную ссылку| 
+|[createChatInviteLink](/docs/admin/invitelink/createchatinvitelink)|создать дополнительную пригласительную ссылку|
+|* _запланировано_|_на стадии разработки_|
+|[editChatInviteLink](/docs/admin/invitelink/editchatinvitelink)|изменить пригласительную ссылку|
+|[revokeChatInviteLink](/docs/admin/invitelink/revokechatinvitelink)|обновить пригласительную ссылку|
+|[loadChatInviteLink](/docs/admin/invitelink/loadchatinvitelink)|получить пригласительную ссылку|
 
-[exportChatInviteLink](/docs/admin/invitelink/exportchatinvitelink) - создать основную пригласительную ссылку
-
-[createChatInviteLink](/docs/admin/invitelink/createchatinvitelink) - создать дополнительную пригласительную ссылку
-
-* _запланировано, на стадии разработки_
-
-[editChatInviteLink](/docs/admin/invitelink/editchatinvitelink) - изменить пригласительную ссылку
-
-[revokeChatInviteLink](/docs/admin/invitelink/revokechatinvitelink) - обновить пригласительную ссылку
-
-[loadChatInviteLink](/docs/admin/invitelink/loadchatinvitelink) - получить пригласительную ссылку
  
  
  ## [Профиль](/docs/admin/profile)
