@@ -76,49 +76,37 @@
 
 * _в процессе написания_
 
-[openStoreCarts](/docs/admin/stores/openstorecarts) - Показать Мою корзину в магазине
- 
-[openStoreCategory](/docs/admin/stores/openstorecategory) - Показать Категорию в магазине
- 
-[openStoreOrders](/docs/admin/stores/openstoreorders) - Показать Мои заказы в магазине
- 
-[openStoreProduct](/docs/admin/stores/openstoreproduct) - Показать Продукт в магазине
- 
-[orderCheckout](/docs/admin/stores/ordercheckout) - Начать оформление заказа в магазине
- 
-[sendStore](/docs/admin/stores/sendstore) - Отправить магазин
- 
-[sendStoreOrder](/docs/admin/stores/sendstoreorder) - Показать полученный заказ в магазине
- 
- 
+| Реакция | Описание |
+| --- | --- |
+|[openStoreCarts](/docs/admin/stores/openstorecarts)|Показать Мою корзину в магазине|
+|[openStoreCategory](/docs/admin/stores/openstorecategory)|Показать Категорию в магазине|
+|[openStoreOrders](/docs/admin/stores/openstoreorders)|Показать Мои заказы в магазине|
+|[openStoreProduct](/docs/admin/stores/openstoreproduct)|Показать Продукт в магазине|
+|[orderCheckout](/docs/admin/stores/ordercheckout)|Начать оформление заказа в магазине|
+|[sendStore](/docs/admin/stores/sendstore)|Отправить магазин|
+|[sendStoreOrder](/docs/admin/stores/sendstoreorder)|Показать полученный заказ в магазине|
+
  ## [Переключатели](/docs/admin/switch)
  
-[voteSwitch](/docs/admin/switch/voteopen) - Открыть/закрыть голосование
- 
-[profileSwitch](/docs/admin/switch/profileswitch) - Изменить статус профиля bool
- 
-[scheduleSwitch](/docs/admin/switch/scheduleswitch) - Изменить состояние расписания
- 
-[reactionOnSwitch](/docs/admin/switch/reactionswitch) - Изменить состояние реакции
- 
+| Реакция | Описание |
+| --- | --- | 
+|[voteSwitch](/docs/admin/switch/voteopen)|Открыть/закрыть голосование|
+|[profileSwitch](/docs/admin/switch/profileswitch)|Изменить статус профиля bool|
+|[scheduleSwitch](/docs/admin/switch/scheduleswitch)|Изменить состояние расписания|
+|[reactionOnSwitch](/docs/admin/switch/reactionswitch)|Изменить состояние реакции|
  
  ## [Пользователи](/docs/admin/users)
  
-[takeAdmins](/docs/admin/users/takeadmins) - Загрузить админов
+| Реакция | Описание |
+| --- | --- |  
+|[takeAdmins](/docs/admin/users/takeadmins)|Загрузить админов|
+|[takeMentions](/docs/admin/users/takementions)|Получить всех упомянутых в тексте людей и чаты|
+|[takeAuthorUser](/docs/admin/users/takeauthoruser)|Получить пользователя инициатора действия|
+|[takeButtonUsers](/docs/admin/users/takebuttonusers)|Загрузить проголосовавших за кнопку|
+|[takeRandomUser](/docs/admin/users/takerandomuser)|Загрузить случайного пользователя|
+|[takeReplyUser](/docs/admin/users/takereplyuser)|Загрузить пользователя, на чье сообщение ответили|
+|[takeUsers](/docs/admin/users/takeusers)|взять пользователя(ей)|
 
-[takeMentions](/docs/admin/users/takementions) - Получить всех упомянутых в тексте людей и чаты
-
-[takeAuthorUser](/docs/admin/users/takeauthoruser) - Получить пользователя инициатора действия
-
-[takeButtonUsers](/docs/admin/users/takebuttonusers) - Загрузить проголосовавших за кнопку
-
-[takeRandomUser](/docs/admin/users/takerandomuser) - Загрузить случайного пользователя
-
-[takeReplyUser](/docs/admin/users/takereplyuser) - Загрузить пользователя, которому ответили в...
-
-[takeUsers](/docs/admin/users/takeusers) - взять пользователя(ей)
- 
- 
  ## [Пригласительные ссылки](/docs/admin/invitelink)
 
 [exportChatInviteLink](/docs/admin/invitelink/exportchatinvitelink) - создать основную пригласительную ссылку
@@ -136,121 +124,85 @@
  
  ## [Профиль](/docs/admin/profile)
  
-[loadProfile](/docs/admin/profile/loadprofile) - Загрузить Профиль пользователя
-
-[profileAdd](/docs/admin/profile/profileadd) - Добавить Профиль пользователя
-
-[profileDel](/docs/admin/profile/profiledel) - Удалить Профиль пользователя
-
-[profileSet](/docs/admin/profile/profileset) - Установить Профиль пользователя
-
-[profileDelAll](/docs/admin/profile/profiledelall) - Удалить все Профили пользователя
-
-[profileSwitch](/docs/admin/switch/profileswitch) - Изменить статус профиля bool
-
-[findProfileValue](/docs/admin/profile/findprofilevalue) - Найти значение профиля
-
-[profilesCount](/docs/admin/profile/profilescount) - посчитать количество профилей
- 
- 
+| Реакция | Описание |
+| --- | --- | 
+|[loadProfile](/docs/admin/profile/loadprofile)|Загрузить Профиль пользователя|
+|[profileAdd](/docs/admin/profile/profileadd)|Добавить Профиль пользователя|
+|[profileDel](/docs/admin/profile/profiledel)|Удалить Профиль пользователя|
+|[profileSet](/docs/admin/profile/profileset)|Установить Профиль пользователя|
+|[profileDelAll](/docs/admin/profile/profiledelall)|Удалить все Профили пользователя|
+|[profileSwitch](/docs/admin/switch/profileswitch)|Изменить статус профиля bool|
+|[findProfileValue](/docs/admin/profile/findprofilevalue)|Найти значение профиля|
+|[profilesCount](/docs/admin/profile/profilescount)|посчитать количество профилей|
+  
  ## [Рассылка](/docs/admin/newsletters)
  
-[newsletterCancel](/docs/admin/newsletters/newslettercancel) - Отменить рассылку
-
-[newsletterRevoke](/docs/admin/newsletters/newsletterrevoke) - Аннулировать рассылку
-
-[newsletterStart](/docs/admin/newsletters/newsletterstart) - Начать рассылку
+| Реакция | Описание |
+| --- | --- | 
+|[newsletterCancel](/docs/admin/newsletters/newslettercancel)|Отменить рассылку| 
+|[newsletterRevoke](/docs/admin/newsletters/newsletterrevoke)|Аннулировать рассылку|
+|[newsletterStart](/docs/admin/newsletters/newsletterstart)|Начать рассылку|
  
  ## [Список пользователей](/docs/admin/userlist)
  
-[addToUserList](/docs/admin/userlist/addtouserlist) - Добавить в список пользователей
-
-[delFromUserList](/docs/admin/userlist/delfromuserlist) - Удалить из списка пользователей
-
-[takeUserList](/docs/admin/userlist/takeuserlist) - взять список пользователей
-
+| Реакция | Описание |
+| --- | --- | 
+|[addToUserList](/docs/admin/userlist/addtouserlist)|Добавить в список пользователей| 
+|[delFromUserList](/docs/admin/userlist/delfromuserlist)|Удалить из списка пользователей|
+|[takeUserList](/docs/admin/userlist/takeuserlist)|взять список пользователей| 
 
  ## [Клавиатура](/docs/admin/keyboard)
  
-[keyboardAction](/docs/admin/keyboard/keyboardaction) - выполнить действие при нажатии на кнопку
- 
-[keyboardHide](/docs/admin/keyboard/keyboardhide) - Скрыть клавиатуру
- 
-[keyboardRefresh](/docs/admin/keyboard/keyboardrefresh) - Обновить текущую клавиатуру
- 
-[keyboardShow](/docs/admin/keyboard/keyboardshow) - Показать клавиатуру
-
+| Реакция | Описание |
+| --- | --- |
+|[keyboardAction](/docs/admin/keyboard/keyboardaction)|выполнить действие при нажатии на кнопку|
+|[keyboardHide](/docs/admin/keyboard/keyboardhide)|Скрыть клавиатуру|
+|[keyboardRefresh](/docs/admin/keyboard/keyboardrefresh)|Обновить текущую клавиатуру|
+|[keyboardShow](/docs/admin/keyboard/keyboardshow)|Показать клавиатуру| 
 
  ## [Форма](/docs/admin/forms)
- 
-[formStart](/docs/admin/forms/formstart) - Запустить форму
 
-[formCancel](/docs/admin/forms/formcancel) - Остановить (прервать) форму
-
-[formResult](/docs/admin/forms/formresult) - Показать результат формы
-
-[loadFormResult](/docs/admin/forms/loadformresult) - Загрузить результаты формы
-
-[openFormResult](/docs/admin/forms/openformresult) - Открыть результаты формы
-
-[takeFormResults](/docs/admin/forms/takeformresults) - Получить последние несколько результатов формы
-
-[saveFormVariables](/docs/admin/forms/saveformvariables) - сохранить локальную переменную в форме
-
-[writeFormCustom](/docs/admin/forms/writeformcustom) - загрузить произвольный параметр формы
- 
+| Реакция | Описание |
+| --- | --- |
+|[formStart](/docs/admin/forms/formstart)|Запустить форму|
+|[formCancel](/docs/admin/forms/formcancel)|Остановить (прервать) форму|
+|[formResult](/docs/admin/forms/formresult)|Показать результат формы|
+|[loadFormResult](/docs/admin/forms/loadformresult)|Загрузить результаты формы|
+|[openFormResult](/docs/admin/forms/openformresult)|Открыть результаты формы|
+|[takeFormResults](/docs/admin/forms/takeformresults)|Получить последние несколько результатов формы|
+|[saveFormVariables](/docs/admin/forms/saveformvariables)|Сохранить локальную переменную в форме|
+|[writeFormCustom](/docs/admin/forms/writeformcustom)|Загрузить произвольный параметр формы| 
  
  ## [Чат](/docs/admin/chat)
 
 _Все реакции работают как в чате так и в канале_
 
-[approveChatJoinRequest](/docs/admin/chat/approvechatjoinrequest) - Одобрить запрос в чат
-
-[banChatMember](/docs/admin/chat/banchatmember) - Заблокировать и удалить участника из чата
-
-[banChatSenderChat](/docs/admin/chat/banchatsenderchat) - Заблокировать канал в чате
-
-[chatPermissions](/docs/admin/chat/chatpermissions) - Доступы в чат
-
-[declineChatJoinRequest](/docs/admin/chat/declinechatjoinrequest) - отклонить запрос на вступление в чат
-
-[deleteChatStickerSet](/docs/admin/chat/deletechatstickerset) - Удалить из чата стикер-сет
-
-[exportChatInviteLink](/docs/admin/invitelink/exportchatinvitelink) - Создать новую ссылку для приглашения
-
-[getChat](/docs/admin/chat/getchat) - Получить информацию о чате
-
-[getChatMember](/docs/admin/chat/getchatmember) - Получить информацию об участнике чата
-
-[getChatMemberCount](/docs/admin/chat/getchatmembercount) - Получить количество пользователей в чате
-
-[getUserProfilePhotos](/docs/admin/chat/getuserprofilephotos) - Получить фотографии из профиля пользователя
-
-[leaveChat](/docs/admin/chat/leavechat) - Покинуть чат
-
-[promoteChatMembe](/docs/admin/chat/promotechatmember) - Административные права в чате
-
-[restrictChatMembe](/docs/admin/chat/restrictchatmember) - Ограничить участника чата
-
-[setChatAdminTitle](/docs/admin/chat/setchatadmintitle) - Подпись администратора
-
-[setChatDescription](/docs/admin/chat/setchatdescription) - Установить описание чата 
-
-[setChatStickerSet](/docs/admin/chat/setchatstickerset) - Установить в чате стикер-сет
-
-[setChatTitle](/docs/admin/chat/setchattitle) - Установить название чата
-
-[takeChat](/docs/admin/chat/takechat) - Загрузить чат для отправки сообщения
-
-[takeChatAdmins](/docs/admin/chat/takechatadmins) - Загрузить всех администраторов чата
-
-[takeChatDir](/docs/admin/chat/takechatdir) - Загрузить каталог с чатами  для отправки сообщения
-
-[takeChatMembers](/docs/admin/chat/takechatmembers) - Загрузить участников чата
-
-[takeTechChat](/docs/admin/chat/taketechchat) - Загрузить технический чат
-
-[unbanChatSenderCha](/docs/admin/chat/unbanchatsenderchat) - Разблокировать канал в чате
+| Реакция | Описание |
+| --- | --- |
+|[approveChatJoinRequest](/docs/admin/chat/approvechatjoinrequest) | Одобрить запрос в чат|
+|[banChatMember](/docs/admin/chat/banchatmember) | Заблокировать и удалить участника из чата|
+|[banChatSenderChat](/docs/admin/chat/banchatsenderchat) | Заблокировать канал в чате|
+|[chatPermissions](/docs/admin/chat/chatpermissions) | Доступы в чат|
+|[declineChatJoinRequest](/docs/admin/chat/declinechatjoinrequest) | отклонить запрос на вступление в чат|
+|[deleteChatStickerSet](/docs/admin/chat/deletechatstickerset) | Удалить из чата стикер-сет|
+|[exportChatInviteLink](/docs/admin/invitelink/exportchatinvitelink) | Создать новую ссылку для приглашения|
+|[getChat](/docs/admin/chat/getchat) | Получить информацию о чате|
+|[getChatMember](/docs/admin/chat/getchatmember) | Получить информацию об участнике чата|
+|[getChatMemberCount](/docs/admin/chat/getchatmembercount) | Получить количество пользователей в чате|
+|[getUserProfilePhotos](/docs/admin/chat/getuserprofilephotos) | Получить фотографии из профиля пользователя|
+|[leaveChat](/docs/admin/chat/leavechat) | Покинуть чат|
+|[promoteChatMembe](/docs/admin/chat/promotechatmember) | Административные права в чате|
+|[restrictChatMembe](/docs/admin/chat/restrictchatmember) | Ограничить участника чата|
+|[setChatAdminTitle](/docs/admin/chat/setchatadmintitle) | Подпись администратора|
+|[setChatDescription](/docs/admin/chat/setchatdescription) | Установить описание чата|
+|[setChatStickerSet](/docs/admin/chat/setchatstickerset) | Установить в чате стикер-сет|
+|[setChatTitle](/docs/admin/chat/setchattitle) | Установить название чата|
+|[takeChat](/docs/admin/chat/takechat) | Загрузить чат для отправки сообщения|
+|[takeChatAdmins](/docs/admin/chat/takechatadmins) | Загрузить всех администраторов чата|
+|[takeChatDir](/docs/admin/chat/takechatdir) | Загрузить каталог с чатами  для отправки сообщения|
+|[takeChatMembers](/docs/admin/chat/takechatmembers) | Загрузить участников чата|
+|[takeTechChat](/docs/admin/chat/taketechchat) | Загрузить технический чат|
+|[unbanChatSenderCha](/docs/admin/chat/unbanchatsenderchat) | Разблокировать канал в чате|
 
 
 ## Прочее
