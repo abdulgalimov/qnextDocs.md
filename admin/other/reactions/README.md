@@ -207,100 +207,54 @@ _Все реакции работают как в чате так и в кана
 
 ## Прочее
 
-[adminMenu](/docs/admin/other/reactions/adminmenu) - Меню админа
-
-[alert](/docs/admin/other/reactions/alert) - Сообщение в окне
-
-[amocrmApi](/docs/admin/other/reactions/amocrmapi) - 
-
-[banBotUser](/docs/admin/other/reactions/banbotuser) - Забанить/Разбанить юзера в боте
-
-[break](/docs/admin/other/reactions/break) - Отменить последующие реакции
-
-[breakGroup](/docs/admin/other/reactions/breakgroup) - Отменить последующие реакции в группе
-
-[buttonVisible](/docs/admin/other/reactions/buttonvisible) - Показать/скрыть кнопку
-
-[bindTrigger](/docs/admin/other/reactions/bindtrigger) - Привязать триггерre
-
-[chartAnnotations](/docs/admin/other/reactions/chartannotations) - Аннотации графика (в процессе разработки)
-
-[chartFill](/docs/admin/other/reactions/chartfill) - Заполнить график (в процессе разработки)
-
-[deleteMessage](/docs/admin/other/reactions/deletemessage) - Удалить сообщение
-
-[exportToExcel](/docs/admin/other/reactions/exporttoexcel) - Экспортировать в excel
-
-[feedback](/docs/admin/other/reactions/feedback) - Обратная связь
-
-[fix](/docs/admin/other/reactions/fix) - Следующие реакции не будут изменять этот пост
-
-[for](/docs/admin/other/reactions/for) - Цикл
-
-[forwardMessage](/docs/admin/other/reactions/forwardmessage) - Переслать исходное сообщение
-
-[getFileBase64](/docs/admin/other/reactions/getfilebase64) - Получить base64 файла
-
-[groupReactions](/docs/admin/other/reactions/groupreaction) - Группировать реакции
-
-[hide](/docs/admin/other/reactions/hide) - Скрыть пост
-
-[inlineAnswer](/docs/admin/other/reactions/inlineanswer) - ответит на inline запрос
-
-[inlineBrowse](/docs/admin/other/reactions/inlinebrowse) - Просмотрщик inline-запросов
-
-[loadButton](/docs/admin/other/reactions/loadbutton) - Загрузить кнопку
-
-[log](/docs/admin/other/reactions/log) - Записать в лог текущее состояние
-
-[notification](/docs/admin/other/reactions/notification) - Всплывающее сообщение
-
-[parseDate](/docs/admin/other/reactions/parsedate) - Парсинг даты
-
-[pin](/docs/admin/other/reactions/pin) - Закрепить сообщение
-
-[redirectToBot](/docs/admin/other/reactions/redirecttobot) - Перенаправить пользователя в приват с ботом
-
-readStats - Загрузить статистику
-
-saveStats - Сохранить статистику
-
-[return](/docs/admin/other/reactions/return) - Отменить все последующие триггеры и реакции
-
-[runRegexp](/docs/admin/other/reactions/runregexp) - Выполнить регулярное выражение
-
-[runScript](/docs/admin/other/reactions/runscript) - Выполнить скрипт
-
-[runTrigger](/docs/admin/other/reactions/runtrigger) - Выполнить Общий триггер
-
-[sendChatAction](/docs/admin/other/reactions/sendchataction) - Показать действие бота
-
-[sendDice](/docs/admin/other/reactions/senddice) - Отправить кости
-
-[sendLocation](/docs/admin/other/reactions/sendlocation) - Отправить гео-позицию
-
-[sendMenu](/docs/admin/other/reactions/sendmenu) - Отправить меню
-
-[sendMessage](/docs/admin/other/reactions/message) - Отправить сообщение от бота
-
-[sendPayment](/docs/admin/other/reactions/sendpayment) - Отправить платежку
-
-[sendYandexWallet](/docs/admin/other/reactions/sendyandexwallet) - Отправить ссылку на оплату yandex кошельком
-
-[setUserLanguage](/docs/admin/other/reactions/setuserlanguage) - Установить язык пользователя
-
-[takeVariable](/docs/admin/other/reactions/takevariable) - Устарело, используйте реакцию [**For**](/docs/admin/other/reactions/for)
-
-[timeout](/docs/admin/other/reactions/timeout) - запустить действие с задержкой
-
-[uploadToTelegraph](/docs/admin/other/reactions/uploadtotelegraph) - загрузить файл в Телеграф
-
-[uploadFile](/docs/admin/other/reactions/uploadfile) - загрузить файл в Телеграм
-
-[userActionStart](/docs/admin/other/reactions/useractionstart) - запускает отложенное действие
-
-[userActionStop](/docs/admin/other/reactions/useractionstop) - останавливает отложенное действие
-
-[unpin](/docs/admin/other/reactions/unpin) - Открепить пост в чате/канале
-
-[unpinAll](/docs/admin/other/reactions/unpinall) - Открепить все посты в чате/канале
+| Реакция | Описание |
+| --- | --- |
+|[adminMenu](/docs/admin/other/reactions/adminmenu) | Меню админа|
+|[alert](/docs/admin/other/reactions/alert) | Сообщение в окне|
+|[amocrmApi](/docs/admin/other/reactions/amocrmapi) |  |
+|[banBotUser](/docs/admin/other/reactions/banbotuser) | Забанить/Разбанить юзера в боте|
+|[break](/docs/admin/other/reactions/break) | Отменить последующие реакции|
+|[breakGroup](/docs/admin/other/reactions/breakgroup) | Отменить последующие реакции в группе|
+|[buttonVisible](/docs/admin/other/reactions/buttonvisible) | Показать/скрыть кнопку|
+|[bindTrigger](/docs/admin/other/reactions/bindtrigger) | Привязать триггере |
+|[chartAnnotations](/docs/admin/other/reactions/chartannotations) | Аннотации графика (в процессе разработки)|
+|[chartFill](/docs/admin/other/reactions/chartfill) | Заполнить график (в процессе разработки)|
+|[deleteMessage](/docs/admin/other/reactions/deletemessage) | Удалить сообщение|
+|[exportToExcel](/docs/admin/other/reactions/exporttoexcel) | Экспортировать в excel|
+|[feedback](/docs/admin/other/reactions/feedback) | Обратная связь|
+|[fix](/docs/admin/other/reactions/fix) | Следующие реакции не будут изменять этот пост|
+|[for](/docs/admin/other/reactions/for) | Цикл|
+|[forwardMessage](/docs/admin/other/reactions/forwardmessage) | Переслать исходное сообщение|
+|[getFileBase64](/docs/admin/other/reactions/getfilebase64) | Получить base64 файла|
+|[groupReactions](/docs/admin/other/reactions/groupreaction) | Группировать реакции|
+|[hide](/docs/admin/other/reactions/hide) | Скрыть пост|
+|[inlineAnswer](/docs/admin/other/reactions/inlineanswer) | ответит на inline запрос|
+|[inlineBrowse](/docs/admin/other/reactions/inlinebrowse) | Просмотрщик inline-запросов|
+|[loadButton](/docs/admin/other/reactions/loadbutton) | Загрузить кнопку|
+|[log](/docs/admin/other/reactions/log) | Записать в лог текущее состояние|
+|[notification](/docs/admin/other/reactions/notification) | Всплывающее сообщение|
+|[parseDate](/docs/admin/other/reactions/parsedate) | Парсинг даты|
+|[pin](/docs/admin/other/reactions/pin) | Закрепить сообщение|
+|[redirectToBot](/docs/admin/other/reactions/redirecttobot) | Перенаправить пользователя в приват с ботом|
+|readStats | Загрузить статистику|
+|saveStats | Сохранить статистику|
+|[return](/docs/admin/other/reactions/return) | Отменить все последующие триггеры и реакции|
+|[runRegexp](/docs/admin/other/reactions/runregexp) | Выполнить регулярное выражение|
+|[runScript](/docs/admin/other/reactions/runscript) | Выполнить скрипт|
+|[runTrigger](/docs/admin/other/reactions/runtrigger) | Выполнить Общий триггер|
+|[sendChatAction](/docs/admin/other/reactions/sendchataction) | Показать действие бота|
+|[sendDice](/docs/admin/other/reactions/senddice) | Отправить кости|
+|[sendLocation](/docs/admin/other/reactions/sendlocation) | Отправить гео-позицию|
+|[sendMenu](/docs/admin/other/reactions/sendmenu) | Отправить меню|
+|[sendMessage](/docs/admin/other/reactions/message) | Отправить сообщение от бота|
+|[sendPayment](/docs/admin/other/reactions/sendpayment) | Отправить платежку|
+|[sendYandexWallet](/docs/admin/other/reactions/sendyandexwallet) | Отправить ссылку на оплату yandex кошельком|
+|[setUserLanguage](/docs/admin/other/reactions/setuserlanguage) | Установить язык пользователя|
+|[takeVariable](/docs/admin/other/reactions/takevariable) | Устарело, используйте реакцию [**For**](/docs/admin/other/reactions/for)|
+|[timeout](/docs/admin/other/reactions/timeout) | запустить действие с задержкой|
+|[uploadToTelegraph](/docs/admin/other/reactions/uploadtotelegraph) | загрузить файл в Телеграф|
+|[uploadFile](/docs/admin/other/reactions/uploadfile) | загрузить файл в Телеграм|
+|[userActionStart](/docs/admin/other/reactions/useractionstart) | запускает отложенное действие|
+|[userActionStop](/docs/admin/other/reactions/useractionstop) | останавливает отложенное действие|
+|[unpin](/docs/admin/other/reactions/unpin) | Открепить пост в чате/канале|
+|[unpinAll](/docs/admin/other/reactions/unpinall) | Открепить все посты в чате/канале|
