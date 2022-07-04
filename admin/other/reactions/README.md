@@ -1,8 +1,3 @@
-| --- | --- |
-|[googleWrite](/docs/admin/google/googlewrite)|записать в гугл-таблицу|
-| одна ячейка |
-| --- | --- |
-
 # Реакции
 
  ## [Google](/docs/admin/google)
