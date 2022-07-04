@@ -25,11 +25,11 @@
 
 **Реакции**
 
-[DynamicVarDel](/docs/admin/dynvar/DynamicVarDel) - Удалить значение динамической переменной
-
-[loadDynamicVar](/docs/admin/dynvar/loadDynamicVar) - Прочитать динамическую переменную
-
-[DynamicVarSet](/docs/admin/dynvar/DynamicVarSet) - Записать динамическую переменную
-
+| Реакция | Описание |
+| --- | --- |
+|[DynamicVarDel](/docs/admin/dynvar/DynamicVarDel)|Удалить значение динамической переменной|
+|[loadDynamicVar](/docs/admin/dynvar/loadDynamicVar)|Прочитать динамическую переменную|
+|[DynamicVarSet](/docs/admin/dynvar/DynamicVarSet)|Записать динамическую переменную|
+ 
 
 

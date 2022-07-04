@@ -100,10 +100,10 @@ _${stats.complete}_ - Количество людей получивших ра�
 
 **Реакции**
 
-[newsletterCancel](/docs/admin/newsletters/newslettercancel) - Отменить рассылку
-
-[newsletterRevoke](/docs/admin/newsletters/newsletterrevoke) - Аннулировать рассылку
-
-[newsletterStart](/docs/admin/newsletters/newsletterstart) - Начать рассылку
+| Реакция | Описание |
+| --- | --- | 
+|[newsletterCancel](/docs/admin/newsletters/newslettercancel)|Отменить рассылку| 
+|[newsletterRevoke](/docs/admin/newsletters/newsletterrevoke)|Аннулировать рассылку|
+|[newsletterStart](/docs/admin/newsletters/newsletterstart)|Начать рассылку|
 
 

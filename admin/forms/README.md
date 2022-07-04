@@ -389,22 +389,17 @@ update.message.audio: mp3, wav, flac и т.д.
 
 **Реакции**
 
-[formStart](/docs/admin/forms/formstart) - Запустить форму
-
-[formCancel](/docs/admin/forms/formcancel) - Остановить (прервать) форму
-
-[formResult](/docs/admin/forms/formresult) - Показать результат формы
-
-[loadFormResult](/docs/admin/forms/loadformresult) - Загрузить результаты формы
-
-[openFormResult](/docs/admin/forms/openformresult) - Открыть результаты формы
-
-[takeFormResults](/docs/admin/forms/takeformresults) - Получить последние несколько результатов формы
-
-[saveFormVariables](/docs/admin/forms/saveformvariables) - сохранить локальную переменную в форме
-
-[writeFormCustom](/docs/admin/forms/writeformcustom) - загрузить произвольный параметр формы
-
+| Реакция | Описание |
+| --- | --- |
+|[formStart](/docs/admin/forms/formstart)|Запустить форму|
+|[formCancel](/docs/admin/forms/formcancel)|Остановить (прервать) форму|
+|[formResult](/docs/admin/forms/formresult)|Показать результат формы|
+|[loadFormResult](/docs/admin/forms/loadformresult)|Загрузить результаты формы|
+|[openFormResult](/docs/admin/forms/openformresult)|Открыть результаты формы|
+|[takeFormResults](/docs/admin/forms/takeformresults)|Получить последние несколько результатов формы|
+|[saveFormVariables](/docs/admin/forms/saveformvariables)|Сохранить локальную переменную в форме|
+|[writeFormCustom](/docs/admin/forms/writeformcustom)|Загрузить произвольный параметр формы| 
+ 
 
 
 

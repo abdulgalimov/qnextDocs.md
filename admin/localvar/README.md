@@ -50,11 +50,11 @@ _[апельсин, яблоко, груша]_
 
 **Реакции**
 
-[localVarAdd](/docs/admin/localvar/localvaradd) - Добавить значение в локальную переменную
-
-[localVarDel](/docs/admin/localvar/localvardel) - Удалить локальную переменную
-
-[localVarSet](/docs/admin/localvar/localvarset) - Установить локальную переменную
-
+| Реакция | Описание |
+| --- | --- |
+|[localVarAdd](/docs/admin/localvar/localvaradd)|Добавить значение в локальную переменную|
+|[localVarDel](/docs/admin/localvar/localvardel)|Удалить локальную переменную|
+|[localVarSet](/docs/admin/localvar/localvarset)|Установить локальную переменную| 
+ 
 
 

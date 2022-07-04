@@ -8,21 +8,6 @@
 
 [QNext. HTTP-запросы](/docs/admin/http-requests)
 
-
-
-
-**Реакции**
-
-[httpRequest](/docs/admin/web/httprequest) — Выполнить HTTP-запрос (get, post)
-
-[webhookResponse](/docs/admin/web/webhookresponse) - Ответ для webhook's
-
-[weblinkRedirect](/docs/admin/web/weblinkredirect) - перенаправление на другой адрес
-
-[WeblinkResponse](/docs/admin/web/weblinkresponse) - Ответ на web запрос
-
-
-
 **Примеры кейсов**
 
 [Запрос API курсов валют](https://t.me/QNextCases/119)
@@ -30,4 +15,15 @@
 [Развлекательный бот да/нет](https://t.me/QNextCases/189)
 
 [Сокращение ссылок](https://t.me/QNextCases/190)
+
+**Реакции**
+
+| Реакция | Описание |
+| --- | --- |
+|[httpRequest](/docs/admin/web/httprequest)|Выполнить HTTP-запрос (get, post)|
+|[webhookResponse](/docs/admin/web/webhookresponse)|Ответ для webhook's|
+|[weblinkRedirect](/docs/admin/web/weblinkredirect)|перенаправление на другой адрес|
+|[WeblinkResponse](/docs/admin/web/weblinkresponse)|Ответ на web запрос|
+ 
+
 

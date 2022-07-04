@@ -56,21 +56,16 @@
 
 **Реакции**
 
-[findProfileValue](/docs/admin/profile/findprofilevalue) - Найти значение профиля
-
-[loadProfile](/docs/admin/profile/loadprofile) - Загрузить Профиль пользователя
-
-[profileAdd](/docs/admin/profile/profileadd) - Добавить Профиль пользователя
-
-[profileDel](/docs/admin/profile/profiledel) - Удалить Профиль пользователя
-
-[profileDelAll](/docs/admin/profile/profiledelall) - Удалить все Профили пользователя
-
-[profileSwitch](/docs/admin/switch/profileswitch) - Изменить статус профиля bool
-
-[profilesCount](/docs/admin/profile/profilescount) - посчитать количество профилей
-
-[profileSet](/docs/admin/profile/profileset) - Установить Профиль пользователя
+| Реакция | Описание |
+| --- | --- | 
+|[loadProfile](/docs/admin/profile/loadprofile)|Загрузить Профиль пользователя|
+|[profileAdd](/docs/admin/profile/profileadd)|Добавить Профиль пользователя|
+|[profileDel](/docs/admin/profile/profiledel)|Удалить Профиль пользователя|
+|[profileSet](/docs/admin/profile/profileset)|Установить Профиль пользователя|
+|[profileDelAll](/docs/admin/profile/profiledelall)|Удалить все Профили пользователя|
+|[profileSwitch](/docs/admin/switch/profileswitch)|Изменить статус профиля bool|
+|[findProfileValue](/docs/admin/profile/findprofilevalue)|Найти значение профиля|
+|[profilesCount](/docs/admin/profile/profilescount)|посчитать количество профилей|
  
 **Ограничения работающие с профилями**
 

@@ -57,9 +57,12 @@ Trello — 🧰Аккаунты — ➕ Добавить — Укажите ср
 **Что такое логи ?** [Ответ](/docs/admin/other/reactions/log) 
 
 ![](./13.png)
-* [trelloApiRequest](/docs/admin/trello/trelloapirequest)
-* [trelloAddComment](/docs/admin/trello/trelloaddcomment)
-* [trelloCreateCard](/docs/admin/trello/trellocreatecard)
-* [trelloGetCard](/docs/admin/trello/trellogetcard)
-* [trelloCreateCardAttachment](/docs/admin/trello/trellocreatecardattachment)
-* [trelloUpdateCard](/docs/admin/trello/trelloupdatecard)
+
+| Реакция | Описание |
+| --- | --- |
+|[trelloApiRequest](/docs/admin/trello/trelloapirequest)|_в процессе написания_|
+|[trelloAddComment](/docs/admin/trello/trelloaddcomment)|_в процессе написания_|
+|[trelloCreateCard](/docs/admin/trello/trellocreatecard)|_в процессе написания_|
+|[trelloGetCard](/docs/admin/trello/trellogetcard)|_в процессе написания_|
+|[trelloCreateCardAttachment](/docs/admin/trello/trellocreatecardattachment)|_в процессе написания_|
+|[trelloUpdateCard](/docs/admin/trello/trelloupdatecard)|_в процессе написания_|

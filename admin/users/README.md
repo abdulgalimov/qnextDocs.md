@@ -5,19 +5,15 @@
 
 **Реакции**
 
-[takeAdmins](/docs/admin/users/takeadmins) - Загрузить админов
-
-[takeAuthorUser](/docs/admin/users/takeauthoruser) - Получить пользователя инициатора действия
-
-[takeButtonUsers](/docs/admin/users/takebuttonusers) - Загрузить проголосовавших за кнопку
-
-[takeMentions](/docs/admin/users/takementions) - Получить всех упомянутых в тексте людей и чаты
-
-[takeRandomUser](/docs/admin/users/takerandomuser) - Загрузить случайного пользователя
-
-[takeReplyUser](/docs/admin/users/takereplyuser) - Загрузить пользователя, которому ответили в...
-
-[takeUsers](/docs/admin/users/takeusers) - взять пользователя(ей)
+| Реакция | Описание |
+| --- | --- |  
+|[takeAdmins](/docs/admin/users/takeadmins)|Загрузить админов|
+|[takeMentions](/docs/admin/users/takementions)|Получить всех упомянутых в тексте людей и чаты|
+|[takeAuthorUser](/docs/admin/users/takeauthoruser)|Получить пользователя инициатора действия|
+|[takeButtonUsers](/docs/admin/users/takebuttonusers)|Загрузить проголосовавших за кнопку|
+|[takeRandomUser](/docs/admin/users/takerandomuser)|Загрузить случайного пользователя|
+|[takeReplyUser](/docs/admin/users/takereplyuser)|Загрузить пользователя, на чье сообщение ответили|
+|[takeUsers](/docs/admin/users/takeusers)|взять пользователя(ей)|
 
 ---
 
