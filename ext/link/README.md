@@ -2,7 +2,7 @@
 
 | Ссылки | Описание |
 | --- | --- |
-|[QNext Сайт](www.qnext.app)|Официальный сайт|
+|[QNext Сайт](https://qnext.app/)|Официальный сайт|
 |[@QNextBot](https://t.me/QNextBot)|Платформа управления ботами|
 |[@QNext](http://t.me/QNext)|Новости проекта|
 |[@QNextSupport](http://t.me/Qnextsupport)|Чат поддержки|
