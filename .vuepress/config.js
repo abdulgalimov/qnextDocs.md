@@ -235,6 +235,7 @@ module.exports = {
       }]
       }, {
       title: 'Соглашения',
+      path: '/ext/agreements/',
       collapsable: false,
       children: [{
         title: 'Политика конфиденциальности',
