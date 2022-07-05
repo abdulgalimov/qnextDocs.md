@@ -89,6 +89,12 @@ module.exports = {
       path: '/ext/',
       collapsable: true,
       children: [{
+        title: 'Ограничения',
+        path: '/ext/restrictions/'
+      }, {
+        title: 'Скрипты',
+        path: '/ext/script/'
+      }, {
         title: 'Реакции',
         path: '/admin/other/reactions/',
         collapsable: true,
@@ -141,12 +147,6 @@ module.exports = {
           title: 'Чаты/Каналы',
           path: '/admin/chat/'
         },]
-      }, {
-        title: 'Ограничения',
-        path: '/ext/restrictions/'
-      }, {
-        title: 'Скрипты',
-        path: '/ext/script/'
       }, {
         title: 'Макросы',
         path: '/ext/macros/',
