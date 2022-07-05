@@ -189,6 +189,7 @@ module.exports = {
       },]
       }, {
       title: 'Настройки в QNextBot',
+      path: '/ext/setting/',
       collapsable: false,
       children: [{
         title: 'Уведомления',
@@ -213,6 +214,7 @@ module.exports = {
       }]
       }, {
       title: 'Разное',
+      path: '/ext/otheruserul/',
       collapsable: false,
       children: [{
         title: 'Логи',
