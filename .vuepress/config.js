@@ -213,7 +213,7 @@ module.exports = {
           path: '/ext/macros/string/'
         }, {
           title: '!{switch}',
-          path: '/admin/regexp/'
+          path: '/ext/macros/switch/'
         }, {
           title: '!{template}',
           path: '/ext/macros/template/'
