@@ -21,13 +21,13 @@ module.exports = {
   ],
   patterns: ['**/*.md', '!.vuepress', '!node_modules', '!_export'],
   themeConfig: {
-    lastUpdated: true, // string | boolean
+    lastUpdated: false, // string | boolean
     sidebarDepth: 2,
 
     sidebar: [{
       title: 'Документация',
       path: '/',
-      collapsable: true,
+      collapsable: false,
       children: [{
         title: 'Оплата',
         path: '/root/price/'
@@ -35,7 +35,7 @@ module.exports = {
       },{
       title: 'Меню администратора',
       path: '/admin/',
-      collapsable: true,
+      collapsable: false,
       children: [{
         title: '⚙Настройки бота',
         path: '/admin/setting/'
@@ -91,7 +91,7 @@ module.exports = {
       }, {
       title: 'Исполняемые модули',
       path: '/ext/',
-      collapsable: true,
+      collapsable: false,
       children: [{
         title: 'Реакции',
         path: '/admin/other/reactions/'
@@ -193,7 +193,7 @@ module.exports = {
       },]
       }, {
       title: 'Настройки в QNextBot',
-      collapsable: true,
+      collapsable: false,
       children: [{
         title: 'Уведомления',
         path: '/article/notifications/'
@@ -209,14 +209,14 @@ module.exports = {
       }]
       }, {
       title: 'Ресурсы проекта',
-      collapsable: true,
+      collapsable: false,
       children: [{
         title: 'Ссылки',
         path: '/ext/link/'
       }]
       }, {
       title: 'Разное',
-      collapsable: true,
+      collapsable: false,
       children: [{
         title: 'Логи',
         path: '/admin/other/reactions/log/'
@@ -235,7 +235,7 @@ module.exports = {
       }]
       }, {
       title: 'Соглашения',
-      collapsable: true,
+      collapsable: false,
       children: [{
         title: 'Политика конфиденциальности',
         path: '/agreements/privacy/'
