@@ -17,7 +17,8 @@
 * base64decode
 * uuid
 * hmac
-* [randomText](#randomtext)
+
+[[toc]]
 
 В параметре `text` вы можете указать переменную в формате `${...}`, например id юзера:
 ```plain 
@@ -43,9 +44,10 @@ exports.valueForMd5 = userId+"_"+botId;
 ```
 
 Подробнее про скрипты читайте в [документации](/docs/ext/script).
+
 ## hmac
 
-Для макроса hmac требуется дополнительный параметр `key`:
+Для параметра hmac требуется дополнительный параметр `key`:
 ```plain 
 !{crypto|
   type: hmac;
