@@ -237,7 +237,7 @@ module.exports = {
       path: '/ext/agreements/',
       collapsable: false,
       children: [{
-        title: 'Оплата',
+        title: 'Тарифы',
         path: '/root/price/'
       }, {
         title: 'Политика конфиденциальности',
