@@ -27,12 +27,8 @@ module.exports = {
     sidebar: [{
       title: 'Документация',
       path: '/',
-      collapsable: false,
-      children: [{
-        title: 'Оплата',
-        path: '/root/price/'
-      }]
-      },{
+      collapsable: false
+    },{
       title: 'Меню администратора',
       path: '/admin/',
       collapsable: false,
@@ -209,6 +205,7 @@ module.exports = {
       }]
       }, {
       title: 'Ресурсы проекта',
+      path: '/ext/servicelink/',
       collapsable: false,
       children: [{
         title: 'Ссылки',
@@ -238,6 +235,9 @@ module.exports = {
       path: '/ext/agreements/',
       collapsable: false,
       children: [{
+        title: 'Оплата',
+        path: '/root/price/'
+      }, {
         title: 'Политика конфиденциальности',
         path: '/agreements/privacy/'
       }, {
