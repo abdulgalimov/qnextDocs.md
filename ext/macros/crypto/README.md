@@ -47,7 +47,7 @@ exports.valueForMd5 = userId+"_"+botId;
 
 ## hmac
 
-Для значения hmac требуется дополнительный параметр `key`:
+Для значения `hmac` требуется дополнительный параметр `key`:
 ```plain 
 !{crypto|
   type: hmac;
