@@ -47,7 +47,7 @@ exports.valueForMd5 = userId+"_"+botId;
 
 ## hmac
 
-Для параметра hmac требуется дополнительный параметр `key`:
+Для значения hmac требуется дополнительный параметр `key`:
 ```plain 
 !{crypto|
   type: hmac;
@@ -57,7 +57,7 @@ exports.valueForMd5 = userId+"_"+botId;
 ```
 ## randomText
 
-Для макроса `randomText` можно указать дополнительные параметры:
+Для значения `randomText` можно указать дополнительные параметры:
 * size - Длина генерируемой строки в байтах
 * encoding - Кодировка строки.
 
