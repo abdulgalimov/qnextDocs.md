@@ -90,7 +90,57 @@ module.exports = {
       collapsable: true,
       children: [{
         title: 'Реакции',
-        path: '/admin/other/reactions/'
+        path: '/admin/other/reactions/',
+        collapsable: true,
+        children: [{
+          title: '!{Google}',
+          path: '/admin/google/'
+        }, {
+          title: 'Trello',
+          path: '/admin/trello/'
+        }, {
+          title: 'WEB',
+          path: '/admin/web/'
+        }, {
+          title: 'Глобальные переменные',
+          path: '/admin/globalvar/'
+        }, {
+          title: 'Голосование',
+          path: '/admin/vote/'
+        }, {
+          title: 'Динамические переменные',
+          path: '/admin/dynvar/'
+        }, {
+          title: 'Контент',
+          path: '/admin/content/'
+        }, {
+          title: 'Локальные переменные',
+          path: '/admin/localvar/'
+        }, {
+          title: 'Пользователи',
+          path: '/admin/users/'
+        }, {
+          title: 'Пригласительные ссылки',
+          path: '/admin/invitelink/'
+        }, {
+          title: 'Профиль',
+          path: '/admin/profile/'
+        }, {
+          title: 'Рассылка',
+          path: '/admin/newsletters/'
+        }, {
+          title: 'Списки пользователей',
+          path: '/admin/userlist/'
+        }, {
+          title: 'Клавиатура',
+          path: '/admin/keyboard/'
+        }, {
+          title: 'Форма',
+          path: '/admin/forms/'
+        }, {
+          title: 'Чаты/Каналы',
+          path: '/admin/chat/'
+        },]
       }, {
         title: 'Ограничения',
         path: '/ext/restrictions/'
