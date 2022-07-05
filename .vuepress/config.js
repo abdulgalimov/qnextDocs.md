@@ -21,17 +21,17 @@ module.exports = {
   ],
   patterns: ['**/*.md', '!.vuepress', '!node_modules', '!_export'],
   themeConfig: {
-    lastUpdated: false, // string | boolean
+    lastUpdated: true, // string | boolean
     sidebarDepth: 2,
 
     sidebar: [{
       title: 'Документация',
       path: '/',
-      collapsable: false
+      collapsable: true
     },{
       title: 'Меню администратора',
       path: '/admin/',
-      collapsable: false,
+      collapsable: true,
       children: [{
         title: '⚙Настройки бота',
         path: '/admin/setting/'
@@ -87,11 +87,11 @@ module.exports = {
       }, {
       title: 'Исполняемые модули',
       path: '/ext/',
-      collapsable: false,
+      collapsable: true,
       children: [{
         title: 'Реакции',
         path: '/admin/other/reactions/',
-        collapsable: false,
+        collapsable: true,
         children: [{
           title: '!{Google}',
           path: '/admin/google/'
@@ -150,7 +150,7 @@ module.exports = {
       }, {
         title: 'Макросы',
         path: '/ext/macros/',
-        collapsable: false,
+        collapsable: true,
         children: [{
           title: '!{amount}',
           path: '/ext/macros/amount/'
@@ -240,7 +240,7 @@ module.exports = {
       }, {
       title: 'Настройки в QNextBot',
       path: '/ext/setting/',
-      collapsable: false,
+      collapsable: true,
       children: [{
         title: 'Уведомления',
         path: '/article/notifications/'
@@ -257,7 +257,7 @@ module.exports = {
       }, {
       title: 'Ресурсы проекта',
       path: '/ext/servicelink/',
-      collapsable: false,
+      collapsable: true,
       children: [{
         title: 'Ссылки',
         path: '/ext/link/'
@@ -265,7 +265,7 @@ module.exports = {
       }, {
       title: 'Разное',
       path: '/ext/otheruserul/',
-      collapsable: false,
+      collapsable: true,
       children: [{
         title: 'Логи',
         path: '/admin/other/reactions/log/'
@@ -285,7 +285,7 @@ module.exports = {
       }, {
       title: 'Соглашения',
       path: '/ext/agreements/',
-      collapsable: false,
+      collapsable: true,
       children: [{
         title: 'Тарифы',
         path: '/root/price/'
