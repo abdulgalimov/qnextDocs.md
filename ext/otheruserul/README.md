@@ -4,17 +4,17 @@
 
 ## Статьи и обзоры
 
-[**Qnextbot уведомления**](/docs/article/notifications/)
+[**Qnextbot уведомления**](/docs/article/notifications)
 
-[**Первая регистрация бота**](/docs/root/new-token/)
+[**Первая регистрация бота**](/docs/root/new-token)
 
-[**Обновление токена**](/docs/root/reset-token/)
+[**Обновление токена**](/docs/root/reset-token)
 
-[**regEx - регулярные выражения**](/docs/admin/regexp/)
+[**regEx - регулярные выражения**](/docs/admin/regexp)
 
-[**Логи**](/docs/admin/other/reactions/log/)
+[**Логи**](/docs/admin/other/reactions/log)
 
-[**Новый механизм take-реакций**](/docs/admin/other/reactions/new-mechanics/)
+[**Новый механизм take-реакций**](/docs/admin/other/reactions/new-mechanics)
 
 [**Лимиты Телеграм**](https://limits.tginfo.me/ru-RU/)
 
