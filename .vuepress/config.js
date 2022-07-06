@@ -88,10 +88,11 @@ module.exports = {
       title: 'Исполняемые модули',
       path: '/ext/',
       collapsable: true,
+      initialOpenGroupIndex: -1,
       children: [{
         title: 'Реакции',
         path: '/admin/other/reactions/',
-        collapsable: false,
+        collapsable: true,
         children: [{
           title: '!{Google}',
           path: '/admin/google/'
@@ -140,7 +141,8 @@ module.exports = {
         }, {
           title: 'Чаты/Каналы',
           path: '/admin/chat/'
-        },]
+        },],
+        initialOpenGroupIndex: -1,
       }, {
         title: 'Макросы',
         path: '/ext/macros/',
@@ -230,6 +232,12 @@ module.exports = {
           title: '!{vote}',
           path: '/ext/macros/vote/'
         },]
+      },{
+        title: 'Ограничения',
+        path: '/ext/restrictions/'
+      }, {
+        title: 'Скрипты',
+        path: '/ext/script/'
       },]
       }, {
       title: 'Настройки в QNextBot',
