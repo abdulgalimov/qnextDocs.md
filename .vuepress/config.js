@@ -89,12 +89,6 @@ module.exports = {
       path: '/ext/',
       collapsable: true,
       children: [{
-        title: 'Ограничения',
-        path: '/ext/restrictions/'
-      }, {
-        title: 'Скрипты',
-        path: '/ext/script/'
-      }, {
         title: 'Реакции',
         path: '/admin/other/reactions/',
         collapsable: true,
