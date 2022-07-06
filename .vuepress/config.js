@@ -91,7 +91,7 @@ module.exports = {
       children: [{
         title: 'Реакции',
         path: '/admin/other/reactions/',
-        collapsable: true,
+        collapsable: false,
         children: [{
           title: '!{Google}',
           path: '/admin/google/'
