@@ -144,6 +144,9 @@ module.exports = {
         },],
         initialOpenGroupIndex: -1,
       }, {
+        title: 'Ограничения',
+        path: '/ext/restrictions/'
+      }, {
         title: 'Макросы',
         path: '/ext/macros/',
         collapsable: true,
@@ -232,9 +235,6 @@ module.exports = {
           title: '!{vote}',
           path: '/ext/macros/vote/'
         },]
-      },{
-        title: 'Ограничения',
-        path: '/ext/restrictions/'
       }, {
         title: 'Скрипты',
         path: '/ext/script/'
