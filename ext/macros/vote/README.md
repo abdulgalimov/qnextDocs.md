@@ -86,6 +86,7 @@
 * $name - имя юзера
 * $username - логин юзера
 * $profile - значение профиля юзера
+* $description - описание кнопки
 
 
 ## type: count и type: weight

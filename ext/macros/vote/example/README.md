@@ -1,14 +1,14 @@
-# Примеры макроса !{vote|...}
+# Готовые примеры макроса !{vote|...}
 
-![](./1.jpg)
+### Пример 1
 
 ```plain 
 !{vote| type: results}
 ```
 
----
+![](./1.jpg)
 
-![](./2.jpg)
+---
 
 ```plain 
 !{vote|
@@ -17,9 +17,20 @@
 }
 ```
 
+![](./2.jpg)
+
 ---
 
-![](./3.jpg)
+```plain
+!{vote|
+ type:results;
+ template: $title ($percent%);
+}
+```
+
+![](./9.jpg)
+
+---
 
 ```plain 
 !{vote|
@@ -31,9 +42,9 @@
 }
 ```
 
----
+![](./3.jpg)
 
-![](./4.jpg)
+---
 
 ```plain
 !{vote|
@@ -46,9 +57,9 @@
 }
 ```
 
----
+![](./4.jpg)
 
-![](./5.jpg)
+---
 
 ```plain
 !{vote|
@@ -72,9 +83,9 @@
 }
 ```
 
----
+![](./5.jpg)
 
-![](./6.jpg)
+---
 
 ```plain
 !{vote|
@@ -87,9 +98,9 @@
 }
 ```
 
----
+![](./6.jpg)
 
-![](./8.jpg)
+---
 
 ```plain
 !{vote| 
@@ -105,14 +116,31 @@
 }
 ```
 
+![](./8.jpg) 
+
 ---
 
-![](./9.jpg)
-
 ```plain
+Не голосовали
 !{vote|
- type:results;
- template: $title ($percent%);
+  type: userList;
+  usersListId: 0000 ;
+  notVotedTemplate: $user; 
+  userView: name;
+  filter: notVoted;
+  profileId: 0000 ;
 }
 
-```
+Проголосовали
+!{vote|
+  type: userList;
+  usersListId: 0000 ;
+  votedTemplate: $description $user  - $profile;
+  userView: name;
+  filter: voted;
+  profileId: 0000 ;
+}
+``` 
+
+![](./10.jpg) 
+
