@@ -39,6 +39,4 @@
 
 ![](./6.png)
 
-
-
 [googleWrite](/docs/admin/google/googlewrite)- записать параметр в Google таблицу
