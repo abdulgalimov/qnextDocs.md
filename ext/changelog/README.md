@@ -14,4 +14,4 @@
 
 07.07.2022 Обновлены дизайн разделов, добавлено описание макроса [!{amount}](/docs/ext/macros/amount)
 
-13.08.2022 - Добавлен новый раздел. Макрос [linktomessage](/docs/ext/macros/linktomessage)
+13.08.2022 - Добавлен новый раздел. Макрос [!{linktomessage}](/docs/ext/macros/linktomessage)
