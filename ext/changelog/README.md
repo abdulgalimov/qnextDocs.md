@@ -12,4 +12,6 @@
 
 02.07.2022 Написан раздел [Чаты и Каналы](/docs/admin/chats-and-channels)
 
-07.07.2022 обновлена дизайн разделов, добавлено описание макроса [!{amount}](/docs/ext/macros/amount)
+07.07.2022 Обновлены дизайн разделов, добавлено описание макроса [!{amount}](/docs/ext/macros/amount)
+
+13.08.2022 - Добавлен новый раздел. Макрос [linktomessage](/docs/ext/macros/linktomessage)
