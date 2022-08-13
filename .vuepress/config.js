@@ -193,6 +193,9 @@ module.exports = {
           title: '!{makeLink}',
           path: '/ext/macros/makelink/'
         }, {
+          title: '!{linkToMessage}',
+          path: '/ext/macros/linktomessage/'
+        }, {
           title: '!{menu}',
           path: '/ext/macros/menu/'
         }, {
