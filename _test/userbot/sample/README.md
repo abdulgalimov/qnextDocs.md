@@ -1,24 +1,25 @@
+# Шаблоны запросов
 
-**Инициатор**
+Инициатор
 
-number = _${update.message.user.id}_
+_${update.message.user.id}_ = number
 
-**Проверка на бота**
+Проверка на бота
 
-bool = _${update.message.user.bot}_
+_${update.message.user.bot}_ = bool
 
-**Проверка на текстовые сообщения**
+Проверка на текстовые сообщения
 
-bool = _${update.message.message}_
+_${update.message.message}_ = bool
 
-**accesHash чата/канала**
+accesHash чата/канала
 
-_${update.message.channel.accesHash}_
+_${update.message.channel.accesHash}_ = string
 
-**accesHash инициатора**
+accesHash инициатора
 
-_${update.message.user.accesHash}_
-## Шаблоны
+_${update.message.user.accesHash}_ = string
+
 
 _upd. нельзя отправлять сообщение состоящее только из цифр, или начинающееся с цифр._
 
