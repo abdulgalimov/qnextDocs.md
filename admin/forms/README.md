@@ -397,7 +397,7 @@ update.message.audio: mp3, wav, flac и т.д.
 |[loadFormResult](/docs/admin/forms/loadformresult)|Загрузить результаты формы|
 |[openFormResult](/docs/admin/forms/openformresult)|Открыть результаты формы|
 |[takeFormResults](/docs/admin/forms/takeformresults)|Получить последние несколько результатов формы|
-|[saveFormVariables](/docs/admin/forms/saveformvariables)|Сохранить локальную переменную в форме|
+|[saveVariables](/docs/admin/forms/saveVariables)|Сохранить локальную переменную в форме|
 |[writeFormCustom](/docs/admin/forms/writeformcustom)|Загрузить произвольный параметр формы| 
  
 
