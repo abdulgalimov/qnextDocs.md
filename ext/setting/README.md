@@ -2,13 +2,13 @@
 
 Сервис [QNext](https://t.me/qnextbot) содержит множество различных настроек для удобства работы ваших ботов, созданных на платформе.
 
-[Уведомления](/article/notifications/)
+[Уведомления](article/notifications/)
 
-[Локализация](/ext/localization/)
+[Локализация](ext/localization/)
 
-[Первичная регистрация бота](/root/new-token/)
+[Первичная регистрация бота](root/new-token/)
 
-[Обновление токена бота](/root/reset-token/)
+[Обновление токена бота](root/reset-token/)
 
 
 
