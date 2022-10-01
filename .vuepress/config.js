@@ -118,6 +118,12 @@ module.exports = {
           title: 'Локальные переменные',
           path: '/admin/localvar/'
         }, {
+          title: 'Магазин',
+          path: '/admin/stores/'
+        }, {
+          title: 'Переключатели',
+          path: '/admin/switch/'
+        }, {
           title: 'Пользователи',
           path: '/admin/users/'
         }, {
