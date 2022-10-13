@@ -16,7 +16,7 @@
 
 [**Новый механизм take-реакций**](/docs/admin/other/reactions/new-mechanics)
 
-[**Лимиты Телеграм**](https://limits.tginfo.me/ru-RU/)
+[**Лимиты Телеграм версия QNext**](/docs/ext/limits/)
 
 [**Публичные API**](/docs/admin/public-api)
 
