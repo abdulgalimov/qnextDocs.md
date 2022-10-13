@@ -247,6 +247,7 @@ _Все реакции работают как в чате так и в кана
 |[sendMessage](/docs/admin/other/reactions/message) | Отправить сообщение от бота|
 |[sendPayment](/docs/admin/other/reactions/sendpayment) | Отправить платежку|
 |[sendYandexWallet](/docs/admin/other/reactions/sendyandexwallet) | Отправить ссылку на оплату yandex кошельком|
+|[setUserTimezone](/docs/admin/other/reactions/setUserTimezone) | Установить часовой пояс пользователя |
 |[setUserLanguage](/docs/admin/other/reactions/setuserlanguage) | Установить язык пользователя|
 |[takeVariable](/docs/admin/other/reactions/takevariable) | Устарело, используйте реакцию [**For**](/docs/admin/other/reactions/for)|
 |[timeout](/docs/admin/other/reactions/timeout) | запустить действие с задержкой|

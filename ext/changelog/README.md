@@ -21,3 +21,5 @@
 02.10.2022 - Обновлена документация по реакции [takeChat](/docs/admin/chat/takechat/)
 
 13.10.2022 - Добавлена документация по платежной системе [CryptoBot](/docs/admin/pay/cryptobot/)
+
+13.10.2022 - Добавлено описание реакции [setUserTimezone](/docs/admin/other/reactions/setUserTimezone)
