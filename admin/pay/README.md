@@ -9,7 +9,7 @@
 * [Нативные Telegram платежи](/docs/admin/pay/telegram)
 * [ROBOKASSA](/docs/admin/pay/robokassa)
 * [PAYEER](/docs/admin/pay/payeer)
-* [CryptoBot](/docs/admin/pay/cryptobot/)
+* [CryptoBot](/docs/admin/pay/cryptobot)
 
 ## Подключение новых способов оплаты
 
