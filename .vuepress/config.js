@@ -215,7 +215,7 @@ module.exports = {
           path: '/ext/macros/random/'
         }, {
           title: '!{script}',
-          path: '/ext/script/'
+          path: '/ext/macros/script/'
         }, {
           title: '!{string}',
           path: '/ext/macros/string/'
