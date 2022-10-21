@@ -76,9 +76,35 @@ run();
 ⚠️В асинхронном режими скрипт работает намного дОльше чем точно такой же скрипт не в асинхронном режиме.
 
 ### Примеры скриптов
----
-### Пример 1
 
----
-### Пример 2
+1. [Отслеживание N сообщений подряд от одного пользователя, длиной менее L символов](https://t.me/QNextCases/145)
+2. [Выбор случайных значений из указанного диапазона чисел](https://t.me/QNextCases/170)
+3. [Работа с глобальными переменными](https://t.me/QNextCases/199)
+4. [Удаление всех сообщений в чате между командой и reply сообщением](https://t.me/QNextCases/212)
 
+### Пример работы реакции для использования методов bot.api: sendMessage
+
+⚡ localVarSet — число — chat_id = ${update.message.chat.id}
+
+⚡ localVarSet — трока — text = произвольный текст
+
+```plain 
+
+async function run() {
+  var body = {};
+  body.chat_id = qnext.getValue("localVar.chat_id");
+  body.text = qnext.getValue("localVar.text");
+  body.reply_markup = {
+    inline_keyboard: [
+      [{
+        text: "Examplesqnextbot",
+        url: "https://t.me/Qnext_Examplebot"
+      }]
+    ]
+  }
+  var result = await qnext.telegram.api("sendMessage", body);
+  exports.result = result;
+}
+run().finally(qnext.onFinish);
+
+```
