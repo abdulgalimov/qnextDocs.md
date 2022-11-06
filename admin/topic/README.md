@@ -13,10 +13,10 @@
 
 | Реакция | Описание |
 | --- | --- | 
-| [closeForumTopic](/docs/admin/topic/closeForumTopic/) | Закрыть тему |
-| [createForumTopic](/docs/admin/topic/createForumTopic/) | Создать тему |
-| [deleteForumTopic](/docs/admin/topic/deleteForumTopic/) | Удалить тему |
-| [editForumTopic](/docs/admin/topic/editForumTopic/) | Редактировать тему в чате |
-| [getForumTopicIconStickers](/docs/admin/topic/getForumTopicIconStickers/) | Получить список стикеров для темы |
-| [reopenForumTopic](/docs/admin/topic/reopenForumTopic/) | Переоткрыть тему в чате |
-| [unpinAllForumTopicMessages](/docs/admin/topic/unpinAllForumTopicMessages/) | Очистить список закрепленных сообщений в теме форума |
+| [closeForumTopic](/admin/topic/closeForumTopic/) | Закрыть тему |
+| [createForumTopic](/admin/topic/createForumTopic/) | Создать тему |
+| [deleteForumTopic](/admin/topic/deleteForumTopic/) | Удалить тему |
+| [editForumTopic](/admin/topic/editForumTopic/) | Редактировать тему в чате |
+| [getForumTopicIconStickers](/admin/topic/getForumTopicIconStickers/) | Получить список стикеров для темы |
+| [reopenForumTopic](/admin/topic/reopenForumTopic/) | Переоткрыть тему в чате |
+| [unpinAllForumTopicMessages](/admin/topic/unpinAllForumTopicMessages/) | Очистить список закрепленных сообщений в теме форума |
