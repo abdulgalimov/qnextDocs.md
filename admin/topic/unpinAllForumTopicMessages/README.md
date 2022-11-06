@@ -1,0 +1,20 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+**Method bot.api [unpinAllForumTopicMessages](https://core.telegram.org/bots/unpinAllForumTopicMessages)**

@@ -1,0 +1,20 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+**Method bot.api [reopenForumTopic](https://core.telegram.org/bots/reopenForumTopic)**
