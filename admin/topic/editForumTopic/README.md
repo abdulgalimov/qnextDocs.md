@@ -1,6 +1,15 @@
 # editForumTopic 
 
-**editForumTopic** - в процессе написания
+**editForumTopic** - реакция редактирует параметры топика, такие как: название, эмодзи - иконку
+
+![](./1.jpg)
+
+| Функция | Описание | Необходимость |
+| --- | --- | --- |
+| Чаты/Каналы |  Необходимо указать ID чата или ссылку на чат типа @username | Обязательно |
+| name | Название для создания топика | Опционально |
+| ID иконки для топика | Иконка топика | Опционально |
+| ID топика | ID топика который необходимо изменить | Обязательно |
 
 
 
@@ -14,9 +23,4 @@
 
 
 
-
-
-
-
-
-**Method bot.api [editForumTopic](https://core.telegram.org/bots/editForumTopic)**
+**Method bot.api [editForumTopic](https://core.telegram.org/bots/api#editForumTopic)**

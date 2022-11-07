@@ -29,4 +29,4 @@ _${topicIconsStrickersResult.response.0.custom_emoji_id}_
 
 
 
-**Method bot.api [getForumTopicIconStickers](https://core.telegram.org/bots/getForumTopicIconStickers)**
+**Method bot.api [getForumTopicIconStickers](https://core.telegram.org/bots/api#getForumTopicIconStickers)**
