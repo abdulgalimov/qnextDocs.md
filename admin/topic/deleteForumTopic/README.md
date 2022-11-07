@@ -1,6 +1,6 @@
 # deleteForumTopic
 
-**deleteForumTopic** - Реакция для удаления топика
+**deleteForumTopic** - Реакция для удаления топика.
 
 ![](./1.jpg)
 

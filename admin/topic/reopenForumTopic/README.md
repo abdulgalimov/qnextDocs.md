@@ -1,6 +1,6 @@
 # reopenForumTopic
 
-**reopenForumTopic** - в процессе написания
+**reopenForumTopic** - заново открывает ранее закрытый топик.
 
 ![](./1.jpg)
 

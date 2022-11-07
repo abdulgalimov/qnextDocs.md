@@ -1,6 +1,6 @@
 # closeforumtopic
 
-**closeforumtopic** - в процессе написания
+**closeforumtopic** - реакция закрывает топик для пользователей.
 
 ![](./1.jpg)
 
