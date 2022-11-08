@@ -138,6 +138,9 @@ module.exports = {
         }, {
           title: 'Списки пользователей',
           path: '/admin/userlist/'
+        },{
+          title: 'Темы (Топики)',
+          path: '/admin/topic/'
         }, {
           title: 'Клавиатура',
           path: '/admin/keyboard/'

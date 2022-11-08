@@ -13,8 +13,8 @@
 
 | Реакция | Описание |
 | --- | --- | 
-| [closeForumTopic](/admin/topic/closeForumTopic/) | Закрыть тему |
 | [createForumTopic](/admin/topic/createForumTopic/) | Создать тему |
+| [closeForumTopic](/admin/topic/closeForumTopic/) | Закрыть тему |
 | [deleteForumTopic](/admin/topic/deleteForumTopic/) | Удалить тему |
 | [editForumTopic](/admin/topic/editForumTopic/) | Редактировать тему в чате |
 | [getForumTopicIconStickers](/admin/topic/getForumTopicIconStickers/) | Получить список стикеров для темы |

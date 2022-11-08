@@ -149,6 +149,19 @@
 |[delFromUserList](/docs/admin/userlist/delfromuserlist)|Удалить из списка пользователей|
 |[takeUserList](/docs/admin/userlist/takeuserlist)|взять список пользователей| 
 
+ ## Темы (Топики)
+
+| Реакция | Описание |
+| --- | --- | 
+| [createForumTopic](/admin/topic/createForumTopic/) | Создать тему |
+| [closeForumTopic](/admin/topic/closeForumTopic/) | Закрыть тему |
+| [deleteForumTopic](/admin/topic/deleteForumTopic/) | Удалить тему |
+| [editForumTopic](/admin/topic/editForumTopic/) | Редактировать тему в чате |
+| [getForumTopicIconStickers](/admin/topic/getForumTopicIconStickers/) | Получить список стикеров для темы |
+| [reopenForumTopic](/admin/topic/reopenForumTopic/) | Переоткрыть тему в чате |
+| [unpinAllForumTopicMessages](/admin/topic/unpinAllForumTopicMessages/) | Очистить список закрепленных сообщений в теме форума |
+
+
  ## [Клавиатура](/docs/admin/keyboard)
  
 | Реакция | Описание |
