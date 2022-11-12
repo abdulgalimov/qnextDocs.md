@@ -10,7 +10,7 @@
 
 Информация будет доступна в переменной:
 
-_${getchatMemberResult}_
+```${getchatMemberResult}```
 
 Если бот имеет статус "участник = member"
 

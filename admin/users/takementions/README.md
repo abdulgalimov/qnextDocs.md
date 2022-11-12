@@ -9,11 +9,10 @@
 Команда: /!take (.+)/i
 
 Реакции:
-
+```plain
 — takeMentions 
-
 — — log
-
+```
 ![](./1.png)
 
 Если необходимо исключить пользователя из чата, нам потребуется:
@@ -21,12 +20,13 @@
 Команда: /!take (.+)/i
 
 Реакции:
-
+```plain
 — takeMentions
-
-— — takeChat
- 
+— — takeChat ${chat.id}
 — — — kickChatMember
+```
+
+---
 
 **Особенности:**
 * Работает только юзернеймами (@username) и меншенами (mention: Account6 testgen)

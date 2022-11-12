@@ -21,19 +21,19 @@
 
 Триггер подготовки поля **custom**
 
-**for** _${update.message.entities}_
+**for** ```${update.message.entities}```
 
 — **groupReactions** 
 
 Ограничения:
 
-**string** _${forItem.value.type}_ = **mention**
+**string** ```${forItem.value.type}``` = **mention**
 
   or
 
-_string ${forItem.value.type}=url_
+```string ${forItem.value.type}=url```
 
-— — **writeFormCustom** _${update.message.text}_
+— — **writeFormCustom** ```${update.message.text}```
 
 
 

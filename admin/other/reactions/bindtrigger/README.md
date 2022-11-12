@@ -22,7 +22,7 @@ groupReactions - test
 
 ✅ = ограничение:
 
-bool ✅ _${update.message.text}_
+bool ✅ ```${update.message.text}```
 
 — **sendMessage** текст: Спасибо, текст принят.
 
@@ -30,7 +30,7 @@ bool ✅ _${update.message.text}_
 
 ❌ = ограничение:
 
-bool ❌ _${update.message.text}_
+bool ❌ ```${update.message.text}```
 
 — **sendMessage** текст: Пожалуйста, введите текст.
 

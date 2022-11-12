@@ -7,22 +7,20 @@
 Например:
 
 Сумма чисел
-
-**localVarAdd** тип Число; — sumNum = 1
-
-**localVarAdd** тип Число; — sumNum = 2
-
-После выполнения этих реакций в переменной _${localVar.sumNum}_ получим числовое значение 3.
+```plain
+localVarAdd тип Число; — sumNum = 1
+localVarAdd тип Число; — sumNum = 2
+```
+После выполнения этих реакций в переменной ``` ${localVar.sumNum} ``` получим числовое значение 3.
 
 
 
 Список пользователей
-
-**takeUserList**
-
-— **localVarAdd** тип Список; — users = _!{user| type: link; path: targetUser}_
-
-После выполнения этих реакций в переменной _${localVar.users}_ получим список пользователей в виде ссылок на пользователей.
+```plain
+takeUserList
+— localVarAdd тип Список; — users = !{user| type: link; path: targetUser}
+```
+После выполнения этих реакций в переменной ```plain${localVar.users}``` получим список пользователей в виде ссылок на пользователей.
 
 
 

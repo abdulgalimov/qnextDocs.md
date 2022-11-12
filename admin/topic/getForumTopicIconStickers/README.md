@@ -8,7 +8,7 @@
 
 В логах ID иконок будет доступен в переменной:
 
-_${topicIconsStrickersResult.response.0.custom_emoji_id}_
+```${topicIconsStrickersResult.response.0.custom```emoji```id}```
 
 Где 0 - порядковый номер объекта с эмодзи
 

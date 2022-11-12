@@ -20,20 +20,17 @@
 **Пример применения:**
 
 Отправить сообщение случайным пользователям
-
-**takeRandomUser** - все пользователи
-
-— **sendMessage**
-
+```plain
+takeRandomUser - все пользователи
+— sendMessage
+```
 ---
 
 Выбрать и отобразить случайных пользователей
-
-**takeRandomUser** - все пользователи - 2 (или более, до 10)
-
-— **localVarAdd** - тип: список - название: rnduser - значение: _${targetUser.name}_
-
-sendMessage: _${localVar.name}_
-
+```plain
+takeRandomUser - все пользователи - 2 (или более, до 10)
+— localVarAdd - тип: список - название: rnduser - значение: ${targetUser.name}
+sendMessage: ${localVar.name}
+```
 
 
