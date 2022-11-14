@@ -26,4 +26,4 @@
 
 
 
-**Method bot.api [reopenForumTopic](https://core.telegram.org/bots/api#reopenForumTopic)**
+**Method bot.api [reopenForumTopic](https://core.telegram.org/bots/api#reopenforumtopic)**

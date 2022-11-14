@@ -25,4 +25,4 @@
 
 
 
-**Method bot.api [unpinAllForumTopicMessages](https://core.telegram.org/bots/api#unpinAllForumTopicMessages)**
+**Method bot.api [unpinAllForumTopicMessages](https://core.telegram.org/bots/api#unpinallforumtopicmessages)**

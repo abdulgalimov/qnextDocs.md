@@ -23,4 +23,4 @@
 
 
 
-**Method bot.api [editForumTopic](https://core.telegram.org/bots/api#editForumTopic)**
+**Method bot.api [editForumTopic](https://core.telegram.org/bots/api#editforumtopic)**

@@ -8,7 +8,7 @@
 
 В логах ID иконок будет доступен в переменной:
 
-```${topicIconsStrickersResult.response.0.custom```emoji```id}```
+```${topicIconsStrickersResult.response.0.custom_emoji_id}```
 
 Где 0 - порядковый номер объекта с эмодзи
 
@@ -29,4 +29,4 @@
 
 
 
-**Method bot.api [getForumTopicIconStickers](https://core.telegram.org/bots/api#getForumTopicIconStickers)**
+**Method bot.api [getForumTopicIconStickers](https://core.telegram.org/bots/api#getforumtopiciconstickers)**
