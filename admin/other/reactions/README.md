@@ -149,7 +149,7 @@
 |[delFromUserList](/docs/admin/userlist/delfromuserlist)|Удалить из списка пользователей|
 |[takeUserList](/docs/admin/userlist/takeuserlist)|взять список пользователей| 
 
- ## Темы (Топики)
+ ## [Темы (Топики)](docs/admin/topic)
 
 | Реакция | Описание |
 | --- | --- | 
