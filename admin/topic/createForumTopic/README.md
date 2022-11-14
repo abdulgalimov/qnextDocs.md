@@ -9,7 +9,7 @@
 | Чаты/Каналы | Необходимо указать ID чата или ссылку на чат типа @username |
 | name | Название для создания топика |
 | Цвета | Предусматривает создание иконки-эмодзи из базового набора |
-| ID иконки для топика | список доступных ID эмодзи можно запросить с помощью реакции [getForumTopicIconStickers](/admin/topic/getForumTopicIconStickers/) |
+| ID иконки для топика | список доступных ID эмодзи можно запросить с помощью реакции [getForumTopicIconStickers](/topic/getForumTopicIconStickers/) |
 
 
 
