@@ -22,7 +22,7 @@ module.exports = {
   patterns: ['**/*.md', '!.vuepress', '!node_modules', '!_export'],
   themeConfig: {
     lastUpdated: true, // string | boolean
-    sidebarDepth: 2,
+    sidebarDepth: 3,
 
     sidebar: [{
       title: 'Документация',
@@ -140,7 +140,29 @@ module.exports = {
           path: '/admin/userlist/'
         },{
           title: 'Темы (Топики)',
-          path: '/admin/topic/'
+          path: '/admin/topic/',
+          children: [{
+            title: 'Создать',
+            path: '/admin/topic/createForumTopic/'
+          }, {
+            title: 'Закрыть',
+            path: '/admin/topic/closeForumTopic/'
+          }, {
+            title: 'Удалить',
+            path: '/admin/topic/deleteForumTopic/'
+          }, {
+            title: 'Редактировать',
+            path: '/admin/topic/editForumTopic/'
+          }, {
+            title: 'Переоткрыть',
+            path: '/admin/topic/reopenForumTopic/'
+          }, {
+            title: 'Список стикеров',
+            path: '/admin/topic/getForumTopicIconStickers/'
+          }, {
+            title: 'Очистить список закрепленных',
+            path: '/admin/topic/unpinAllForumTopicMessages/'
+          }],
         }, {
           title: 'Клавиатура',
           path: '/admin/keyboard/'
