@@ -59,8 +59,8 @@
 
 Проверяет параметр ${update.message.chat.type}
 
-* ✅ - ```${update.message.chat.type}``` = **private** - действие совершено в привате с ботом
-* ❌ - ```${update.message.chat.type}``` = **private** - действие совершено не в привате 
+* ❌ - ```${update.message.chat.type}``` = **private** - действие совершено в привате с ботом
+* ✅ - ```${update.message.chat.type}``` = **private** - действие совершено не в привате 
 
 
 
