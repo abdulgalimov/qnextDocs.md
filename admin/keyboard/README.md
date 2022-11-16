@@ -53,7 +53,7 @@
 
 ### Реакции
 
-[Реакции](/admin/keyboard/reaction)
+[Реакции](/admin/keyboard/reaction/)
 
 
 
