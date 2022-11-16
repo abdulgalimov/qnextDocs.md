@@ -95,83 +95,407 @@ module.exports = {
         collapsable: true,
         children: [{
           title: '!{Google}',
-          path: '/admin/google/'
+          path: '/admin/google/',
+          children: [{
+            title: 'googlewrite',
+            path: 'admin/google/googlewrite/'
+          }],
         }, {
           title: 'Trello',
-          path: '/admin/trello/'
+          path: '/admin/trello/',
+          children: [{
+            title: 'trelloApiRequest',
+            path: '/admin/trello/trelloapirequest/'
+          }, {
+            title: 'trelloAddComment',
+            path: '/admin/trello/trelloaddcomment/'
+          }, {
+            title: 'trelloCreateCard',
+            path: '/admin/trello/trellocreatecard/'
+          }, {
+            title: 'trelloGetCard',
+            path: '/admin/trello/trellogetcard/'
+          }, {
+            title: 'trelloCreateCardAttachment',
+            path: '/admin/trello/trellocreatecardattachment/'
+          }, {
+            title: 'trelloUpdateCard',
+            path: '/admin/trello/trelloupdatecard/'
+          }],
         }, {
           title: 'WEB',
-          path: '/admin/web/'
+          path: '/admin/web/reaction/',
+          children: [{
+            title: 'httpRequest',
+            path: '/admin/web/reaction/httprequest/'
+          }, {
+            title: 'webhookResponse',
+            path: '/admin/web/reaction/webhookresponse/'
+          }, {
+            title: 'weblinkRedirect',
+            path: '/admin/web/reaction/weblinkredirect/'
+          }, {
+            title: 'WeblinkResponse',
+            path: '/admin/web/reaction/weblinkresponse/'
+          }],
         }, {
           title: 'Глобальные переменные',
-          path: '/admin/globalvar/'
+          path: '/admin/globalvar/',
+          children: [{
+            title: 'globalVarDel',
+            path: '/admin/globalvar/globalvardel/'
+          }, {
+            title: 'globalVarSet',
+            path: '/admin/globalvar/globalvarset/'
+          }, {
+            title: 'loadGlobalVar',
+            path: '/admin/globalvar/loadGlobalVar/'
+          }],
         }, {
           title: 'Голосование',
-          path: '/admin/vote/'
+          path: '/admin/vote/',
+          children: [{
+            title: 'loadVote',
+            path: '/admin/vote/loadvote/'
+          }, {
+            title: 'loadVoteResults',
+            path: '/admin/vote/loadvoteresults/'
+          }, {
+            title: 'takePollUsers',
+            path: '/admin/vote/takepollusers/'
+          }, {
+            title: 'vote',
+            path: '/admin/vote/vote/'
+          }, {
+            title: 'voteAdd',
+            path: '/admin/vote/voteadd/'
+          }, {
+            title: 'voteCancel',
+            path: '/admin/vote/votecancel/'
+          }, {
+            title: 'voteSwitch',
+            path: '/admin/vote/voteswitch/'
+          }, {
+            title: 'voteRevoke',
+            path: '/admin/vote/voterevoke/'
+          }],
         }, {
           title: 'Динамические переменные',
-          path: '/admin/dynvar/'
+          path: '/admin/dynvar/',
+          children: [{
+            title: 'DynamicVarDel',
+            path: '/admin/dynvar/DynamicVarDel/'
+          }, {
+            title: 'loadDynamicVar',
+            path: '/admin/dynvar/loadDynamicVar/'
+          }, {
+            title: 'DynamicVarSet',
+            path: '/admin/dynvar/DynamicVarSet/'
+          }],
         }, {
           title: 'Контент',
-          path: '/admin/content/'
+          path: '/admin/content/reaction/',
+          children: [{
+            title: 'loadContent',
+            path: '/admin/content/reaction/loadcontent/'
+          }, {
+            title: 'loadRandomContent',
+            path: '/admin/content/reaction/loadrandomcontent/'
+          }, {
+            title: 'sendContent',
+            path: '/admin/content/reaction/sendcontent/'
+          }, {
+            title: 'refreshContent',
+            path: '/admin/content/reaction/refreshcontent/'
+          }],
         }, {
           title: 'Локальные переменные',
-          path: '/admin/localvar/'
+          path: '/admin/localvar/',
+          children: [{
+            title: 'localVarAdd',
+            path: '/admin/localvar/localvaradd/'
+          }, {
+            title: 'localVarDel',
+            path: '/admin/localvar/localvardel/'
+          }, {
+            title: 'localVarSet',
+            path: '/admin/localvar/localvarset/'
+          }],
         }, {
           title: 'Магазин',
-          path: '/admin/stores/'
+          path: '/admin/stores/',
+          children: [{
+            title: 'openStoreCarts',
+            path: '/admin/stores/openstorecarts/'
+          }, {
+            title: 'openStoreCategory',
+            path: '/admin/stores/openstorecategory/'
+          }, {
+            title: 'openStoreOrders',
+            path: '/admin/stores/openstoreorders/'
+          }, {
+            title: 'openStoreProduct',
+            path: '/admin/stores/openstoreproduct/'
+          }, {
+            title: 'orderCheckout',
+            path: '/admin/stores/ordercheckout/'
+          }, {
+            title: 'sendStore',
+            path: '/admin/stores/sendstore/'
+          }, {
+            title: 'sendStoreOrder',
+            path: '/admin/stores/sendstoreorder/'
+          }],
         }, {
           title: 'Переключатели',
-          path: '/admin/switch/'
+          path: '/admin/switch/',
+          children: [{
+            title: 'scheduleSwitch',
+            path: '/admin/switch/scheduleswitch/'
+          }, {
+            title: 'reactionOnSwitch',
+            path: '/admin/switch/reactionswitch/'
+          }],
         }, {
           title: 'Пользователи',
-          path: '/admin/users/'
+          path: '/admin/users/',
+          children: [{
+            title: 'takeAdmins',
+            path: '/admin/users/takeadmins/'
+          }, {
+            title: 'takeMentions',
+            path: '/admin/users/takementions/'
+          }, {
+            title: 'takeAuthorUser',
+            path: '/admin/users/takeauthoruser/'
+          }, {
+            title: 'takeButtonUsers',
+            path: '/admin/users/takebuttonusers/'
+          }, {
+            title: 'takeRandomUser',
+            path: '/admin/users/takerandomuser/'
+          }, {
+            title: 'takeReplyUser',
+            path: '/admin/users/takereplyuser/'
+          }, {
+            title: 'takeUsers',
+            path: '/admin/users/takeusers/'
+          }],
         }, {
           title: 'Пригласительные ссылки',
-          path: '/admin/invitelink/'
+          path: '/admin/invitelink/',
+          children: [{
+            title: 'exportChatInviteLink',
+            path: '/admin/invitelink/exportchatinvitelink/'
+          }, {
+            title: 'createChatInviteLink',
+            path: '/admin/invitelink/createchatinvitelink/'
+          },{
+            title: 'editChatInviteLink',
+            path: '/admin/invitelink/editchatinvitelink/'
+          },{
+            title: 'revokeChatInviteLink',
+            path: '/admin/invitelink/revokechatinvitelink/'
+          },{
+            title: 'loadChatInviteLink',
+            path: '/admin/invitelink/loadchatinvitelink/'
+          }],
         }, {
           title: 'Профиль',
-          path: '/admin/profile/'
+          path: '/admin/profile/',
+          children: [{
+            title: 'loadProfile',
+            path: '/admin/profile/loadprofile/'
+          }, {
+            title: 'profileAdd',
+            path: '/admin/profile/profileadd/'
+          }, {
+            title: 'profileDel',
+            path: '/admin/profile/profiledel/'
+          }, {
+            title: 'profileSet',
+            path: '/admin/profile/profileset/'
+          }, {
+            title: 'profileDelAll',
+            path: '/admin/profile/profiledelall/'
+          }, {
+            title: 'profileSwitch',
+            path: '/admin/profile/profileswitch/'
+          }, {
+            title: 'findProfileValue',
+            path: '/admin/profile/findprofilevalue/'
+          }, {
+            title: 'profilesCount',
+            path: '/admin/profile/profilescount/'
+          }, ],
         }, {
           title: 'Рассылка',
-          path: '/admin/newsletters/'
+          path: '/admin/newsletters/reaction/',
+          children: [{
+            title: 'newsletterCancel',
+            path: '/admin/newsletters/reaction/newslettercancel/'
+          }, {
+            title: 'newsletterRevoke',
+            path: '/admin/newsletters/reaction/newsletterrevoke/'
+          }, {
+            title: 'newsletterStart',
+            path: '/admin/newsletters/reaction/newsletterstart/'
+          }],
         }, {
           title: 'Списки пользователей',
-          path: '/admin/userlist/'
+          path: '/admin/userlist/',
+          children: [{
+            title: 'addtouserlist',
+            path: '/admin/userlist/addtouserlist/'
+          }, {
+            title: 'delfromuserlist',
+            path: '/admin/userlist/delfromuserlist/'
+          }, {
+            title: 'takeuserlist',
+            path: '/admin/userlist/takeuserlist/'
+          }],
         },{
           title: 'Темы (Топики)',
           path: '/admin/topic/',
           children: [{
-            title: 'Создать',
+            title: 'createForumTopic',
             path: '/admin/topic/createForumTopic/'
           }, {
-            title: 'Закрыть',
+            title: 'closeForumTopic',
             path: '/admin/topic/closeForumTopic/'
           }, {
-            title: 'Удалить',
+            title: 'deleteForumTopic',
             path: '/admin/topic/deleteForumTopic/'
           }, {
-            title: 'Редактировать',
+            title: 'editForumTopic',
             path: '/admin/topic/editForumTopic/'
           }, {
-            title: 'Переоткрыть',
+            title: 'reopenForumTopic',
             path: '/admin/topic/reopenForumTopic/'
           }, {
-            title: 'Список стикеров',
+            title: 'getForumTopicIconStickers',
             path: '/admin/topic/getForumTopicIconStickers/'
           }, {
-            title: 'Очистить список закрепленных',
+            title: 'unpinAllForumTopicMessages',
             path: '/admin/topic/unpinAllForumTopicMessages/'
           }],
         }, {
           title: 'Клавиатура',
-          path: '/admin/keyboard/'
+          path: '/admin/keyboard/reaction/',
+          children: [{
+            title: 'keyboardAction',
+            path: '/admin/keyboard/reaction/keyboardaction/'
+          }, {
+            title: 'keyboardHide',
+            path: '/admin/keyboard/reaction/keyboardhide/'
+          }, {
+            title: 'keyboardRefresh',
+            path: '/admin/keyboard/reaction/keyboardrefresh/'
+          }, {
+            title: 'keyboardShow',
+            path: '/admin/keyboard/reaction/keyboardshow/'
+          }, ],
         }, {
           title: 'Форма',
-          path: '/admin/forms/'
+          path: '/admin/forms/reaction/',
+          children: [{
+            title: 'formStart',
+            path: '/admin/forms/reaction/formstart/'
+          }, {
+            title: 'formCancel',
+            path: '/admin/forms/reaction/formcancel/'
+          }, {
+            title: 'formResult',
+            path: '/admin/forms/reaction/formresult/'
+          }, {
+            title: 'loadFormResult',
+            path: '/admin/forms/reaction/loadformresult/'
+          }, {
+            title: 'openFormResult',
+            path: '/admin/forms/reaction/openformresult/'
+          }, {
+            title: 'takeFormResults',
+            path: '/admin/forms/reaction/takeformresults/'
+          }, {
+            title: 'saveVariables',
+            path: '/admin/forms/reaction/saveVariables/'
+          }, {
+            title: 'writeFormCustom',
+            path: '/admin/forms/reaction/writeformcustom/'
+          }],
         }, {
           title: 'Чаты/Каналы',
-          path: '/admin/chat/'
+          path: '/admin/chat/',
+          children: [{
+            title: 'approveChatJoinRequest',
+            path: '/admin/chat/approvechatjoinrequest/'
+          }, {
+            title: 'banChatMember',
+            path: '/admin/chat/banchatmember/'
+          }, {
+            title: 'banChatSenderChat',
+            path: '/admin/chat/banchatsenderchat/'
+          }, {
+            title: 'chatPermissions',
+            path: '/admin/chat/chatpermissions/'
+          }, {
+            title: 'declineChatJoinRequest',
+            path: '/admin/chat/declinechatjoinrequest/'
+          }, {
+            title: 'deleteChatStickerSet',
+            path: '/admin/chat/deletechatstickerset/'
+          }, {
+            title: 'getChat',
+            path: '/admin/chat/getchat/'
+          }, {
+            title: 'getChatMember',
+            path: '/admin/chat/getchatmember/'
+          }, {
+            title: 'getChatMemberCount',
+            path: '/admin/chat/getchatmembercount/'
+          }, {
+            title: 'getUserProfilePhotos',
+            path: '/admin/chat/getuserprofilephotos/'
+          }, {
+            title: 'leaveChat',
+            path: '/admin/chat/leavechat/'
+          }, {
+            title: 'promoteChatMember',
+            path: '/admin/chat/promotechatmember/'
+          }, {
+            title: 'restrictChatMember',
+            path: '/admin/chat/restrictchatmember/'
+          }, {
+            title: 'setChatAdminTitle',
+            path: '/admin/chat/setchatadmintitle/'
+          }, {
+            title: 'setChatDescription',
+            path: '/admin/chat/setchatdescription/'
+          }, {
+            title: 'setChatStickerSet',
+            path: '/admin/chat/setchatstickerset/'
+          }, {
+            title: 'setChatTitle',
+            path: '/admin/chat/setchattitle/'
+          }, {
+            title: 'takeChat',
+            path: '/admin/chat/takechat/'
+          }, {
+            title: 'takeChatAdmins',
+            path: '/admin/chat/takechatadmins/'
+          }, {
+            title: 'takeChatDir',
+            path: '/admin/chat/takechatdir/'
+          }, {
+            title: 'takeChatMembers',
+            path: '/admin/chat/takechatmembers/'
+          }, {
+            title: 'takeTechChat',
+            path: '/admin/chat/taketechchat/'
+          }, {
+            title: 'unbanChatSenderCha',
+            path: '/admin/chat/unbanchatsenderchat/'
+          }],
         },],
         initialOpenGroupIndex: -1,
       }, {

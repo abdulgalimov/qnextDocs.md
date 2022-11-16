@@ -6,6 +6,7 @@
 | --- | --- |
 |[googleWrite](/docs/admin/google/googlewrite)|записать в гугл-таблицу|
  
+ 
  ## [Trello](/docs/admin/trello)
 
 | Реакция | Описание |
@@ -17,14 +18,16 @@
 |[trelloCreateCardAttachment](/docs/admin/trello/trellocreatecardattachment)|_в процессе написания_|
 |[trelloUpdateCard](/docs/admin/trello/trelloupdatecard)|_в процессе написания_|
 
+
  ## [WEB](/docs/admin/web)
  
 | Реакция | Описание |
 | --- | --- |
-|[httpRequest](/docs/admin/web/httprequest)|Выполнить HTTP-запрос (get, post)|
-|[webhookResponse](/docs/admin/web/webhookresponse)|Ответ для webhook's|
-|[weblinkRedirect](/docs/admin/web/weblinkredirect)|перенаправление на другой адрес|
-|[WeblinkResponse](/docs/admin/web/weblinkresponse)|Ответ на web запрос|
+|[httpRequest](/docs/admin/web/reaction/httprequest)|Выполнить HTTP-запрос (get, post)|
+|[webhookResponse](/docs/admin/web/reaction/webhookresponse)|Ответ для webhook's|
+|[weblinkRedirect](/docs/admin/web/reaction/weblinkredirect)|перенаправление на другой адрес|
+|[WeblinkResponse](/docs/admin/web/reaction/weblinkresponse)|Ответ на web запрос|
+ 
  
  ## [Глобальные переменные](/docs/admin/globalvar)
  
@@ -33,6 +36,7 @@
 |[globalVarDel](/docs/admin/globalvar/globalvardel)|Удалить глобальную переменную|
 |[globalVarSet](/docs/admin/globalvar/globalvarset)|Сохранить глобальную переменную|
 |[loadGlobalVar](/docs/admin/globalvar/loadGlobalVar)|Загрузить глобальные переменные|
+  
   
  ## [Голосование](/docs/admin/vote)
  
@@ -44,8 +48,9 @@
 |[vote](/docs/admin/vote/vote)|голосование|
 |[voteAdd](/docs/admin/vote/voteadd)|Добавить голос|
 |[voteCancel](/docs/admin/vote/votecancel)|Отменить голос|
-|[voteSwitch](/docs/admin/switch/voteopen)|Открыть/закрыть голосование| 
+|[voteSwitch](/docs/admin/vote/voteswitch)|Открыть/закрыть голосование| 
 |[voteRevoke](/docs/admin/vote/voterevoke)|Очистить (сбросить) голосование|
+ 
  
  ## [Динамические переменные](/docs/admin/dynvar)
  
@@ -55,14 +60,16 @@
 |[loadDynamicVar](/docs/admin/dynvar/loadDynamicVar)|Прочитать динамическую переменную|
 |[DynamicVarSet](/docs/admin/dynvar/DynamicVarSet)|Записать динамическую переменную|
  
+ 
  ## [Контент](/docs/admin/content)
  
 | Реакция | Описание |
 | --- | --- |
-|[loadContent](/docs/admin/content/loadcontent)|Загрузить Контент|
-|[loadRandomContent](/docs/admin/content/loadrandomcontent)|Выбрать случайный контент|
-|[sendContent](/docs/admin/content/sendcontent)|Отправить Контент|
-|[refreshContent](/docs/admin/content/refreshcontent)|Обновить контент|
+|[loadContent](/docs/admin/content/reaction/loadcontent)|Загрузить Контент|
+|[loadRandomContent](/docs/admin/content/reaction/loadrandomcontent)|Выбрать случайный контент|
+|[sendContent](/docs/admin/content/reaction/sendcontent)|Отправить Контент|
+|[refreshContent](/docs/admin/content/reaction/refreshcontent)|Обновить контент|
+
 
  ## [Локальные переменные](/docs/admin/localvar)
  
@@ -71,6 +78,7 @@
 |[localVarAdd](/docs/admin/localvar/localvaradd)|Добавить значение в локальную переменную|
 |[localVarDel](/docs/admin/localvar/localvardel)|Удалить локальную переменную|
 |[localVarSet](/docs/admin/localvar/localvarset)|Установить локальную переменную| 
+  
   
  ## [Магазин](/docs/admin/stores)
 
@@ -86,14 +94,16 @@
 |[sendStore](/docs/admin/stores/sendstore)|Отправить магазин|
 |[sendStoreOrder](/docs/admin/stores/sendstoreorder)|Показать полученный заказ в магазине|
 
+
  ## [Переключатели](/docs/admin/switch)
  
 | Реакция | Описание |
 | --- | --- | 
-|[voteSwitch](/docs/admin/switch/voteopen)|Открыть/закрыть голосование|
-|[profileSwitch](/docs/admin/switch/profileswitch)|Изменить статус профиля bool|
+|[voteSwitch](/docs/admin/vote/voteswitch)|Открыть/закрыть голосование| 
+|[profileSwitch](/docs/admin/profile/profileswitch)|Изменить статус профиля bool|
 |[scheduleSwitch](/docs/admin/switch/scheduleswitch)|Изменить состояние расписания|
 |[reactionOnSwitch](/docs/admin/switch/reactionswitch)|Изменить состояние реакции|
+ 
  
  ## [Пользователи](/docs/admin/users)
  
@@ -107,6 +117,7 @@
 |[takeReplyUser](/docs/admin/users/takereplyuser)|Загрузить пользователя, на чье сообщение ответили|
 |[takeUsers](/docs/admin/users/takeusers)|взять пользователя(ей)|
 
+
  ## [Пригласительные ссылки](/docs/admin/invitelink)
  
 | Реакция | Описание |
@@ -119,7 +130,6 @@
 |[loadChatInviteLink](/docs/admin/invitelink/loadchatinvitelink)|получить пригласительную ссылку|
 
  
- 
  ## [Профиль](/docs/admin/profile)
  
 | Реакция | Описание |
@@ -129,17 +139,19 @@
 |[profileDel](/docs/admin/profile/profiledel)|Удалить Профиль пользователя|
 |[profileSet](/docs/admin/profile/profileset)|Установить Профиль пользователя|
 |[profileDelAll](/docs/admin/profile/profiledelall)|Удалить все Профили пользователя|
-|[profileSwitch](/docs/admin/switch/profileswitch)|Изменить статус профиля bool|
+|[profileSwitch](/docs/admin/profile/profileswitch)|Изменить статус профиля bool|
 |[findProfileValue](/docs/admin/profile/findprofilevalue)|Найти значение профиля|
 |[profilesCount](/docs/admin/profile/profilescount)|посчитать количество профилей|
+  
   
  ## [Рассылка](/docs/admin/newsletters)
  
 | Реакция | Описание |
 | --- | --- | 
-|[newsletterCancel](/docs/admin/newsletters/newslettercancel)|Отменить рассылку| 
-|[newsletterRevoke](/docs/admin/newsletters/newsletterrevoke)|Аннулировать рассылку|
-|[newsletterStart](/docs/admin/newsletters/newsletterstart)|Начать рассылку|
+|[newsletterCancel](/docs/admin/newsletters/reaction/newslettercancel)|Отменить рассылку| 
+|[newsletterRevoke](/docs/admin/newsletters/reaction/newsletterrevoke)|Аннулировать рассылку|
+|[newsletterStart](/docs/admin/newsletters/reaction/newsletterstart)|Начать рассылку|
+ 
  
  ## [Список пользователей](/docs/admin/userlist)
  
@@ -148,6 +160,7 @@
 |[addToUserList](/docs/admin/userlist/addtouserlist)|Добавить в список пользователей| 
 |[delFromUserList](/docs/admin/userlist/delfromuserlist)|Удалить из списка пользователей|
 |[takeUserList](/docs/admin/userlist/takeuserlist)|взять список пользователей| 
+
 
  ## [Темы (Топики)](/docs/admin/topic)
 
@@ -166,23 +179,24 @@
  
 | Реакция | Описание |
 | --- | --- |
-|[keyboardAction](/docs/admin/keyboard/keyboardaction)|выполнить действие при нажатии на кнопку|
-|[keyboardHide](/docs/admin/keyboard/keyboardhide)|Скрыть клавиатуру|
-|[keyboardRefresh](/docs/admin/keyboard/keyboardrefresh)|Обновить текущую клавиатуру|
-|[keyboardShow](/docs/admin/keyboard/keyboardshow)|Показать клавиатуру| 
+|[keyboardAction](/docs/admin/keyboard/reaction/keyboardaction)|выполнить действие при нажатии на кнопку|
+|[keyboardHide](/docs/admin/keyboard/reaction/keyboardhide)|Скрыть клавиатуру|
+|[keyboardRefresh](/docs/admin/keyboard/reaction/keyboardrefresh)|Обновить текущую клавиатуру|
+|[keyboardShow](/docs/admin/keyboard/reaction/keyboardshow)|Показать клавиатуру| 
 
  ## [Форма](/docs/admin/forms)
 
 | Реакция | Описание |
 | --- | --- |
-|[formStart](/docs/admin/forms/formstart)|Запустить форму|
-|[formCancel](/docs/admin/forms/formcancel)|Остановить (прервать) форму|
-|[formResult](/docs/admin/forms/formresult)|Показать результат формы|
-|[loadFormResult](/docs/admin/forms/loadformresult)|Загрузить результаты формы|
-|[openFormResult](/docs/admin/forms/openformresult)|Открыть результаты формы|
-|[takeFormResults](/docs/admin/forms/takeformresults)|Получить последние несколько результатов формы|
-|[saveVariables](/docs/admin/forms/saveVariables)|Сохранить локальную переменную в форме|
-|[writeFormCustom](/docs/admin/forms/writeformcustom)|Загрузить произвольный параметр формы| 
+|[formStart](/docs/admin/forms/reaction/formstart)|Запустить форму|
+|[formCancel](/docs/admin/forms/reaction/formcancel)|Остановить (прервать) форму|
+|[formResult](/docs/admin/forms/reaction/formresult)|Показать результат формы|
+|[loadFormResult](/docs/admin/forms/reaction/loadformresult)|Загрузить результаты формы|
+|[openFormResult](/docs/admin/forms/reaction/openformresult)|Открыть результаты формы|
+|[takeFormResults](/docs/admin/forms/reaction/takeformresults)|Получить последние несколько результатов формы|
+|[saveVariables](/docs/admin/forms/reaction/saveVariables)|Сохранить локальную переменную в форме|
+|[writeFormCustom](/docs/admin/forms/reaction/writeformcustom)|Загрузить произвольный параметр формы| 
+ 
  
  ## [Чат](/docs/admin/chat)
 
@@ -196,14 +210,13 @@ _Все реакции работают как в чате так и в кана
 |[chatPermissions](/docs/admin/chat/chatpermissions) | Доступы в чат|
 |[declineChatJoinRequest](/docs/admin/chat/declinechatjoinrequest) | отклонить запрос на вступление в чат|
 |[deleteChatStickerSet](/docs/admin/chat/deletechatstickerset) | Удалить из чата стикер-сет|
-|[exportChatInviteLink](/docs/admin/invitelink/exportchatinvitelink) | Создать новую ссылку для приглашения|
 |[getChat](/docs/admin/chat/getchat) | Получить информацию о чате|
 |[getChatMember](/docs/admin/chat/getchatmember) | Получить информацию об участнике чата|
 |[getChatMemberCount](/docs/admin/chat/getchatmembercount) | Получить количество пользователей в чате|
 |[getUserProfilePhotos](/docs/admin/chat/getuserprofilephotos) | Получить фотографии из профиля пользователя|
 |[leaveChat](/docs/admin/chat/leavechat) | Покинуть чат|
-|[promoteChatMembe](/docs/admin/chat/promotechatmember) | Административные права в чате|
-|[restrictChatMembe](/docs/admin/chat/restrictchatmember) | Ограничить участника чата|
+|[promoteChatMember](/docs/admin/chat/promotechatmember) | Административные права в чате|
+|[restrictChatMember](/docs/admin/chat/restrictchatmember) | Ограничить участника чата|
 |[setChatAdminTitle](/docs/admin/chat/setchatadmintitle) | Подпись администратора|
 |[setChatDescription](/docs/admin/chat/setchatdescription) | Установить описание чата|
 |[setChatStickerSet](/docs/admin/chat/setchatstickerset) | Установить в чате стикер-сет|

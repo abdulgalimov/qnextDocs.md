@@ -1,5 +1,6 @@
+# trelloGetCardAttachment
 
-Реакция ⚡️trelloGetCardAttachment загрузит файл-обложку карточки trello.
+**trelloGetCardAttachment** - загрузит файл-обложку карточки trello.
 
 
 

@@ -169,12 +169,6 @@
 Удаление контента. Безвозвратно.
 
 --------------------
-**Реакции**
 
-| Реакция | Описание |
-| --- | --- |
-|[loadContent](/docs/admin/content/loadcontent)|Загрузить Контент|
-|[loadRandomContent](/docs/admin/content/loadrandomcontent)|Выбрать случайный контент|
-|[sendContent](/docs/admin/content/sendcontent)|Отправить Контент|
-|[refreshContent](/docs/admin/content/refreshcontent)|Обновить контент|
+[Реакции](/admin/content/reaction/)
 
