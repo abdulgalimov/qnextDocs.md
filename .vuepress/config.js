@@ -46,7 +46,14 @@ module.exports = {
         path: '/admin/command/'
       }, {
         title: '📅Расписание',
-        path: '/admin/schedule/'
+        path: '/admin/schedule/',
+        children: [{
+          title: 'Общие расписания',
+          path: '/admin/schedule/general/'
+        }, {
+          title: 'Отложенные действия',
+          path: '/admin/schedule/pendaction/'
+        }],
       }, {
         title: '👥Чаты/Каналы',
         path: '/admin/chats-and-channels/'
@@ -98,7 +105,7 @@ module.exports = {
           path: '/admin/google/',
           children: [{
             title: 'googlewrite',
-            path: 'admin/google/googlewrite/'
+            path: '/admin/google/googlewrite/'
           }],
         }, {
           title: 'Trello',
