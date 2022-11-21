@@ -1,14 +1,15 @@
 # WEB
 
-Здесь описаны разделы связанные с работой web ссылок.
+**WEB** - отдел предназначенный для общения бота с внешними ресурсами(источниками). Позволяет обращаться к различным API серверам, или же получать различную информацию от источников.
 
-[QNext. WEB-links](/docs/admin/web-links)
+[WEB-links](/docs/admin/web/web-links)
 
-[QNext. Webhooks](/docs/admin/webhooks)
+[Webhooks](/docs/admin/web/webhooks)
 
-[QNext. HTTP-запросы](/docs/admin/http-requests)
+[HTTP-запросы](/docs/admin/web/http-requests)
 
-**Примеры кейсов**
+
+### Примеры кейсов
 
 [Запрос API курсов валют](https://t.me/QNextCases/119)
 
