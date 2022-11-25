@@ -27,9 +27,9 @@
 
 | Реакция | Описание |
 | --- | --- |
-|[DynamicVarDel](/docs/admin/dynvar/DynamicVarDel)|Удалить значение динамической переменной|
+|[dynamicVarDel](/docs/admin/dynvar/dynamicVarDel)|Удалить значение динамической переменной|
 |[loadDynamicVar](/docs/admin/dynvar/loadDynamicVar)|Прочитать динамическую переменную|
-|[DynamicVarSet](/docs/admin/dynvar/DynamicVarSet)|Записать динамическую переменную|
+|[dynamicVarSet](/docs/admin/dynvar/dynamicVarSet)|Записать динамическую переменную|
  
 
 
