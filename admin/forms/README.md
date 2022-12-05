@@ -324,7 +324,7 @@ update.message.audio: mp3, wav, flac и т.д.
 
 ---
 
-::: tip ℹ **Особенности**
+::: tip **Особенности**
 **Maximum file size to download is 20 MB**
 [https://core.telegram.org/bots/api#file](https://core.telegram.org/bots/api#file)
 :::
