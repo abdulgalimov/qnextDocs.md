@@ -616,10 +616,10 @@ module.exports = {
         path: '/ext/localization/'
       }, {
         title: 'Первичная регистрация бота',
-        path: '/root/new-token/'
+        path: '/root/newtoken/'
       }, {
         title: 'Обновление токена бота',
-        path: '/root/reset-token/'
+        path: '/root/resettoken/'
       }]
       }, {
       title: 'Ресурсы проекта',
@@ -631,7 +631,7 @@ module.exports = {
       }]
       }, {
       title: 'Разное',
-      path: '/ext/otheruserul/',
+      path: '/ext/otheruseful/',
       collapsable: true,
       children: [{
         title: 'Логи',

@@ -6,9 +6,9 @@
 
 [**Qnextbot уведомления**](/docs/article/notifications)
 
-[**Первая регистрация бота**](/docs/root/new-token)
+[**Первая регистрация бота**](/docs/root/newtoken)
 
-[**Обновление токена**](/docs/root/reset-token)
+[**Обновление токена**](/docs/root/resettoken)
 
 [**regEx - регулярные выражения**](/docs/admin/regexp)
 
