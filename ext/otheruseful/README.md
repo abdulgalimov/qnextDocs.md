@@ -18,7 +18,7 @@
 
 [**Лимиты Телеграм версия QNext**](/ext/limits/)
 
-[**Публичные API**](/docs/admin/public-api)
+[**Публичные API**](/docs/ext/public-api)
 
 
 ## Онлайн конференции
