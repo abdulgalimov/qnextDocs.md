@@ -8,7 +8,7 @@
 
 [**Ресурсы проекта**](ext/servicelink/)
 
-[**Разное**](ext/otheruserul/)
+[**Разное**](ext/otheruseful/)
    
 [**Соглашения**](ext/agreements/)
 
