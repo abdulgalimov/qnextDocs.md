@@ -19,3 +19,5 @@
 Если установить 2 alert в реакции, сработает только первый
 
 [Попробовать](https://t.me/QNextSupportBot?start=cmd_MDFNTjJ8SUk3NHxDTWJ1bQ)
+
+[bot.api method - answerCallbackQuery](https://core.telegram.org/bots/api#answercallbackquery)

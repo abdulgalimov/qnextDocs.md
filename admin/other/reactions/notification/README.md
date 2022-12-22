@@ -11,5 +11,7 @@
 * Может содержать макросы и переменные, но не ссылки
 * Если установить 2 notification в реакции, сработает только первый.
 
+[bot.api method - answerCallbackQuery](https://core.telegram.org/bots/api#answercallbackquery)
+
 
 
