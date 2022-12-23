@@ -10,9 +10,9 @@
 
 [**bot.api method - exportChatInviteLink**](https://core.telegram.org/bots/api#exportchatinvitelink)
 
-**Особенности:**
+::: tip  Особенности
 
 Можно создать не более 10 ссылок за 60 секунд. 
 
-
+:::
 

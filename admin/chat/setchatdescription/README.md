@@ -10,14 +10,15 @@ title - текст, на который необходимо изменить о
 
 
 
-**Особенности**:
+::: tip  Особенности
 
 Максимум 255 символов.
 
-
-::: tip ℹ️
-[**bot.api method - setChatDescription**](https://core.telegram.org/bots/api#setchatdescription)
 :::
+
+
+[**bot.api method - setChatDescription**](https://core.telegram.org/bots/api#setchatdescription)
+
 
 
 

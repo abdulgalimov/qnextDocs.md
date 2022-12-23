@@ -35,13 +35,15 @@
 — — — kickChatMember
 ```
 
-**Особенности:**
+::: tip  Особенности
 * Работает только юзернеймами (@username) и ID (123456789)
 * Не работает c меншенами (Sergey - ссылка на пользователя без юзернейма)
 
+:::
+
 Если необходимо использовать @username и меншены, подойдет:
 
- [реакция:takeMentions](/docs/admin/users/takementions)
+Реакция: [takeMentions](/docs/admin/users/takementions)
 
 
 

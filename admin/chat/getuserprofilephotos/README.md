@@ -16,13 +16,13 @@ limit - количество загружаемых аватарой
 
 ![](./2.png)
 
-**Особенности**:
+::: tip  Особенности
 
 Можно загрузить не более 100 аватарок за 1 запрос
 ️
 [**bot.api method - getUserProfilePhotos**](https://core.telegram.org/bots/api#getuserprofilephotos)
 
-
+:::
 
 
 

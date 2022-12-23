@@ -8,9 +8,11 @@
 title - текст, на который необходимо изменить название
 
 
-**Особенности**:
+::: tip  Особенности
 
 Максимум 255 символов.
+
+:::
 
 [**bot.api method - setChatTitle**](https://core.telegram.org/bots/api#setchattitle)
 

@@ -41,7 +41,7 @@
 | **Фото** | ```${update.message.photo}``` |
 | **Видео** | ```${update.message.video}``` |
 | **Видеозаметка** | ```${update.message.video_note}``` |
-| **Аудио** | ```${update.media.audio}``` |
+| **Аудио** | ```${update.message.audio}``` |
 | **Голосовое** | ```${update.message.voice}``` |
 | **Файл** | ```${update.message.file}``` |
 | **Анимация** | ```${update.message.dice}``` |
