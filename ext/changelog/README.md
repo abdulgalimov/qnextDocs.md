@@ -23,6 +23,7 @@
 | 20.11.2022 | Переписан и обновлен раздел [Расписание](/admin/schedule/) |
 | 10.12.2022 | Добавлена документация по разделу [workflow](/admin/workflow/) |
 | 14.12.2022 | Обнова документация реакции [adminMenu](/admin/other/reactions/adminmenu/) |
+| 11.01.2023 | Переписаны разделы [Рассылка](/admin/newsletters/) и [Примеры RegExp](/admin/regexp/) |
 
 
 
