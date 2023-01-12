@@ -1,5 +1,11 @@
 # Регулярные выражения
 
+Проверить свои регулярные выражения: [regex101](https://regex101.com/)
+
+Учебник: [Регулярные выражения](https://learn.javascript.ru/regexp-introduction)
+
+**Оглавление**
+
 [[toc]]
 
 ### Разбор цифр на составные
@@ -224,5 +230,3 @@ _Подходит для задач когда требуется отвечат
 ```${exec.group.durationType``` = d
 
 ```${exec.group.reason}``` = reason
-
-Учебник: [Регулярные выражения](https://learn.javascript.ru/regexp-introduction)

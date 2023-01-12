@@ -24,7 +24,7 @@
 | 10.12.2022 | Добавлена документация по разделу [workflow](/admin/workflow/) |
 | 14.12.2022 | Обнова документация реакции [adminMenu](/admin/other/reactions/adminmenu/) |
 | 11.01.2023 | Переписаны разделы [Рассылка](/admin/newsletters/) и [Примеры RegExp](/admin/regexp/) |
-
+| 12.01.2023 | Переписана документация по реакции [deleteMessage](/admin/other/reactions/deletemessage/) |
 
 
 
