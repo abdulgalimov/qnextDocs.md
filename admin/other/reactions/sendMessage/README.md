@@ -76,3 +76,4 @@ ${localVar.file}
 
 :::
 
+[**bot.api method - sendMessage**](https://core.telegram.org/bots/api#sendmessage)
