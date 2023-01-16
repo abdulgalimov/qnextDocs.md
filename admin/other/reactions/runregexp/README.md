@@ -29,7 +29,7 @@
 
 Более подробно можно изучить здесь: 
 
-[Ссылка](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/RegExp#parameters)
+[Ссылка](https://learn.javascript.ru/regular-expressions)
 
 
 
