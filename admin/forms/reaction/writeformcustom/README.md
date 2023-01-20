@@ -11,30 +11,22 @@
 
 **Пример использования.**
 
-Задача: нам принять данные, только если это:
-
-@username (type: mention)
-
-ссылка (type: utl)
+Нам нужно принимать данные, только если это:
+* @username (type: mention)
+* ссылка (type: utl)
 
 Как нам это реализовать:
 
 Триггер обработки поля **custom**
-
-**for** ```${update.message.entities}```
-
+``` plain
+for ${update.message.entities}
 — **groupReactions** 
-
 Ограничения:
-
-**string** ```${forItem.value.type}``` = **mention**
-
+string ${forItem.value.type} = mention
   or
-
-```string ${forItem.value.type}=url```
-
-— — **writeFormCustom** ```${update.message.text}```
-
+string ${forItem.value.type}=url
+— — writeFormCustom ```${update.message.text}```
+```
 
 
 

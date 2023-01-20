@@ -500,7 +500,10 @@ module.exports = {
             title: 'takeTechChat',
             path: '/admin/chat/taketechchat/'
           }, {
-            title: 'unbanChatSenderCha',
+            title: 'unBanChatMember',
+            path: '/admin/chat/unbanchatmember/'
+          }, {
+            title: 'unbanChatSenderChat',
             path: '/admin/chat/unbanchatsenderchat/'
           }],
         },],

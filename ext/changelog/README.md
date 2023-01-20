@@ -25,6 +25,7 @@
 | 14.12.2022 | Обнова документация реакции [adminMenu](/admin/other/reactions/adminmenu/) |
 | 11.01.2023 | Переписаны разделы [Рассылка](/admin/newsletters/) и [Примеры RegExp](/admin/regexp/) |
 | 12.01.2023 | Переписана документация по реакции [deleteMessage](/admin/other/reactions/deletemessage/) |
+| 20.01.2023 | Обновлены разделы [Формы](/admin/forms/), [banChatMember](/admin/chat/banchatmember/), [writeFormcustom](/admin/forms/reaction/writeformcustom/). Добавлен раздел [unBanChatMember](/admin/chat/unbanchatmember/)  |
 
 
 
