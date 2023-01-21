@@ -26,7 +26,7 @@
 |[takeChatMembers](/docs/admin/chat/takechatmembers) | Загрузить участников чата|
 |[takeTechChat](/docs/admin/chat/taketechchat) | Загрузить технический чат|
 |[unBanChatMember](/admin/chat/unbanchatmember/) | Разблокировать аккаунт в чате |
-|[unbanChatSenderCha](/docs/admin/chat/unbanchatsenderchat) | Разблокировать канал в чате |
+|[unbanChatSenderChat](/docs/admin/chat/unbanchatsenderchat) | Разблокировать канал в чате |
 
 ::: tip  Особенности
 
