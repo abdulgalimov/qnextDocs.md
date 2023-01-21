@@ -1,6 +1,6 @@
 # takeChatMembers
-**takeChatMembers** - загружает участников чатов. 
 
+**takeChatMembers** - загрузить участников чатов. 
 
 ![](./1.png)
 

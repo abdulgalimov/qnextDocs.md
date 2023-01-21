@@ -226,6 +226,7 @@ _Все реакции работают как в чате так и в кана
 |[takeChatDir](/docs/admin/chat/takechatdir) | Загрузить каталог с чатами  для отправки сообщения|
 |[takeChatMembers](/docs/admin/chat/takechatmembers) | Загрузить участников чата|
 |[takeTechChat](/docs/admin/chat/taketechchat) | Загрузить технический чат|
+|[unBanChatMember](/admin/chat/unbanchatmember/) | Разблокировать аккаунт в чате |
 |[unbanChatSenderCha](/docs/admin/chat/unbanchatsenderchat) | Разблокировать канал в чате|
 
 

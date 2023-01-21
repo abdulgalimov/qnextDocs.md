@@ -1,9 +1,16 @@
 # banChatMember
 
-**banChatMember** - Исключает пользователя из чата и запрещает входить в чат. по умолчанию время выставлено = 0 (навсегда, перезайти в чат нельзя)
+**banChatMember** - Исключить пользователя из чата и запретить входить в чат. 
 
-![](./1.png)
+По умолчанию время выставлено = 0 (навсегда, перезайти в чат нельзя)
 
+![](./1.jpg)
+
+| Функция | Описание |
+| --- | --- |
+| Выбрать чат | Позволяет выбрать чат |
+| Укажите длительность | позволяет выбрать с помощью нативного интерфейса длительность бана |
+| Длительность | позволяет указывать длительность с помощью макроса [date](/ext/macros/date/) |
 
 ::: tip  Особенности
 * Нельзя применить по отношению к создателю бота и к самому боту
@@ -13,10 +20,9 @@
 * [unBanChatMember](/admin/chat/unbanchatmember/) - разбанить участника чата.
 
 "So if the user is a member of the chat they will also be **removed** from the chat."
+
+**[bot.api method - BanChatMember](https://core.telegram.org/bots/api#banchatmember)**
 :::
-
-[bot.api method - unBanChatMember](https://core.telegram.org/bots/api#banchatmember)
-
 
 
 

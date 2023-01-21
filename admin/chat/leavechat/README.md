@@ -1,10 +1,10 @@
 # leaveChat
 
-**leaveChat -** заставляет бота покинуть чат
+**leaveChat** - покинуть чат ботом
 
-
-[**bot.api method - leaveChat**](https://core.telegram.org/bots/api#leavechat)
-
+::: tip Особенности️
+**[bot.api method - leaveChat](https://core.telegram.org/bots/api#leavechat)**
+:::
 
 
 

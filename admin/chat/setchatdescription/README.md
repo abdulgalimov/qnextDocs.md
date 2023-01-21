@@ -4,9 +4,10 @@
 
 ![](./1.png)
 
-Чаты/Каналы - указываем чат в котором необходимо выполнить действие
-
-title - текст, на который необходимо изменить описание
+| Функция | Описание |
+| --- | --- |
+| Чаты/Каналы | указываем чат в котором необходимо выполнить действие. |
+| title | текст, на который необходимо изменить описание. |
 
 
 
@@ -14,10 +15,9 @@ title - текст, на который необходимо изменить о
 
 Максимум 255 символов.
 
+**[bot.api method - setChatDescription](https://core.telegram.org/bots/api#setchatdescription)**
+
 :::
-
-
-[**bot.api method - setChatDescription**](https://core.telegram.org/bots/api#setchatdescription)
 
 
 
