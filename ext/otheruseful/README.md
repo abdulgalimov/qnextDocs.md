@@ -12,7 +12,7 @@
 
 [**regEx - регулярные выражения**](/docs/admin/regexp)
 
-[**Логи**](/docs/admin/other/reactions/log)
+[**Логи**](/ext/log/)
 
 [**Новый механизм take-реакций**](/docs/admin/other/reactions/new-mechanics)
 

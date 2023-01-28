@@ -27,6 +27,7 @@
 | 12.01.2023 | Переписана документация по реакции [deleteMessage](/admin/other/reactions/deletemessage/) |
 | 20.01.2023 | Обновлены разделы [Формы](/admin/forms/), [banChatMember](/admin/chat/banchatmember/), [writeFormcustom](/admin/forms/reaction/writeformcustom/). Добавлен раздел [unBanChatMember](/admin/chat/unbanchatmember/)  |
 | 21.01.2023 | Обновлен раздел [Chat](/admin/chat/) и все вложенные реакции | 
+| 28.01.2023 | Полностью переработана с нуля документация по [Логам](/ext/log/) |
 
 
 
