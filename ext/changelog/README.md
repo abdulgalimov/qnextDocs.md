@@ -15,7 +15,7 @@
 | 13.08.2022 | Добавлен новый раздел. Макрос [!{linktomessage}](/docs/ext/macros/linktomessage) |
 | 24.09.2022 | Переписан и расширен раздел [Исполняемые модули](/docs/ext) |
 | 02.10.2022 | Обновлена документация по реакции [takeChat](/docs/admin/chat/takechat/) |
-| 13.10.2022 | Добавлена документация по платежной системе [CryptoBot](/docs/admin/pay/cryptobot/) |
+| 13.10.2022 | Добавлена документация по платежной системе [CryptoBot](/docs/admin/pay/cryptobot) |
 | 13.10.2022 | Добавлено описание реакции [setUserTimezone](/docs/admin/other/reactions/setUserTimezone) |
 | 21.10.2022 | Обновлена документация в разделе [Скрипты](/docs/ext/script/) |
 | 14.11.2022 | Добавлен новый раздел документации с новыми реакциями [Темы (Топики)](/docs/admin/topic) |
