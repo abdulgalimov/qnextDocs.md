@@ -1,6 +1,6 @@
 # leaveChat
 
-**leaveChat** - покинуть чат ботом
+**leaveChat** - используйте эту реакцию, чтобы ваш бот покинул группу, супергруппу или канал. Возвращает True в случае успеха.
 
 ::: tip Особенности️
 **[bot.api method - leaveChat](https://core.telegram.org/bots/api#leavechat)**

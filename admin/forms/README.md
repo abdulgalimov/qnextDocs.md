@@ -366,7 +366,7 @@
 
 ### Реакции
 
-[Реакции](/admin/forms/reaction)
+[Реакции](/admin/forms/reaction/)
 
 
  
