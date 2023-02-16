@@ -56,9 +56,9 @@
  
 | Реакция | Описание |
 | --- | --- |
-|[dynamicVarDel](/docs/admin/dynvar/DynamicVarDel)|Удалить значение динамической переменной|
-|[loadDynamicVar](/docs/admin/dynvar/loadDynamicVar)|Прочитать динамическую переменную|
-|[dynamicVarSet](/docs/admin/dynvar/DynamicVarSet)|Записать динамическую переменную|
+|[dynamicVarDel](/docs/admin/dynvar/dynamicvardel)|Удалить значение динамической переменной|
+|[loadDynamicVar](/docs/admin/dynvar/loaddynamicvar)|Прочитать динамическую переменную|
+|[dynamicVarSet](/docs/admin/dynvar/dynamicvarset)|Записать динамическую переменную|
  
  
  ## [Контент](/docs/admin/content)
