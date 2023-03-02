@@ -79,14 +79,33 @@ out.result = qnext.html.hiddenLink("http://t.me/"+user.username)
 * `qnext.html.decode` - делает обратное действие, символы &lt; и &gt; преобразует в < >
 * `qnext.html.entities.apply` - применяет telegram разметку к тексту и создает текст с html разметкой.
 
-Метод `entities.apply` возвращает на выходе такой же форматированный текст, каким он был отправлен в телеграмм. 
+Метод `entities.apply` возвращает на выходе такой же форматированный текст, каким он был отправлен в телеграм. 
+
+### text to html
 ```js 
 var text = qnext.getValue("update.message.text")
 var entities = qnext.getValue("update.message.entities")
 out.htmlCode = qnext.html.entities.apply(text, entities, "html");
+```
+### text to markdown
+```js 
+var text = qnext.getValue("update.message.text")
+var entities = qnext.getValue("update.message.entities")
 out.mdCode = qnext.html.entities.apply(text, entities, "markdown");
 ```
 
+### Пример использования:
+``` 
+⚡ runScript: 
+var text = qnext.getValue("update.message.text")
+var entities = qnext.getValue("update.message.entities")
+out.htmlCode = qnext.html.entities.apply(text, entities, "html");
+
+⚡ sendMessage:  
+${scriptResult.out.htmlCode}
+```
+
+![](./1.jpg)
 
 ## qnext.constants
 
