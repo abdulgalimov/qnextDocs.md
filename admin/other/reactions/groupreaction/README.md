@@ -16,10 +16,10 @@ groupReactions
 Ограничение: hasUsername ✅
 if-mode
 ✅ if-mode
-sendMessage: hello
+— sendMessage: hello
 
 ❌ if-mode
-sendMessage: noHello
+— sendMessage: noHello
 ```
 * Юзер без юзернейма получит сообщение с текстом: hello
 * Юзер без юзернейма получит сообщение с текстом: noHello
