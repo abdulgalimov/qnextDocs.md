@@ -236,7 +236,6 @@ _Все реакции работают как в чате так и в кана
 | --- | --- |
 |[adminMenu](/docs/admin/other/reactions/adminmenu) | Меню админа|
 |[alert](/docs/admin/other/reactions/alert) | Сообщение в окне|
-|[amocrmApi](/docs/admin/other/reactions/amocrmapi) |  |
 |[banBotUser](/docs/admin/other/reactions/banbotuser) | Забанить/Разбанить юзера в боте|
 |[break](/docs/admin/other/reactions/break) | Отменить последующие реакции|
 |[breakGroup](/docs/admin/other/reactions/breakgroup) | Отменить последующие реакции в группе|
@@ -271,9 +270,8 @@ _Все реакции работают как в чате так и в кана
 |[sendDice](/docs/admin/other/reactions/senddice) | Отправить кости|
 |[sendLocation](/docs/admin/other/reactions/sendlocation) | Отправить гео-позицию|
 |[sendMenu](/docs/admin/other/reactions/sendmenu) | Отправить меню|
-|[sendMessage](/docs/admin/other/reactions/message) | Отправить сообщение от бота|
+|[sendMessage](/docs/admin/other/reactions/sendmessage) | Отправить сообщение от бота|
 |[sendPayment](/docs/admin/other/reactions/sendpayment) | Отправить платежку|
-|[sendYandexWallet](/docs/admin/other/reactions/sendyandexwallet) | Отправить ссылку на оплату yandex кошельком|
 |[setUserTimezone](/docs/admin/other/reactions/setUserTimezone) | Установить часовой пояс пользователя |
 |[setUserLanguage](/docs/admin/other/reactions/setuserlanguage) | Установить язык пользователя|
 |[takeVariable](/docs/admin/other/reactions/takevariable) | Устарело, используйте реакцию [**For**](/docs/admin/other/reactions/for)|

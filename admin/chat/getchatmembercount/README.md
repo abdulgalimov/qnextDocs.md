@@ -9,7 +9,12 @@
 Информация доступна в переменной: 
 ```${chatMembersCountResult}```
 
-![](./2.png)
+```json
+"chatMembersCountResult": {
+      "ok": true,
+      "response": 59,
+     }
+```
 
 ::: tip Особенности️
 **[bot.api method - getChatMemberCount](https://core.telegram.org/bots/api#getchatmember)**
