@@ -11,9 +11,9 @@
 
 ```json
 "getChatResult": {
-  "ok": true,
+--"ok": true,
   "response": {
-    "id": -1001332324846,
+----"id": -1001332324846,
     "title": "QNext Флудилка",
     "username": "QNextChat",
     "type": "supergroup",
@@ -23,7 +23,7 @@
     "description": "Общение на ты, но с уважением к собеседнику!",
     "invite_link": "https://t.me/+T2mp7gIGhiQT4imh",
     "permissions": {
-      "can_send_messages": true,
+------"can_send_messages": true,
       "can_send_media_messages": true,
       "can_send_audios": true,
       "can_send_documents": true,
@@ -39,10 +39,10 @@
       "can_pin_messages": false,
       "can_manage_topics": true
     },
-    "join_to_send_messages": true,
+----"join_to_send_messages": true,
     "slow_mode_delay": 10,
     "photo": {
-      "small_file_id": "AQADAgADnLMxGxj1mEkACAIAAxJG8dsW____H0-3PZrLmC0vBA",
+------"small_file_id": "AQADAgADnLMxGxj1mEkACAIAAxJG8dsW____H0-3PZrLmC0vBA",
       "small_file_unique_id": "AQADnLMxGxj1mEkAAQ",
       "big_file_id": "AQADAgADnLMxGxj1mEkACAMAAxJG8dsW____H0-3PZrLmC0vBA",
       "big_file_unique_id": "AQADnLMxGxj1mEkB"

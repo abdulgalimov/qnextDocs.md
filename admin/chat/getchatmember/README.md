@@ -28,18 +28,18 @@
 Если пользователь никогда не был в чате, то будет status = `left`
 
 ```json
-    "getChatMemberResult": {
-      "ok": true,
-      "response": {
-        "user": {
-          "id": 123456789,
-          "is_bot": false,
-          "first_name": "name",
-          "username": "name",
-          "language_code": "ru"
-        },
-        "status": "left"
-      }
+"getChatMemberResult": {
+--"ok": true,
+  "response": {
+----"user": {
+------"id": 123456789,
+      "is_bot": false,
+      "first_name": "name",
+      "username": "name",
+      "language_code": "ru"
+    },
+    "status": "left"
+  }
 ```
 ---
 
