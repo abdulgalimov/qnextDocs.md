@@ -33,7 +33,7 @@
 Если вам необходимо применить шифрование к сумме нескольких параметров, например id юзера и id бота, вы можете вычислить сумму скриптом:
 ```js 
 var userId = qnext.getValue("user.id", 0);
-var botId = qnext.getValue("user.id", 0);
+var botId = qnext.getValue("bot.id", 0);
 exports.valueForMd5 = userId+"_"+botId;
 ```
 
