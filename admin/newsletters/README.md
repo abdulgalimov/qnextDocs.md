@@ -143,7 +143,7 @@
 
 ### Реакции
 
-[Реакции](/admin/newsletters/reaction)
+[Реакции](/admin/newsletters/reaction/)
 
 
 
