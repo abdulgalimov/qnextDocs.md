@@ -122,7 +122,7 @@
 
 [Документация по библиотекам](/docs/ext/script/library)
 
-[Документация по Шаблонам макросов](docs/ext/macros/template/)
+[Документация по Шаблонам макросов](/docs/ext/macros/template/)
 
 ## Меню команд
 
