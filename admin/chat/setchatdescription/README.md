@@ -2,12 +2,10 @@
 
 **setChatDescription** - изменить описание чата
 
-![](./1.png)
-
-| Функция | Описание |
-| --- | --- |
+| Функция     | Описание                                               |
+|-------------|--------------------------------------------------------|
 | Чаты/Каналы | указываем чат в котором необходимо выполнить действие. |
-| title | текст, на который необходимо изменить описание. |
+| title       | текст, на который необходимо изменить описание.        |
 
 
 
@@ -15,11 +13,9 @@
 
 Максимум 255 символов.
 
-**[bot.api method - setChatDescription](https://core.telegram.org/bots/api#setchatdescription)**
-
 :::
 
-
+**[bot.api method - setChatDescription](https://core.telegram.org/bots/api#setchatdescription)**
 
 
 

@@ -6,9 +6,7 @@
 
 — Лимит символов в титуле: 16 символов.
 
-**[bot.api method - setChatAdministratorCustomTitle](https://core.telegram.org/bots/api#setchatadministratorcustomtitle)**
-
 :::
 
-
+**[bot.api method - setChatAdministratorCustomTitle](https://core.telegram.org/bots/api#setchatadministratorcustomtitle)**
 

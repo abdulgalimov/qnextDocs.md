@@ -8,7 +8,6 @@
 |[chatPermissions](/docs/admin/chat/chatpermissions) | Доступы в чат |
 |[declineChatJoinRequest](/docs/admin/chat/declinechatjoinrequest) | отклонить запрос на вступление в чат |
 |[deleteChatStickerSet](/docs/admin/chat/deletechatstickerset) | Удалить из чата стикер-сет |
-|[exportChatInviteLink](/docs/admin/invitelink/exportchatinvitelink) | Создать новую ссылку для приглашения |
 |[getChat](/docs/admin/chat/getchat) | Получить информацию о чате |
 |[getChatMember](/docs/admin/chat/getchatmember) | Получить информацию об участнике чата |
 |[getChatMemberCount](/docs/admin/chat/getchatmembercount) | Получить количество пользователей в чате |

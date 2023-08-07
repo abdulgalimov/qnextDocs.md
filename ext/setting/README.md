@@ -6,9 +6,5 @@
 
 [Локализация](/ext/localization/)
 
-[Первичная регистрация бота](/root/newtoken/)
-
-[Обновление токена бота](/root/resettoken/)
-
 
 

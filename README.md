@@ -6,13 +6,17 @@
 
 [**Настройки в QNextBot**](ext/setting/)
 
-[**Ресурсы проекта**](ext/servicelink/)
-
-[**Разное**](ext/otheruseful/)
-   
-[**Соглашения**](ext/agreements/)
+[**Логи**](/ext/log/)
 
 [**Тарифы**](root/price/)
+
+[**Ресурсы проекта**](ext/servicelink/)
+
+[**QNextbot уведомления**](/docs/article/notifications)
+
+[**Разное**](ext/otheruseful/)
+
+[**Соглашения**](ext/agreements/)
 
 
  Продолжая работу с ботом, вы принимаете условия Политики конфиденциальности и Пользовательского соглашения платформы @QNextBot.

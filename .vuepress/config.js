@@ -28,7 +28,27 @@ module.exports = {
       title: 'Документация',
       path: '/',
       collapsable: true
-    },{
+    }, {
+      title: 'С чего начать',
+      path: '/root/getstarting/',
+      collapsable: true,
+      children: [{
+        title: 'Знакомство с Qnextbot',
+        path: '/root/getstarting/acquainqnext/'
+      }, {
+        title: 'BotFather. Регистрация бота',
+        path: '/root/getstarting/registrationinbotfather/'
+      }, {
+        title: 'QnextBot. Подключение бота',
+        path: '/root/getstarting/addbottoqnext/'
+      }, {
+        title: 'BotFather. Обновление токена',
+        path: '/root/getstarting/resettokenbotfather/'
+      }, {
+        title: 'QnextBot. Обновление токена',
+        path: '/root/getstarting/resettokenqnextbot/'
+      }]
+    }, {
       title: 'Меню администратора',
       path: '/admin/',
       collapsable: true,
@@ -71,7 +91,17 @@ module.exports = {
         path: '/admin/newsletters/'
       }, {
         title: '🌐WEB',
-        path: '/admin/web/'
+        path: '/admin/web/',
+        children: [{
+          title: 'WEB ссылки',
+          path: '/admin/web/web-links/'
+        }, {
+          title: 'Webhook',
+          path: '/admin/web/webhooks/'
+        }, {
+          title: 'Http-запросы',
+          path: '/admin/web/http-request/'
+        }]
       }, {
         title: '🏪Магазины',
         path: '/admin/stores/'
@@ -97,6 +127,9 @@ module.exports = {
       collapsable: true,
       initialOpenGroupIndex: -1,
       children: [{
+        title: 'Триггеры',
+        path: '/article/triggers/'
+      }, {
         title: 'Реакции',
         path: '/admin/other/reactions/',
         collapsable: true,
@@ -142,7 +175,7 @@ module.exports = {
             title: 'weblinkRedirect',
             path: '/admin/web/reaction/weblinkredirect/'
           }, {
-            title: 'WeblinkResponse',
+            title: 'weblinkResponse',
             path: '/admin/web/reaction/weblinkresponse/'
           }],
         }, {
@@ -617,12 +650,6 @@ module.exports = {
       }, {
         title: 'Локализация',
         path: '/ext/localization/'
-      }, {
-        title: 'Первичная регистрация бота',
-        path: '/root/newtoken/'
-      }, {
-        title: 'Обновление токена бота',
-        path: '/root/resettoken/'
       }]
       }, {
       title: 'Ресурсы проекта',
@@ -637,20 +664,11 @@ module.exports = {
       path: '/ext/otheruseful/',
       collapsable: true,
       children: [{
-        title: 'Логи',
-        path: '/ext/log/'
-      }, {
-        title: 'Триггеры',
-        path: '/article/triggers/'
-      }, {
         title: 'Добавление бота в админы',
         path: '/ext/groupadminright/'
       }, {
         title: 'Регулярные выражения',
         path: '/admin/regexp/'
-      }, {
-        title: 'Чейнджлог',
-        path: '/ext/changelog/'
       }]
       }, {
       title: 'Соглашения',
@@ -666,7 +684,10 @@ module.exports = {
         title: 'Пользовательское соглашение',
         path: '/agreements/terms/'
       }]
-    }]
+    }, {
+      title: 'Чейнджлог',
+      path: '/ext/changelog/'
+    }, ]
   },
 }
 

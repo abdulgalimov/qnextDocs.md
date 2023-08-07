@@ -2,31 +2,32 @@
 
 **getChatMember** - получить информацию о пользователе, который контактировал с ботом.
 
-![](./1.jpg)
-
-| Функция | Описание |
-| --- | --- |
-| Чаты/Каналы | указываем чат в котором необходимо выполнить действие. |
+| Функция      | Описание                                                 |
+|--------------|----------------------------------------------------------|
+| Чаты/Каналы  | указываем чат в котором необходимо выполнить действие.   |
 | Пользователь | указываем путь, по которому можно найти ID пользователя. |
 
 Информация о пользователе будет доступна в переменной:
 
-```${getchatMemberResult}```
+```plain
+${getchatMemberResult}
+```
 
-| Статус | Описание |
-| --- | --- |
-| [Left](./#left) | Не был в чате |
-| [Member](./#member) | Участник чата |
-| [Restricted](./#restricted) | Ограниченный участник чата |
-| [Administrator](./#administrator) | Администратор чата |
-| [Creator](./#creator) | Создатель (владелец) чата |
-| [Kicked](./#kicked) | Исключен (забанен) из чата |
+| Статус                            | Описание                   |
+|-----------------------------------|----------------------------|
+| [Left](./#left)                   | Не был в чате              |
+| [Member](./#member)               | Участник чата              |
+| [Restricted](./#restricted)       | Ограниченный участник чата |
+| [Administrator](./#administrator) | Администратор чата         |
+| [Creator](./#creator)             | Создатель (владелец) чата  |
+| [Kicked](./#kicked)               | Исключен (забанен) из чата |
 
 
 ### left
 
 Если пользователь никогда не был в чате, то будет status = `left`
 
+::: details Подробнее...
 ```json
 "getChatMemberResult": {
 --"ok": true,
@@ -41,12 +42,14 @@
     "status": "left"
   }
 ```
+:::
 ---
 
 ### member
 
 Если пользователь является участником чата, то будет status = `member`
 
+::: details Подробнее...
 ```json
     "getChatMemberResult": {
       "ok": true,
@@ -62,12 +65,14 @@
         "status": "member"
       }
 ```
+:::
 ---
 
 ### restricted
 
 Если пользователь является ограниченным участником чата, то будет status = `restricted`
 
+::: details Подробнее...
 ```json
     "getChatMemberResult": {
       "ok": true,
@@ -100,12 +105,14 @@
         "is_member": true
       }
 ```
+:::
 ---
 
 ### administrator
 
 Если пользователь является администратором чата, то будет status = `administrator`
 
+::: details Подробнее...
 ```json
     "getChatMemberResult": {
       "ok": true,
@@ -132,12 +139,14 @@
         "can_manage_voice_chats": true
       }
 ```
+:::
 ---
 
 ### creator
 
-Если пользователь является создавателем (владельцем) чата, то будет status = `creator`
+Если пользователь является создателем (владельцем) чата, то будет status = `creator`
 
+::: details Подробнее...
 ```json
     "getChatMemberResult": {
       "ok": true,
@@ -155,12 +164,14 @@
         "is_anonymous": false
       }
 ```
+:::
 ---
 
 ### kicked
 
 Если пользователь ранее был в чате, но был исключен или забанен, то будет status = `kicked`
 
+::: details Подробнее...
 ```json
     "getChatMemberResult": {
       "ok": true,
@@ -175,9 +186,9 @@
         "until_date": 0
       }
 ```
-
-
-
-::: tip Особенности️
-**[bot.api method - getChatMember](https://core.telegram.org/bots/api#getchatmember)**
 :::
+
+---
+
+**[bot.api method - getChatMember](https://core.telegram.org/bots/api#getchatmember)**
+
