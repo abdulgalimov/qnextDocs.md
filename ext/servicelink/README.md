@@ -6,6 +6,6 @@
 
 Для связи используйте:
 
-Telegram: [QNextSupportBot](https://t.me/QNextSupportBot)
+Telegram: [QNextFeedbackBot](https://t.me/QNextFeedbackBot)
 
 E-Mail: qnextapp@gmail.com
