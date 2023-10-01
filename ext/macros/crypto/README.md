@@ -23,40 +23,49 @@
 
 
 В параметре `text` вы можете указать переменную в формате `${...}`, например id юзера:
-```plain 
+
+::: details Пример
+```json 
 !{crypto|
   type: md5;
   text: ${user.id};
 }
 ```
-
+:::
 Если вам необходимо применить шифрование к сумме нескольких параметров, например id юзера и id бота, вы можете вычислить сумму скриптом:
-```js 
+
+::: details Пример
+```json 
 var userId = qnext.getValue("user.id", 0);
 var botId = qnext.getValue("bot.id", 0);
 exports.valueForMd5 = userId+"_"+botId;
 ```
-
+:::
 , а потом передать в макрос получившееся значение:
-```plain 
+
+::: details Пример
+```json 
 !{crypto|
   type: md5;
   text: ${localVar.valueForMd5};
 }
 ```
-
+:::
 Подробнее про скрипты читайте в [документации](/docs/ext/script).
 
 ## hmac
 
 Для значения `hmac` требуется дополнительный параметр `key`:
-```plain 
+
+::: details Пример
+```json 
 !{crypto|
   type: hmac;
   text: Текст для кодирования;
   key: ключ шифрования
 }
 ```
+:::
 ## randomText
 
 Для значения `randomText` можно указать дополнительные параметры:
@@ -67,3 +76,12 @@ exports.valueForMd5 = userId+"_"+botId;
 * utf8
 * hex
 * base64
+
+::: details Пример
+```json 
+!{crypto|
+  type: randomText;
+  size: 8
+}
+```
+:::
