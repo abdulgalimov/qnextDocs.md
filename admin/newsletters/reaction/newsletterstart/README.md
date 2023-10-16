@@ -1,8 +1,0 @@
-# newsletterStart
-
-**newsletterStart** - запуск рассылки.
-
-
-
-
-
